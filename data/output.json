@@ -1,0 +1,45 @@
+{
+  "data":
+  [
+    {
+      "Sentence":"Pulmonary mild infiltration in left lingular segment, RML and bil. lower lobes.",
+      "Structure":["Infiltration < Right lower lung"]
+    },
+    {
+      "Sentence":"Small foacal atelectasis in RML.",
+      "Structure":["Atelectasis < Right middle lung", "Atelectasis < Right lower lung"]
+    },
+    {
+      "Sentence":"Mildly lobulated contour of liver compatible with liver parenchymal disease.",
+      "Structure":["Liver parenchyma < Remarkable Cirrhosis < Yes"]
+    },
+    {
+      "Sentence":"A 9.2 cm early enhancement and early wash out lesion in S4-8-7 liver with compression of RHV and MHV and occlusion of S4 PV branches.",
+      "Structure":["Liver mass invasion < Invasion Vascular invasion < Right hepatic vein", "Liver mass invasion < Invasion Vascular invasion < Middle hepatic vein", "Liver lesion < Single lesion enhancement < Early enhancement, early washout favoring HCC Localization < S4 Size[mm]"]
+    },
+    {
+      "Sentence":"No definite biliary dilatation.",
+      "Structure":["Bile duct < Dilatation < None"]
+    },
+    {
+      "Sentence":"Patency of portal vein.",
+      "Structure":["Liver vessel < Portal vein < Unremarkable < Main portal vein and branches"]
+    },
+    {
+      "Sentence":"No definite obstructive uropathy.",
+      "Structure":["Prostate < Enlarged < Calcification"]
+    },
+    {
+      "Sentence":"No definite enlargement of retroperitoneal LNs.",
+      "Structure":["Abnormal enlarged LN < Not presence"]
+    },
+    {
+      "Sentence":"No abnormal fluid collection in the abdomen.",
+      "Structure":["Ascites < Not presence"]
+    },
+    {
+      "Sentence":"Enlarged prostate glands with internal small calcifcation.",
+      "Structure":["Prostate < Enlarged < Calcification"]
+    }
+  ]
+}

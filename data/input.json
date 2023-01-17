@@ -1,0 +1,71 @@
+{
+  "data":
+  [
+    {
+      "Type":"Finding",
+      "Sentences":[
+        "2.5cm minimal enhanced tumor over S4 liver ",
+        "Calcification over bilateral renal regions",
+        "No definite enlargement of retroperitoneal LNs  .",
+        "No definite biliary dilatation  .",
+        "No definite obstructive uropathy  .",
+        "No abnormal fluid collection in the abdomen  .",
+        "No obvious bony destruction detected"
+      ]
+    },
+    {
+      "Type":"Imp",
+      "Sentences":[
+        "S4 liver tumor, nature? "
+      ]
+    },
+    {
+      "Type":"AJCC",
+      "Sentences":[
+        "●Imaging Report Form for Hepatocellua Carcinoma (AJCC 7th Edition)",
+        "1.Tumor Number/Location:",
+        "    Number: ●1 ○2 ○3 ○Multiple: ",
+        "    Location:  S8",
+        " 2.Tumor Size:",
+        "    ○Measurable:  2.5cm (the largest tumor)",
+        "    ○Non-measurable",
+        "3.Tumor Characteristics and Associated Liver Features ",
+        "    ○Vascular invasion",
+        "    ○Extrahepatic spread",
+        "    ○Ascites",
+        "    ○Portal vein thrombosis, location",
+        "    ○Portosystemic collateral vessel",
+        "    ○Typical enhancement pattern (hypervascular enhancement and early wash-out)",
+        "3.Pathology: ○Not available ●Available (Pathology type:□)",
+        "-------------------Primary Tumor(T)--------------------------",
+        " Tx    ○Primary tumor cannot be assessed",
+        " T0    ○No primary tumor",
+        "Stage I",
+        " T1    ●Solitary tumor without vascular invasion",
+        "Stage II",
+        " T2    ○Solitary tumor with vascular invasion",
+        "       ○Multiple tumors none more than 5 cm",
+        "Stage III",
+        " A T3a ○Multiple tumors more than 5 cm",
+        " B T3b ○Single tumor or multiple tumors of any size",
+        "       involving a major branch of the portal vein or",
+        "       hepatic vein",
+        " C T4  ○Tumor(s) with direct invasion of IVC, biliary trees, adjacent",
+        "       organs other than the gallbladder or with",
+        "       perforation of visceral peritoneum.",
+        "-------------------Regional Lymph Nodes(N)-----------------",
+        " Nx    ○Regional lymph nodes cannot be assessed",
+        " N0    ●No regional lymph nodes",
+        "Stage IVA ",
+        " N1    ○Regional lymph node metastasis",
+        "        ○Periceliac, ○Hilar( common bile duct, hepatic artery, portal vein and cystic duct) ○Peripancreatic ○Paraaortic ○Portocaval ○Retrocaval ○Others_______  ",
+        "-------------------Distant Metastasis(M)----------------------",
+        "Stage IVB",
+        " M1    ○Distant metastasis",
+        "○ Invasion of gallbladder",
+        "○ Cardiophrenic, Mesenteric, Retrocrural LN",
+        "Imaging stage   T1 N0( in this study)"
+      ]
+    }
+  ]
+}
