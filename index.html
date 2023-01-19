@@ -52,16 +52,16 @@
 
       for (i = 0; i < section.length; i++) {
         createSectionDiv(i);
-        var NewData = section[i].toString().split(splitKeyWord);
-        console.log(NewData);
-        let final = NewData.filter(function (value) {
-          return value !== "\r";
-        })
-        for (j = 0; j < final.length; j++) {
-          if (final[j] != "") {
-            createForm(final[j]);
-          }
-        }
+        // var NewData = section[i].toString().split(splitKeyWord);
+        // console.log(NewData);
+        // let final = NewData.filter(function (value) {
+        //   return value !== "\r";
+        // })
+        // for (j = 0; j < final.length; j++) {
+        //   if (final[j] != "") {
+        //     createForm(final[j]);
+        //   }
+        // }
       }
 
       clearFile_btn.addEventListener("click", function () {
