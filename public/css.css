@@ -1,0 +1,124 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    position: relative;
+}
+
+.header {
+    height: 70px;
+    position: relative;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    background-color: #F0F0F0;
+}
+
+.fileSideBar {
+    height: 100vh;
+    width: 15%;
+    vertical-align: bottom;
+    background-color: #F0F0F0;
+    display: flex;
+
+
+}
+
+.file_opt {
+    height: 120px;
+    width: 100%;
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    
+
+}
+.Download_btn{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+.Download_btn button{
+    background: #05537a;
+    border-radius: 2px;
+}
+.Download_btn a{
+    text-decoration: none;
+    color:white ;
+    font-size: 18px;
+}
+.Download_btn a:hover{
+    color: black;
+}
+
+#files {
+    width: 100%;
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: 8px;
+
+}
+
+.filetitle {
+    max-height: inherit;
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.Clear_btn {
+    display: flex;
+    font-size: 18px;
+    font-weight: bold;
+
+}
+
+
+#clear-btn {
+    height: 24px;
+    width: 40%;
+    font-weight: 700;
+}
+
+.fileContainer {
+    width: 50%;
+    position: absolute;
+    top:50%;
+    right: -5%;
+    transform: translate(-50%,-50%);
+    border: 2px black solid;
+    
+}
+
+.chat-messages {
+    height: 400px;
+    overflow: scroll;
+    font-size: 16px;
+    border-top: 2px black solid;
+
+}
+.footer{
+    display: inline-block;
+    width: 50px;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 85%;
+    height: 5%;
+    background-color: rgb(0, 0, 0);
+}
+
+/* 指定奇數偶數 */
+.sectionColor:nth-child(odd) {
+    background: pink;
+}
+
+.sectionColor:nth-child(even) {
+    background: yellow;
+}

@@ -1,102 +1,154 @@
-<!DOCTYPE html>
-<html>
+<!doctype html>
+<html lang="en">
 
 <head>
-  <meta charset="UTF-8">
-  <title>格式化輸出系統</title>
-
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap demo</title>
+    <link rel="stylesheet" href="./public/css.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
 </head>
-<link rel="stylesheet" href="./public/style.css">
 
 <body>
-  <div class="fileSideBar">
-    <div class="file_opt">
-      <h4>請選擇檔案:</h4>
-      <br>
-      <input type="file" name="files" id="files" value="" />
-    </div>
-  </div>
-  <div class="fileContainer">
-    <div class="header">
-      <div class="Clear_btn">
-        <button type="button" id="clear-btn">資料清除</button>
-      </div>
-      <div class="filetitle">格式化輸出系統</div>
-    </div>
-    <div class="chat-messages" style="background-color:white;">
+    <div class="fileSideBar">
+        <div class="file_opt">
+            <h4>請選擇檔案:</h4>
+            <br>
+            <input type="file" name="files" id="files" value="" />
+            <div class="Clear_btn">
+                <button type="button" id="clear-btn">資料清除</button>
+                Reset button
+            </div>
+            <br>
+            <h5>下載:</h5>
+            <div class="Download_btn">
 
+                <button type="button"><a id="txt_link">Test.txt</a></button>
+                <button type="button"><a id="json_link">Json.json</a></button>
+            </div>
+
+        </div>
     </div>
-  </div>
+    <div class="fileContainer">
+        <div class="header">
+            <div class="filetitle">格式化輸出系統</div>
+        </div>
+        <div class="chat-messages" style="background-color:white;">
+        </div>
+    </div>
+    <div class="footer">
+    </div>
+
+
+
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+    <!-- <script src="js/jquery.min.js"></script> -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8"
+        crossorigin="anonymous"></script>
 
 
 </body>
 
-<script type="text/javascript">
-  let files = document.getElementById('files');
-  const clearFile_btn = document.querySelector("#clear-btn");
-  files.onchange = function () {
 
-    let file = files.files[0];
-    let reader = new FileReader();
-    reader.readAsText(file);
-    reader.onload = function () {
+<script>
 
-      let originData = reader.result;
-      //未處理的資料
-      const sectionKeyWord = "***";
-      const splitKeyWord = "\r\n";
-      //切割用keyword 需要調整從這邊弄 
-      let section = originData.split(sectionKeyWord);
-      let json1 = JSON.stringify(section);
-      console.log(json1);
-      // 先切三塊
+    let files = document.getElementById('files');
+    const clearFile_btn = document.querySelector("#clear-btn");
+    files.onchange = function () {
 
-      for (i = 0; i < section.length; i++) {
-        createSectionDiv(i);
-        var NewData = section[i].toString().split(splitKeyWord);
-        // console.log(NewData);
-        let final = NewData.filter(function (value) {
-          return value !== "\r";
-        })
-        for (j = 0; j < final.length; j++) {
-          if (final[j] != "") {
-            createForm(final[j]);
-          }
+        let file = files.files[0];
+        let reader = new FileReader();
+        reader.readAsText(file);
+        reader.onload = function () {
+
+            let originData = reader.result;
+            //未處理的資料
+            const sectionKeyWord = "***";
+            const splitKeyWord = "\r\n";
+            //切割用keyword 需要調整從這邊弄 
+            let section = originData.split(sectionKeyWord);
+            // console.log(section);
+            // 先切三塊
+            var FileData = []
+            for (i = 0; i < section.length; i++) {
+                createSectionDiv(i);
+                var NewData = section[i].toString().split(splitKeyWord);
+
+
+                FileData.push(NewData)//塞進同一個陣列
+
+                let final = NewData.filter(function (value) {
+                    return value !== "\r";
+                })
+                for (j = 0; j < final.length; j++) {
+                    if (final[j] != "") {
+                        createForm(final[j]);
+                    }
+                }
+
+            }
+            getFile()
+
+            clearFile_btn.addEventListener("click", function () {
+                //清除資料
+                let parent_node = document.querySelector(".chat-messages")
+                let child_node = parent_node.lastElementChild;
+                files.value = '';
+                if (child_node) {
+                    while (child_node) {
+                        parent_node.removeChild(child_node);
+                        child_node = parent_node.lastElementChild;
+                    }
+                }
+            })
+
+            function createSectionDiv(x) {
+                //創造sectionDiv
+                const secDiv = document.createElement('div');
+                secDiv.classList.add('section' + x);
+                secDiv.classList.add('sectionColor');
+                document.querySelector('.chat-messages').appendChild(secDiv);
+            }
+            function createForm(y) {
+                //創造分句
+                const div = document.createElement('div');
+                div.classList.add('message');
+                div.innerText = y;
+                document.querySelector('.section' + i).appendChild(div);
+            }
+
+            function getFile() {
+                const obj = {
+                    data: FileData
+                }
+                let test_file = document.getElementById('txt_link')
+                let Json_file = document.getElementById('json_link')
+                let str_obj = JSON.stringify(obj, null, 2)
+                let txt = new Blob([str_obj], {
+                    type: "text/plain",
+                })
+                let json = new Blob([str_obj], {
+                    type: "application/json;charset = utf-8",
+                })
+                test_file.href = URL.createObjectURL(txt)
+                test_file.download = file.name
+                Json_file.href = URL.createObjectURL(json)
+                Json_file.download = 'abc';
+            }
+
+
         }
-      }
 
-      clearFile_btn.addEventListener("click", function () {
-        //清除資料
-        let parent_node = document.querySelector(".chat-messages")
-        let child_node = parent_node.lastElementChild;
-        files.value = '';
-        if (child_node) {
-          while (child_node) {
-            parent_node.removeChild(child_node);
-            child_node = parent_node.lastElementChild;
-          }
-        }
-      })
-
-      function createSectionDiv(x) {
-        //創造sectionDiv
-        const secDiv = document.createElement('div');
-        secDiv.classList.add('section' + x);
-        secDiv.classList.add('sectionColor');
-        document.querySelector('.chat-messages').appendChild(secDiv);
-      }
-      function createForm(y) {
-        //創造分句
-        const div = document.createElement('div');
-        div.classList.add('message');
-        div.innerText = y;
-        document.querySelector('.section' + i).appendChild(div);
-      }
-      // function jsonTransform{
-
-      // }
     }
-  }
+
+
+
+
+
 
 </script>
 
