@@ -47,21 +47,22 @@
       const splitKeyWord = "\r\n";
       //切割用keyword 需要調整從這邊弄 
       let section = originData.split(sectionKeyWord);
-      // console.log(section);
+      let json1 = JSON.stringify(section);
+      console.log(json1);
       // 先切三塊
 
       for (i = 0; i < section.length; i++) {
         createSectionDiv(i);
-        // var NewData = section[i].toString().split(splitKeyWord);
+        var NewData = section[i].toString().split(splitKeyWord);
         // console.log(NewData);
-        // let final = NewData.filter(function (value) {
-        //   return value !== "\r";
-        // })
-        // for (j = 0; j < final.length; j++) {
-        //   if (final[j] != "") {
-        //     createForm(final[j]);
-        //   }
-        // }
+        let final = NewData.filter(function (value) {
+          return value !== "\r";
+        })
+        for (j = 0; j < final.length; j++) {
+          if (final[j] != "") {
+            createForm(final[j]);
+          }
+        }
       }
 
       clearFile_btn.addEventListener("click", function () {
@@ -91,6 +92,9 @@
         div.innerText = y;
         document.querySelector('.section' + i).appendChild(div);
       }
+      // function jsonTransform{
+
+      // }
     }
   }
 
