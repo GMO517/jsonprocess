@@ -1,0 +1,55 @@
+Findings:   
+Rim enhancing lobulated mass (5.9cm) in S2-4  
+No definite space occupying lesion in the spleen and pancreas 
+Unremarkable gallbladder; no biliary tree dilatation 
+Patency of portal vein 
+No definite adrenal mass 
+No definite hydronephrosis 
+No retroperitoneal enlarged LN 
+No abnormal fluid collection or free air in the abdomen 
+No definite bone destruction 
+ 
+IMP: 
+* Favor S2-4 HCC (5.9cm) 
+ 
+¡´Imaging Report Form for Hepatocellua Carcinoma (AJCC 8th Edition) 
+1.Tumor Number/Location:  
+Number: ¡´1 ¡³2 ¡³3 Multiple: 
+Location: S2-4  
+2.Tumor Size:  
+    ¡´Measurable: 5.9cm (the largest tumor) 
+    ¡³Non-measurable 
+3.Tumor Characteristics and Associated Liver Features 
+    ¡³Vascular invasion  
+    ¡³Extrahepatic spread  
+    ¡³Ascites  
+    ¡³Portal vein thrombosis, location  
+    ¡³Portosystemic collateral vessel 
+    ¡³Typical enhancement pattern (hypervascular enhancement and early wash-out) 
+3.Pathology: ¡³Not available ¡´Available (Pathology type: Hepatocellular carcinoma, moderately differnetiated) 
+-------------------Primary Tumor(T)-------------------------- 
+ Tx  ¡³ Primary tumor cannot be assessed  
+ T0  ¡³ No primary tumor  
+Stage I 
+T1   ¡´ Solitary tumor ¡Ø2cm, or ¡r2cm without vascular invasion 
+T1a  Solitary tumor ¡Ø2cm 
+T1b  Solitary tumor ¡r2cm without vascular invasion 
+Stage II 
+T2   ¡³ Solitary tumor ¡r2cm with vascular invasion, or multiple tumors,none ¡r5cm  
+Stage III 
+T3   ¡³Multiple tumors more than 5cm  
+T4   ¡³Single tumor or multiple tumors of any size involving a major branch of the portal vein or hepatic vein, or tumor(s) with direct invasion of adjacent organs other than the gallbladder or with perforation of visceral peritoneum  
+-------------------Regional Lymph Nodes(N)----------------- 
+Nx   ¡³Regional lymph nodes cannot be assessed  
+N0   ¡´No regional lymph nodes 
+Stage IVA 
+N1   ¡³Regional lymph node metastasis  
+     ¡³Periceliac, ¡³Hilar (common bile duct, hepatic artery, portal vein and cystic duct) 
+¡³Peripancreatic ¡³Paraaortic ¡³Portocaval ¡³Retrocaval 
+¡³Others_______  
+-------------------Distant Metastasis(M)---------------------- 
+Stage IVB 
+M1   ¡³Distant metastasis 
+¡³Invasion of gallbladder 
+¡³Cardiophrenic, Mesenteric, Retrocrural LN 
+Imaging stage T1bN0 (in this study) 

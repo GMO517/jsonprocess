@@ -1,0 +1,85 @@
+Findings: 
+ 
+ 
+ 
+TNM for Hepatocellua Carcinoma (AJCC 7th Edition) 
+ 
+1.Tumor Location: S8 
+ 
+2.Tumor Size: 2.0cm 
+ 
+3.Pathology: ○Not available ●Available (Pathology type:□) 
+ 
+ 
+ 
+-------------------Primary Tumor(T)------------------- 
+ 
+ Tx    ○Primary tumor cannot be assessed □ 
+ 
+ T0    ○No primary tumor □ 
+ 
+Stage I 
+ 
+ T1    ●Solitary tumor without vascular invasion □ 
+ 
+Stage II 
+ 
+ T2    ○Solitary tumor with vascular invasion 
+ 
+       ○Multiple tumors none more than 5 cm 
+ 
+       □ 
+ 
+Stage III 
+ 
+ A T3a ○Multiple tumors more than 5 cm □ 
+ 
+ B T3b ○Single tumor or multiple tumors of any size 
+ 
+       involving a major branch of the portal vein or 
+ 
+       hepatic vein □ 
+ 
+ C T4  ○Tumor(s) with direct invasion of adjacent 
+ 
+       organs other than the gallbladder or with 
+ 
+       perforation of visceral peritoneum. □ 
+ 
+ 
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+ Nx    ○Regional lymph nodes cannot be assessed □ 
+ 
+ N0    ●No regional lymph nodes □ 
+ 
+Stage IVA 
+ 
+ N1    ○Regional lymph node metastasis □ 
+ 
+ 
+ 
+-------------------Distant Metastasis(M)------------------- 
+ 
+ M0    ●No distant metastasis□ 
+ 
+Stage IVB 
+ 
+ M1    ○Distant metastasis□ 
+ 
+ 
+ 
+Tumor stage   T 1 N 0 M 0 
+ 
+              Stage I 
+ 
+ 
+ 
+Other findings: 
+ 
+(1) fatty liver 
+ 
+(2) gallstone 
+ 
+(3) a small left renal cyst 

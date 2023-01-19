@@ -1,0 +1,65 @@
+
+Findings: 
+ 
+One enlarged LN about 1.1cm over right pericardic region 
+ 
+Relative low density of liver is compatible with fatty liver 
+ 
+One early enhancing liver nodule about 2.6cm in S5 with early washout, compatible with HCC 
+ 
+Patency of the portal veins 
+ 
+Mild splenomegaly 
+ 
+No ascites 
+ 
+No definite biliary dilatation, normal GB 
+ 
+Unremarkable change of the pancreas 
+ 
+No abnormal fluid collection in the abdomen  
+ 
+No hydronephrosis 
+ 
+No evident enlarged retroperitoneal LNs 
+ 
+Volume of right lobe liver is 823cm3 and left lobe is 607cm3, spleen volume is 163cm3 
+ 
+ 
+ 
+IMP: 
+ 
+One early enhancing liver nodule in S5 (2.6cm) 
+ 
+Small LN (1.1cm) over right pericardiac region, nature to be determined 
+ 
+ 
+ 
+●TNM for Hepatocellua Carcinoma (AJCC 7th Edition) 
+ 
+1.Tumor Location: S5 
+ 
+2.Tumor Size: 2.6cm 
+ 
+3.Pathology: ●Not available ○Available (Pathology type:□) 
+ 
+ 
+ 
+-------------------Primary Tumor(T)------------------- 
+ 
+Stage I 
+ 
+ T1    ●Solitary tumor without vascular invasion □ 
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+ N0    ○No regional lymph nodes □ 
+ 
+Stage IVA 
+ 
+ N1    ●Regional lymph node metastasis □ 
+ 
+ 
+ 
+Imaging stage   T1 N1? (this is a tentative imaging staging in this study) 
+ 

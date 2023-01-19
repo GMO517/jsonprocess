@@ -1,0 +1,95 @@
+
+ 
+Findings: 
+ 
+No liver cirrhosis and with normal spleen 
+ 
+Early enhanced with early washout lesions in S5 (5.1cm)   
+ 
+No definite biliary tree dilatation 
+ 
+Gallstone (0.9cm), no wall thickening 
+ 
+Patency of PV 
+ 
+Pancreas is normal 
+ 
+No hydronephrosis 
+ 
+No retroperitoneal LNs 
+ 
+No ascites 
+ 
+ 
+ 
+IMP: 
+ 
+* Non cirrhotic liver  
+ 
+* Early enhanced with early washout lesions in S5 and S8 of the liver, favor HCC 
+ 
+* Gallstone (0.9cm), no wall thickening 
+ 
+ 
+ 
+Tentative tumor staging 
+ 
+ 
+ 
+¡´TNM for Hepatocellular Carcinoma (AJCC 7th Edition) 
+ 
+1.Tumor Location: S5  
+ 
+2.Tumor Size: ¡r5cm 
+ 
+3.Pathology: ¡´Not available ¡³Available (Pathology type:¡¼) 
+ 
+ 
+ 
+-------------------Primary Tumor(T)------------------- 
+ 
+ Tx      Primary tumor cannot be assessed ¡¼ 
+ 
+ T0    ¡³No primary tumor ¡¼ 
+ 
+Stage I 
+ 
+ T1    ¡´Solitary tumor without vascular invasion ¡¼ 
+ 
+Stage II 
+ 
+ T2    ¡³Solitary tumor with vascular invasion 
+ 
+       ¡³Multiple tumors none more than 5 cm 
+ 
+ 
+ 
+Stage III 
+ 
+ A T3a  Multiple tumors more than 5 cm ¡¼ 
+ 
+ B T3b ¡³Single tumor or multiple tumors of any size 
+ 
+       involving a major branch of the portal vein or 
+ 
+       hepatic vein ¡¼ 
+ 
+ C T4  ¡³Tumor(s) with direct invasion of adjacent 
+ 
+       organs other than the gallbladder or with 
+ 
+       perforation of visceral peritoneum. ¡¼ 
+ 
+ 
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+ Nx    ¡³Regional lymph nodes cannot be assessed ¡¼ 
+ 
+ N0    ¡´No regional lymph nodes ¡¼ 
+ 
+Stage IVA 
+ 
+ N1    ¡³Regional lymph node metastasis ¡¼ 
+ 
+    Imaging staging  T1N0 

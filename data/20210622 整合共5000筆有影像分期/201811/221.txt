@@ -1,0 +1,56 @@
+Findings: 
+Lobulated and uneven contour of liver compatible with liver cirrhosis 
+Two early enhanced liver nodules in S7 (2.4cm) & S7-8 (1.5cm) with early washout, favoring HCCs 
+Patency of the portal veins 
+s/p splenectomy 
+Mild ascites 
+No definite biliary dilatation, but gallstones noted 
+Unremarkable change of the pancreas 
+Mild ascites 
+No hydronephrosis 
+No evident enlarged retroperitoneal LNs 
+IMP: 
+Liver cirrhosis with mild ascites s/p splenectomy 
+Multiple gallstones 
+Two early enhance/ washout liver nodules in S7(2.4cm) & S7-8(1.5cm) r/o HCCs 
+(tentative tumor staging) 
+¡´Imaging Report Form for Hepatocellua Carcinoma (AJCC 8th Edition) 
+1.Tumor Number/Location:  
+-Number:   
+-Location: S7-8 
+2.Tumor Size: Measurable: 2.4 cm (the largest tumor) 
+3.Tumor Characteristics and Associated Liver Features     
+     ¡³Vascular invasion      
+     ¡³Extrahepatic spread      
+     ¡³Ascites      
+     ¡³Portal vein thrombosis 
+     ¡³Portosystemic collateral vessel     
+     ¡³Typical enhancement pattern (hypervascular enhancement and early wash-out) 
+3.Pathology: Not available  
+-------------------Primary Tumor(T)-------------------------- 
+Tx     ¡³Primary tumor cannot be assessed  
+T0     ¡³No primary tumor 
+Stage I 
+T1     ¡³Solitary tumor ¡Ø2 cm, or ¡r 2cm without vascular invasion   
+   T1a   ¡³Solitary tumor ¡Ø2 cm   
+   T1b   ¡³Solitary tumor ¡r 2cm without vascular invasion 
+Stage II 
+T2     ¡´Solitary tumor ¡r2cm with vascular invasion, or multiple tumors,none ¡r5cm  
+Stage III 
+T3     ¡³Multiple tumors more than 5 cm  
+T4     ¡³Single tumor or multiple tumors of any size involving a major branch of the portal vein or hepatic vein, or tumor(s) with direct 
+          invasion of adjacent organs other than the gallbladder or with perforation of visceral peritoneum  
+-------------------Regional Lymph Nodes(N)----------------- 
+Nx     ¡³Regional lymph nodes cannot be assessed  
+N0     ¡´No regional lymph nodes 
+Stage IVA 
+N1     ¡³Regional lymph node metastasis 
+           ¡³Periceliac  ¡³Hilar( common bile duct, hepatic artery, portal vein and cystic duct)  
+         ¡³Peripancreatic   ¡³Paraaortic   ¡³Portocaval   ¡³Retrocaval 
+         ¡³Others  
+-------------------Distant Metastasis(M)---------------------- 
+Stage IVB 
+M1     ¡³Distant metastasis 
+          ¡³Invasion of gallbladder 
+          ¡³Cardiophrenic, Mesenteric, Retrocrural LN 
+Imaging stage   T2 N0 ( in this study) 

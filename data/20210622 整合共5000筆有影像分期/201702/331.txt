@@ -1,0 +1,111 @@
+Findings: 
+ 
+ 
+ 
+No definite pulmonary nodule in visual field. 
+ 
+Lobulated contour of liver compatible with liver cirrhosis  . 
+ 
+Splenomegaly   
+ 
+Atrophy of right liver. 
+ 
+Early enhancing tumors noted in LLS(5.6cm, 5.0cm and 5.5cm) and S6(2.6cm) liver, favoring HCCs. 
+ 
+A 2.4cm cyst noted in S7/8 liver. 
+ 
+No definite space occupying lesion in the spleen and pancreas. 
+ 
+Mild isolated dilatation of left IHDs. 
+ 
+Gallbladder wall edematous change.  
+ 
+Patency of portal vein   
+ 
+Normal function and contour of bil. kidneys and no definite obstructive uropathy. 
+ 
+No definite enlargement of retroperitoneal LNs  . 
+ 
+No abnormal fluid collection in the abdomen  . 
+ 
+No bony destruction. 
+ 
+ 
+ 
+IMP: 
+ 
+* Liver cirrhosis with right liver atrophy and splenomegaly. 
+ 
+* Favoring HCCs LLS(5.6cm, 5.0cm and 5.5cm) and S6(2.6cm) liver. 
+ 
+* Mild isolated dilatation of left IHDs. 
+ 
+ 
+ 
+●TNM for Hepatocellua Carcinoma (AJCC 7th Edition) 
+ 
+1.Tumor Location: bil. lobes 
+ 
+2.Tumor Size: 5.6cm 
+ 
+3.Pathology: ●Not available ○Available (Pathology type:□) 
+ 
+ 
+ 
+-------------------Primary Tumor(T)------------------- 
+ 
+ Tx    ○Primary tumor cannot be assessed □ 
+ 
+ T0    ○No primary tumor □ 
+ 
+Stage I 
+ 
+ T1    ○Solitary tumor without vascular invasion □ 
+ 
+Stage II 
+ 
+ T2    ○Solitary tumor with vascular invasion 
+ 
+          ○Multiple tumors none more than 5 cm 
+ 
+ 
+ 
+Stage III 
+ 
+ A T3a ●Multiple tumors more than 5 cm □ 
+ 
+ B T3b ○Single tumor or multiple tumors of any size 
+ 
+       involving a major branch of the portal vein or 
+ 
+       hepatic vein □ 
+ 
+ C T4  ○Tumor(s) with direct invasion of adjacent 
+ 
+       organs other than the gallbladder or with 
+ 
+       perforation of visceral peritoneum. □ 
+ 
+ 
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+ Nx    ○Regional lymph nodes cannot be assessed □ 
+ 
+ N0    ○No regional lymph nodes □ 
+ 
+Stage IVA 
+ 
+ N1    ○Regional lymph node metastasis □ 
+ 
+ 
+ 
+-------------------Distant Metastasis(M)------------------- 
+ 
+Stage IVB 
+ 
+ M1    ○Distant metastasis□ 
+ 
+ 
+ 
+Imaging stage   T3a N0 (in this study) 

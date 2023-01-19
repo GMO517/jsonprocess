@@ -1,0 +1,67 @@
+Findings:  
+ 
+Mild pulmonary infiltration in RML and LLL 
+No definite pulmonary nodule noted in visualized field.  
+Lobulated contour of liver compatible with liver cirrhosis.  
+Splenomegaly  
+An early enhancement and early washout nodule in S7-8 liver (3.0 cm ), favoring viable HCC 
+Patency of portal vein.  
+No definite biliary dilatation.  
+Unremarkable gallbladder without stone.  
+Diffuse atherosclerotic change of visualized vessels.  
+Normal function and contour of both kidneys.  
+Patency of bilateral ureters.  
+No definite retroperitoneal lymphadenopathy.  
+Kindly note that subtle mucosal lesion could not be well evaluated on routine CT.  
+ 
+IMP: * Liver cirrhosis and splenomegaly.  
+     * An early enhancement and early washout nodule in S7-8 liver (3.0 cm ), favoring viable HCC 
+ 
+Tentative imaging staging (Not pathology proven yet)  
+ 
+¡´Imaging Report Form for Hepatocellua Carcinoma (AJCC 8th Edition) 
+1.Tumor Number/Location:  
+Number: ¡´1 ¡³2 ¡³3 Multiple: 
+Location: S7-8  
+2.Tumor Size:  
+    ¡´Measurable: 3.0 cm (the largest tumor) 
+    ¡³Non-measurable 
+3.Tumor Characteristics and Associated Liver Features 
+    ¡³Vascular invasion  
+    ¡³Extrahepatic spread  
+    ¡³Ascites  
+    ¡³Portal vein thrombosis, location  
+    ¡³Portosystemic collateral vessel 
+    ¡´Typical enhancement pattern (hypervascular enhancement and early wash-out) 
+3.Pathology: ¡´Not available ¡³Available (Pathology type:¡¼) 
+ 
+-------------------Primary Tumor(T)-------------------------- 
+ Tx  ¡³ Primary tumor cannot be assessed  
+ T0  ¡³ No primary tumor  
+Stage I 
+T1   ¡³ Solitary tumor ¡Ø2 cm, or ¡r 2cm without vascular invasion 
+T1a  Solitary tumor ¡Ø2 cm 
+T1b  ¡´Solitary tumor ¡r 2cm without vascular invasion 
+Stage II 
+T2   ¡³ Solitary tumor ¡r2cm with vascular invasion, or multiple tumors,none ¡r5cm  
+Stage III 
+T3   ¡³Multiple tumors more than 5 cm  
+T4   ¡³TSingle tumor or multiple tumors of any size involving a major 
+branch of the portal vein or hepatic vein, or tumor(s) with direct 
+invasion of adjacent organs other than the gallbladder or with 
+perforation of visceral peritoneum  
+-------------------Regional Lymph Nodes(N)----------------- 
+Nx   ¡³Regional lymph nodes cannot be assessed  
+N0   ¡´No regional lymph nodes 
+Stage IVA 
+N1   ¡³Regional lymph node metastasis  
+     ¡³Periceliac, ¡³Hilar( common bile duct, hepatic artery, portal vein and cystic duct) ¡³Peripancreatic ¡³Paraaortic ¡³Portocaval ¡³Retrocaval 
+¡³Others_______  
+-------------------Distant Metastasis(M)---------------------- 
+Stage IVB 
+M1  ¡³Distant metastasis 
+¡³ Invasion of gallbladder 
+¡³ Cardiophrenic, Mesenteric, Retrocrural LN 
+ 
+Imaging stage   T1b N0 ( in this study) 
+ 

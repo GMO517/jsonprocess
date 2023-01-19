@@ -1,0 +1,50 @@
+Findings: 
+Lobulated and uneven contour of liver compatible with liver cirrhosis 
+One persistent enahnced liver nodule about 4.2x5.0cm in S8 with central scaring, favor focal nodular hyperplasia 
+Patency of the portal veins 
+Mild splenomegaly 
+No ascites 
+No definite biliary dilatation, normal GB 
+Unremarkable change of the pancreas 
+No abnormal fluid collection in the abdomen  
+No hydronephrosis 
+No evident enlarged retroperitoneal LNs 
+IMP: 
+Liver cirrhosis with mild splenomegaly 
+One persistent enahnced liver nodule about 4.2x5.0cm in S8 with central scaring, favoring focal nodular hyperplasia 
+ 
+(add imaging tumor staging after pathology proved) 
+●Imaging Report Form for intrahepatic bile ducts tumor (AJCC 8th Edition) 
+1.Tumor Number/Location:  
+    Location:  S8 
+2.Tumor Size:  
+   □Measurable: 4.5 cm (the largest tumor) 
+   □Non-measurable 
+3.Pathology: ●Not available ○Available (Pathology type:□) 
+ 
+-------------------Primary Tumor(T)-------------------------- 
+ Tx   ○Primary tumor cannot be assessed 
+ T0   ○No primary tumor 
+Stage 0 
+ Tis   ○Carcinoma in situ 
+Stage I 
+ T1   ●Solitary tumor without vascular invasion 
+T1a   ○ Solitary tumor ?5 cm without vascular invasion 
+T1b   ○ Solitary tumor >5 cm without vascular invasion 
+Stage II 
+ T2   ○ Solitary tumor with intrahepatic vascular invasion or multiple 
+tumors, with or without vascular invasion 
+Stage III 
+ T3   ○Tumor perforating the visceral peritoneum  
+Stage IVA 
+ T4   ○Tumor involving local extrahepatic structures by direct invasion  
+-------------------Regional Lymph Nodes(N)----------------- 
+ Nx   ○Regional lymph nodes cannot be assessed 
+ N0   ●No regional lymph nodes □ 
+Stage IVA 
+ N1   ○Regional lymph node metastasis □ 
+-------------------Distant Metastasis(M)--------------------- 
+ M0  ○No distant metastasis (no pathologic M0; use clinical M to complete stage group) 
+Stage IVB 
+ M1  ○Distant metastasis□ 
+Imaging stage   T1 N0( in this study) 

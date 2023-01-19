@@ -1,0 +1,86 @@
+ct of liver  without & with contrast enhancement and with cta for 
+  liver transplant shows:
+    
+  techniques: 
+  from lower chest to upper abdomen in 1-mm contiguous section with 
+  reconstruction of 5mm
+  contrast agent 120ml of contrast medium  at 2.5-3ml/sec. scanning was 
+  under the control of the bulus tracting  that  including the arterial, 
+  portal and venous phase. reconstructive vascular images are performed 
+  according to the pathway of the hepatic artery, portal vein and 
+  inferior vena cava.
+    
+  findings:
+  right pleural effusion
+  lobulated contour of liver compatible with liver cirrhosis  .
+  three nodules with early enhancement in s7(1.19cm), s6-7(1.33cm)
+   and s6(1.43cm) of liver
+  a 2cm hypodense area in s6 of liver may due to prior local therapy 
+   change
+  two cysts in s8 and s6 of liver(<1cm)
+  no definite space occupying lesion in the pancreas and spleen  .
+  splenomegaly  
+  patency of the hepatic artery, gastroepiploic artery, ivc and pv 
+  the size of the mpv is 1.1 cm, coronary vein (2.6mm)  
+  the size of the liver is 796cm3 and the spleen is 652cm3
+  no biliary tree dilatation; gallstones, edematous wall thickening 
+  of gb
+  no definite enlargement of retroperitoneal lns  .
+  no hydronephrosis
+  calcify spots in uterus may due to calcified myomas 
+  no ascites
+  
+  imp: 
+  1.liver cirrhosis with splenomegaly
+  2.liver cysts
+  3.a 2cm hypodense area in s6 of liver may due to prior local therapy 
+   change
+  4.favor three hccs in s7(1.19cm), s6-7(1.33cm) and s6(1.43cm) of liver
+  5.patent ha,pv,ivc
+  
+  ¡´imaging report form for hepatocellua carcinoma (ajcc 7th edition)
+  1.tumor number/location: 
+      number: ¡³1 ¡³2 ¡´3 ¡³multiple:
+      location:  s7,s6-7,s6 
+  2.tumor size: 
+      ¡´measurable: 1.43 cm (the largest tumor)
+      ¡³non-measurable
+  3.tumor characteristics and associated liver features
+      ¡³vascular invasion 
+      ¡³extrahepatic spread 
+      ¡³ascites 
+      ¡³portal vein thrombosis, location 
+      ¡³portosystemic collateral vessel
+      ¡´typical enhancement pattern (hypervascular enhancement and early wash-out)
+  3.pathology: ¡´not available ¡³available (pathology type:¡¼)
+  
+  -------------------primary tumor(t)--------------------------
+   tx    ¡³primary tumor cannot be assessed 
+   t0    ¡³no primary tumor 
+  stage i
+   t1    ¡³solitary tumor without vascular invasion 
+  stage ii
+   t2    ¡³solitary tumor with vascular invasion
+         ¡´multiple tumors none more than 5 cm
+  stage iii
+   a t3a ¡³multiple tumors more than 5 cm 
+   b t3b ¡³single tumor or multiple tumors of any size
+         involving a major branch of the portal vein or
+         hepatic vein 
+   c t4  ¡³tumor(s) with direct invasion of ivc, adjacent
+         organs other than the gallbladder or with
+         perforation of visceral peritoneum. 
+  -------------------regional lymph nodes(n)-----------------
+   nx    ¡³regional lymph nodes cannot be assessed 
+   n0    ¡´no regional lymph nodes
+  stage iva
+   n1    ¡³regional lymph node metastasis 
+          ¡³periceliac, ¡³hilar( common bile duct, hepatic artery, portal vein and 
+  cystic duct) ¡³peripancreatic ¡³paraaortic ¡³portocaval ¡³retrocaval 
+  ¡³others_______ 
+  -------------------distant metastasis(m)----------------------
+  stage ivb
+   m1    ¡³distant metastasis
+  ¡³	invasion of gallbladder
+  ¡³	cardiophrenic, mesenteric, retrocrural ln
+  imaging stage   t2 n0( in this study)

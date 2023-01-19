@@ -1,0 +1,103 @@
+Findings: 
+ 
+Lobulated and uneven contour of liver compatible with liver cirrhosis 
+ 
+One ill-defined hypodense liver nodular mass in S4-5 about 3x4cm with early enhancement and washout, compatible with HCC 
+ 
+The S4-5 tumor mass is nearby or has invasion to branche of right ant. portal vein 
+ 
+Patency of the portal veins 
+ 
+Mild splenomegaly 
+ 
+No ascites 
+ 
+No definite biliary dilatation, normal GB 
+ 
+Unremarkable change of the pancreas 
+ 
+No abnormal fluid collection in the abdomen  
+ 
+No hydronephrosis 
+ 
+No evident enlarged retroperitoneal LNs 
+ 
+IMP: 
+ 
+Chronic liver parenchymal disease with fatty change  
+ 
+Ill-defined S4-5 liver nodular tumor and suspected invasion to portal branch 
+ 
+Compatible with HCC 
+ 
+ 
+ 
+¡´TNM for Hepatocellua Carcinoma (AJCC 7th Edition) 
+ 
+1.Tumor Location: S3-4 
+ 
+2.Tumor Size: 3x4cm 
+ 
+3.Pathology: ¡³Not available ¡´Available (Pathology type:¡¼) 
+ 
+ 
+ 
+-------------------Primary Tumor(T)------------------- 
+ 
+ Tx    ¡³Primary tumor cannot be assessed ¡¼ 
+ 
+ T0    ¡³No primary tumor ¡¼ 
+ 
+Stage I 
+ 
+ T1    ¡³Solitary tumor without vascular invasion ¡¼ 
+ 
+Stage II 
+ 
+ T2    ¡´Solitary tumor with vascular invasion 
+ 
+       ¡³Multiple tumors none more than 5 cm 
+ 
+ 
+ 
+Stage III 
+ 
+ A T3a ¡³Multiple tumors more than 5 cm ¡¼ 
+ 
+ B T3b ¡³Single tumor or multiple tumors of any size 
+ 
+       involving a major branch of the portal vein or 
+ 
+       hepatic vein ¡¼ 
+ 
+ C T4  ¡³Tumor(s) with direct invasion of adjacent 
+ 
+       organs other than the gallbladder or with 
+ 
+       perforation of visceral peritoneum. ¡¼ 
+ 
+ 
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+ Nx    ¡³Regional lymph nodes cannot be assessed ¡¼ 
+ 
+ N0    ¡´No regional lymph nodes ¡¼ 
+ 
+Stage IVA 
+ 
+ N1    ¡³Regional lymph node metastasis ¡¼ 
+ 
+ 
+ 
+-------------------Distant Metastasis(M)------------------- 
+ 
+ M0    ¡´No distant metastasis¡¼ 
+ 
+Stage IVB 
+ 
+ M1    ¡³Distant metastasis¡¼ 
+ 
+ 
+ 
+Imaging stage   T2 N0 M0    Stage II 

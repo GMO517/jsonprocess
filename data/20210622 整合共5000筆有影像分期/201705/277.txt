@@ -1,0 +1,91 @@
+Findings: 
+ 
+Relative low density of liver is compatible with fatty liver  
+ 
+A liver cyst about 3.8cm in S2 
+ 
+One early enhanced lvier nodule about 2.1cm in S5 but almost isodense at late phase, nature? can not exclude FNH or hemangioma, early HCC (no early washout noted) 
+ 
+A tiny hypodense lesion in S7 about 0.8cm may be cyst 
+ 
+Patency of the portal veins 
+ 
+Mild splenomegaly 
+ 
+No ascites 
+ 
+No definite biliary dilatation, but gallstone about 1.5cm noted 
+ 
+Unremarkable change of the pancreas 
+ 
+No abnormal fluid collection in the abdomen  
+ 
+No hydronephrosis 
+ 
+One enhanced left renal nodule about 2.4cm over upper pole r/o RCC 
+ 
+No evident enlarged retroperitoneal LNs 
+ 
+IMP: 
+ 
+S2 liver cyst about 3.8cm 
+ 
+Gallstone 1.5cm 
+ 
+S5 enhanced liver nodule (2.1cm) but not well seen at late phase, nature? 
+ 
+ 
+ 
+(tentative tumor staging) 
+ 
+●TNM for Renal Tumor (AJCC 7th Edition) 
+ 
+1.Tumor Location: left upper 
+ 
+2.Tumor Size: 2.4cm 
+ 
+3.Pathology: ●Not available ○Available (Pathology type:□) 
+ 
+ 
+ 
+T0     ○No primary tumor □ 
+ 
+T1     ○Tumor〈=7cm (limited to kidney) □ 
+ 
+  T1a ●Tumor〈=4cm □ 
+ 
+  T1b ○4cm〈Tumor〈=7cm □ 
+ 
+T2     ○Tumor〉7cm(limited to kidney) □ 
+ 
+  T2a ○7cm〈Tumor〈=10cm □ 
+ 
+  T2b ○Tumor〉10cm □ 
+ 
+T3     ○Extends into major veins or perirenal tissue □ 
+ 
+  T3a ○Extends into renal vein or segmental branches □ 
+ 
+          ○Invades perirenal and/or renal sinus fat □ 
+ 
+  T3b ○Extends into vena cava below diaphragm □ 
+ 
+  T3c ○Extends into vena cava above diaphragm □ 
+ 
+          ○Invades the wall of the vena cava □ 
+ 
+T4    ○Invades beyond Gerota's fascia 
+ 
+         ○Extension into the ipsilateral adrenal gland□ 
+ 
+N0    ●No regional lymph nodes □ 
+ 
+N1    ○Regional lymph nodes metastasis □ 
+ 
+ 
+ 
+M1    ○Distant metastasis □ 
+ 
+ 
+ 
+Imaging stage   T1a N0 (in this study) 

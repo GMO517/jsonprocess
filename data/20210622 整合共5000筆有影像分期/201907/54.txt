@@ -1,0 +1,82 @@
+brief hx: liver nodule
+this study has been compared to the previous study at 20190110
+ct of liver without and with iv enhancement triphasic scans studies  
+techniques: 
+from lower chest to liver inferior edge in 5-mm contiguous section, contrast 
+medium injected, arterial phase scan starting at 30 sec after initiation of 
+injection; portal phase scan performed in 20 sec after the end of the arterial 
+phase; and venous phase scan at 20 sec after the end of the portal phase 
+
+findings:
+no definite pulmonary nodule in visible lung field.
+calcification of coronary artery at risk of coronary artery disease. 
+relative low density of liver is compatible with fatty liver 
+stable early enhance liver nodule about 2.7cm in s7 with early washout at late 
+phase, worrisome for hcc.
+another early enhancing and early washout nodule in the s4 liver, 0.7 cm, also 
+hcc?
+patency of the portal veins
+gallstone without apparent inflammatory change of gb 
+mild splenomegaly
+no ascites
+no definite biliary dilatation, normal gb
+unremarkable change of the pancreas
+no abnormal fluid collection in the abdomen 
+no hydronephrosis
+no evident enlarged retroperitoneal lns
+no dilated appendix. 
+degenerative change of lumbar spine with spurs formation 
+
+imp:
+1. stable early enhance liver nodule about 2.7cm in s7 with early washout at 
+late phase, worrisome for hcc.
+2. another early enhancing and early washout nodule in the s4 liver, 0.7 cm, 
+also hcc?
+
+revised report for staging
+¡´imaging report form for hepatocellua carcinoma (ajcc 8th edition)
+1.tumor number/location: 
+number: ¡´1 ¡³2 ¡³3 multiple:
+location: s7 
+2.tumor size: 
+    ¡´measurable: 2.7 cm (the largest tumor)
+    ¡³non-measurable
+3.tumor characteristics and associated liver features
+    ¡³vascular invasion 
+    ¡³extrahepatic spread 
+    ¡³ascites 
+    ¡³portal vein thrombosis, location 
+    ¡³portosystemic collateral vessel
+    ¡³typical enhancement pattern (hypervascular enhancement and early wash-out)
+3.pathology: ¡³not available ¡´available (pathology type:hcc)
+
+-------------------primary tumor(t)--------------------------
+ tx  ¡³ primary tumor cannot be assessed 
+ t0  ¡³ no primary tumor 
+stage i
+t1   ¡´ solitary tumor ¡Ø2 cm, or > 2cm without vascular invasion
+t1a  solitary tumor ¡Ø2 cm
+t1b  solitary tumor > 2cm without vascular invasion
+stage ii
+t2   ¡³ solitary tumor >2cm with vascular invasion, or multiple tumors,none >5
+cm 
+stage iii
+t3   ¡³multiple tumors more than 5 cm 
+t4   ¡³tsingle tumor or multiple tumors of any size involving a major
+branch of the portal vein or hepatic vein, or tumor(s) with direct
+invasion of adjacent organs other than the gallbladder or with
+perforation of visceral peritoneum 
+-------------------regional lymph nodes(n)-----------------
+nx   ¡³regional lymph nodes cannot be assessed 
+n0   ¡³no regional lymph nodes
+stage iva
+n1   ¡³regional lymph node metastasis 
+     ¡³periceliac, ¡³hilar( common bile duct, hepatic artery, portal vein and 
+cystic duct) ¡³peripancreatic ¡³paraaortic ¡³portocaval ¡³retrocaval
+¡³others_______ 
+-------------------distant metastasis(m)----------------------
+stage ivb
+m1  ¡³distant metastasis
+¡³	invasion of gallbladder
+¡³	cardiophrenic, mesenteric, retrocrural ln
+imaging stage   t1b n0 ( in this study)

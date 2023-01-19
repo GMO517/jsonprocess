@@ -1,0 +1,42 @@
+ct of abdomen without & with contrast enhancement shows:
+  s/p resection of the s6 hcc
+  no definite space occupying lesion in the liver  .
+  patency of the portal vein
+  no definite enlargement of retroperitoneal lns  .
+  no definite biliary dilatation  .
+  1.7cm tumor inside left renal upper calyces and pelvis
+  no abnormal fluid collection in the abdomen  .
+  
+  imp:s/p resection of the s6 hcc
+  no definite space occupying lesion in the liver  .
+  1.7cm tumor inside left renal upper calyces and pelvis,  urothelial tumor 
+  ¡´imaging report form for renal tumor (ajcc 7th edition)
+  1.tumor location: ¡³right kidney, ¡³left kidney, ¡³both kidneys
+  2.tumor size: 
+  ¡³measurable: __________cm (greatest dimension), 
+  ¡³ non-measurable
+  3.pathology: ¡³not available ¡³available (pathology type:¡¼)
+  -------------------primary tumor(t)---------------------------
+  t0    ¡³no primary tumor 
+  t1    ¡³tumor<=7cm (limited to kidney) 
+    t1a ¡³tumor<=4cm 
+    t1b ¡³4cm<tumor<=7cm 
+  t2    ¡³tumor>7cm(limited to kidney) 
+    t2a ¡³7cm<tumor<=10cm 
+    t2b ¡³tumor>10cm 
+  t3    ¡³extends into major veins or perirenal tissue 
+    t3a ¡³extends into renal vein or segmental branches 
+        ¡³invades perirenal and/or renal sinus fat 
+    t3b ¡³extends into vena cava below diaphragm 
+    t3c ¡³extends into vena cava above diaphragm 
+        ¡³invades the wall of the vena cava 
+  t4    ¡³invades beyond gerota's fascia
+        ¡³extension into the ipsilateral adrenal gland
+  -------------------regional lymph nodes(n)-----------------
+  n0    ¡³no regional lymph nodes 
+  n1    ¡³regional lymph nodes metastasis 
+  ¡³renal hilar ¡³paracaval ¡³aortocaval ¡³paraaortic
+  -------------------distant metastasis(m)-----------------------
+  m1   ¡³distant metastasis 
+  
+  imaging stage   t¡¼ n¡¼( in this study)

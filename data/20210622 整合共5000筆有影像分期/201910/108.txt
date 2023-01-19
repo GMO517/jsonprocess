@@ -1,0 +1,60 @@
+brief hx and indication of the study: obstructive jaundice
+ct of liver without and with iv enhancement triphasic scans studies  
+techniques: 
+from lower chest to liver inferior edge in 5-mm contiguous section, contrast 
+medium injected, arterial phase scan starting at 30 sec after initiation of 
+injection; portal phase scan performed in 20 sec after the end of the arterial 
+phase; and venous phase scan at 20 sec after the end of the portal phase 
+findings:
+relative low density of liver is compatible with fatty liver 
+no obvious focal liver nodule
+patency of the portal veins
+mild splenomegaly
+no ascites
+diffuse biliary tree dilatation due to distal cbd obstruction with mild enhanced
+ soft tissue mass about 2.3x3.0cm
+no evident hepatic hilar enlarged lns
+unremarkable change of the pancreas
+no abnormal fluid collection in the abdomen 
+no hydronephrosis
+right renal cyst about 3.3cm
+no evident enlarged retroperitoneal lns
+imp:
+diffuse biliary tree dilatation with cbd tumor mass (2.3x3.0cm) 
+
+(tentative tumor staging without pathology)
+¡´imaging report form for distal bile duct tumor (ajcc 8th edition)
+1.tumor number/location: 
+   location:  cbd 
+2.tumor size: 
+   ¡³measurable: 3.0 cm (the largest tumor)
+   ¡³non-measurable
+3.pathology: ¡´not available ¡³available (pathology type:¡¼)
+
+-------------------primary tumor(t)--------------------------
+ tx   ¡³primary tumor cannot be assessed 
+ t0   ¡³no evidence of primary tumor 
+stage 0
+ tis   ¡³carcinoma in situ
+stage ia
+ t1   ¡³tumor invades the bile duct wall with a depth less than 5 mm
+stage ib
+ t2   ¡³tumor invades the bile duct wall with a depth of 5-12 mm
+stage iia
+ t3   ¡´tumor invades the bile duct wall with a depth greater than 12 mm
+stage iii (t4 anyn)
+ t4   ¡³tumor involves the celiac axis, superior mesenteric artery, and/or
+common hepatic artery
+ 
+-------------------regional lymph nodes(n)-----------------
+ nx   ¡³regional lymph nodes cannot be assessed 
+ n0   ¡´no regional lymph node metastasis
+stage iib (t1-t3 n1 m0)
+¡³ n1   metastasis in one to three regional lymph nodes
+¡³ n2  metastasis in four or more regional lymph nodes
+-------------------distant metastasis(m)----------------------
+ m0   ¡³no distant metastasis (no pathologic m0; use clinical m to complete 
+stage group)
+stage iv
+ m1   ¡³distant metastasis
+imaging stage   t3 n0( in this study)

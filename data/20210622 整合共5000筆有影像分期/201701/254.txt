@@ -1,0 +1,115 @@
+Findings: 
+ 
+ 
+ 
+Right lower lung patchy consolidation 
+ 
+No definite space occupying lesion in the spleen and pancreas. 
+ 
+Ill define 5.3x5.8cm peripheral enhancing tumor with adjacent IHDs dilatation over S7-8 liver  
+ 
+Distented gallbladder with stones and mild wall thickening  
+ 
+Hypodensity tract with underline liver parenchyma transient diffrent enhancement over S5 liver, due to previous PTGBD  
+ 
+S/P liver biopsy with needle tract over S7 liver noted  
+ 
+Patency of portal vein   
+ 
+Enlarged periportal , common hepatic artery , paraaortic , aortocava and left infraphrenic  LNS  
+ 
+No definite hydronephrosis. 
+ 
+Bilateral renal cysts 
+ 
+iliac bone osteolytic lesion 
+ 
+L4 vertebrae compression fracture  
+ 
+No abnormal fluid collection or free air in the abdomen  . 
+ 
+Enlarged prostate gland  
+ 
+Kindly note that subtle mucosal lesion could not be well evaluated on routine CT. 
+ 
+ 
+ 
+IMP: 
+ 
+1.Distented gallbladder with stones and mild wall thickening, S/P removed PTGBD drainage tube 
+ 
+2.S7-8 cholangiocarcinoma with focal IHDs dilatation, retroperitoneal LNs metastasis 
+ 
+3. Right iliac bone osteolytic lesion, stable since 2008/10/10 CT study, favor benign lesion 
+ 
+ 
+ 
+---------------------------------------------------------------------------------------- 
+ 
+●Imaging Report Form for intrahepatic bile ducts tumor (AJCC 7th Edition) 
+ 
+ 
+ 
+1.Tumor Number/Location:  
+ 
+    Location:  S7-8 liver  
+ 
+2.Tumor Size:  
+ 
+   ○Measurable:  5.8cm (the largest tumor) 
+ 
+   ○Non-measurable 
+ 
+3.Pathology: ○Not available ●Available (Pathology type:CHOLANGIOCARCINOMA) 
+ 
+ 
+ 
+-------------------Primary Tumor(T)-------------------------- 
+ 
+ Tx    ○Primary tumor cannot be assessed 
+ 
+ T0    ○No primary tumor 
+ 
+Stage 0 
+ 
+ Tis   ○Carcinoma in situ 
+ 
+Stage I 
+ 
+ T1    ○Solitary tumor without vascular invasion 
+ 
+Stage II 
+ 
+ T2a   ○Solitary tumor with vascular invasion 
+ 
+ T2b   ○Multiple tumors with or without vascular invasion 
+ 
+Stage III 
+ 
+ T3    ○Tumor perforating the visceral peritoneum or involving the local extrahepatic structures by direct invasion 
+ 
+Stage IVA 
+ 
+ T4    ●Tumor(s) with periductal invasion 
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+ Nx    ○Regional lymph nodes cannot be assessed 
+ 
+ N0    ○No regional lymph nodes □ 
+ 
+Stage IVA 
+ 
+ N1    ●Regional lymph node metastasis □ 
+ 
+-------------------Distant Metastasis(M)--------------------- 
+ 
+ M0   ○No distant metastasis (no pathologic M0; use clinical M to complete stage group) 
+ 
+Stage IVB 
+ 
+ M1   ●Distant metastasis□ 
+ 
+ 
+ 
+Imaging stage   T4 N1 M1( in this study) 

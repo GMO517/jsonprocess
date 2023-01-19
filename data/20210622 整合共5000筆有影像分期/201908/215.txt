@@ -1,0 +1,68 @@
+magnetic resonance imaging of liver with and without enhancement show:
+
+axl t1wi ,  t2wi, long t2w1 & dwi(b value =400 ms), 8mm in thickness & 2 mm gap 
+for whole liver;   axl t1wic+ 15 sec after iv infusion of gd-dtpa 0.2ml/kg,  8mm
+ in  thickness and 2 mm gap for whole liver, followed by 30 sec intervals  for 
+the 2nd and 3rd t1wi c+.
+
+imaging  findings:
+a large right liver mass(9.26x7.38cm) with early enhancement and early washout, 
+compatible with hcc
+multiple small hepatic cysts.
+no definite space occupying lesion in the pancreas and spleen .
+no definite biliary dilatation. normal gallbladder without stone.
+normal function of both kidneys, no definite obstructive uropathy  .
+no definite enlargement of retroperitoneal lns  .
+no abnormal fluid collection in the abdomen  .
+    
+impression:
+* a large right liver mass(9.26x7.38cm) with early enhancement and early washout
+, compatible with hcc. obliteration of right hepatic vein.
+* multiple small hepatic cysts.
+
+¡´imaging report form for hepatocellua carcinoma (ajcc 8th edition)
+1.tumor number/location: 
+number: ¡³1 ¡³2 ¡³3 multiple:
+location: ¡¼ 
+2.tumor size: 
+    ¡³measurable:  cm (the largest tumor)
+    ¡³non-measurable
+3.tumor characteristics and associated liver features
+    ¡³vascular invasion 
+    ¡³extrahepatic spread 
+    ¡³ascites 
+    ¡³portal vein thrombosis, location 
+    ¡³portosystemic collateral vessel
+    ¡³typical enhancement pattern (hypervascular enhancement and early wash-out)
+3.pathology: ¡³not available ¡³available (pathology type:¡¼)
+
+-------------------primary tumor(t)--------------------------
+ tx  ¡³ primary tumor cannot be assessed 
+ t0  ¡³ no primary tumor 
+stage i
+t1   ¡³ solitary tumor ¡Ø2 cm, or > 2cm without vascular invasion
+t1a  solitary tumor ¡Ø2 cm
+t1b  ¡´solitary tumor > 2cm without vascular invasion
+stage ii
+t2   ¡³ solitary tumor >2cm with vascular invasion, or multiple tumors,none >5
+cm 
+stage iii
+t3   ¡³multiple tumors more than 5 cm 
+t4   ¡³tsingle tumor or multiple tumors of any size involving a major
+branch of the portal vein or hepatic vein, or tumor(s) with direct
+invasion of adjacent organs other than the gallbladder or with
+perforation of visceral peritoneum 
+-------------------regional lymph nodes(n)-----------------
+nx   ¡³regional lymph nodes cannot be assessed 
+n0   ¡´no regional lymph nodes
+stage iva
+n1   ¡³regional lymph node metastasis 
+     ¡³periceliac, ¡³hilar( common bile duct, hepatic artery, portal vein and 
+cystic duct) ¡³peripancreatic ¡³paraaortic ¡³portocaval ¡³retrocaval
+¡³others_______ 
+-------------------distant metastasis(m)----------------------
+stage ivb
+m1  ¡³distant metastasis
+¡³	invasion of gallbladder
+¡³	cardiophrenic, mesenteric, retrocrural ln
+imaging stage   t1b n0( in this study)

@@ -1,0 +1,62 @@
+No previous triphasic liver CT study performed in our hospital was available to compare in the Picture Archiving and Communication System (PACS). 
+Liver CT without and with IV enhancement triphasic scans studies 
+Techniques: [Total image number:335][this study is not optimal for evaluation of abdominal hallow organs; mucoal lesion of GI tract cannot be well evaluated in routine abdominal CT study due to difficulty in optimal preparation of the whole GI tract; scopy or barium study may be better modalities.] 
+ From lower chest to liver inferior edge in 5-mm contiguous section  
+ Contrast agent -(body weight+20)ml of contrast medium injected at 2ml/sec, 30 sec after initiation of injection, starting arterial phase scan; portal phase scan performed in 20 sec after the end of the arterial phase scan; and venous phase scan began in 20 sec after the end of the portal phase scan and scanning from lower chest to pelvis level. 
+Findings: 
+One S6 protruding hepatic mass (about 57x48mm) with heterogeneous enhancement in late artery phase with focal early wash-out are noted over of liver; suspecting hepatocellular carcinoma 
+No definite  biliary dilatation 
+Patent portal vein, no evident thrombosis was noted  
+Gallbladder stones; no wall thickening of gallbladder nor pericholecystic fluid accumulation  
+No definite space occupying lesion in the spleen and pancreas.  
+Small  retroperitoneal region(s) LNs (short axis ¡q10mm) 
+No hydronephrosis,   
+Renal cyst(s), bilateral  
+Radiopacity over anterior portion of right kidney 
+No abnormal fluid collection in the abdomen  
+Focal collaspe at the visualized  colon; colonic annular lesion(s) can not be excluded by CT imaging 
+No definite pneumoperitoneum is seen.   
+The urinary bladder is not well distended; mucosal lesion(s) can not be evaluated  
+IMP: 
+[1]suspecting S6 HCC 
+[2]GB stones 
+¡´Imaging Report Form for Hepatocellua Carcinoma (AJCC 8th Edition) 
+1.Tumor Number/Location:  
+-Number:  1 
+-Location: S6 
+2.Tumor Size: Measurable: 5.7cm (the largest tumor) 
+3.Tumor Characteristics and Associated Liver Features     
+     ¡³Vascular invasion      
+     ¡³Extrahepatic spread      
+     ¡³Ascites      
+     ¡³Portal vein thrombosis 
+     ¡³Portosystemic collateral vessel     
+     ¡´Typical enhancement pattern (hypervascular enhancement and early wash-out) 
+3.Pathology: Not available  
+-------------------Primary Tumor(T)-------------------------- 
+Tx     ¡³Primary tumor cannot be assessed  
+T0     ¡³No primary tumor 
+Stage I 
+T1     ¡³Solitary tumor ¡Ø2 cm, or ¡r 2cm without vascular invasion   
+   T1a   ¡³Solitary tumor ¡Ø2 cm   
+   T1b   ¡´Solitary tumor ¡r 2cm without vascular invasion 
+Stage II 
+T2     ¡³Solitary tumor ¡r2cm with vascular invasion, or multiple tumors,none ¡r5cm  
+Stage III 
+T3     ¡³Multiple tumors more than 5 cm  
+T4     ¡³Single tumor or multiple tumors of any size involving a major branch of the portal vein or hepatic vein, or tumor(s) with direct 
+          invasion of adjacent organs other than the gallbladder or with perforation of visceral peritoneum  
+-------------------Regional Lymph Nodes(N)----------------- 
+Nx     ¡³Regional lymph nodes cannot be assessed  
+N0     ¡³No regional lymph nodes 
+Stage IVA 
+N1     ¡³Regional lymph node metastasis 
+           ¡³Periceliac  ¡³Hilar( common bile duct, hepatic artery, portal vein and cystic duct)  
+         ¡³Peripancreatic   ¡³Paraaortic   ¡³Portocaval   ¡³Retrocaval 
+         ¡³Others  
+-------------------Distant Metastasis(M)---------------------- 
+Stage IVB 
+M1     ¡³Distant metastasis 
+          ¡³Invasion of gallbladder 
+          ¡³Cardiophrenic, Mesenteric, Retrocrural LN 
+Imaging stage   T1b N0 ( in this study) 

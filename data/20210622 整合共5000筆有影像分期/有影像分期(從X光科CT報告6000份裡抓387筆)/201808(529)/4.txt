@@ -1,0 +1,108 @@
+Findings: 
+ 
+Mild coarse liver with fatty change due to chronic liver parenchymal disease 
+ 
+A hypodense liver nodule about 2.6cm in S4-8 with early enhancement and washout, favor HCC 
+ 
+Another early enhanced liver nodule about 1.6cm over S8 but with washout and isodense at portal phase, nature to be determined 
+ 
+Tiny liver cyst about 1.0cm in S3 
+ 
+Patency of the portal veins 
+ 
+Mild splenomegaly 
+ 
+No ascites 
+ 
+No definite biliary dilatation, normal GB 
+ 
+Unremarkable change of the pancreas 
+ 
+No abnormal fluid collection in the abdomen  
+ 
+No hydronephrosis 
+ 
+No evident enlarged retroperitoneal LNs 
+ 
+IMP: 
+ 
+Chronic liver parenchymal disease with fatty change  
+ 
+Focal enhanced liver nodular mass in S4-8 (2.6cm), compatible with HCC 
+ 
+Another smakker S8 enhanced nodule, nature? 
+ 
+Small liver cyst (1.0cm) in S3 
+ 
+ 
+ 
+¡´TNM for Hepatocellua Carcinoma (AJCC 7th Edition) 
+ 
+1.Tumor Location: S4-8 
+ 
+2.Tumor Size: 2.6 & 1.6cm 
+ 
+3.Pathology: ¡´Not available ¡³Available (Pathology type:¡¼) 
+ 
+ 
+ 
+-------------------Primary Tumor(T)------------------- 
+ 
+ Tx    ¡³Primary tumor cannot be assessed ¡¼ 
+ 
+ T0    ¡³No primary tumor ¡¼ 
+ 
+Stage I 
+ 
+ T1    ¡³Solitary tumor without vascular invasion ¡¼ 
+ 
+Stage II 
+ 
+ T2    ¡³Solitary tumor with vascular invasion 
+ 
+       ¡´Multiple tumors none more than 5 cm 
+ 
+ 
+ 
+Stage III 
+ 
+ A T3a ¡³Multiple tumors more than 5 cm ¡¼ 
+ 
+ B T3b ¡³Single tumor or multiple tumors of any size 
+ 
+       involving a major branch of the portal vein or 
+ 
+       hepatic vein ¡¼ 
+ 
+ C T4  ¡³Tumor(s) with direct invasion of adjacent 
+ 
+       organs other than the gallbladder or with 
+ 
+       perforation of visceral peritoneum. ¡¼ 
+ 
+ 
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+ Nx    ¡³Regional lymph nodes cannot be assessed ¡¼ 
+ 
+ N0    ¡´No regional lymph nodes ¡¼ 
+ 
+Stage IVA 
+ 
+ N1    ¡³Regional lymph node metastasis ¡¼ 
+ 
+ 
+ 
+-------------------Distant Metastasis(M)------------------- 
+ 
+ M0    ¡´No distant metastasis¡¼ 
+ 
+Stage IVB 
+ 
+ M1    ¡³Distant metastasis¡¼ 
+ 
+ 
+ 
+Imaging stage   T2 N0 M0    Stage II 
+ 

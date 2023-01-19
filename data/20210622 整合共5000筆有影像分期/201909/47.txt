@@ -1,0 +1,47 @@
+findings:
+  relative low density of liver is compatible with fatty liver
+  no definite space occupying lesion in the liver 
+  no definite biliary dilatation, normal gb
+  patency of the portal veins
+  unremarkable change of the pancreas and spleen
+  no definite enlargement of retroperitoneal lns 
+  no abnormal fluid collection in the abdomen 
+  no definite obstructive uropathy  
+  focal wall thickening over right low rectum without evident local enlarged ln 
+  imp:
+  compatible with lower rectal cancer with focal wall thickening
+  
+  ¡´tnm for colon cancer (ajcc 7th edition)
+  1.tumor location: ¡¼
+  2.tumor size: ¡¼cm
+  3.pathology: ¡³not available ¡´available (pathology type:¡¼)
+  
+  tx    ¡³primary tumor cannot be assessed ¡¼
+  t0    ¡³no evidence of primary tumor ¡¼
+  tis   ¡³carcinoma in situ: intraepithelial or invasionof
+        lamina propria ¡¼
+  t1    ¡³tumor invades submucosa ¡¼
+  t2    ¡´tumor invades muscularis propria ¡¼
+  t3    ¡³tumor invades through the muscularis
+        propria into pericolorectal tissues ¡¼
+  t4a   ¡³tumor penetrates to the surface of the visceral peritoneum ¡¼
+  t4b   ¡³tumor directly invades or is adherent to other organs or structures ¡¼
+  
+  nx   ¡³regional lymph nodes cannot be assessed ¡¼
+  n0    ¡´no regional lymph node metastasi ¡¼
+  n1    ¡³metastasis in 1 to 3 regional lymph node ¡¼
+    n1a ¡³metastasis in 1 regional lymph node ¡¼
+    n1b ¡³metastasis in 2-3 regional lymph nodes ¡¼
+    n1c ¡³tumor deposit(s) in the subserosa, mesentery, or non-peritonealized 
+  pericolic or perirectal tissues without regional nodal metastasis ¡¼      
+  n2     ¡³metastasis in 4 or more regional lymph nodes ¡¼
+  n2a   ¡³metastasis in 4 to 6 regional lymph nodes ¡¼
+  n2b   ¡³metastasis in 7 or more regional lymph nodes ¡¼
+  
+  m1     ¡³distant metastasis ¡¼
+  m1a   ¡³metastasis confined to one organ or site(e.g., liver, lung, ovary, non-
+  regional node). ¡¼
+  m1b   ¡³metastases in more than one organ/site or the peritoneum. ¡¼
+  
+  imaging stage   t2 n0 (in this study)
+  

@@ -1,0 +1,63 @@
+brief hx: hcv, genotype 2b, post 24 weeks tx, svr, riba related anemia, dm,control 
+  at meta dr ¯Î, alcoholism,
+liver tumor, favor hcc
+
+  ct of liver without and with iv enhancement triphasic scans studies  
+  techniques: 
+  from lower chest to liver inferior edge in 5-mm contiguous section, about 80ml of 
+  contrast medium injected at 2ml/sec, arterial phase scan starting at 30 sec after 
+  initiation of injection; portal phase scan performed in 20 sec after the end of 
+  the arterial phase; and venous phase scan at 20 sec after the end of the portal 
+  phase 
+  findings:
+  mild coarse liver with fatty change due to chronic liver parenchymal disease
+  three hypodense liver nodules over s5 (2.0cm), s7 (2.3cm) and s8 (3.0cm) with 
+  early enhancement and washout, the lesions seem ill-defined and near closed 
+  patency of the portal veins
+  mild splenomegaly
+  no ascites
+  no definite biliary dilatation, normal gb
+  unremarkable change of the pancreas
+  no abnormal fluid collection in the abdomen 
+  no hydronephrosis
+  no evident enlarged retroperitoneal lns
+  imp:
+  chronic liver parenchymal disease with fatty change 
+  three near closed ill-defined enhanced liver nodules in s5 and s7-8, more favor 
+  hccs
+  
+  ¡´tnm for hepatocellua carcinoma (ajcc 7th edition)
+  1.tumor location: s5 and s7-8
+  2.tumor size: 3.0cm
+  3.pathology: ¡´not available ¡³available (pathology type:¡¼)
+  
+  -------------------primary tumor(t)-------------------
+   tx    ¡³primary tumor cannot be assessed ¡¼
+   t0    ¡³no primary tumor ¡¼
+  stage i
+   t1    ¡³solitary tumor without vascular invasion ¡¼
+  stage ii
+   t2    ¡³solitary tumor with vascular invasion
+         ¡´multiple tumors none more than 5 cm
+  
+  stage iii
+   a t3a ¡³multiple tumors more than 5 cm ¡¼
+   b t3b ¡³single tumor or multiple tumors of any size
+         involving a major branch of the portal vein or
+         hepatic vein ¡¼
+   c t4  ¡³tumor(s) with direct invasion of adjacent
+         organs other than the gallbladder or with
+         perforation of visceral peritoneum. ¡¼
+  
+  -------------------regional lymph nodes(n)-----------------
+   nx    ¡³regional lymph nodes cannot be assessed ¡¼
+   n0    ¡´no regional lymph nodes ¡¼
+  stage iva
+   n1    ¡³regional lymph node metastasis ¡¼
+  
+  -------------------distant metastasis(m)-------------------
+   m0    ¡´no distant metastasis¡¼
+  stage ivb
+   m1    ¡³distant metastasis¡¼
+  
+  imaging stage   t2 n0 m0    stage ii

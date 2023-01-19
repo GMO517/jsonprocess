@@ -1,0 +1,78 @@
+brief hx: hcv, liver nodule r/o hcc
+ct of liver and with cta for lt without & with contrast enhancement shows:
+techniques: 
+from lower chest to liver inferior edge in 5-mm contiguous section, contrast 
+medium injected, 30 sec after initiation of injection, starting arterial phase 
+scan; portal phase scan performed in 20 sec after the end of the arterial phase 
+scan; and venous phase scan began in 20 sec after the end of the portal phase 
+scan, reformation of images for ct angiography
+
+findings 
+lobulated contour of liver compatible with liver cirrhosis
+one early enhanced and early washout liver nodule about 5cm in s6 with central 
+hypodense scaring structure, may be hcc or fnh
+mild splenomegaly, one septated cystic lesion about 2.4cm in the spleen r/o
+ lymphangioma
+no definite space occupying lesion in the pancreas
+no biliary tree dilatation 
+patency of hepatic arteries, both rha and lha are from pha
+patent gastroepiploric artery
+patency of portal vein, mpv= 11.2 mm; no evident portal thrombosis
+volume of left liver is 508 cm3, volume of the spleen is 238 cm3
+no definite enlargement of retroperitoneal lns  .
+no ascites
+
+imp:
+liver cirrhsosis and mild splenomegaly
+one early enhanced and early washout liver nodule about 5cm in s6 with central 
+hypodense scaring structure, may be hcc or fnh 
+one septated cystic lesion about 2.4cm in the spleen r/o lymphangioma
+patent ha, pv and ivc
+
+(tentative tumor staging)
+¡´imaging report form for hepatocellua carcinoma (ajcc 7th edition)
+1.tumor number/location: 
+    number: ¡´1 ¡³2 ¡³3 ¡³multiple:
+    location:  s6 
+2.tumor size: 
+    ¡³measurable:  5cm (the largest tumor)
+    ¡³non-measurable
+3.tumor characteristics and associated liver features
+    ¡³vascular invasion 
+    ¡³extrahepatic spread 
+    ¡³ascites 
+    ¡³portal vein thrombosis, location 
+    ¡³portosystemic collateral vessel
+    ¡³typical enhancement pattern (hypervascular enhancement and early wash-out)
+3.pathology: ¡´not available ¡³available (pathology type:¡¼)
+
+-------------------primary tumor(t)--------------------------
+ tx    ¡³primary tumor cannot be assessed 
+ t0    ¡³no primary tumor 
+stage i
+ t1    ¡´solitary tumor without vascular invasion 
+stage ii
+ t2    ¡³solitary tumor with vascular invasion
+       ¡³multiple tumors none more than 5 cm
+stage iii
+ a t3a ¡³multiple tumors more than 5 cm 
+ b t3b ¡³single tumor or multiple tumors of any size
+       involving a major branch of the portal vein or
+       hepatic vein 
+ c t4  ¡³tumor(s) with direct invasion of ivc, biliary trees, adjacent
+       organs other than the gallbladder or with
+       perforation of visceral peritoneum. 
+-------------------regional lymph nodes(n)-----------------
+ nx    ¡³regional lymph nodes cannot be assessed 
+ n0    ¡´no regional lymph nodes
+stage iva
+ n1    ¡³regional lymph node metastasis 
+        ¡³periceliac, ¡³hilar( common bile duct, hepatic artery, portal vein 
+and cystic duct) ¡³peripancreatic ¡³paraaortic ¡³portocaval ¡³retrocaval ¡³other
+s_______ 
+-------------------distant metastasis(m)----------------------
+stage ivb
+ m1    ¡³distant metastasis
+¡³	invasion of gallbladder
+¡³	cardiophrenic, mesenteric, retrocrural ln
+imaging stage   t1 n0

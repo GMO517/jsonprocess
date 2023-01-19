@@ -1,0 +1,115 @@
+Findings: 
+ 
+s/p sclerotherapy of esophageal varices 
+ 
+Radiation pneumonitis over medial RLL 
+ 
+Lobulated contour of liver, compatible with liver cirrhosis.  
+ 
+Splenomegaly   
+ 
+A 2.4 cm early enhancement and washout nodule in S4/8 liver with internal fatty component, consistent with HCC. 
+ 
+No definite space occupying lesion in the spleen and pancreas. 
+ 
+No definite biliary dilatation  . 
+ 
+Gallbladder stones 
+ 
+Patency of portal vein   
+ 
+Prominent splenorenal shunt 
+ 
+Normal function and contour of bil. kidneys and no definite obstructive uropathy. 
+ 
+No definite enlargement of retroperitoneal LNs  . 
+ 
+No abnormal fluid collection in the abdomen  . 
+ 
+No definite bone destruction. 
+ 
+Diffuse wall thickening of urinary bladder, maybe chronic cystitis. 
+ 
+Degenerative change of lumbar spine with spurs formation and scoliosis   
+ 
+ 
+ 
+IMP: 
+ 
+1. Suggesting HCC (2.4 cm) in high S4/8 liver; tentative staging T1N0 
+ 
+2. Liver cirrhosis with splnomegaly  
+ 
+3. Radiation pneumonitis over medial RLL 
+ 
+4. s/p sclerotherapy of esophageal varices 
+ 
+5. Gallbladder stones 
+ 
+6. chronic cystitis 
+ 
+ 
+ 
+1. ●TNM for Hepatocellua Carcinoma (AJCC 7th Edition) 
+ 
+1.Tumor Location: s4/8 
+ 
+2.Tumor Size: 2.4cm 
+ 
+3.Pathology: ●Not available ○Available (Pathology type:□) 
+ 
+ 
+ 
+-------------------Primary Tumor(T)------------------- 
+ 
+ Tx    ○Primary tumor cannot be assessed □ 
+ 
+ T0    ○No primary tumor □ 
+ 
+Stage I 
+ 
+ T1    ●Solitary tumor without vascular invasion □ 
+ 
+Stage II 
+ 
+ T2    ○Solitary tumor with vascular invasion 
+ 
+       ○Multiple tumors none more than 5 cm 
+ 
+ 
+ 
+Stage III 
+ 
+ A T3a ○Multiple tumors more than 5 cm □ 
+ 
+ B T3b ○Single tumor or multiple tumors of any size 
+ 
+       involving a major branch of the portal vein or 
+ 
+       hepatic vein □ 
+ 
+ C T4  ○Tumor(s) with direct invasion of adjacent 
+ 
+       organs other than the gallbladder or with 
+ 
+       perforation of visceral peritoneum. □ 
+ 
+ 
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+ Nx    ○Regional lymph nodes cannot be assessed □ 
+ 
+ N0    ●No regional lymph nodes □ 
+ 
+Stage IVA 
+ 
+ N1    ○Regional lymph node metastasis □ 
+ 
+ 
+ 
+-------------------Distant Metastasis(M)------------------- 
+ 
+Stage IVB 
+ 
+ M1    ○Distant metastasis□ 

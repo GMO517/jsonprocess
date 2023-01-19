@@ -1,0 +1,67 @@
+   
+Imaging  Findings: 
+Multiple nodules in bilateral lung, the biggest one about 2.1cm in RLL, favor lung metastasis 
+Multiple pleural nodules favor pleural metastasis 
+Mild right plueral effusion 
+Lobulated contour of liver compatible with liver cirrhosis  . 
+Numerous tumors were found in both lobes of liver, predominant in right liver, most of the tumors with early enhance and early washout, some bigger tumor with central necrotic area, the biggest one about 16cm 
+Some right liver tumors growth beyond the surface of liver contiguous or invade to adjacent peritoneum 
+Favor tumor rupture over S4-5 liver with extravasation of contrast medium 
+Loculated ascites or hemoperitoneum around S4-5 liver abdomen 
+The tumors compress and displaced MPV, patent MPV, LPV, partial thrombus in RAPV, obiteration or invasion of RPPV by tumors 
+The tumor compressed to intrahepatic IVC with poor opacification, patent HVs 
+Engorged hemiazygous veins were noted 
+No obvious varices nor portosystemic shunt 
+The right liver tumor compress and displaced the proximal T-colon can''t exclude tumor invasion 
+No definite space occupying lesion in the pancreas and spleen . 
+Mild dilate CBD=8.6mm, collapsed gallbladder 
+Right mild hydronephrosis due to compression of right upper ureter by right liver tumor 
+No definite obstructive uropathy, left kidney 
+No obvious adrenal mass 
+No definite enlargement of retroperitoneal LNs  . 
+No obvious bony destruction 
+ 
+Impression:  
+1. Liver cirrhosis 
+2. Numerous HCCs in both lobes of liver upto 16cm compress and displaced MPV, IVC, T-colon, right upper ureter and may invade adjacent peritoneum and T-colon 
+3. Partial thrombus in RAPV, obiteration or invasion of RPPV by tumors 
+4. Multiple lung metastasis, right pleural metastasis, mild right pleural effusion 
+**5. Favor tumor rupture over S4-5 liver with active bleeding and surrounding or loculated hemoperitoneum 
+ 
+AFP=12744 
+¡´Imaging Report Form for Hepatocellua Carcinoma (AJCC 8th Edition) 
+1.Tumor Number/Location:  
+Number: ¡³1 ¡³2 ¡³3 ¡´Multiple: 
+Location: both lobes of liver 
+2.Tumor Size:  
+    ¡´Measurable:16cm (the largest tumor) 
+3.Tumor Characteristics and Associated Liver Features 
+    ¡´Typical enhancement pattern (hypervascular enhancement and early wash-out) 
+3.Pathology: ¡´Not available ¡³Available (Pathology type:¡¼) 
+ 
+-------------------Primary Tumor(T)-------------------------- 
+ Tx  ¡³ Primary tumor cannot be assessed  
+ T0  ¡³ No primary tumor  
+Stage I 
+T1   ¡³ Solitary tumor ¡Ø2 cm, or ¡r 2cm without vascular invasion 
+T1a  Solitary tumor ¡Ø2 cm 
+T1b  Solitary tumor ¡r 2cm without vascular invasion 
+Stage II 
+T2   ¡³ Solitary tumor ¡r2cm with vascular invasion, or multiple tumors,none ¡r5cm  
+Stage III 
+T3   ¡³Multiple tumors more than 5 cm  
+T4   ¡´Single tumor or multiple tumors of any size involving a major branch of the portal vein or hepatic vein, or tumor(s) with direct invasion of adjacent organs other than the gallbladder or with perforation of visceral peritoneum  
+-------------------Regional Lymph Nodes(N)----------------- 
+Nx   ¡³Regional lymph nodes cannot be assessed  
+N0   ¡´No regional lymph nodes 
+Stage IVA 
+N1   ¡³Regional lymph node metastasis  
+     ¡³Periceliac, ¡³Hilar( common bile duct, hepatic artery, portal vein and cystic duct) ¡³Peripancreatic ¡³Paraaortic ¡³Portocaval ¡³Retrocaval 
+¡³Others_______  
+-------------------Distant Metastasis(M)---------------------- 
+Stage IVB 
+M1  ¡´Distant metastasis 
+¡³ Invasion of gallbladder 
+¡³ Cardiophrenic, Mesenteric, Retrocrural LN 
+Imaging stage   T4 N0 M1( in this study) 
+ 

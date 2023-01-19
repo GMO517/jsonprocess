@@ -1,0 +1,100 @@
+
+       Report: Brief Hx: liver tumor, big, cholangiocarcinoma 
+ 
+CT of Liver without and with IV enhancement triphasic scans studies   
+ 
+Techniques:  
+ 
+From lower chest to liver inferior edge in 5-mm contiguous section, contrast medium injected, arterial phase scan starting at 30 sec after initiation of injection; portal phase scan performed in 20 sec after the end of the arterial phase; and venous phase scan at 20 sec after the end of the portal phase  
+ 
+Findings: 
+ 
+Consolidation of RLL lung 
+ 
+Lobulated and uneven contour of liver compatible with chronic liver disease 
+ 
+Large ill-defined hypodense mass about 6.6x9.0cm with mild enhancement in high S4-8, the tumor margin is obliterated with HVs and IVC 
+ 
+The tumor invasion through the diaphragm also noted 
+ 
+Patency of the portal veins 
+ 
+Mild splenomegaly 
+ 
+Mild ascites 
+ 
+No definite biliary dilatation, normal GB 
+ 
+Unremarkable change of the pancreas 
+ 
+No abnormal fluid collection in the abdomen  
+ 
+No hydronephrosis 
+ 
+No evident enlarged retroperitoneal LNs 
+ 
+IMP: 
+ 
+Ill-defined large tumor over high S4-8 liver with invasion through diaphragm, compatible with cholangioca 
+ 
+ 
+ 
+●TNM for Cholangiocarcinoma (AJCC 7th Edition) 
+ 
+1.Tumor Location: S4-8 
+ 
+2.Tumor Size: 9cm 
+ 
+3.Pathology: ○Not available ●Available (Pathology type:□) 
+ 
+ 
+ 
+-------------------Primary Tumor(T)------------------- 
+ 
+ Tx    ○Primary tumor cannot be assessed □ 
+ 
+ T0    ○No primary tumor □ 
+ 
+Stage I 
+ 
+ T1    ○Solitary tumor without vascular invasion □ 
+ 
+Stage II 
+ 
+ T2a    ○Solitary tumor with vascular invasion 
+ 
+ T2b    ○Multiple tumors with or without vascular invasion 
+ 
+ 
+ 
+Stage III 
+ 
+ T3 ●Tumor perforating the visceral peritoneum or involving the local extrahepatic structures by direct invasion□ 
+ 
+Stage IVA 
+ 
+ T4  ○Tumor(s) with periductal invasion□ 
+ 
+ 
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+ Nx    ○Regional lymph nodes cannot be assessed □ 
+ 
+ N0    ●No regional lymph nodes □ 
+ 
+Stage IVA 
+ 
+ N1    ○Regional lymph node metastasis □ 
+ 
+ 
+ 
+-------------------Distant Metastasis(M)------------------- 
+ 
+Stage IVB 
+ 
+ M1    ○Distant metastasis□ 
+ 
+ 
+ 
+Imaging stage:   T3 N0 ( in this study) 

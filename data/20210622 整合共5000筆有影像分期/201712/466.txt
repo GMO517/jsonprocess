@@ -1,0 +1,127 @@
+ Report: Brief Hx: liver cirrhosis, liver nodule 
+ 
+CT of Liver without and with IV enhancement triphasic scans studies   
+ 
+Techniques:  
+ 
+From lower chest to liver inferior edge in 5-mm contiguous section, contrast medium injected, arterial phase scan starting at 30 sec after initiation of injection; portal phase scan performed in 20 sec after the end of the arterial phase; and venous phase scan at 20 sec after the end of the portal phase  
+ 
+Findings: 
+ 
+Lobulated and uneven contour of liver compatible with liver cirrhosis 
+ 
+One mild early enhanced liver nodule in S2 about 2.0cm with early washout may be HCC 
+ 
+Patency of the portal veins 
+ 
+Mild splenomegaly 
+ 
+No ascites 
+ 
+No definite biliary dilatation, but small gallstone noted 
+ 
+Unremarkable change of the pancreas 
+ 
+No abnormal fluid collection in the abdomen  
+ 
+No hydronephrosis 
+ 
+No evident enlarged retroperitoneal LNs 
+ 
+IMP: 
+ 
+Liver cirrhosis with splenomegaly and gallstone 
+ 
+One mild early enhanced liver nodule in S2 about 2.0cm may be HCC 
+ 
+ 
+ 
+(tentative tumor staging for HCC) 
+ 
+●Imaging Report Form for Hepatocellua Carcinoma (AJCC 7th Edition) 
+ 
+1.Tumor Number/Location:  
+ 
+    Number: ●1 ○2 ○3 ○Multiple: 
+ 
+    Location:  S2  
+ 
+2.Tumor Size:  
+ 
+    ○Measurable: 2.0 cm (the largest tumor) 
+ 
+    ○Non-measurable 
+ 
+3.Tumor Characteristics and Associated Liver Features 
+ 
+    ○Vascular invasion  
+ 
+    ○Extrahepatic spread  
+ 
+    ○Ascites  
+ 
+    ○Portal vein thrombosis, location  
+ 
+    ○Portosystemic collateral vessel 
+ 
+    ●Typical enhancement pattern (hypervascular enhancement and early wash-out) 
+ 
+3.Pathology: ●Not available ○Available (Pathology type:□) 
+ 
+ 
+ 
+-------------------Primary Tumor(T)-------------------------- 
+ 
+ Tx    ○Primary tumor cannot be assessed  
+ 
+ T0    ○No primary tumor  
+ 
+Stage I 
+ 
+ T1    ●Solitary tumor without vascular invasion  
+ 
+Stage II 
+ 
+ T2    ○Solitary tumor with vascular invasion 
+ 
+       ○Multiple tumors none more than 5 cm 
+ 
+Stage III 
+ 
+ A T3a ○Multiple tumors more than 5 cm  
+ 
+ B T3b ○Single tumor or multiple tumors of any size 
+ 
+       involving a major branch of the portal vein or 
+ 
+       hepatic vein  
+ 
+ C T4  ○Tumor(s) with direct invasion of IVC, biliary trees, adjacent 
+ 
+       organs other than the gallbladder or with 
+ 
+       perforation of visceral peritoneum.  
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+ Nx    ○Regional lymph nodes cannot be assessed  
+ 
+ N0    ●No regional lymph nodes 
+ 
+Stage IVA 
+ 
+ N1    ○Regional lymph node metastasis  
+ 
+        ○Periceliac, ○Hilar( common bile duct, hepatic artery, portal vein and cystic duct) ○Peripancreatic ○Paraaortic ○Portocaval ○Retrocaval ○Others_______  
+ 
+-------------------Distant Metastasis(M)---------------------- 
+ 
+Stage IVB 
+ 
+ M1    ○Distant metastasis 
+ 
+○ Invasion of gallbladder 
+ 
+○ Cardiophrenic, Mesenteric, Retrocrural LN 
+ 
+Imaging stage   T1 N0 

@@ -1,0 +1,83 @@
+ 
+Findings: 
+ 
+Multiple hypodense liver nodules without enhancement over right lobe as cluster, the biggest one about 4.0cm 
+ 
+Diffuse dilatation of biliary tree with soft tissue mass densities in the dilataed right IHDs, CHA and CBD 
+ 
+The GB is not seen 
+ 
+Patency of the portal veins but RPV is encased or invaded by the tumors 
+ 
+Mild splenomegaly 
+ 
+No ascites 
+ 
+Unremarkable change of the pancreas 
+ 
+No abnormal fluid collection in the abdomen  
+ 
+No hydronephrosis 
+ 
+No evident enlarged retroperitoneal LNs 
+ 
+ 
+ 
+IMP: 
+ 
+Hypodense nodular masses over right liver encasing or invading RPV and masses in dilated right IHDs, CHD and CBD, favoring cholangioca 
+ 
+ 
+ 
+●TNM for Cholangiocarcinoma (AJCC 7th Edition) 
+ 
+1.Tumor Location: right lobe 
+ 
+2.Tumor Size: the biggest one about 4cm 
+ 
+3.Pathology: ●Not available ○Available (Pathology type:□) 
+ 
+ 
+ 
+-------------------Primary Tumor(T)------------------- 
+ 
+ Tx    ○Primary tumor cannot be assessed □ 
+ 
+ T0    ○No primary tumor □ 
+ 
+Stage I 
+ 
+ T1    ○Solitary tumor without vascular invasion □ 
+ 
+Stage II 
+ 
+ T2a    ○Solitary tumor with vascular invasion 
+ 
+ T2b    ○Multiple tumors with or without vascular invasion 
+ 
+ 
+ 
+Stage III 
+ 
+ T3     ●Tumor perforating the visceral peritoneum or involving the local extrahepatic structures by direct invasion□ 
+ 
+Stage IVA 
+ 
+ T4     ○Tumor(s) with periductal invasion□ 
+ 
+ 
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+ Nx     ○Regional lymph nodes cannot be assessed □ 
+ 
+ N0     ●No regional lymph nodes □ 
+ 
+Stage IVA 
+ 
+ N1     ○Regional lymph node metastasis □ 
+ 
+ 
+ 
+Imaging stage:  T3 N0 (revised the staging by committee opinion) 
+ 

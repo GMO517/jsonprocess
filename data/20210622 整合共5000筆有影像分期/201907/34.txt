@@ -1,0 +1,74 @@
+brief hx: a 46 y/o male with suspect liver nodule on s7 (3cm)
+
+  
+  ct of the liver with pre-contrast & triphasic contrast enhancement 
+  studies show:  
+  techniques: 
+  from lower chest to liver inferior edge in 5-mm contiguous section 
+  contrast agent -100ml of contrast medium injected at 2ml/sec, 30 sec 
+  after initiation of injection, starting arterial phase scan; portal 
+  phase scan performed in 20 sec after the end of the arterial phase 
+  scan; and venous phase scan began in 20 sec after the end of portal 
+  phase scan
+  
+  findings:
+  
+  no definite pulmonary nodule in visual field.
+  small liver cyst(0.9cm) in s7.
+  lobulated contour of liver compatible with liver cirrhosis  .
+  mild splenomegaly.
+  one early enhanced and washed out tumor(3.38cm) in s7 liver near the 
+  right hepatic vein, compatible with hcc.
+  no definite space occupying lesion in the liver, spleen and pancreas.
+  no definite biliary dilatation  .
+  gallbladder stone.
+  patency of portal vein  
+  normal function and contour of bil. kidneys and no definite 
+  obstructive uropathy.
+  no definite enlargement of retroperitoneal lns  .
+  no abnormal fluid collection in the abdomen  .
+  the volume of the right posterior liver is 596 cm3, the left and rigth 
+  anterior liver is 452 cm3
+  
+  tnm for hepatocellua carcinoma (ajcc 7th edition)
+  1.tumor location: s7
+  2.tumor size: 3.38cm
+  3.pathology: ¡´not available ¡³available (pathology type:¡¼)
+  
+  -------------------primary tumor(t)-------------------
+   tx    ¡³primary tumor cannot be assessed ¡¼
+   t0    ¡³no primary tumor ¡¼
+  stage i
+   t1    ¡´solitary tumor without vascular invasion ¡¼
+  stage ii
+   t2    ¡³solitary tumor with vascular invasion
+         ¡³multiple tumors none more than 5 cm
+         ¡¼
+  stage iii
+   a t3a ¡³multiple tumors more than 5 cm ¡¼
+   b t3b ¡³single tumor or multiple tumors of any size
+         involving a major branch of the portal vein or
+         hepatic vein ¡¼
+   c t4  ¡³tumor(s) with direct invasion of adjacent
+         organs other than the gallbladder or with
+         perforation of visceral peritoneum. ¡¼
+  
+  -------------------regional lymph nodes(n)-----------------
+   nx    ¡³regional lymph nodes cannot be assessed ¡¼
+   n0    ¡´no regional lymph nodes ¡¼
+  stage iva
+   n1    ¡³regional lymph node metastasis ¡¼
+  
+  -------------------distant metastasis(m)-------------------
+   m0    ¡´no distant metastasis¡¼
+  stage ivb
+   m1    ¡³distant metastasis¡¼
+  
+  tumor stage   t 1 n 0 m x
+                stage 1
+¡ÕºK­n¡Ö
+  *favoring s7 hcc(3.38cm) with questionble right  hepatic vein invasion,
+   presumed stage i(t1n0mx).
+  *liver cirrhosis with mild splenomegaly.
+  *gb stone.
+  *s7 liver cyst(0.9cm)

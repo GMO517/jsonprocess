@@ -1,0 +1,104 @@
+Findings: 
+ 
+ 
+ 
+Mild pulmonary infiltration in the left posterior basal lung. 
+ 
+Lobulated contour of liver compatible with liver cirrhosis.  
+ 
+S/P LLS hepatectomy. 
+ 
+A 0.9 cm cyst in S4 liver. 
+ 
+No definite biliary dilatation.  
+ 
+Patency of portal vein.  
+ 
+Normal function and contour of bil. kidneys.  
+ 
+Bil. renal cysts, the largest one about 1.6 cm in left kidney. 
+ 
+A 1.1 cm soft tissue lesion in posterior lower pole of right kidney with perirenal hypodensity. 
+ 
+Patency of bil. ureters.  
+ 
+No definite enlargement of retroperitoneal LNs.  
+ 
+No abnormal fluid collection in the abdomen.  
+ 
+Enlarged prostate glands with internal small calcifcation.  
+ 
+ 
+ 
+ 
+ 
+●Imaging Report Form for Renal Tumor (AJCC 7th Edition) 
+ 
+1.Tumor Location: ●Right Kidney, ○Left Kidney, ○Both Kidneys 
+ 
+2.Tumor Size:  
+ 
+○Measurable: 1.1 cm (greatest dimension),  
+ 
+○ Non-measurable 
+ 
+3.Pathology: ●Not available ○Available (Pathology type:□) 
+ 
+-------------------Primary Tumor(T)--------------------------- 
+ 
+T0    ○No primary tumor  
+ 
+T1    ○Tumor?7cm (limited to kidney)  
+ 
+  T1a ○Tumor〈=4cm  
+ 
+  T1b ○4cm〈Tumor〈=7cm  
+ 
+T2    ○Tumor〉7cm(limited to kidney)  
+ 
+  T2a ○7cm〈Tumor〈=10cm  
+ 
+  T2b ○Tumor〉10cm  
+ 
+T3    ●Extends into major veins or perirenal tissue  
+ 
+  T3a ○Extends into renal vein or segmental branches  
+ 
+      ●Invades perirenal and/or renal sinus fat  
+ 
+  T3b ○Extends into vena cava below diaphragm  
+ 
+  T3c ○Extends into vena cava above diaphragm  
+ 
+      ○Invades the wall of the vena cava  
+ 
+T4    ○Invades beyond Gerota's fascia 
+ 
+      ○Extension into the ipsilateral adrenal gland 
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+N0    ●No regional lymph nodes  
+ 
+N1    ○Regional lymph nodes metastasis  
+ 
+○Renal hilar ○Paracaval ○Aortocaval ○Paraaortic 
+ 
+-------------------Distant Metastasis(M)----------------------- 
+ 
+M1   ○Distant metastasis  
+ 
+ 
+ 
+Imaging stage   T3a N0( in this study) 
+ 
+ 
+ 
+Imp.:  
+ 
+(1) Liver cirrhosis, S/P LLS hepatectomy and a 0.9 cm cyst in S4 liver. 
+ 
+(2) No recurrent tumor in the liver.  
+ 
+***(3) A 1.1 cm soft tissue lesion in posterior lower pole of right kidney with perirenal hypodensity, nature? Suspect renal tumor with perirenal extension or other renal lesion, no pathology proof, tentative imaging stage: T3a N0( in this study) 
+              Creation Date: 2013.05.18 

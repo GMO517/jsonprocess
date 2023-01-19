@@ -1,0 +1,105 @@
+Findings: 
+ 
+Pulmonary infiltrates in visualized bil. lower lungfields 
+ 
+Fibrosis or subsegmental atelectasis over RLL 
+ 
+Coarse parenchyma and lobulated contour of liver compatible with cirrhotic change 
+ 
+Ill-defined, heterogeneously enhancing liver mass and nodules over bilobar liver, the largest over right lobe extending to S4 and S1/caudate with exophytic component(10.1x12.7x18cm) 
+ 
+Diffuse PV thrombosis of RPV and MPV (8.8cm) 
+ 
+Partial thrombus formation in LPV 
+ 
+Tumor infiltration of RHV and partial IVC, compressed MHV by mass 
+ 
+Gallstone(0.6cm), no evident biliary tree dilatation 
+ 
+Splenomegaly 
+ 
+Massive abdominal and pelvic ascites 
+ 
+No enlarged retroperitoneal LNs 
+ 
+ 
+ 
+IMP: 
+ 
+* Liver cirrhosis and splenomegaly with massive ascites 
+ 
+* Favor infiltrative bil. HCCs, largest over right lobe extending to S4 and S1/caudate(10.1x12.7x18cm) 
+ 
+* Diffuse PV thrombosis of RPV and MPV(8.8cm) & LPV partial thrombus  
+ 
+* Tumor infiltration of RHV and partial IVC, compressed MHV by mass 
+ 
+ 
+ 
+●TNM for Hepatocellular Carcinoma (AJCC 7th Edition) 
+ 
+1.Tumor Location: □ bilobar 
+ 
+2.Tumor Size: 18cm 
+ 
+3.Pathology: ●Not available ○Available (Pathology type:□) 
+ 
+ 
+ 
+-------------------Primary Tumor(T)------------------- 
+ 
+ Tx    ○Primary tumor cannot be assessed □ 
+ 
+ T0    ○No primary tumor □ 
+ 
+Stage I 
+ 
+ T1    ○Solitary tumor without vascular invasion □ 
+ 
+Stage II 
+ 
+ T2    ○Solitary tumor with vascular invasion 
+ 
+       ○Multiple tumors none more than 5 cm 
+ 
+ 
+ 
+Stage III 
+ 
+ A T3a ○Multiple tumors more than 5 cm □ 
+ 
+ B T3b Single tumor or multiple tumors of any size 
+ 
+       involving a major branch of the portal vein or 
+ 
+       hepatic vein □ 
+ 
+ C T4  ●Tumor(s) with direct invasion of adjacent 
+ 
+       organs other than the gallbladder or with 
+ 
+       perforation of visceral peritoneum. □ 
+ 
+ 
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+ Nx    ○Regional lymph nodes cannot be assessed □ 
+ 
+ N0    ●No regional lymph nodes □ 
+ 
+Stage IVA 
+ 
+ N1    ○Regional lymph node metastasis □ 
+ 
+ 
+ 
+-------------------Distant Metastasis(M)------------------- 
+ 
+Stage IVB 
+ 
+ M1    ○Distant metastasis□ 
+ 
+ 
+ 
+Imaging stage   T4 N0 (in this study) 

@@ -1,0 +1,137 @@
+Findings: . 
+ 
+ 
+ 
+No definite pulmonary nodule noted in visualized field.  
+ 
+A huge hypodense nodular mass (15.6 cm) and multiple daughter nodules in right lobe of liver (one small nodule in LLS liver), multifoci of strong enhacement noed in the huge tumor, incontinuity of liver capsule with perihepatic fluid collection , highly suspected HCCs with tumor rupture. 
+ 
+Mild dilatation of IHDs 
+ 
+No definite regional lymphadenopathy.  
+ 
+Occlusion of RPV. 
+ 
+Small perihepatic fluid collection and pelvis. 
+ 
+Tumor thromboses in RPV with near total occlusion. 
+ 
+Patency of MPV and LPV.  
+ 
+GB sludge and stones 
+ 
+Normal function and contour of bil. kidney(s) 
+ 
+Patency of bil. ureter(s). 
+ 
+No definite enlargement of retroperitoneal LNs  . 
+ 
+Wall-thickening of non-fully expanded urinary bladder  
+ 
+Perivesical fat is intact 
+ 
+No enlarged lymph node in the pelvis   
+ 
+No definite bony destruction.  
+ 
+Kindly note that subtle mucosal lesion could not be well evaluated on routine CT.  
+ 
+ 
+ 
+IMP: * Highly suspected multifocal HCCs with tumor rupture, ascites , RPV thrombosis. 
+ 
+     * GB sludge and stones 
+ 
+ 
+ 
+Tentative imaging staging (Not pathology proven yet)  
+ 
+ 
+ 
+●Imaging Report Form for Hepatocellua Carcinoma (AJCC 7th Edition) 
+ 
+1.Tumor Number/Location:  
+ 
+    Number: ○1 ○2 ○3 ●Multiple: 
+ 
+    Location:  □  
+ 
+2.Tumor Size:  
+ 
+    ●Measurable: 15.6 cm (the largest tumor) 
+ 
+    ○Non-measurable 
+ 
+3.Tumor Characteristics and Associated Liver Features 
+ 
+    ●Vascular invasion  
+ 
+    ○Extrahepatic spread  
+ 
+    ●Ascites  
+ 
+    ●Portal vein thrombosis, RPV  
+ 
+    ○Portosystemic collateral vessel 
+ 
+    ○Typical enhancement pattern (hypervascular enhancement and early wash-out) 
+ 
+3.Pathology: ●Not available ○Available (Pathology type:□) 
+ 
+ 
+ 
+-------------------Primary Tumor(T)-------------------------- 
+ 
+ Tx    ○Primary tumor cannot be assessed  
+ 
+ T0    ○No primary tumor  
+ 
+Stage I 
+ 
+ T1    ○Solitary tumor without vascular invasion  
+ 
+Stage II 
+ 
+ T2    ○Solitary tumor with vascular invasion 
+ 
+       ○Multiple tumors none more than 5 cm 
+ 
+Stage III 
+ 
+ A T3a ○Multiple tumors more than 5 cm  
+ 
+ B T3b ○Single tumor or multiple tumors of any size 
+ 
+       involving a major branch of the portal vein or 
+ 
+       hepatic vein  
+ 
+ C T4  ●Tumor(s) with direct invasion of IVC, biliary trees, adjacent 
+ 
+       organs other than the gallbladder or with 
+ 
+       perforation of visceral peritoneum.  
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+ Nx    ○Regional lymph nodes cannot be assessed  
+ 
+ N0    ●No regional lymph nodes 
+ 
+Stage IVA 
+ 
+ N1    ○Regional lymph node metastasis  
+ 
+        ○Periceliac, ○Hilar( common bile duct, hepatic artery, portal vein and cystic duct) ○Peripancreatic ○Paraaortic ○Portocaval ○Retrocaval ○Others_______  
+ 
+-------------------Distant Metastasis(M)---------------------- 
+ 
+Stage IVB 
+ 
+ M1    ○Distant metastasis 
+ 
+○ Invasion of gallbladder 
+ 
+○ Cardiophrenic, Mesenteric, Retrocrural LN 
+ 
+Imaging stage   T4 N0 ( in this study) 

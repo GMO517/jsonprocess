@@ -1,0 +1,60 @@
+brief hx: a 60-year-old male patient withbladder cancer staging
+  
+  liver ct without and with iv enhancement triphasic scans studies
+  techniques: 
+    from lower chest to liver inferior edge in 5-mm contiguous section for before 
+  and after iv enhancement ct.
+  findings:
+  plate atelectasis bilateral lower lobes 
+  lobulated contour of liver compatible with liver cirrhosis. 
+  postoperative appearance of left hepatectomy and cholecystectomy. 
+  focal ap shunting in s4 liver.
+  another early enhanced lesion(1.1cm) in s4 liver, ap shunting? no obvious change 
+  compared with previous ct on 2010.10.22.
+  no definite biliary dilatation. 
+  patency of portal vein. 
+  normal function and contour of bil. kidneys. 
+  bil. renal stones, the largest one about 0.33 cm in right kidney.
+  bil. renal cysts, the largest one about 0.7 cm in right kidney.
+  no definite obstructive uropathy. 
+  no definite enlargement of retroperitoneal lns. 
+  no abnormal fluid collection in the abdomen. 
+  collapsed urinary bladder.
+  focal thickened urinary bladder of right lateral mucosal wall, compatiblew ith .
+  s/p subtotal colectomy.
+  
+  imp.: 
+  (1) liver cirrhosis.
+  (2) s/p left hepatectomy and cholecystectomy. 
+  (3) focal ap shunting in s4 liver.
+  (4) urinary bladder tumor in right lateral wall.
+  ¡´imaging report form for urinary bladder tumor (ajcc 7th edition)
+  1.tumor location: ¡¼
+  2.tumor size: ¡¼cm
+  3.pathology: ¡´not available ¡³available (pathology type:¡¼)
+  
+  -------------------primary tumor(t)--------------------------
+  tx    ¡³primary tumor cannot be assessed
+  t0    ¡³no evidence of primary tumor
+  ta    ¡³non-invasive papillary carcinoma
+  tis    ¡³carcinoma in situ- flat tumor
+  t1    ¡³tumor invades subepithelial connective tissue
+  t2    ¡´tumor invades muscle
+    t2a ¡³tumor invades superficial muscle
+    t2b ¡³tumor invades deep muscle
+  t3    ¡³tumor invades perivesical tissue
+  t4    ¡³tumor invades any of the following: prostate, uterus, vagina, pelvic wall, 
+  abdominal wall
+  t4a   ¡³tumor invades prostate, uterus, vagina
+  t4b   ¡³tumor invades pelvic wall, abdominal wall
+  -------------------regional lymph nodes(n)-----------------
+  nx    ¡³regional lymph nodes cannot be assessed
+  n0    ¡´no regional lymph nodes
+  n1    ¡³single regional lymph node metastasis < 2cm
+  n2    ¡³single regional lymph node > 2cm but < 5cm in greatest dimension; or 
+  multiple lymph nodes, all < 5cm
+  n3    ¡³metastasis in lymph nodes > 5cm in greatest dimension
+  -------------------distant metastasis(m)---------------------
+  m1    ¡³distant metastasis ¡¼
+  
+  imaging stage:   t2 n0(in this study)

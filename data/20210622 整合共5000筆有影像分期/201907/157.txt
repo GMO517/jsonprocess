@@ -1,0 +1,63 @@
+ computed tomography of ct angiography (cta) with and without enhancement show:
+    ill martginated tumor over s4 liver    
+    isolated dilatation of bilateral ihds with s/p biliary stent
+    no definite enlargement of retroperitoneal lns  .
+    no definite obstructive uropathy  .
+    no abnormal fluid collection in the abdomen  .
+    patency of the portal vein and hepatic artery
+    the vol of the right liver is 787cm3 and the left liver is 555cm3
+    imp: hilar cholangiocarcinoma with isolated dilatation of the bil ihds
+    
+    
+    ¡´imaging report form for perihilar bile ducts tumor (ajcc 7th edition)
+    
+    1.tumor number/location: 
+        location:  ¡¼ 
+    2.tumor size: 
+       ¡³measurable:  cm (the largest tumor)
+       ¡³non-measurable
+    3.pathology: ¡³not available ¡³available (pathology type:¡¼)
+    
+    -------------------primary tumor(t)--------------------------
+     tx    ¡³primary tumor cannot be assessed
+     t0    ¡³no primary tumor
+    stage 0
+     tis   ¡³carcinoma in situ
+    stage i
+     t1    ¡³tumor confined to the bile duct, with extension up to the muscle 
+  layer 
+    or fibrous tissue
+    stage ii
+     t2a   ¡³tumor invades beyond the wall of the bile duct to surrounding
+   adipose
+     tissue
+     t2b   ¡´tumor invades adjacent hepatic parenchyma
+    stage iiia
+     t3    ¡³tumor invades unilateral branches of the portal vein or hepatic
+   artery
+    stage iva (t4 n0-n1)
+     t4    ¡³tumor invades main portal vein or its branches bilaterally; or the 
+    common hepatic artery; or the second-order biliary radicals bilaterally; or
+     unilateral
+    second-order biliary radicals with contralateral portal vein or hepatic artery
+     involvement
+    -------------------regional lymph nodes(n)-----------------
+     nx    ¡³regional lymph nodes cannot be assessed
+     n0    ¡´no regional lymph nodes ¡¼
+    stage iiib (t1-3 n1 m0)
+     n1    ¡³regional lymph node metastasis (including nodes along the cystic 
+  duct,
+    common bile duct, hepatic artery, and portal vein)
+    stage ivb
+     n2    ¡³metastasis to periaortic, pericaval, superior mesentery artery, and/
+  or 
+    celiac artery lymph nodes
+     
+    -------------------distant metastasis(m)---------------------
+     m0   ¡³no distant metastasis (no pathologic m0; use clinical m to complete 
+    stage group)
+    stage ivb
+     m1   ¡³distant metastasis¡¼
+    
+    imaging stage   t2b n0( in this study)
+    

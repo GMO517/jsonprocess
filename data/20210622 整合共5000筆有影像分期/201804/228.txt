@@ -1,0 +1,57 @@
+Findings: 
+Lobulated and uneven contour of liver compatible with liver cirrhosis 
+Multiple ill-defined early enhanced/ early washout liver nodules in right lobe, the bigges up to 5.6cm in S7-8, favoring HCCs 
+Multiple liver cysts in S3 and S5 up to 2.5cm 
+Focal polypoid mass about 2.0cm in gallbladder fundus, tumor? 
+Patency of the portal veins 
+Mild splenomegaly 
+No ascites 
+No definite biliary dilatation 
+Unremarkable change of the pancreas 
+No abnormal fluid collection in the abdomen  
+No hydronephrosis 
+No evident enlarged retroperitoneal LNs 
+IMP: 
+Liver cirrhosis with splenomegaly 
+Multiple ill-defined early enhanced/ washout liver nodules in right lobe, the bigges up to 5.6cm in S7-8, favoring HCCs 
+Focal polypoid mass about 2.0cm in gallbladder fundus, tumor? 
+●Imaging Report Form for Hepatocellua Carcinoma (AJCC 8th Edition) 
+1.Tumor Number/Location:  
+-Number:   
+-Location:  
+2.Tumor Size: Measurable: cm (the largest tumor) 
+3.Tumor Characteristics and Associated Liver Features     
+     ○Vascular invasion      
+     ○Extrahepatic spread      
+     ○Ascites      
+     ○Portal vein thrombosis 
+     ○Portosystemic collateral vessel     
+     ○Typical enhancement pattern (hypervascular enhancement and early wash-out) 
+3.Pathology: Not available  
+-------------------Primary Tumor(T)-------------------------- 
+Tx     ○Primary tumor cannot be assessed  
+T0     ○No primary tumor 
+Stage I 
+T1     ○Solitary tumor ≦2 cm, or 〉 2cm without vascular invasion   
+   T1a   ○Solitary tumor ≦2 cm   
+   T1b   ○Solitary tumor 〉 2cm without vascular invasion 
+Stage II 
+T2     ○Solitary tumor 〉2cm with vascular invasion, or multiple tumors,none 〉5cm  
+Stage III 
+T3     ●Multiple tumors more than 5 cm  
+T4     ○Single tumor or multiple tumors of any size involving a major branch of the portal vein or hepatic vein, or tumor(s) with direct 
+          invasion of adjacent organs other than the gallbladder or with perforation of visceral peritoneum  
+-------------------Regional Lymph Nodes(N)----------------- 
+Nx     ○Regional lymph nodes cannot be assessed  
+N0     ●No regional lymph nodes 
+Stage IVA 
+N1     ○Regional lymph node metastasis 
+           ○Periceliac  ○Hilar( common bile duct, hepatic artery, portal vein and cystic duct)  
+         ○Peripancreatic   ○Paraaortic   ○Portocaval   ○Retrocaval 
+         ○Others  
+-------------------Distant Metastasis(M)---------------------- 
+Stage IVB 
+M1     ○Distant metastasis 
+          ○Invasion of gallbladder 
+          ○Cardiophrenic, Mesenteric, Retrocrural LN 
+Imaging stage   T N ( in this study) 

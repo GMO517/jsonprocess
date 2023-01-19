@@ -1,0 +1,98 @@
+ 
+Findings: 
+ 
+Relative low density of liver is compatible with fatty liver  
+ 
+Ill-defined hypodense mass in S6 about 5.3-5.7cm with poor enhancement, suspicious cholangioca, focal thrombosis over branch of RHV may be due to tumor invasion 
+ 
+Patency of the portal veins 
+ 
+Mild splenomegaly 
+ 
+No ascites 
+ 
+No definite biliary dilatation, normal GB 
+ 
+Unremarkable change of the pancreas 
+ 
+No abnormal fluid collection in the abdomen  
+ 
+No hydronephrosis 
+ 
+No evident enlarged retroperitoneal LNs 
+ 
+IMP: 
+ 
+Ill-defined hypodense mass in S6(5.7cm) with poor enhancement, suspicious cholangioca, focal RHV branch thrombosis r/o tumor invasion 
+ 
+ 
+ 
+(tentative tumor staging) 
+ 
+●Imaging Report Form for intrahepatic bile ducts tumor (AJCC 7th Edition) 
+ 
+ 
+ 
+1.Tumor Number/Location:  
+ 
+    Location:  S6 
+ 
+2.Tumor Size:  
+ 
+   ○Measurable: 5.7 cm (the largest tumor) 
+ 
+   ○Non-measurable 
+ 
+3.Pathology: ○Not available ○Available (Pathology type:□) 
+ 
+ 
+ 
+-------------------Primary Tumor(T)-------------------------- 
+ 
+ Tx    ○Primary tumor cannot be assessed 
+ 
+ T0    ○No primary tumor 
+ 
+Stage 0 
+ 
+ Tis   ○Carcinoma in situ 
+ 
+Stage I 
+ 
+ T1    ○Solitary tumor without vascular invasion 
+ 
+Stage II 
+ 
+ T2a   ●Solitary tumor with vascular invasion 
+ 
+ T2b   ○Multiple tumors with or without vascular invasion 
+ 
+Stage III 
+ 
+ T3    ○Tumor perforating the visceral peritoneum or involving the local extrahepatic structures by direct invasion 
+ 
+Stage IVA 
+ 
+ T4    ○Tumor(s) with periductal invasion 
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+ Nx    ○Regional lymph nodes cannot be assessed 
+ 
+ N0    ●No regional lymph nodes □ 
+ 
+Stage IVA 
+ 
+ N1    ○Regional lymph node metastasis □ 
+ 
+-------------------Distant Metastasis(M)--------------------- 
+ 
+ M0   ○No distant metastasis (no pathologic M0; use clinical M to complete stage group) 
+ 
+Stage IVB 
+ 
+ M1   ○Distant metastasis□ 
+ 
+ 
+ 
+Imaging stage   T2a N0( in this study) 

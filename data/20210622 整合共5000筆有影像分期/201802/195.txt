@@ -1,0 +1,77 @@
+Findings: 
+ 
+Lobulated and uneven contour of liver compatible with liver cirrhosis 
+ 
+One tiny hypodense liver nodule about 1.0cm in S8 with early enhancement and washout 
+ 
+Patency of the portal veins 
+ 
+Moderate splenomegaly 
+ 
+No ascites 
+ 
+No definite biliary dilatation, normal GB 
+ 
+Unremarkable change of the pancreas 
+ 
+No abnormal fluid collection in the abdomen  
+ 
+No hydronephrosis 
+ 
+No evident enlarged retroperitoneal LNs 
+ 
+ 
+ 
+IMP: 
+ 
+Liver cirrhosis with splenomegaly 
+ 
+One small enhanced liver nodule in S8, suspected HCC 
+ 
+ 
+ 
+ 
+ 
+(this is a tentative tumor staging) 
+ 
+●TNM for Hepatocellua Carcinoma (AJCC 7th Edition) 
+ 
+1.Tumor Location: S8 
+ 
+2.Tumor Size: 1.0cm 
+ 
+3.Pathology: ●Not available ○Available (Pathology type:□) 
+ 
+ 
+ 
+-------------------Primary Tumor(T)------------------- 
+ 
+ Tx    ○Primary tumor cannot be assessed □ 
+ 
+ T0    ○No primary tumor □ 
+ 
+Stage I 
+ 
+ T1    ●Solitary tumor without vascular invasion □ 
+ 
+ 
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+ Nx    ○Regional lymph nodes cannot be assessed □ 
+ 
+ N0    ●No regional lymph nodes □ 
+ 
+ 
+ 
+-------------------Distant Metastasis(M)------------------- 
+ 
+ M0    ●No distant metastasis□ 
+ 
+ 
+ 
+ 
+ 
+Imaging stage   T1 N0 M0 (in this study) 
+ 
+ 

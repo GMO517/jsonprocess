@@ -1,0 +1,146 @@
+ Reason for Exam:  
+ 
+       Report: Liver CT without and with IV enhancement triphasic scans studies:  
+ 
+ 
+ 
+No previous CT to be compared.  
+ 
+Findings:  
+ 
+ 
+ 
+Dense pleural thickeing with calcification in bil lower chests due to fibrothorax.  
+ 
+A 3.7 cm duodenal diverticulum. 
+ 
+A 2.87 cm early enhancement and early washout nodule in LLS liver, highly suspected viable HCC. 
+ 
+A 0.89 cm strongly persistently enhancing nodule in S6 liver, favor hemangioma. 
+ 
+Two small nodules with centripetal enhancement in S4 (1.0 cm) and S6-7 (1.1 cm) liver, maybe due to hemangiomas 
+ 
+NNo definite focal mass in pancreas and spleen. 
+ 
+Patency of portal vein.  
+ 
+No definite biliary dilatation.  
+ 
+Unremarkable gallbladder without stone.  
+ 
+Calcification of prostate.  
+ 
+No definite adrenal nodule.  
+ 
+No definite retroperitoneal lymphadenopathy.  
+ 
+No definite hydronephrosis  
+ 
+No fluid collection in abdomen.  
+ 
+No definite bony destruction.  
+ 
+Kindly note that subtle mucosal lesion could not be well evaluated on routine CT.  
+ 
+ 
+ 
+IMP: * A 2.87 cm early enhancement and early washout nodule in LLS liver, highly suspected viable HCC. 
+ 
+     * A 0.89 cm strongly persistently enhancing nodule in S6 liver, favor hemangioma. 
+ 
+     * Two small nodules with centripetal enhancement in S4 (1.0 cm) and S6-7 (1.1 cm) liver, maybe due to hemangiomas? 
+ 
+ 
+ 
+Tentative imaging staging (Not pathology proven yet)  
+ 
+ 
+ 
+¡´Imaging Report Form for Hepatocellua Carcinoma (AJCC 7th Edition) 
+ 
+1.Tumor Number/Location:  
+ 
+    Number: ¡´1 ¡³2 ¡³3 ¡³Multiple: 
+ 
+    Location:  LLS liver  
+ 
+2.Tumor Size:  
+ 
+    ¡´Measurable: 2.87 cm (the largest tumor) 
+ 
+    ¡³Non-measurable 
+ 
+3.Tumor Characteristics and Associated Liver Features 
+ 
+    ¡³Vascular invasion  
+ 
+    ¡³Extrahepatic spread  
+ 
+    ¡³Ascites  
+ 
+    ¡³Portal vein thrombosis, location  
+ 
+    ¡³Portosystemic collateral vessel 
+ 
+    ¡´Typical enhancement pattern (hypervascular enhancement and early wash-out) 
+ 
+3.Pathology: ¡´Not available ¡³Available (Pathology type:¡¼) 
+ 
+ 
+ 
+-------------------Primary Tumor(T)-------------------------- 
+ 
+ Tx    ¡³Primary tumor cannot be assessed  
+ 
+ T0    ¡³No primary tumor  
+ 
+Stage I 
+ 
+ T1    ¡´Solitary tumor without vascular invasion  
+ 
+Stage II 
+ 
+ T2    ¡³Solitary tumor with vascular invasion 
+ 
+       ¡³Multiple tumors none more than 5 cm 
+ 
+Stage III 
+ 
+ A T3a ¡³Multiple tumors more than 5 cm  
+ 
+ B T3b ¡³Single tumor or multiple tumors of any size 
+ 
+       involving a major branch of the portal vein or 
+ 
+       hepatic vein  
+ 
+ C T4  ¡³Tumor(s) with direct invasion of IVC, biliary trees, adjacent 
+ 
+       organs other than the gallbladder or with 
+ 
+       perforation of visceral peritoneum.  
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+ Nx    ¡³Regional lymph nodes cannot be assessed  
+ 
+ N0    ¡´No regional lymph nodes 
+ 
+Stage IVA 
+ 
+ N1    ¡³Regional lymph node metastasis  
+ 
+        ¡³Periceliac, ¡³Hilar( common bile duct, hepatic artery, portal vein and cystic duct) ¡³Peripancreatic ¡³Paraaortic ¡³Portocaval ¡³Retrocaval ¡³Others_______  
+ 
+-------------------Distant Metastasis(M)---------------------- 
+ 
+Stage IVB 
+ 
+ M1    ¡³Distant metastasis 
+ 
+¡³ Invasion of gallbladder 
+ 
+¡³ Cardiophrenic, Mesenteric, Retrocrural LN 
+ 
+Imaging stage   T1 N0 ( in this study) 
+ 

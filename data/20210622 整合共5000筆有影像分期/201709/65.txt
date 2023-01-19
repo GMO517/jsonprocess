@@ -1,0 +1,96 @@
+ 
+Findings:   
+ 
+No definite pulmonary nodule in visual field 
+ 
+Heterogenous enhancing hilar tumor (8.5x6.5cm) with left portal vein and middle hepatic vein invasion, causing diffuse biliary dilatation 
+ 
+Multiple poor enhancing nodules in both lobes of liver 
+ 
+Gallstones 
+ 
+Pancreas cyst (1.6cm) 
+ 
+No definite space occupying lesion in the spleen 
+ 
+Enlarged periportal, peripancreatic and para-aortic LNs 
+ 
+No definite adrenal mass 
+ 
+No definite hydronephrosis 
+ 
+No abnormal fluid collection or free air in the abdomen.  
+ 
+No definite bone destructure. 
+ 
+ 
+ 
+IMP: 
+ 
+* Hilar tumor (8.5x6.5cm) and several hypodense liver nodules, favoring cholangiocarcinoma  
+ 
+* Enlarged periportal, peripancreatic and para-aortic LNs 
+ 
+* Diffuse biliary dilatation 
+ 
+ 
+ 
+●TNM for Cholangiocarcinoma (AJCC 7th Edition) 
+ 
+1.Tumor Location: hilar 
+ 
+2.Tumor Size: 8.5x6.5cm 
+ 
+3.Pathology: ●Not available ○Available (Pathology type:□) 
+ 
+ 
+ 
+-------------------Primary Tumor(T)------------------- 
+ 
+ Tx    ○Primary tumor cannot be assessed □ 
+ 
+ T0    ○No primary tumor □ 
+ 
+Stage I 
+ 
+ T1    ○Solitary tumor without vascular invasion □ 
+ 
+Stage II 
+ 
+ T2a    ○Solitary tumor with vascular invasion 
+ 
+ T2b    ○Multiple tumors with or without vascular invasion 
+ 
+ 
+ 
+Stage III 
+ 
+ T3 ○Tumor perforating the visceral peritoneum or involving the local extrahepatic structures by direct invasion□ 
+ 
+Stage IVA 
+ 
+ T4  ●Tumor(s) with periductal invasion□ 
+ 
+ 
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+ Nx    ○Regional lymph nodes cannot be assessed □ 
+ 
+ N0    ○No regional lymph nodes □ 
+ 
+Stage IVA 
+ 
+ N1    ●Regional lymph node metastasis □ 
+ 
+ 
+ 
+-------------------Distant Metastasis(M)------------------- 
+ 
+Stage IVB 
+ 
+ M1    ○Distant metastasis□ 
+ 
+ 
+ 
+Imaging stage   T4 N1 ( in this study) 

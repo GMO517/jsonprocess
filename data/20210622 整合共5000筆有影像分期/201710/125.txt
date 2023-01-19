@@ -1,0 +1,84 @@
+
+       Report: Computed Tomography of Liver With and Without Enhancement Show: 
+ 
+ 
+ 
+Multiple low denisty tumors with minimal wall enhanced over both lobe of the liver, with size of 1-2cm 
+ 
+No definite enlargement of retroperitoneal LNs  . 
+ 
+No definite biliary dilatation  . 
+ 
+No definite obstructive uropathy  . 
+ 
+No abnormal fluid collection in the abdomen  . 
+ 
+Patency of the portal vein 
+ 
+4.7cm necrotic tumor over D-colon and with invasion to the adjacent mesocolon and retroperitoneum 
+ 
+ 
+ 
+IMP: D-colon cnacer with multiple liver metastasis 
+ 
+●Imaging Report Form for Colorectal Cancer (AJCC 7th Edition) 
+ 
+1.Tumor Location: 
+ 
+○Cecum ○Ascending ○Hepatic flexure ○Transverse ○Splenic flexure ●Descending ○Sigmoid ○Rectum ○Other ____________ 
+ 
+2.Tumor Size:  
+ 
+○Measurable: _4.7__cm (largest diameter) 
+ 
+○Non-measurable 
+ 
+3.Pathology: ●Not available ○Available (Pathology type:□) 
+ 
+-------------------Primary Tumor(T)--------------------------- 
+ 
+Tx   ○Primary tumor cannot be assessed 
+ 
+T0   ○No evidence of primary tumor 
+ 
+〈=T2  ○Tumor invades submucosa or muscularis propria 
+ 
+T3   ○Tumor invades through the muscularis propria into pericolorectal tissues 
+ 
+T4a  ●Tumor penetrates to the surface of the visceral peritoneum 
+ 
+T4b    Tumor directly invades or is adherent to other organs or structures 
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+Nx   ○Regional lymph nodes cannot be assessed 
+ 
+N0  ●No regional lymph node metastasis 
+ 
+N1   ○Metastasis in 1 to 3 regional lymph node 
+ 
+  N1a ○Metastasis in 1 regional lymph node 
+ 
+  N1b ○Metastasis in 2-3 regional lymph nodes 
+ 
+  N1c ○Tumor deposit(s) in the subserosa, mesentery, or non-peritonealized pericolic or perirectal tissues without regional nodal metastasis       
+ 
+N2    ○Metastasis in 4 or more regional lymph nodes 
+ 
+N2a   ○Metastasis in 4 to 6 regional lymph nodes 
+ 
+N2b   ○Metastasis in 7 or more regional lymph nodes 
+ 
+○Pericolic/perirectal ○Ileocolic ○Right colic ○Middle colic ○Left colic ○ Superior rectal ○Superior mesenteric artery ○Inferior mesenteric artery ○Others ____________ 
+ 
+-------------------Distant Metastasis(M)----------------------- 
+ 
+M1    ●Distant metastasis 
+ 
+M1a    ○Metastasis confined to one organ or site(e.g., liver, lung, ovary, non-regional node)  
+ 
+M1b    ○Metastases in more than one organ/site or the peritoneum.  
+ 
+ 
+ 
+Imaging stage   T4a N0 M1( in this study) 

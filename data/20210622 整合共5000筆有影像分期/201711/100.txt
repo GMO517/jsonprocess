@@ -1,0 +1,95 @@
+Findings: 
+ 
+Consolidation and shrinkage over bil. lower lungs with pleural effusion 
+ 
+Irregular gastric wall thcikening may be due to malignancy 
+ 
+Several perigastric LNs up to 1.2cm 
+ 
+Lobulated and uneven contour of liver compatible with liver cirrhosis 
+ 
+One early enhanced liver nodule about 5cm in S7 r/o metastasis 
+ 
+Multiple small lvier cysts in both lobes all〈 1cm 
+ 
+Patency of the portal veins 
+ 
+Moderate splenomegaly 
+ 
+Massive ascites 
+ 
+No definite biliary dilatation, but multiple gallstones noted 
+ 
+Unremarkable change of the pancreas 
+ 
+No abnormal fluid collection in the abdomen  
+ 
+No hydronephrosis 
+ 
+Multiple bil. renal cysts up to 2.3cm 
+ 
+Multiple enlarged retroperitoneal LNs up to 1.8cm may be metastasis 
+ 
+IMP: 
+ 
+Irregular gastric wall thcikening may be due to malignancy 
+ 
+Liver cirrhosis with splenomegaly, gallstones and ascites 
+ 
+One early enhanced liver nodule about 5cm in S7 may be metastasis 
+ 
+Multiple enlarged retroperitoneal LNs due to metastasis 
+ 
+Multiple small lvier and renal cysts 
+ 
+ 
+ 
+(tentative tumor staging) 
+ 
+●TNM for Gastric Cancer (AJCC 7th Edition) 
+ 
+1.Tumor Location: body 
+ 
+2.Tumor Size: □cm 
+ 
+3.Pathology: ●Not available ○Available (Pathology type:□) 
+ 
+ 
+ 
+T0            ○No primary tumor □ 
+ 
+T1      
+ 
+   T1a    ○Lamina propia□ 
+ 
+   T1b    ○Submucosa □ 
+ 
+T2            ○Muscularis propia □ 
+ 
+T3            ●Subserosa□ 
+ 
+T4 
+ 
+   T4a    ○Perforates serosa□ 
+ 
+   T4b    ○Adjacent structures □ 
+ 
+ 
+ 
+N0            ○No regional lymph nodes□ 
+ 
+N1            ●1-2 regional LNs□ 
+ 
+N2            ○3-6  regional LNs□ 
+ 
+N3a          ○7-15 regional LNs □ 
+ 
+N3b          ○16 or more regional LNs□ 
+ 
+ 
+ 
+M1        ●Distant metastasis□  
+ 
+ 
+ 
+Imaging stage   T3 (at least) N1 M1 (in this study) 

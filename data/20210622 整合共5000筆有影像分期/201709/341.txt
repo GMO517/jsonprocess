@@ -1,0 +1,107 @@
+Findings:Mild infiltration over RLL lung 
+ 
+Lobulated and uneven contour of liver compatible with liver cirrhosis 
+ 
+Ill-defined hypodense liver mass about 3.5cm over S1-4 without evident early enahncement, Marked dilatation of left and S4-5 IHDs  
+ 
+Mild splenomegaly 
+ 
+1No definite space occupying lesion in the spleen and pancreas   
+ 
+No hydronephrosis  
+ 
+Right renal cyst about 2.0cm 
+ 
+Massive ascites 
+ 
+Edematous A-colon wall  
+ 
+No abnormal gas in the abdomen .  
+ 
+No definite enlargement of retroperitoneal LNs  
+ 
+IMP: 
+ 
+Liver cirrhosis with splenomegaly and ascites 
+ 
+Ill-defined hypodense liver mass about 3.5cm over S1-4 with bil. biliary dilatation r/o cholangioca 
+ 
+ 
+ 
+(tentative tumor staging) 
+ 
+●Imaging Report Form for perihilar bile ducts tumor (AJCC 7th Edition) 
+ 
+ 
+ 
+1.Tumor Number/Location:  
+ 
+    Location:  □  
+ 
+2.Tumor Size:  
+ 
+   ○Measurable:  cm (the largest tumor) 
+ 
+   ○Non-measurable 
+ 
+3.Pathology: ○Not available ○Available (Pathology type:□) 
+ 
+ 
+ 
+-------------------Primary Tumor(T)-------------------------- 
+ 
+ Tx    ○Primary tumor cannot be assessed 
+ 
+ T0    ○No primary tumor 
+ 
+Stage 0 
+ 
+ Tis   ○Carcinoma in situ 
+ 
+Stage I 
+ 
+ T1    ○Tumor confined to the bile duct, with extension up to the muscle layer or fibrous tissue 
+ 
+Stage II 
+ 
+ T2a   ○Tumor invades beyond the wall of the bile duct to surrounding adipose tissue 
+ 
+ T2b   ○Tumor invades adjacent hepatic parenchyma 
+ 
+Stage IIIA 
+ 
+ T3    ○Tumor invades unilateral branches of the portal vein or hepatic artery 
+ 
+Stage IVA (T4 N0-N1) 
+ 
+ T4    ●Tumor invades main portal vein or its branches bilaterally; or the common hepatic artery; or the second-order biliary radicals bilaterally; or unilateral 
+ 
+second-order biliary radicals with contralateral portal vein or hepatic artery involvement 
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+ Nx    ○Regional lymph nodes cannot be assessed 
+ 
+ N0    ●No regional lymph nodes □ 
+ 
+Stage IIIB (T1-3 N1 M0) 
+ 
+ N1    ○Regional lymph node metastasis (including nodes along the cystic duct,common bile duct, hepatic artery, and portal vein) 
+ 
+Stage IVB 
+ 
+ N2    ○Metastasis to periaortic, pericaval, superior mesentery artery, and/or celiac artery lymph nodes 
+ 
+  
+ 
+-------------------Distant Metastasis(M)--------------------- 
+ 
+ M0   ○No distant metastasis (no pathologic M0; use clinical M to complete stage group) 
+ 
+Stage IVB 
+ 
+ M1   ○Distant metastasis□ 
+ 
+ 
+ 
+Imaging stage   T4 N0( in this study) 

@@ -1,0 +1,56 @@
+Lobulated contour of liver compatible with liver cirrhosis  . 
+Splenomegaly  
+S/P segment 8  and S1 resection 
+S/P RFA with tissue necrosis over S4 liver (2.4cm)  
+Multiple cysts over the liver   
+A 2.47cm centripetal enhanced tumor over LLS liver 
+Patency of the portal vein and with normal spleen 
+No definite enlargement of retroperitoneal LNs  . 
+No definite biliary dilatation  . 
+No definite obstructive uropathy  . 
+Ascites in the abdomen  . 
+4.5cm soft tissue lesion over gastrohepatic region 
+Enlargement of prostate  . 
+ 
+ 
+IMP:   
+S/P segment 8  and S1 resection 
+S/P RFA with tissue necrosis over S4 liver  
+Multiple cysts over the liver   
+A 2.37cm centripetal enhanced tumor over LLS liver 
+Ascites in the abdomen  . 
+4.5cm soft tissue lesion over gastrohepatic region, nature? 
+Enlargement of prostate  . 
+ 
+staging after operation 
+ 
+ 
+●Imaging Report Form for Gastric Cancer (AJCC 8th Edition) 
+1.Tumor Location:  
+    ○Cardia ○Fundus ○Body: Lesser/Greater curvature ○Antrum ○Pylorus ○ Other__________ 
+2.Tumor Size:  
+    ●Non-measurable 
+    ○Measurable: __________cm (greatest diameter) 
+3.Pathology: ●Not available ○Available (Pathology type:□) 
+-------------------Primary Tumor(T)--------------------------- 
+TX      ○Primary tumor cannot be assessed 
+T0      ○No primary tumor □ 
+<=T3    ○Lamina propia, Submucosa, Muscularis propia, Subserosa( confined to gastric wall) 
+T4 
+   T4a  ○Perforates serosa 
+   T4b  ●Adjacent structures invasion 
+-------------------Regional Lymph Nodes(N)----------------- 
+N0      ○No regional lymph nodes 
+N1      ●1-2 regional LNs 
+N2      ○3-6  regional LNs 
+N3a     ○7-15 regional LNs 
+N3b     ○16 or more regional LNs 
+○Right paracardial ○Left paracardial ○Lesser curvature ○Greater curvature 
+○Suprapyloric ○Infrapyloric ○Left gastric artery ○Common hepatic artery 
+○Celiac artery ○Splenic hilum ○Splenic artery ○Hepatic pedicle ○Middle colic artery ○ Others_______ 
+-------------------Distant Metastasis(M)----------------------- 
+M1  ○Distant metastasis  
+ ○Non-regional lymph nodes: ○Retropancreatic ○Mesenteric root ○Para-aortic  
+ ○Distant organs : location _______________ 
+ 
+Imaging stage   T4b N1( in this study) 

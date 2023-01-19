@@ -1,0 +1,109 @@
+Findings:  
+ 
+ 
+ 
+Focal plate atelectasis over RLL RML and left ligular lobe  
+ 
+Multiple poorly defined nodular masses in bilobar liver (6-20 mm) with poor enhancement regional lymphadenopathy, favoring metastatic nodules. 
+ 
+A 3.7x3.0 cm hypodense nodular mass in pancreatic tail with perifocal fat stranding , abutting to splenic flexure colon. 
+ 
+Patency of portal vein.  
+ 
+No definite biliary dilatation.  
+ 
+Unremarkable gallbladder without stone.  
+ 
+No splenomegaly  
+ 
+Bilateral renal cysts .  
+ 
+No definite adrenal nodule.  
+ 
+Normal function and contour of both kidneys.  
+ 
+Patency of bilateral ureters. 
+ 
+No definite retroperitoneal lymphadenopathy.  
+ 
+No fluid collection in abdomen.   
+ 
+Enlarged prostate with calcifications.  
+ 
+A 3.1 cm soft tissue lesion in right scrotum, nature to be determined .  
+ 
+No definite bony destruction.  
+ 
+Kindly note that subtle mucosal lesion could not be well evaluated on routine CT.  
+ 
+ 
+ 
+IMP: * Highly suspected pancreatic tail cancer with regional lymphadenopathy and multiple bilobar liver metastases. 
+ 
+     * Abutting to splenic flexure colon, suspicious colon invasion? 
+ 
+     * A 3.1 cm soft tissue lesion in right scrotum, nature to be determined .  
+ 
+ 
+ 
+Tentative imaging staging (Not pathology proven yet)  
+ 
+ 
+ 
+●Imaging Report Form for Pancreatic Carcinoma (AJCC 7th Edition) 
+ 
+1. Tumor location 
+ 
+   ○Pancreatic head and neck 
+ 
+   ○Pancreatic body  
+ 
+   ●Pancreatic tail 
+ 
+   ○Others___________________ 
+ 
+2. Tumor Size： 
+ 
+   ●Measurable: __ 3.7____cm (in greatest diameter) 
+ 
+   ○Non-measurable 
+ 
+3. Pathology: ●Not available ○Available (Pathology type:□) 
+ 
+ 
+ 
+-------------------Primary Tumor(T)-------------------------- 
+ 
+TX    ○Primary tumor cannot be assessed 
+ 
+T0    ○No evidence of primary tumor 
+ 
+Tis    ○Carcinoma in situ 
+ 
+T1    ○Tumor limited to the pancreas, 〈= 2 cm in greatest dimension 
+ 
+T2    ○Tumor limited to the pancreas, 〉 2 cm in greatest dimension 
+ 
+T3    ●Tumor extends beyond the pancreas but without involvement of the celiac axis or the superior mesenteric artery 
+ 
+T4    ○Tumor involves the celiac axis or the superior mesenteric artery (unresectable primary tumor) ○Inferior vena cava ○Aorta ○Rib ○Vertebral body ○Other: ________ 
+ 
+ 
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+NX    ○Regional lymph nodes cannot be assessed 
+ 
+N0    ○No regional lymph node metastasis 
+ 
+N1    ●Regional lymph node metastasis 
+ 
+○ Pancreaticoduodenal nodes ○ Celiac axis nodes ○ Superior mesenteric nodes ○ Hepatic hilar nodes ○ Splenic hilar nodes ○ Superior peripancreatic nodes ○ Inferior peripancreatic nodes ○ Others ____________ 
+ 
+-------------------Distant Metastasis(M)---------------------- 
+ 
+M1    ●Distant metastasis 
+ 
+ 
+ 
+Imaging stage:   T3 N1 M1 (in this study) 

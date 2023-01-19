@@ -1,0 +1,97 @@
+Findings: 
+ 
+No definite pulmonary nodule in the visual field. 
+ 
+Enhancing masses with necrotic change about 5.8x2.7cm in left adrenal gland and lower pole of left kidney 
+ 
+Suspicious thrombosis in left renal vein and IVC. 
+ 
+Left upper calyces dilataiton due to mass effect 
+ 
+Ascites in pelvic cavity 
+ 
+Multilple infiltrative early enhancing tumor with necrotic change in bilateral lobes liver. 
+ 
+Multiple enlarged lymph nodes with necrotic change in paraaortic and pararenal region.  
+ 
+Mild dilated CHD about 0.8cm due to stenotic lesion at CBD. 
+ 
+Patency of main trunk and bilateral portal veins. 
+ 
+No definite space occupying lesion in the spleen and pancreas. 
+ 
+No definite adrenal mass. 
+ 
+Compression fracture of L3 vertebral body 
+ 
+ 
+ 
+IMP: 
+ 
+* More favoring left renal RCC with thrombosis in left renal vein and IVC and metastativ lesions over left adrenal gland, liver, and LNs over retrocaval and paraaortic region(Tentative imaging staging: T3bN1M1). 
+ 
+* Ascites in pelvic cavity 
+ 
+* Mild dilated CHD about 0.8cm due to stenotic lesion at CBD. 
+ 
+ 
+ 
+●Imaging Report Form for Renal Tumor (AJCC 7th Edition) 
+ 
+1.Tumor Location: ○Right Kidney, ●Left Kidney, ○Both Kidneys 
+ 
+2.Tumor Size:  
+ 
+○Measurable: 5.8cm (greatest dimension),  
+ 
+○ Non-measurable 
+ 
+3.Pathology: ●Not available ○Available (Pathology type:□) 
+ 
+-------------------Primary Tumor(T)--------------------------- 
+ 
+T0    ○No primary tumor  
+ 
+T1    ○Tumor〈=7cm (limited to kidney)  
+ 
+  T1a ○Tumor〈=4cm  
+ 
+  T1b ○4cm〈Tumor〈=7cm  
+ 
+T2    ○Tumor〉7cm(limited to kidney)  
+ 
+  T2a ○7cm〈Tumor〈=10cm  
+ 
+  T2b ○Tumor〉10cm  
+ 
+T3    ○Extends into major veins or perirenal tissue  
+ 
+  T3a ○Extends into renal vein or segmental branches  
+ 
+      ○Invades perirenal and/or renal sinus fat  
+ 
+  T3b ●Extends into vena cava below diaphragm  
+ 
+  T3c ○Extends into vena cava above diaphragm  
+ 
+      ○Invades the wall of the vena cava  
+ 
+T4    ○Invades beyond Gerota's fascia 
+ 
+      ○Extension into the ipsilateral adrenal gland 
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+N0    ○No regional lymph nodes  
+ 
+N1    ●Regional lymph nodes metastasis  
+ 
+●Renal hilar ●Paracaval ●Aortocaval ●Paraaortic 
+ 
+-------------------Distant Metastasis(M)----------------------- 
+ 
+M1   ●Distant metastasis  
+ 
+ 
+ 
+Imaging stage   T3b N1 M1( in this study) 

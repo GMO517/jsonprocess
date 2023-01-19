@@ -1,0 +1,66 @@
+ brief hx: liver tumor for pre-op evaluation
+  ct of liver and with cta without & with contrast enhancement shows:
+  techniques: 
+  from lower chest to liver inferior edge in 5-mm contiguous section, contrast agent 
+  80ml of contrast medium injected at 2.5ml/sec, 30 sec after initiation of 
+  injection, starting arterial phase scan; portal phase scan performed in 20 sec 
+  after the end of the arterial phase scan; and venous phase scan began in 20 sec 
+  after the end of the portal phase scan, reformation of images for ct angiography
+  findings 
+  mild coarse liver with small liver size due to chronic liver parenchymal disease
+  mild splenomegaly
+  a 3.0 cm hypodense liver nodular mass in s7 with early enhancement and washout, 
+  more favor hcc
+  another liver nodule in s5-6 about 1.5cm with mild enhancement, nature can not 
+  exclude tumor
+  a tiny liver cyst in s3 about 0.9cm
+  no definite space occupying lesion in the spleen and pancreas
+  no biliary tree dilatation, normal gb
+  both rha and lha from pha
+  patency of portal veins, mpv= 14.5 mm, rpv= 10.6 and lpv= 10.2mm, no evident 
+  portal thrombosis
+  common trank of mhv and lhv, single rhv
+  no definite enlargement of retroperitoneal lns
+  no abnormal fluid collection in the abdomen  
+  volume of rt lobe liver is 526 cm3, lt lobe size is 198 cm3, and the spleen size 
+  is 228cm3 
+  imp:
+  liver cirrhosis with mild splenomegaly
+  hypervascular liver tumor masses in s7 and s5-6r may be hccs
+  patent ha, pvs, hvs and ivc
+  
+  ¡´tnm for hepatocellua carcinoma (ajcc 7th edition)
+  1.tumor location: s7¡¼
+  2.tumor size: 3.0cm
+  3.pathology: ¡´not available ¡³available (pathology type:¡¼)
+  
+  -------------------primary tumor(t)-------------------
+   tx    ¡³primary tumor cannot be assessed ¡¼
+   t0    ¡³no primary tumor ¡¼
+  stage i
+   t1    ¡³solitary tumor without vascular invasion ¡¼
+  stage ii
+   t2    ¡³solitary tumor with vascular invasion
+         ¡´multiple tumors none more than 5 cm
+  
+  stage iii
+   a t3a ¡³multiple tumors more than 5 cm ¡¼
+   b t3b ¡³single tumor or multiple tumors of any size
+         involving a major branch of the portal vein or
+         hepatic vein ¡¼
+   c t4  ¡³tumor(s) with direct invasion of adjacent
+         organs other than the gallbladder or with
+         perforation of visceral peritoneum. ¡¼
+  
+  -------------------regional lymph nodes(n)-----------------
+   nx    ¡³regional lymph nodes cannot be assessed ¡¼
+   n0    ¡´no regional lymph nodes ¡¼
+  stage iva
+   n1    ¡³regional lymph node metastasis ¡¼
+  
+  -------------------distant metastasis(m)-------------------
+   m0    ¡´no distant metastasis¡¼
+  stage ivb
+   m1    ¡³distant metastasis¡¼
+  
+  imaging stage   t2 n0 m0    stage ii

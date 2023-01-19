@@ -1,0 +1,119 @@
+Imaging findings:  
+ 
+ 
+ 
+No definite pulmonary nodule noted in visualized field.  
+ 
+Poorly defined hypodense infiltrating tumor (6.3x5.5 cm) in LLS liver with dilatation of left IHDs and invasion of LPV. 
+ 
+Subhepatic soft tissue masses noted at gastrohepatic ligament and periportal regions, suspicious metastatic LNs 
+ 
+No definite focal mass in pancreas and spleen.  
+ 
+Unremarkable gallbladder without stone.  
+ 
+Patency of RPV and MPV.  
+ 
+Multiple hepatic cysts in the both lobes   
+ 
+No definite adrenal nodule.  
+ 
+No obvious space occupying lesion noted in the spleen, pancreas and both kidneys  
+ 
+No hydronephrosis or hydroureter noted  
+ 
+No definite retroperitoneal lymphadenopathy.  
+ 
+No definite pneumoperitoneum or peritoneal fluid collection noted  
+ 
+Multiple calcified spots at the peritoneal cavity  
+ 
+A 7.4 cm omental vental hernia at the lower abdomen 
+ 
+Multiple diverticula in the thick-walled urinary bladder  
+ 
+No obvious bony destruction detected   
+ 
+ 
+ 
+Impression:  
+ 
+* A 7.4 cm omental vental hernia at the lower abdomen. 
+ 
+* Multiple diverticula in the thick-walled urinary bladder, suspicious chronic cystitis or bladder tumor. 
+ 
+* LLS liver infiltrating tumor with invasion of LPV and left IHDs, encasing common hepatic artery. 
+ 
+* Subhepatic soft tissue masses noted at gastrohepatic ligament and periportal regions, suspicious metastatic LNs 
+ 
+ 
+ 
+ 
+ 
+●Imaging Report Form for distal bile duct tumor (AJCC 7th Edition) 
+ 
+ 
+ 
+1.Tumor Number/Location:  
+ 
+   Location:  LLS  
+ 
+2.Tumor Size:  
+ 
+   ○Measurable:  cm (the largest tumor) 
+ 
+   ●Non-measurable 
+ 
+3.Pathology: ○Not available ●Available (Pathology type:cholangioCA) 
+ 
+ 
+ 
+-------------------Primary Tumor(T)-------------------------- 
+ 
+ Tx    ○Primary tumor cannot be assessed  
+ 
+ T0    ○No evidence of primary tumor  
+ 
+Stage 0 
+ 
+ Tis   ○Carcinoma in situ 
+ 
+Stage IA 
+ 
+ T1    ○Tumor confined to the bile duct histologically 
+ 
+Stage IB 
+ 
+ T2    ○Tumor invades beyond the wall of the bile duct 
+ 
+Stage IIA 
+ 
+ T3  ○Tumor invades the gallbladder, pancreas, duodenum or other adjacent organs without involvement of the celiac axis, or the superior mesenteric artery 
+ 
+Stage III (T4 AnyN) 
+ 
+ T4  ●Tumor involves the celiac axis, or the superior mesenteric artery 
+ 
+  
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+ Nx    ○Regional lymph nodes cannot be assessed  
+ 
+ N0    ○No regional lymph node metastasis 
+ 
+Stage IIB (T1-T3 N1 M0) 
+ 
+ N1    ●Regional lymph node metastasis  
+ 
+-------------------Distant Metastasis(M)---------------------- 
+ 
+ M0    ○No distant metastasis (no pathologic M0; use clinical M to complete stage group) 
+ 
+Stage IV 
+ 
+ M1    ○Distant metastasis 
+ 
+ 
+ 
+Imaging stage   T4 N1 ( in this study) 

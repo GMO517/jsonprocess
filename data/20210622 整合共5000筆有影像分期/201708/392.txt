@@ -1,0 +1,113 @@
+    Report: Computed Tomography of Liver With and Without Enhancement Show: 
+ 
+ 
+ 
+9.2cm mass lesion over retrocradial region, esophageal lesion? 
+ 
+Pericardial effusion 
+ 
+Wall thickening or with mass lesion over EC junction region 
+ 
+1.6cm LN over subphrenic region, near the IVC 
+ 
+Multiple LNs over perigastric region upto 2.4cm 
+ 
+3.7cm necrotic tumor over S4 liver and with 1.8cm tumor throbmus inside the left portal vein 
+ 
+Small cyst over LLS liver 
+ 
+1.7cm tumor over the spleen, nature 
+ 
+1.8cm gall stone 
+ 
+Multiple small LNs over left paraaortic region 
+ 
+No definite biliary dilatation  . 
+ 
+No definite obstructive uropathy  . 
+ 
+No abnormal fluid collection in the abdomen  . 
+ 
+Patency of the MPV 
+ 
+ 
+ 
+IMP: Distal esophageal and EC junction tumor? 
+ 
+     Multiple LNs metastasis  
+ 
+     HCC over S4 with tumor throbmus inside the left portal vein 
+ 
+     Splenic tumor, nature? 
+ 
+ 
+ 
+ 
+ 
+●TNM for Hepatocellua Carcinoma (AJCC 7th Edition) 
+ 
+1.Tumor Location: S4 
+ 
+2.Tumor Size: 3.7cm 
+ 
+3.Pathology: ●Not available ○Available (Pathology type:□) 
+ 
+ 
+ 
+-------------------Primary Tumor(T)------------------- 
+ 
+ Tx    ○Primary tumor cannot be assessed □ 
+ 
+ T0    ○No primary tumor □ 
+ 
+Stage I 
+ 
+ T1    ○Solitary tumor without vascular invasion □ 
+ 
+Stage II 
+ 
+ T2    ○Solitary tumor with vascular invasion 
+ 
+       ○Multiple tumors none more than 5 cm 
+ 
+ 
+ 
+Stage III 
+ 
+ A T3a ○Multiple tumors more than 5 cm □ 
+ 
+ B T3b ●Single tumor or multiple tumors of any size 
+ 
+       involving a major branch of the portal vein or 
+ 
+       hepatic vein □ 
+ 
+ C T4  ○Tumor(s) with direct invasion of adjacent 
+ 
+       organs other than the gallbladder or with 
+ 
+       perforation of visceral peritoneum. □ 
+ 
+ 
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+ Nx    ○Regional lymph nodes cannot be assessed □ 
+ 
+ N0    ○No regional lymph nodes □ 
+ 
+Stage IVA 
+ 
+ N1    ○Regional lymph node metastasis □ 
+ 
+ 
+ 
+-------------------Distant Metastasis(M)------------------- 
+ 
+Stage IVB 
+ 
+ M1    ○Distant metastasis□ 
+ 
+ 
+ 
+Imaging stage   T3b N? (in this study) 

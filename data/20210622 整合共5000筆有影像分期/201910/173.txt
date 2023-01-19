@@ -1,0 +1,75 @@
+Computed Tomography of Liver With and Without Enhancement Show: 
+**No previous study on CGMH PACS for comparison 
+ 
+Findings:   
+No pericardial effusion 
+Atherosclerotic plaques on the visualized aortic,  arterial wall(s) 
+No definite pulmonary nodule in visual field. 
+One 7.7x7.1cm enhanced mass in LLS liver with contrast medium washout, maybe HCC, complicated with hyperdense fluid collection around tumor and perihepatic region, possible rupture with hemoperitoneum 
+Two 1.4cm soft tissue density lesion in LUQ, maybe seeding tumor 
+One 7.4x4.8cm multiple cystic mass with internal thickened enhanced septum in left lobe liver, nature to bedetermined, DDX: HCC mixed cholangiocarcinoma. 
+Two well defined hypodense nodules in right lobe liver, due to liver cyst or also cystic mass? 
+No definite space occupying lesion in the  spleen and pancreas. 
+Unremarkable gallbladder. 
+Patency of portal vein  
+Normal function and contour of bil. kidneys and no definite obstructive uropathy. 
+No adrenal nodules 
+Multiple small visible porta hepatis, periceliac LNs 
+No definite enlargement of retroperitoneal LNs  . 
+Ascites 
+Kindly note that subtle mucosal lesion could not be well evaluated on routine CT.  
+Focal collaspe at the visualized  colon; colonic annular lesion(s) can not be  
+excluded by the examination. 
+No definite destructive bony lesion 
+ 
+IMP: 
+* Favoring LLS HCC complicated with hyperdense fluid collection around tumor and perihepatic region, possible rupture with hemoperitoneum. 
+* Another multiple cystic mass in LLS liver,  DDX: HCC mixed cholangiocarcinoma, abscess. 
+* Soft tissue density lesion in LUQ, maybe seeding tumor 
+ 
+**Revised report for tumor staging 
+ 
+¡´Imaging Report Form for Hepatocellua Carcinoma (AJCC 8th Edition) 
+1.Tumor Number/Location:  
+Number: ¡³1 ¡³2 ¡³3 ¡´Multiple 
+Location: LLS liver 
+2.Tumor Size:  
+    ¡´Measurable: 7 cm (the largest tumor) 
+    ¡³Non-measurable 
+3.Tumor Characteristics and Associated Liver Features 
+    ¡³Vascular invasion  
+    ¡´Extrahepatic spread  
+    ¡´Ascites  
+    ¡³Portal vein thrombosis, location  
+    ¡³Portosystemic collateral vessel 
+    ¡´Typical enhancement pattern (hypervascular enhancement and early wash-out) 
+3.Pathology: ¡³Not available ¡´Available (Pathology type:HCC) 
+ 
+-------------------Primary Tumor(T)-------------------------- 
+ Tx  ¡³ Primary tumor cannot be assessed  
+ T0  ¡³ No primary tumor  
+Stage I 
+T1   ¡³ Solitary tumor ¡Ø2 cm, or ¡r 2cm without vascular invasion 
+T1a  Solitary tumor ¡Ø2 cm 
+T1b  Solitary tumor ¡r 2cm without vascular invasion 
+Stage II 
+T2   ¡³ Solitary tumor ¡r2cm with vascular invasion, or multiple tumors,none ¡r5cm  
+Stage III 
+T3   ¡³Multiple tumors more than 5 cm  
+T4   ¡´TSingle tumor or multiple tumors of any size involving a major 
+branch of the portal vein or hepatic vein, or tumor(s) with direct 
+invasion of adjacent organs other than the gallbladder or with 
+perforation of visceral peritoneum  
+-------------------Regional Lymph Nodes(N)----------------- 
+Nx   ¡³Regional lymph nodes cannot be assessed  
+N0   ¡´No regional lymph nodes 
+Stage IVA 
+N1   ¡³Regional lymph node metastasis  
+     ¡³Periceliac, ¡³Hilar( common bile duct, hepatic artery, portal vein and cystic duct) ¡³Peripancreatic ¡³Paraaortic ¡³Portocaval ¡³Retrocaval 
+¡³Others_______  
+-------------------Distant Metastasis(M)---------------------- 
+Stage IVB 
+M1  ¡³Distant metastasis 
+¡³ Invasion of gallbladder 
+¡³ Cardiophrenic, Mesenteric, Retrocrural LN 
+Imaging stage   T4N0( in this study) 

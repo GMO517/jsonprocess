@@ -1,0 +1,105 @@
+Findings: 
+ 
+A RLL lung nodule in base about 6.3mm r/o metastasis 
+ 
+Relative low density of liver is compatible with fatty liver 
+ 
+Several tiny liver cysts ¡q1cm  
+ 
+s/p PTCD, no significant biliary tree dilatation, the GB is not distended 
+ 
+Patency of the portal veins 
+ 
+No splenomegaly 
+ 
+Mild dilatation of pancreatic duct up to 6.3mm, the obstructive lesion is not well seen 
+ 
+No definite enlargement of retroperitoneal LNs  
+ 
+No abnormal fluid collection in the abdomen  
+ 
+No definite obstructive uropathy   
+ 
+Right renal cyst about 4.1cm 
+ 
+IMP: 
+ 
+Several tiny liver cysts ¡q1cm  
+ 
+s/p PTCD, no significant biliary tree dilatation 
+ 
+Mild dilatation of pancreatic duct up to 6.3mm 
+ 
+A RLL lung nodule in base about 6.3mm r/o metastasis 
+ 
+ 
+ 
+¡´Imaging Report Form for perihilar bile ducts tumor (AJCC 8th Edition) 
+ 
+1.Tumor Number/Location:  
+ 
+    Location:  ¡¼  
+ 
+2.Tumor Size:  
+ 
+   ¡³Measurable:  cm (the largest tumor) 
+ 
+   ¡³Non-measurable 
+ 
+3.Pathology: ¡³Not available ¡³Available (Pathology type:¡¼) 
+ 
+ 
+ 
+-------------------Primary Tumor(T)-------------------------- 
+ 
+ Tx    ¡´Primary tumor cannot be assessed 
+ 
+ T0    ¡³No primary tumor 
+ 
+Stage 0 
+ 
+ Tis    ¡³Carcinoma in situ 
+ 
+Stage I 
+ 
+ T1    ¡³Tumor confined to the bile duct, with extension up to the muscle layer or fibrous tissue 
+ 
+Stage II 
+ 
+ T2a   ¡³Tumor invades beyond the wall of the bile duct to surrounding adipose tissue 
+ 
+ T2b   ¡³Tumor invades adjacent hepatic parenchyma 
+ 
+Stage IIIA 
+ 
+ T3    ¡³Tumor invades unilateral branches of the portal vein or hepatic artery 
+ 
+Stage IVA (T4 N0-N1) 
+ 
+ T4    ¡³Tumor invades main portal vein or its branches bilaterally; or the common hepatic artery; or the second-order biliary radicals bilaterally; or unilateral 
+ 
+second-order biliary radicals with contralateral portal vein or hepatic artery involvement 
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+ Nx    ¡³Regional lymph nodes cannot be assessed 
+ 
+ N0    ¡´No regional lymph nodes ¡¼ 
+ 
+Stage IIIB (T1-3 N1 M0) 
+ 
+ N1    ¡³One to three positive lymph nodes typically involving the hialr, cystic duct, common bile duct, hepatic artery, posterior pancreatoduodenal, and portal vein lymph nodes 
+ 
+Stage IVB 
+ 
+ N2    ¡³ Four or more positive lymph nodes from the sites described for N1  
+ 
+-------------------Distant Metastasis(M)--------------------- 
+ 
+ M0   ¡³No distant metastasis (no pathologic M0; use clinical M to complete stage group) 
+ 
+Stage IVB 
+ 
+ M1   ¡´Distant metastasis¡¼ 
+ 
+Imaging stage   Tx N0 M1( in this study) 

@@ -1,0 +1,91 @@
+Findings: 
+ 
+Mild left pleural effusion 
+ 
+Multiple lung nodules over bil. lower lobes, the biggest up to 0.9cm 
+ 
+Numerous infiltrated nodular masses in both lobes, the biggest up to 5.3cm 
+ 
+Soft tissue masses encasing the celiac trunk, MPV and SMV 
+ 
+Patency of the portal veins 
+ 
+Mild splenomegaly 
+ 
+Mild ascites 
+ 
+Diffuse biliary dilatation may be due to distal obstruction 
+ 
+Ill-defined pancreatic mass over pancreatic body r/o metastatic tumor invasion 
+ 
+No hydronephrosis 
+ 
+No evident enlarged retroperitoneal LNs 
+ 
+IMP: 
+ 
+Favor multiple metastases over bil. lungs, liver and retroperitoneal LNs 
+ 
+Suspicious infiltrated pancreatic tumor with extensive peripancreatic invasion 
+ 
+ 
+ 
+(tentative tumor staging) 
+ 
+●Imaging Report Form for Pancreatic Carcinoma (AJCC 7th Edition) 
+ 
+1. Tumor location 
+ 
+   ○Pancreatic head and neck 
+ 
+   ●Pancreatic body  
+ 
+   ○Pancreatic tail 
+ 
+   ○Others___________________ 
+ 
+2. Tumor Size： 
+ 
+   ○Measurable: __3.5_cm (in greatest diameter) 
+ 
+   ○Non-measurable 
+ 
+3. Pathology: ●Not available ○Available (Pathology type:□) 
+ 
+ 
+ 
+-------------------Primary Tumor(T)-------------------------- 
+ 
+TX    ○Primary tumor cannot be assessed 
+ 
+T0    ○No evidence of primary tumor 
+ 
+Tis    ○Carcinoma in situ 
+ 
+T1    ○Tumor limited to the pancreas, 〈= 2 cm in greatest dimension 
+ 
+T2    ○Tumor limited to the pancreas, 〉 2 cm in greatest dimension 
+ 
+T3    ○Tumor extends beyond the pancreas but without involvement of the celiac axis or the superior mesenteric artery 
+ 
+T4    ●Tumor involves the celiac axis or the superior mesenteric artery (unresectable primary tumor) ○Inferior vena cava ○Aorta ○Rib ○Vertebral body ○Other: ________ 
+ 
+ 
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+NX    ○Regional lymph nodes cannot be assessed 
+ 
+N0    ○No regional lymph node metastasis 
+ 
+N1    ●Regional lymph node metastasis 
+ 
+○ Pancreaticoduodenal nodes ○ Celiac axis nodes ○ Superior mesenteric nodes ○ Hepatic hilar nodes ○ Splenic hilar nodes ○ Superior peripancreatic nodes ○ Inferior peripancreatic nodes ○ Others ____________ 
+ 
+-------------------Distant Metastasis(M)---------------------- 
+ 
+M1    ●Distant metastasis 
+ 
+ 
+ 
+Imaging stage:   T4 N1 M1(in this study) 

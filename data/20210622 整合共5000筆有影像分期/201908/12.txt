@@ -1,0 +1,73 @@
+computed tomography of abdomen with and without enhancement show:
+
+no previous ct to be compared. 
+findings: 
+
+mild pulmonary infiltration in bilateral lower lungs. 
+lobulated contour of liver compatible with liver cirrhosis. 
+multiple early enhancement and early washout nodules in s4-8 (4.8 cm) , s7 (1.3 
+cm) and s5 (3.6 cm), favoring viable hccs, central necrosis of s5 tumor is noted
+.
+gallstones without definite wall-thickening of gallbladder. 
+multiple diverticula at the colon
+patency of portal vein. 
+no definite biliary dilatation. 
+a 1.7cm enlarged left para-aortic ln.
+normal function and contour of both kidneys. 
+patency of bilateral ureters. 
+kindly note that subtle mucosal lesion could not be well evaluated on routine ct
+. 
+
+imp: * liver cirrhosis with gallstones. 
+     * favoring viable hccs in s4-8 (4.8 cm) , s7 (1.3 cm) and s5 (3.6 cm), 
+central necrosis of s5 tumor noted.
+     * a 1.7cm enlarged left para-aortic ln, metastatic ln?
+
+tentative imaging staging (not pathology proven yet) 
+
+¡´imaging report form for hepatocellua carcinoma (ajcc 8th edition)
+1.tumor number/location: 
+number: ¡³1 ¡³2 ¡´3 multiple:
+location: s5 s7 s4-8 
+2.tumor size: 
+    ¡´measurable: 4.8 cm (the largest tumor)
+    ¡³non-measurable
+3.tumor characteristics and associated liver features
+    ¡³vascular invasion 
+    ¡³extrahepatic spread 
+    ¡³ascites 
+    ¡³portal vein thrombosis, location 
+    ¡³portosystemic collateral vessel
+    ¡´typical enhancement pattern (hypervascular enhancement and early wash-out)
+3.pathology: ¡´not available ¡³available (pathology type:¡¼)
+
+-------------------primary tumor(t)--------------------------
+ tx  ¡³ primary tumor cannot be assessed 
+ t0  ¡³ no primary tumor 
+stage i
+t1   ¡³ solitary tumor ¡Ø2 cm, or > 2cm without vascular invasion
+t1a  solitary tumor ¡Ø2 cm
+t1b  solitary tumor > 2cm without vascular invasion
+stage ii
+t2   ¡´ solitary tumor >2cm with vascular invasion, or multiple tumors,none >5
+cm 
+stage iii
+t3   ¡³multiple tumors more than 5 cm 
+t4   ¡³tsingle tumor or multiple tumors of any size involving a major
+branch of the portal vein or hepatic vein, or tumor(s) with direct
+invasion of adjacent organs other than the gallbladder or with
+perforation of visceral peritoneum 
+-------------------regional lymph nodes(n)-----------------
+nx   ¡³regional lymph nodes cannot be assessed 
+n0   ¡³no regional lymph nodes
+stage iva
+n1   ¡³regional lymph node metastasis 
+     ¡³periceliac, ¡³hilar( common bile duct, hepatic artery, portal vein and 
+cystic duct) ¡³peripancreatic ¡´paraaortic ¡³portocaval ¡³retrocaval
+¡³others_______ 
+-------------------distant metastasis(m)----------------------
+stage ivb
+m1  ¡³distant metastasis
+¡³	invasion of gallbladder
+¡³	cardiophrenic, mesenteric, retrocrural ln
+imaging stage   t2 n1 ( in this study)

@@ -1,0 +1,127 @@
+Findings: 
+ 
+Mucoal lesion of GI tract cannot be well evaluated in routine abdominal CT study.  
+ 
+Lobulated contour of liver compatible with liver cirrhosis.  
+ 
+A 3.7 cm lesion with inhomogeneous early enhancement and early wash out lesion in high S4 liver. 
+ 
+Small cysts in S8 (0.6 cm), S8/5 (0.6 cm), S5 (0.7 cm) and spleen (0.9 cm). 
+ 
+No definite biliary dilatation.  
+ 
+Patency of portal vein.  
+ 
+No definite space occupying lesion in the adrenal glands, spleen and pancreas.  
+ 
+Normal function and contour of bil. kidneys.  
+ 
+Patency of bil. ureters.  
+ 
+No definite enlargement of retroperitoneal LNs.  
+ 
+No abnormal fluid collection in the abdomen.  
+ 
+Postoperative appearance of hysterectomy .  
+ 
+ 
+ 
+●Imaging Report Form for Hepatocellua Carcinoma (AJCC 7th Edition) 
+ 
+1.Tumor Number/Location:  
+ 
+    Number: ●1 ○2 ○3 ○Multiple:________ 
+ 
+    Location:  S4  
+ 
+2.Tumor Size:  
+ 
+    ○Measurable: 3.7 cm (the largest tumor) 
+ 
+    ○Non-measurable 
+ 
+3.Tumor Characteristics and Associated Liver Features 
+ 
+    ○Vascular invasion  
+ 
+    ○Extrahepatic spread  
+ 
+    ○Ascites  
+ 
+    ○Portal vein thrombosis, location_______________ 
+ 
+    ○Portosystemic collateral vessel 
+ 
+    ○Typical enhancement pattern (hypervascular enhancement and early wash-out) 
+ 
+3.Pathology: ●Not available ○Available (Pathology type:□) 
+ 
+ 
+ 
+-------------------Primary Tumor(T)-------------------------- 
+ 
+ Tx    ○Primary tumor cannot be assessed  
+ 
+ T0    ○No primary tumor  
+ 
+Stage I 
+ 
+ T1    ●Solitary tumor without vascular invasion  
+ 
+Stage II 
+ 
+ T2    ○Solitary tumor with vascular invasion 
+ 
+       ○Multiple tumors none more than 5 cm 
+ 
+Stage III 
+ 
+ A T3a ○Multiple tumors more than 5 cm  
+ 
+ B T3b ○Single tumor or multiple tumors of any size 
+ 
+       involving a major branch of the portal vein or 
+ 
+       hepatic vein  
+ 
+ C T4  ○Tumor(s) with direct invasion of IVC, adjacent 
+ 
+       organs other than the gallbladder or with 
+ 
+       perforation of visceral peritoneum.  
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+ Nx    ○Regional lymph nodes cannot be assessed  
+ 
+ N0    ●No regional lymph nodes 
+ 
+Stage IVA 
+ 
+ N1    ○Regional lymph node metastasis  
+ 
+        ○Periceliac, ○Hilar( common bile duct, hepatic artery, portal vein and cystic duct) ○Peripancreatic ○Paraaortic ○Portocaval ○Retrocaval ○Others_______  
+ 
+-------------------Distant Metastasis(M)---------------------- 
+ 
+Stage IVB 
+ 
+ M1    ○Distant metastasis 
+ 
+○ Invasion of gallbladder 
+ 
+○ Cardiophrenic, Mesenteric, Retrocrural LN 
+ 
+Imaging stage   T1 N0( in this study) 
+ 
+ 
+ 
+Imp.:  
+ 
+(1) Liver cirrhosis.  
+ 
+(2) Suspect a 3.7 cm HCC in high S4 liver, imaging stage: T1 N0( in this study) 
+ 
+(3) Small cysts in S8 (0.6 cm), S8/5 (0.6 cm), S5 (0.7 cm) and spleen (0.9 cm). 
+ 
+(4) S/P hysterectomy. 

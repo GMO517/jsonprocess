@@ -1,0 +1,73 @@
+brief hx: a 61 y/o male with jaundice referred from opd for ercp study
+
+ct of abdomen without & with iv contrast enhancement shows:  
+techniques: 
+  from lower chest to pubic edge in 5-mm contiguous section 
+  contrast agent 100ml of contrast medium  at 2ml/sec, 30 sec 
+  scanning including  the arterial phase and delayed phase are 
+  performed
+
+findings:  
+
+lll pulmonary nodule(0.45cm).
+no definite space occupying lesion in the liver, spleen and pancreas.
+focal wall thickness over chd and bifurcation of bilateral ihds with bilateral 
+ihds dilatation, suspected hilar tumor.
+unremarkable study of gallbladder 
+patency of portal vein  
+normal function and contour of bil. kidneys and no definite obstructive uropathy
+.
+no definite enlargement of retroperitoneal lns  .
+no abnormal fluid collection in the abdomen  .
+
+imp:
+* focal wall thickness over chd and bifurcation of bilateral ihds with bilateral
+ ihds dilatation, suspected hilar tumor.
+* lll pulmonary nodule(0.45cm).
+
+¡´imaging report form for perihilar bile ducts tumor (ajcc 7th edition)
+
+1.tumor number/location: 
+    location:  ¡¼ 
+2.tumor size: 
+   ¡³measurable:  cm (the largest tumor)
+   ¡³non-measurable
+3.pathology: ¡³not available ¡³available (pathology type:¡¼)
+
+-------------------primary tumor(t)--------------------------
+ tx    ¡³primary tumor cannot be assessed
+ t0    ¡³no primary tumor
+stage 0
+ tis   ¡³carcinoma in situ
+stage i
+ t1    ¡³tumor confined to the bile duct, with extension up to the muscle layer 
+or fibrous tissue
+stage ii
+ t2a   ¡³tumor invades beyond the wall of the bile duct to surrounding adipose
+ tissue
+ t2b   ¡´tumor invades adjacent hepatic parenchyma
+stage iiia
+ t3    ¡³tumor invades unilateral branches of the portal vein or hepatic artery
+stage iva (t4 n0-n1)
+ t4    ¡³tumor invades main portal vein or its branches bilaterally; or the 
+common hepatic artery; or the second-order biliary radicals bilaterally; or
+ unilateral
+second-order biliary radicals with contralateral portal vein or hepatic artery
+ involvement
+-------------------regional lymph nodes(n)-----------------
+ nx    ¡³regional lymph nodes cannot be assessed
+ n0    ¡´no regional lymph nodes ¡¼
+stage iiib (t1-3 n1 m0)
+ n1    ¡³regional lymph node metastasis (including nodes along the cystic duct,
+common bile duct, hepatic artery, and portal vein)
+stage ivb
+ n2    ¡³metastasis to periaortic, pericaval, superior mesentery artery, and/or 
+celiac artery lymph nodes
+ 
+-------------------distant metastasis(m)---------------------
+ m0   ¡³no distant metastasis (no pathologic m0; use clinical m to complete 
+stage group)
+stage ivb
+ m1   ¡³distant metastasis¡¼
+
+imaging stage   t2b n0( in this study)

@@ -1,0 +1,52 @@
+ct of abdomen without & with contrast enhancement shows:
+  lobulated contour of liver compatible with liver cirrhosis  .
+  3cm tumor with early enhanced and washed out over s3 liver
+  no definite enlargement of retroperitoneal lns  .
+  no definite biliary dilatation  .
+  no definite obstructive uropathy  .
+  no abnormal fluid collection in the abdomen  .
+  mild splenomegaly  
+  patency of the portal vein
+  multiple renal cysts on the left
+  
+  imp: liver cirrhosis with hcc over lls liver
+       t1nomo stage 1
+  
+   
+  
+  tnm for hepatocellua carcinoma (ajcc 7th edition)
+  1.tumor location: s3
+  2.tumor size: 3cmcm
+  3.pathology: ¡´not available ¡³available (pathology type:¡¼)
+  
+  -------------------primary tumor(t)-------------------
+   tx    ¡³primary tumor cannot be assessed ¡¼
+   t0    ¡³no primary tumor ¡¼
+  stage i
+   t1    ¡´solitary tumor without vascular invasion ¡¼
+  stage ii
+   t2    ¡³solitary tumor with vascular invasion
+         ¡³multiple tumors none more than 5 cm
+         ¡¼
+  stage iii
+   a t3a ¡³multiple tumors more than 5 cm ¡¼
+   b t3b ¡³single tumor or multiple tumors of any size
+         involving a major branch of the portal vein or
+         hepatic vein ¡¼
+   c t4  ¡³tumor(s) with direct invasion of adjacent
+         organs other than the gallbladder or with
+         perforation of visceral peritoneum. ¡¼
+  
+  -------------------regional lymph nodes(n)-----------------
+   nx    ¡³regional lymph nodes cannot be assessed ¡¼
+   n0    ¡´no regional lymph nodes ¡¼
+  stage iva
+   n1    ¡³regional lymph node metastasis ¡¼
+  
+  -------------------distant metastasis(m)-------------------
+   m0    ¡³no distant metastasis¡¼
+  stage ivb
+   m1    ¡´distant metastasis¡¼
+  
+  tumor stage   t 1 n 0 m 0
+                stage 1

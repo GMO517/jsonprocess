@@ -1,0 +1,63 @@
+Findings: 
+Lobulated and uneven contour of liver compatible with liver cirrhosis 
+Multiple ill-defined enhanced liver nodules in S3-4 (3.1cm), S5-6 (9cm) and S8 (7.2cm) with late washout, more favoring HCCs  
+Thrombosis of the right and main portal veins 
+Mild splenomegaly 
+No ascites 
+No definite biliary dilatation 
+Tiny gallstones but with focal wall thcikening continuing to S5 tumor may due to tumor invasion 
+Several periportal LNs up to 1.2cm 
+Unremarkable change of the pancreas 
+No abnormal fluid collection in the abdomen  
+No hydronephrosis 
+No evident enlarged retroperitoneal LNs 
+IMP: 
+Liver cirrhosis with splenomegaly 
+Multiple ill-defined liver tumors in both lobes with portal thrombosis and suspected GB invasion, favoring HCCs 
+ 
+(tentative tumor staging) 
+¡´Imaging Report Form for Hepatocellua Carcinoma (AJCC 8th Edition) 
+1.Tumor Number/Location:  
+Number: ¡³1 ¡³2 ¡³3 ¡´Multiple: 
+Location: both lobes  
+2.Tumor Size:  
+    ¡³Measurable: 9 cm (the largest tumor) 
+    ¡³Non-measurable 
+3.Tumor Characteristics and Associated Liver Features 
+    ¡³Vascular invasion  
+    ¡³Extrahepatic spread  
+    ¡³Ascites  
+    ¡³Portal vein thrombosis, location  
+    ¡³Portosystemic collateral vessel 
+    ¡³Typical enhancement pattern (hypervascular enhancement and early wash-out) 
+3.Pathology: ¡´Not available ¡³Available (Pathology type:¡¼) 
+ 
+-------------------Primary Tumor(T)-------------------------- 
+ Tx  ¡³ Primary tumor cannot be assessed  
+ T0  ¡³ No primary tumor  
+Stage I 
+T1   ¡³ Solitary tumor ¡Ø2 cm, or > 2cm without vascular invasion 
+T1a  Solitary tumor ¡Ø2 cm 
+T1b  Solitary tumor > 2cm without vascular invasion 
+Stage II 
+T2   ¡³ Solitary tumor >2cm with vascular invasion, or multiple tumors,none >5cm  
+Stage III 
+T3   ¡³Multiple tumors more than 5 cm  
+T4   ¡´Single tumor or multiple tumors of any size involving a major 
+branch of the portal vein or hepatic vein, or tumor(s) with direct 
+invasion of adjacent organs other than the gallbladder or with 
+perforation of visceral peritoneum  
+-------------------Regional Lymph Nodes(N)----------------- 
+Nx   ¡³Regional lymph nodes cannot be assessed  
+N0   ¡³No regional lymph nodes 
+Stage IVA 
+N1   ¡´Regional lymph node metastasis  
+     ¡³Periceliac, ¡³Hilar( common bile duct, hepatic artery, portal vein and cystic duct) ¡³Peripancreatic ¡³Paraaortic ¡³Portocaval ¡³Retrocaval 
+¡³Others_______  
+-------------------Distant Metastasis(M)---------------------- 
+Stage IVB 
+M1  ¡³Distant metastasis 
+¡³ Invasion of gallbladder 
+¡³ Cardiophrenic, Mesenteric, Retrocrural LN 
+Imaging stage   T4 N1( in this study) 
+ 

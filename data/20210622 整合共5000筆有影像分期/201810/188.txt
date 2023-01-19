@@ -1,0 +1,54 @@
+Findings:  
+ 
+Mild pulmonary infiltration in bilateral lower lungs.  
+Lobulated contour of liver compatible with liver cirrhosis.  
+Hepatic cyst at S8 liver (1.4 cm)  
+Mild dilatation of bil IHDs. 
+No definite focal mass in pancreas and spleen.  
+Patency of portal vein.  
+A 2.5 cm poorly defined hypodense nodular mass in S4-8 liver, maybe due to liver metastasis 
+Ascites with extensive nodular infiltrating the greater omentum, omental caking suggestive of peritoneal carcinomatosis. 
+Diffuse atherosclerotic change of visualized vessels .  
+Multiple enhancing lobulated mixed cystic and solid masses over bilateral adnexal regions (Rt 8.3x6.4 cm & 10.0x5.1 cm; Lt 7.0x6.4 cm), favoring ovarian cancer. 
+Normal function and contour of both kidneys.  
+Patency of bilateral ureters.  
+No definite retroperitoneal lymphadenopathy.  
+No definite bony destruction.  
+Degenerative change of thoracic and lumbar spine with spurs formation.  
+ 
+IMP:  
+* Highly suspected ovarian cancers (bilateral?) with peritoneal carcinomatosis and liver metastasis. 
+* Mild dilatation of IHDs. 
+ 
+Tentative imaging staging (Not pathology proven yet)  
+ 
+ 
+●Imaging Report Form for Ovarian, Fallopian tube, and Primary Peritoneal Carcinoma(AJCC 8th Edition) 
+1. Tumor Location 
+○ Right ○ Left ● Bilateral ○ Difficult to determine 
+2. Tumor Size:  
+●Measurable: ____10__cm (greatest dimension)  
+○Non-measurable 
+3. Content: ○Cystic ○Solid ○Mixed cystic and solid 
+4. Pathology:  ○Not available ○Available (Pathology type:□) 
+-------------------Primary Tumor(T)--------------------------- 
+TX   ○Primary tumor cannot be assessed 
+ 
+T3    Tumor involves 1 or both ovaries or fallopian tubes or primary peritoneal cancer, with microscopically confirmed peritoneal metastasis outside the pelvic &/or metastasis to the retroperitoneal (pelvic &/or para-aortic) lymph nodes 
+T3a○Microscopic extrapelvic (above the pelvic brim) peritoneal involvement with or without positive retroperitoneal lymph nodes 
+T3b   ○Macroscopic peritoneal metastasis beyond pelvis 2 cm or less in greatest dimension with or without metastasis to the retroperitoneal lymph nodes 
+T3c   ●Macroscopic peritoneal metastasis beyond the pelvis more than 2 cm in greatest dimension with or without metastasis to the retroperitoneal lymph nodes(includes extension of tumor to capsule of liver and spleen without parenchymal involvement of either organ) 
+-------------------Regional Lymph Nodes(N)----------------- 
+NX   ○Regional lymph nodes cannot be assessed 
+N0   ○No regional lymph node metastasis 
+N1   ○Positive retroperitoneal lymph nodes only(histologically confirmed) 
+N1a ○Metastasis up to and including 10mm in greatest dimension 
+N1b ○Metastasis more than 10mm in greatest dimension  
+-------------------Distant Metastasis(M)----------------------- 
+M0--No distant metastasis 
+M1-- Distant metastasis 
+M1a--Pleural effusion with positive cytology 
+M1b--●Liver or splenic parenchymal metastasis; metastasis to extra-abdominal organs (including inguinal lymph nodes and lymph nodes outside the abdominal cavity); and transmural involvement of intestine  
+ 
+Imaging stage:   T3c Nx M1b (in this study) 
+ 

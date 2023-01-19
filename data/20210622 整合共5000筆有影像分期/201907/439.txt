@@ -1,0 +1,54 @@
+Findings: 
+ 
+Non-cirrhotic liver and with normal spleen 
+12.7cm tumor wiht poor enhanced over LLS liver 
+Tumor thrombus inside the S2-3 portal vein 
+Annular wall thickening of the D-colon and with pericolic infiltration 
+Multiple smalll LN over the adjacent mesocolic region 
+2.6cm cyst over left kidney 
+Patency of the main portal vein and with normal spleen 
+No definite biliary dilatation  . 
+No definite obstructive uropathy  . 
+No abnormal fluid collection in the abdomen  . 
+ 
+ 
+IMP:  
+D-colon cancer and with pericolic infiltration (7cm) 
+Multiple smalll LN over the adjacent mesocolic region 
+12.7cm tumor wiht poor enhanced over LLS liver, metastasis or cholangiocarcinoma?  
+Tumor thrombus inside the S2-3 portal vein 
+ 
+ 
+¡´Imaging Report Form for Colorectal Cancer (AJCC 8th Edition) 
+1.Tumor Location: 
+¡³Cecum ¡³Ascending ¡³Hepatic flexure ¡³Transverse ¡³Splenic flexure ¡´Descending ¡³Sigmoid ¡³Rectum ¡³Other ____________ 
+2.Tumor Size:  
+¡³Measurable: _7__cm (largest diameter) 
+¡³Non-measurable 
+3.Pathology: ¡³Not available ¡´Available (Pathology type:¡¼) 
+-------------------Primary Tumor(T)--------------------------- 
+Tx   ¡³Primary tumor cannot be assessed 
+Tis   ¡³Carcinoma in situ, intramucosal carcinoma(tumor in lamina propria) 
+T0   ¡³No evidence of primary tumor 
+¡q=T2 ¡³Tumor invades submucosa or muscularis propria 
+T3   ¡³Tumor invades through the muscularis propria into pericolorectal tissues 
+T4a  ¡´Tumor penetrates to the surface of the visceral peritoneum 
+T4b  ¡³Tumor directly invades or is adherent to other organs or structures 
+-------------------Regional Lymph Nodes(N)----------------- 
+Nx   ¡³Regional lymph nodes cannot be assessed 
+N0   ¡³No enlarged regional lymph node metastasis 
+N1   ¡³Metastasis in 1 to 3 regional lymph node 
+  N1a ¡³Metastasis in 1 regional lymph node 
+  N1b ¡³Metastasis in 2-3 regional lymph nodes 
+  N1c ¡³Tumor deposit(s) in the subserosa, mesentery, or non-peritonealized pericolic or perirectal tissues without regional nodal metastasis       
+N2    ¡³Metastasis in 4 or more regional lymph nodes 
+N2a  ¡´Metastasis in 4 to 6 regional lymph nodes 
+N2b   ¡³Metastasis in 7 or more regional lymph nodes 
+¡³Pericolic/perirectal ¡³Ileocolic ¡³Right colic ¡³Middle colic ¡³Left colic ¡³ Superior rectal ¡³Superior mesenteric artery ¡³Inferior mesenteric artery ¡³Others ____________ 
+-------------------Distant Metastasis(M)----------------------- 
+M1    ¡³Distant metastasis 
+M1a   ¡³Metastasis confined to one organ or site(e.g., liver, lung, ovary, non-regional node)  
+M1b   ¡³Metastases in more than one organ/site without peritoneal metastasis  
+M1c   ¡³Peritoneal metastasis  with or without other organ metastasis 
+Imaging stage   T4b N2a  ( in this study) 
+ 

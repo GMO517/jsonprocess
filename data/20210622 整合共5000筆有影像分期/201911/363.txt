@@ -1,0 +1,60 @@
+findings
+  plate atelectasis with bronchiectasis of rml
+  liver cirrhosis and splenomegaly.
+  at least four liver tumors, 4.8x4.8 cm in s4, 2.9x2.6 cm s6, 2.1x2.1 cm and 1.6x
+  1.8cm in s4/8liver with early enhancement and early wash-out pattern, all favor 
+  hepatocellular carcinomas.
+  two hypodense round nodules in peripheral aspect of s7 liver, nature?
+  patency of portal trunk and its branches.
+  no biliary tree dilatation.
+  unremarkable finding of gallbladder.
+  presence of gastric varices.
+  no definite space occupyinglesion in the pancreas and spleen.
+  unremarkable finding of bilateral padrenal glands.
+  small right renal stone.
+  right renal cyst, 5.3 x 5.2 cm.
+  no evidence of obstructive uropathy.
+  prostatic calcifications.
+  no abnormal fluid collection in the abdomen.
+  no definite pneumoperitoneum is seen  
+  no definite enlargement of retroperitoneal lns.
+  
+  imp:
+  * liver cirrhosis and splenomegaly with gastric varices
+  * at least four hepatocellular carcinoma in the liver, 4.8 x 4.8 cm in s4, 2.9 x
+   2.5 cm in s6, 2.1 x 2.1 cm in s4/8 and 1.7 x 1.6 cm in s8 liver.
+  
+  ¡´tnm for hepatocellua carcinoma (ajcc 7th edition)
+  1.tumor location: s4, s6, s4/8 liver
+  2.tumor size: 4.8 x 4.8 cm (the biggest one)
+  3.pathology: ¡´not available ¡³available (pathology type:¡¼)
+  
+  -------------------primary tumor(t)-------------------
+   tx    ¡³primary tumor cannot be assessed ¡¼
+   t0    ¡³no primary tumor ¡¼
+  stage i
+   t1    ¡³solitary tumor without vascular invasion ¡¼
+  stage ii
+   t2    ¡³solitary tumor with vascular invasion
+            ¡´multiple tumors none more than 5 cm
+  
+  stage iii
+   a t3a ¡³multiple tumors more than 5 cm ¡¼
+   b t3b ¡³single tumor or multiple tumors of any size
+         involving a major branch of the portal vein or
+         hepatic vein ¡¼
+   c t4  ¡³tumor(s) with direct invasion of adjacent
+         organs other than the gallbladder or with
+         perforation of visceral peritoneum. ¡¼
+  
+  -------------------regional lymph nodes(n)-----------------
+   nx    ¡³regional lymph nodes cannot be assessed ¡¼
+   n0    ¡´no regional lymph nodes ¡¼
+  stage iva
+   n1    ¡³regional lymph node metastasis ¡¼
+  
+  -------------------distant metastasis(m)-------------------
+  stage ivb
+   m1    ¡³distant metastasis¡¼
+  
+  imaging stage   t2 n0 (in this study)

@@ -1,0 +1,75 @@
+findings:  
+a 1.7 cm enlarged periesophageal ln.
+three nodules in rll (0.8 and 0.6 cm) and lll (0.4 cm).
+no definite space occupying lesion in the spleen and pancreas.
+lobulated contour of liver, compatible with liver cirrhosis. 
+splenomegaly.
+two heterogenous enhancing masses (upto 12x11x11 and 1 cm) in s6/7 liver with 
+bil. and main portal vein invasion result in multiple collaterals.
+a 7.7x5.7x4.5 cm exophytic mass arise from s6/7 probably with right adrenal 
+gland invasion.
+the tumor compressing the ivc.
+probably a 0.6 cm cyst in lls.
+no definite biliary dilatation.
+unremarkable study of gallbladder.
+patency of portal vein.
+no definite hydronephrosis
+right renal cysts
+no apparent adrenal mass left.
+multiple small retroperitoneal lns.
+no abnormal  free air in the abdomen. 
+small ascites.
+no apparent bone destruction.
+kindly note that subtle mucosal lesion could not be well evaluated on routine ct
+.
+
+imp:
+1. findings considering hccs or other with periesophageal lns/lung metastasis, 
+portal vein/right adrenal gland invasion.
+
+●imaging report form for hepatocellua carcinoma (ajcc 8th edition)
+1.tumor number/location: 
+number: ○1 ●2 ○3 multiple:
+location: right liver 
+2.tumor size: 
+    ●measurable: 12x11x11  cm (the largest tumor)
+    ○non-measurable
+3.tumor characteristics and associated liver features
+    ●vascular invasion 
+    ○extrahepatic spread 
+    ●ascites 
+    ●portal vein thrombosis, location 
+    ○portosystemic collateral vessel
+    ○typical enhancement pattern (hypervascular enhancement and early wash-out)
+3.pathology: ●not available ○available (pathology type:□)
+
+-------------------primary tumor(t)--------------------------
+ tx  ○ primary tumor cannot be assessed 
+ t0  ○ no primary tumor 
+stage i
+t1   ○ solitary tumor ≦2 cm, or > 2cm without vascular invasion
+t1a  solitary tumor ≦2 cm
+t1b  solitary tumor > 2cm without vascular invasion
+stage ii
+t2   ○ solitary tumor >2cm with vascular invasion, or multiple tumors,none >5
+cm 
+stage iii
+t3   ○multiple tumors more than 5 cm 
+t4   ●tsingle tumor or multiple tumors of any size involving a major
+branch of the portal vein or hepatic vein, or tumor(s) with direct
+invasion of adjacent organs other than the gallbladder or with
+perforation of visceral peritoneum 
+-------------------regional lymph nodes(n)-----------------
+nx   ○regional lymph nodes cannot be assessed 
+n0   ●no regional lymph nodes
+stage iva
+n1   ○regional lymph node metastasis 
+     ○periceliac, ○hilar( common bile duct, hepatic artery, portal vein and 
+cystic duct) ○peripancreatic ○paraaortic ○portocaval ○retrocaval
+○others_______ 
+-------------------distant metastasis(m)----------------------
+stage ivb
+m1  ●distant metastasis
+○	invasion of gallbladder
+○	cardiophrenic, mesenteric, retrocrural ln
+imaging stage   t4 n0m1( in this study)

@@ -1,0 +1,75 @@
+findings:  
+right basal pleural calcifications.
+calcified atherosclerotic plaques of the visualized aorta and arteries. 
+no definite space occupying lesion in the spleen and pancreas.
+left hepatic cysts (< 1.0 cm).
+one huge heterogeneously enhancing mass (11.0 x 9.0 x 12.6 cm) over right lobe 
+liver.
+partial obliteration of right portal vein possibly due to invasion.
+no definite biliary dilatation.
+unremarkable study of gallbladder.
+no definite adrenal mass.
+no definite obstructive uropathy.
+mucosal lesion of gi tract cannot be well evaluated in routine abdominal ct 
+study.
+no definite enlargement of retroperitoneal lns.
+no abnormal fluid collection in the abdomen. 
+right pelvic cystic lesion (2.2 cm), maybe ovarian cyst.
+compression fracture of l2.
+joint space narrowing with surrounding sclerotic change, subchondral cyst & spur
+ formation around right hip due to oa. 
+s/p left total hip replacement.  
+
+imp:
+* suspecting huge right liver hcc (11.0 x 9.0 x 12.6 cm) with invasion to right 
+portal vein.
+* left hepatic cysts (< 1.0 cm).
+* right pelvic cystic lesion (2.2 cm), maybe ovarian cyst.
+
+imaging report form for hepatocellua carcinoma (ajcc 8th edition)
+1.tumor number/location: 
+number: ¡´1 ¡³2 ¡³3 multiple:
+location: right lobe 
+2.tumor size: 
+    ¡´measurable: 12.6 cm (the largest tumor)
+    ¡³non-measurable
+3.tumor characteristics and associated liver features
+    ¡´vascular invasion 
+    ¡³extrahepatic spread 
+    ¡³ascites 
+    ¡³portal vein thrombosis, location 
+    ¡³portosystemic collateral vessel
+    ¡³typical enhancement pattern (hypervascular enhancement and early wash-out)
+3.pathology: ¡´not available ¡³available (pathology type:¡¼)
+
+-------------------primary tumor(t)--------------------------
+ tx  ¡³ primary tumor cannot be assessed 
+ t0  ¡³ no primary tumor 
+stage i
+t1   ¡³ solitary tumor ¡Ø2 cm, or > 2cm without vascular invasion
+t1a  solitary tumor ¡Ø2 cm
+t1b  solitary tumor > 2cm without vascular invasion
+stage ii
+t2   ¡³ solitary tumor >2cm with vascular invasion, or multiple tumors,none >5
+cm 
+stage iii
+t3   ¡³multiple tumors more than 5 cm 
+t4   ¡´single tumor or multiple tumors of any size involving a major
+branch of the portal vein or hepatic vein, or tumor(s) with direct
+invasion of adjacent organs other than the gallbladder or with
+perforation of visceral peritoneum 
+-------------------regional lymph nodes(n)-----------------
+nx   ¡³regional lymph nodes cannot be assessed 
+n0   ¡´no regional lymph nodes
+stage iva
+n1   ¡³regional lymph node metastasis 
+     ¡³periceliac, ¡³hilar( common bile duct, hepatic artery, portal vein and 
+cystic duct) ¡³peripancreatic ¡³paraaortic ¡³portocaval ¡³retrocaval
+¡³others_______ 
+-------------------distant metastasis(m)----------------------
+stage ivb
+m1  ¡³distant metastasis
+¡³	invasion of gallbladder
+¡³	cardiophrenic, mesenteric, retrocrural ln
+
+imaging stage   t4 n0 (in this study)

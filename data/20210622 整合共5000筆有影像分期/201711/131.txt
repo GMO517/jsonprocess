@@ -1,0 +1,73 @@
+
+Findings:  
+ 
+Lobulated contour of liver compatible with liver cirrhosis  
+ 
+Splenomegaly   
+ 
+One liver nodule about 2.4cm in S4-8 with early enhancement and early washout, compatible with HCC 
+ 
+Multiple small cysts over the liver, S4 (0.7cm), S8 (1.0cm) and S7 (1.1cm) 
+ 
+s/p cholecystectomy with mild biliary dilatation  
+ 
+Patency of the portal veins 
+ 
+No definite obstructive uropathy  
+ 
+No abnormal fluid collection in the abdomen  
+ 
+ 
+ 
+IMP: 
+ 
+Liver cirrhosis with splenomegaly   
+ 
+s/p cholecystectomy with mild biliary dilatation 
+ 
+Multiple small liver cysts in bil. lobes 
+ 
+One enhanced liver nodule in S4-8, compatible with HCC 
+ 
+ 
+ 
+●TNM for Hepatocellua Carcinoma (AJCC 7th Edition) 
+ 
+1.Tumor Location: S4-8 
+ 
+2.Tumor Size: 2.4cm 
+ 
+3.Pathology: ●Not available ○Available (Pathology type:□) 
+ 
+ 
+ 
+-------------------Primary Tumor(T)------------------- 
+ 
+ Tx    ○Primary tumor cannot be assessed □ 
+ 
+ T0    ○No primary tumor □ 
+ 
+Stage I 
+ 
+ T1    ●Solitary tumor without vascular invasion □ 
+ 
+ 
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+ Nx    ○Regional lymph nodes cannot be assessed □ 
+ 
+ N0    ●No regional lymph nodes □ 
+ 
+ 
+ 
+-------------------Distant Metastasis(M)------------------- 
+ 
+ M0    ●No distant metastasis□ 
+ 
+ 
+ 
+ 
+ 
+Imaging stage   T1 N0 M0 (in this study) 
+ 

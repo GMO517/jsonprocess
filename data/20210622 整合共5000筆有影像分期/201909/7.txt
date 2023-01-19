@@ -1,0 +1,72 @@
+findings:  
+  
+  calcified of aortic valve.
+  increase infiltration at lll and rll.
+  plate atelectasis at rll.
+  right pleural effusion.
+  no definite pulmonary nodule in visual field.
+  no definite space occupying lesion in the spleen and pancreas.
+  a capusulated intrahepatic mass (3.4cm) at s6 with early enhance/wash out 
+  pattern, favor hcc.  
+  dilatation of chd (2.2cm).
+  no identification of gallbladder, may due to cholecystectomy. 
+  patency of portal vein.
+  segmental luminal narrowing at terminal ileum and causing diffuse small bowel 
+  loops dilatation with fluid retention.  
+  diverticula at a-colon.
+  left adrenal nodule (7.2mm).
+  normal definite hydronephrosis.
+  bilateral renal cysts (the biggest one about 15mm).
+  fluid collection at right perirenal space and right paracolic gutter.
+  some diverticula at lateral walls of urinary bladder (the biggest one about 4.0
+  cm). 
+  bladder base indentation, prostate enlargement is considered.  
+  no definite enlargement of retroperitoneal lns.
+  no abnormal free air in the abdomen. 
+  s/p nasogastric tube insertion.
+  degenerative change of lumbar spine with spurs formation and scoliosis.  
+  small round laminated radiopaque density(ies) in the pelvic cavity due to 
+  phlebolith(s).  
+  
+  imp:
+  * small bowel obstruction with transitional zone at terminal ileum, due to 
+  previous     inflammatory, infection process or other nature ?
+  * liver mass (3.4cm) at s6, favor hcc.
+  * diverticula at a-colon.
+  * urinary bladder diverticula (the biggest one about 4.0cm).
+  * left adrenal nodule (7.2mm).
+  
+  ¡´tnm for hepatocellua carcinoma (ajcc 7th edition)
+  1.tumor location: s6
+  2.tumor size: 3.4cm
+  3.pathology: ¡´not available ¡³available (pathology type:¡¼)
+  
+  -------------------primary tumor(t)-------------------
+   tx    ¡³primary tumor cannot be assessed ¡¼
+   t0    ¡³no primary tumor ¡¼
+  stage i
+   t1    ¡´solitary tumor without vascular invasion ¡¼
+  stage ii
+   t2    ¡³solitary tumor with vascular invasion
+            ¡³multiple tumors none more than 5 cm
+  
+  stage iii
+   a t3a ¡³multiple tumors more than 5 cm ¡¼
+   b t3b ¡³single tumor or multiple tumors of any size
+         involving a major branch of the portal vein or
+         hepatic vein ¡¼
+   c t4  ¡³tumor(s) with direct invasion of adjacent
+         organs other than the gallbladder or with
+         perforation of visceral peritoneum. ¡¼
+  
+  -------------------regional lymph nodes(n)-----------------
+   nx    ¡³regional lymph nodes cannot be assessed ¡¼
+   n0    ¡´no regional lymph nodes ¡¼
+  stage iva
+   n1    ¡³regional lymph node metastasis ¡¼
+  
+  -------------------distant metastasis(m)-------------------
+  stage ivb
+   m1    ¡³distant metastasis¡¼
+  
+  imaging stage   t1 n0 (in this study)

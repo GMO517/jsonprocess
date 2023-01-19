@@ -1,0 +1,62 @@
+brief hx: pancreatic tumor for pre-op evaluation
+ct of liver, pancreas and with cta without & with contrast enhancement shows:
+techniques: 
+from lower chest to liver inferior edge in 5-mm contiguous section, contrast 
+medium injected at 2ml/sec, 30 sec after initiation of injection, starting 
+arterial phase scan; portal phase scan performed in 20 sec after the end of the 
+arterial phase scan; and venous phase scan began in 20 sec after the end of the 
+portal phase scan, reformation of images for ct angiography
+findings 
+relative low density of liver is compatible with fatty liver 
+no splenomegaly
+no focal enhanced mass in the liver
+mild biliary tree dilatation with pneumobilia s/p erbd stenting
+suspicious periampullar lesion, no evident dilatation of p-duct
+no definite space occupying lesion in the spleen 
+both rha and lha from pha
+patency of portal vein, mpv= 13.5mm, no portal thrombosis
+common trank of hvs and ivc
+no definite enlargement of retroperitoneal lns
+no abnormal fluid collection in the abdomen  
+no hydronephrosis
+imp:
+chronic liver parenchymal disease with fatty liver change
+mild biliary tree dilatation with pneumobilia s/p erbd stenting
+suspicious periampullar lesion
+
+(add imaging tumor staging after pathology proved)
+¡´imaging report form for intrahepatic bile ducts tumor (ajcc 8th edition)
+1.tumor number/location: 
+    location: 
+2.tumor size: 
+   ¡¼measurable:  cm (the largest tumor)
+   ¡´non-measurable
+3.pathology: ¡´not available ¡³available (pathology type:¡¼)
+
+-------------------primary tumor(t)--------------------------
+ tx   ¡´primary tumor cannot be assessed
+ t0   ¡³no primary tumor
+stage 0
+ tis   ¡³carcinoma in situ
+stage i
+ t1   ¡³solitary tumor without vascular invasion
+t1a   ¡³ solitary tumor ?5 cm without vascular invasion
+t1b   ¡³ solitary tumor >5 cm without vascular invasion
+stage ii
+ t2   ¡³ solitary tumor with intrahepatic vascular invasion or multiple
+tumors, with or without vascular invasion
+stage iii
+ t3   ¡³tumor perforating the visceral peritoneum 
+stage iva
+ t4   ¡³tumor involving local extrahepatic structures by direct invasion 
+-------------------regional lymph nodes(n)-----------------
+ nx   ¡³regional lymph nodes cannot be assessed
+ n0   ¡´no regional lymph nodes ¡¼
+stage iva
+ n1   ¡³regional lymph node metastasis ¡¼
+-------------------distant metastasis(m)---------------------
+ m0  ¡³no distant metastasis (no pathologic m0; use clinical m to complete 
+stage group)
+stage ivb
+ m1  ¡³distant metastasis¡¼
+imaging stage   tx n0( in this study)

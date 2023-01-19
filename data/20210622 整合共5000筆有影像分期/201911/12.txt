@@ -1,0 +1,123 @@
+Reason for Exam:  
+ 
+       Report: CT of liver without & with contrast enhancement triphasic scans shows:  
+ 
+ 
+ 
+2.5cm minimal enhanced tumor over S4 liver 
+ 
+Calcification over bilateral renal regions   
+ 
+No definite enlargement of retroperitoneal LNs  . 
+ 
+No definite biliary dilatation  . 
+ 
+No definite obstructive uropathy  . 
+ 
+No abnormal fluid collection in the abdomen  . 
+ 
+ No obvious bony destruction detected   
+ 
+  S/P TURP 
+ 
+ 
+ 
+IMP: S4 liver tumor, nature? 
+ 
+ 
+ 
+ 
+ 
+Staging after pathology 
+ 
+ 
+ 
+ 
+ 
+¡´Imaging Report Form for Hepatocellua Carcinoma (AJCC 7th Edition) 
+ 
+1.Tumor Number/Location:  
+ 
+    Number: ¡´1 ¡³2 ¡³3 ¡³Multiple: 
+ 
+    Location:  S8 
+ 
+2.Tumor Size:  
+ 
+    ¡³Measurable:  2.5cm (the largest tumor) 
+ 
+    ¡³Non-measurable 
+ 
+3.Tumor Characteristics and Associated Liver Features 
+ 
+    ¡³Vascular invasion  
+ 
+    ¡³Extrahepatic spread  
+ 
+    ¡³Ascites  
+ 
+    ¡³Portal vein thrombosis, location  
+ 
+    ¡³Portosystemic collateral vessel 
+ 
+    ¡³Typical enhancement pattern (hypervascular enhancement and early wash-out) 
+ 
+3.Pathology: ¡³Not available ¡´Available (Pathology type:¡¼) 
+ 
+ 
+ 
+-------------------Primary Tumor(T)-------------------------- 
+ 
+ Tx    ¡³Primary tumor cannot be assessed  
+ 
+ T0    ¡³No primary tumor  
+ 
+Stage I 
+ 
+ T1    ¡´Solitary tumor without vascular invasion  
+ 
+Stage II 
+ 
+ T2    ¡³Solitary tumor with vascular invasion 
+ 
+       ¡³Multiple tumors none more than 5 cm 
+ 
+Stage III 
+ 
+ A T3a ¡³Multiple tumors more than 5 cm  
+ 
+ B T3b ¡³Single tumor or multiple tumors of any size 
+ 
+       involving a major branch of the portal vein or 
+ 
+       hepatic vein  
+ 
+ C T4  ¡³Tumor(s) with direct invasion of IVC, biliary trees, adjacent 
+ 
+       organs other than the gallbladder or with 
+ 
+       perforation of visceral peritoneum.  
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+ Nx    ¡³Regional lymph nodes cannot be assessed  
+ 
+ N0    ¡´No regional lymph nodes 
+ 
+Stage IVA 
+ 
+ N1    ¡³Regional lymph node metastasis  
+ 
+        ¡³Periceliac, ¡³Hilar( common bile duct, hepatic artery, portal vein and cystic duct) ¡³Peripancreatic ¡³Paraaortic ¡³Portocaval ¡³Retrocaval ¡³Others_______  
+ 
+-------------------Distant Metastasis(M)---------------------- 
+ 
+Stage IVB 
+ 
+ M1    ¡³Distant metastasis 
+ 
+¡³ Invasion of gallbladder 
+ 
+¡³ Cardiophrenic, Mesenteric, Retrocrural LN 
+ 
+Imaging stage   T1 N0( in this study) 

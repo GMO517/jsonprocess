@@ -1,0 +1,83 @@
+Findings: 
+ 
+Irregular gastric wall thciekening over upper body portion to E-C junction, mild perigastric infiltration  
+ 
+Multiple hypodense liver nodules in both lobes with peripheral enahncement, more favoring metastasis 
+ 
+Multiple enlarged perigastric LNs up to 2.0cm due to metastasis 
+ 
+Patency of the portal veins 
+ 
+Mild splenomegaly 
+ 
+No ascites 
+ 
+No definite biliary dilatation, normal GB 
+ 
+Unremarkable change of the pancreas 
+ 
+No abnormal fluid collection in the abdomen  
+ 
+Small left adrenal nodule about 1.0cm, nature? 
+ 
+No hydronephrosis 
+ 
+RBil. renal cysts, right renal cyst about 2.3cm 
+ 
+No evident enlarged retroperitoneal LNs 
+ 
+IMP: 
+ 
+Gastric cancer with perigastric LN metastasis  
+ 
+Multiple liver nodules in both lobes may be liver metastasis 
+ 
+ 
+ 
+●TNM for Gastric Cancer (AJCC 7th Edition) 
+ 
+1.Tumor Location: gastric body and E-C junction 
+ 
+2.Tumor Size: □cm 
+ 
+3.Pathology: ○Not available ●Available (Pathology type:□) 
+ 
+ 
+ 
+T0            ○No primary tumor □ 
+ 
+T1      
+ 
+   T1a    ○Lamina propia□ 
+ 
+   T1b    ○Submucosa □ 
+ 
+T2            ○Muscularis propia □ 
+ 
+T3            ●Subserosa□ 
+ 
+T4 
+ 
+   T4a    ○Perforates serosa□ 
+ 
+   T4b    ○Adjacent structures □ 
+ 
+ 
+ 
+N0            ○No regional lymph nodes□ 
+ 
+N1            ○1-2 regional LNs□ 
+ 
+N2            ●-6  regional LNs□ 
+ 
+N3a          ○7-15 regional LNs □ 
+ 
+N3b          ○16 or more regional LNs□ 
+ 
+ 
+ 
+M1        ●Distant metastasis□  
+ 
+ 
+ 
+Imaging stage   T3 N2 M1 (in this study) 

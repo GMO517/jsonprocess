@@ -1,0 +1,48 @@
+Findings: 
+Mild pulmonary infiltration in LLL. 
+S/P PTGBD and biliary stent 
+A hypodense lesion(3.06cm) over the pancreatic neck region with biliary obstruction 
+No definite space occupying lesion in the liver  . 
+No definite enlargement of retroperitoneal LNs  . 
+No definite obstructive uropathy  . 
+No abnormal fluid collection in the abdomen  . 
+Patency of the portal vein 
+2.7cm diverticulum over 2nd portion of the duodenum 
+ 
+ 
+IMP:  
+* S/P PTGBD and biliary stent 
+* A hypodense lesion(3.06cm) over the pancreatic neck region with biliary obstruction, nature? 
+ 
+●Imaging Report Form for Pancreatic Carcinoma (AJCC 8th Edition) 
+1. Tumor location 
+   ○Pancreatic head and neck 
+   ○Pancreatic body  
+   ○Pancreatic tail 
+   ○Others___________________ 
+2. Tumor Size： 
+   ○Measurable: __________cm (in greatest diameter) 
+   ○Non-measurable 
+3. Pathology: ○Not available ○Available (Pathology type:□) 
+ 
+-------------------Primary Tumor(T)-------------------------- 
+TX    ○Primary tumor cannot be assessed 
+T0    ○No evidence of primary tumor 
+Tis    ○Carcinoma in situ 
+T1    Tumor limited to the pancreas, 〈= 2 cm in greatest dimension 
+○ T1a Tumour 0.5 cm or less  
+○ T1b Tumour greater than 0.5 cm and less than 1 cm  
+○ T1c Tumor greater than 1 cm but no more than 2 cm  
+T2    ●Tumour more than 2 cm but no more than 4 cm 
+T3    ○Tumour more than 4 cm in greatest  dimension 
+T4    ○Tumor involves the celiac axis or the superior mesenteric artery and/or common hepatic  artery (unresectable primary tumor) ○Inferior vena cava 
+ ○Aorta ○Rib ○Vertebral body ○Other: ________ 
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+NX    ○Regional lymph nodes cannot be assessed 
+N0    ●No regional lymph node metastasis 
+N1    ○Metastases in 1 to 3 nodes 
+N2    ○Metastases in 4 or more nodes 
+-------------------Distant Metastasis(M)---------------------- 
+M1    ○Distant metastasis 
+Imaging stage:   T2 N0(in this study) 

@@ -1,0 +1,67 @@
+Imaging  Findings: 
+Lobulated contour of liver compatible with liver cirrhosis  . 
+Several nodules and mass in S1(4.4cm,1.86cm), S5(2.16cm,9.3mm,7.9mm,1cm) liver with early enhance and early washout, favor HCCs 
+Two early enhance nodules in S4(8mm) and S8(4.6mm) liver may due to HCC 
+A faint hyperdense mass like lesion(3.8cm) in S5-6 liver without enhancement, nature? 
+Two poor enhance nodules in S7-8(1.78cm) and S8(2.2cm) liver 
+Two cysts in S5(1.1cm) and S1(1.5cm) liver 
+Patent MPV and branches, no evidence of thrombosis 
+No definite space occupying lesion in the pancreas and spleen . 
+No definite biliary dilatation. Normal gallbladder without stone. 
+No definite obstructive uropathy  .Small left renal cyst(6.5mm) 
+Calcification over uterus may due to myoma 
+No definite enlargement of retroperitoneal LNs  . 
+No abnormal fluid collection in the abdomen  . 
+ 
+Impression:  
+1. Liver cirrhosis 
+2. Several nodules and mass in S1(4.4cm,1.86cm), S5(2.16cm,9.3mm,7.9mm,1cm) liver with   early enhance and early washout, favor HCCs 
+3. Two early enhance nodules in S4(8mm) and S8(4.6mm) liver may due to HCC 
+4. A faint hyperdense mass like lesion(3.8cm) in S5-6 liver without enhancement, nature? 
+5. Two poor enhance nodules in S7-8(1.78cm) and S8(2.2cm) liver may due to regenerative   nodules 
+ 
+●Imaging Report Form for Hepatocellua Carcinoma (AJCC 8th Edition) 
+1.Tumor Number/Location:  
+Number: ○1 ○2 ○3 ●Multiple: 
+Location: both lobes  
+2.Tumor Size:  
+    ●Measurable: 4.4 cm (the largest tumor) 
+    ○Non-measurable 
+3.Tumor Characteristics and Associated Liver Features 
+    ○Vascular invasion  
+    ○Extrahepatic spread  
+    ○Ascites  
+    ○Portal vein thrombosis, location  
+    ○Portosystemic collateral vessel 
+    ●Typical enhancement pattern (hypervascular enhancement and early wash-out) 
+3.Pathology: ●Not available ○Available (Pathology type:□) 
+ 
+-------------------Primary Tumor(T)-------------------------- 
+ Tx  ○ Primary tumor cannot be assessed  
+ T0  ○ No primary tumor  
+Stage I 
+T1   ○ Solitary tumor ≦2 cm, or 〉 2cm without vascular invasion 
+T1a  Solitary tumor ≦2 cm 
+T1b  Solitary tumor 〉 2cm without vascular invasion 
+Stage II 
+T2   ● Solitary tumor 〉2cm with vascular invasion, or multiple tumors,none 〉5cm  
+Stage III 
+T3   ○Multiple tumors more than 5 cm  
+T4   ○Single tumor or multiple tumors of any size involving a major 
+branch of the portal vein or hepatic vein, or tumor(s) with direct 
+invasion of adjacent organs other than the gallbladder or with 
+perforation of visceral peritoneum  
+-------------------Regional Lymph Nodes(N)----------------- 
+Nx   ○Regional lymph nodes cannot be assessed  
+N0   ●No regional lymph nodes 
+Stage IVA 
+N1   ○Regional lymph node metastasis  
+     ○Periceliac, ○Hilar( common bile duct, hepatic artery, portal vein and cystic duct) ○Peripancreatic ○Paraaortic ○Portocaval ○Retrocaval 
+○Others_______  
+-------------------Distant Metastasis(M)---------------------- 
+Stage IVB 
+M1  ○Distant metastasis 
+○ Invasion of gallbladder 
+○ Cardiophrenic, Mesenteric, Retrocrural LN 
+Imaging stage   T2 N0( in this study) 
+ 

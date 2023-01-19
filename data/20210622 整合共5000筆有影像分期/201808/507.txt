@@ -1,0 +1,71 @@
+Findings: 
+ 
+Lobulated and uneven contour of liver compatible with liver cirrhosis 
+ 
+Relative left lobe liver atrophy 
+ 
+Multiple tiny liver cysts in bil. lobes 
+ 
+Multiple hypodense liver nodules in S5-6 (3.0cm), S6 (1.6cm) and S7 (1.3cm) with early enhancement and washout, compatible with HCCs  
+ 
+Patency of the portal veins 
+ 
+Mild splenomegaly 
+ 
+No ascites 
+ 
+No definite biliary dilatation, normal GB 
+ 
+Unremarkable change of the pancreas 
+ 
+No abnormal fluid collection in the abdomen  
+ 
+No hydronephrosis 
+ 
+No evident enlarged retroperitoneal LNs 
+ 
+ 
+ 
+IMP: 
+ 
+Liver cirrhosis with splenomegaly 
+ 
+Multiple enhanced lvier nodules in S5-6-7, compatible with HCCs 
+ 
+ 
+ 
+●TNM for Hepatocellua Carcinoma (AJCC 7th Edition) 
+ 
+1.Tumor Location: right lobe 
+ 
+2.Tumor Size: the biggest up to 3.0cm 
+ 
+3.Pathology: ●Not available ○Available (Pathology type:□) 
+ 
+ 
+ 
+-------------------Primary Tumor(T)------------------- 
+ 
+Stage II 
+ 
+ T2    ○Solitary tumor with vascular invasion 
+ 
+       ●Multiple tumors none more than 5 cm 
+ 
+ 
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+ N0    ●No regional lymph nodes □ 
+ 
+ 
+ 
+-------------------Distant Metastasis(M)------------------- 
+ 
+ M0    ●No distant metastasis□ 
+ 
+ 
+ 
+Imaging stage   T2 N0 M0 (in this study) 
+ 
+ 

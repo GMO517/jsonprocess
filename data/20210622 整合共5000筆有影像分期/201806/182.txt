@@ -1,0 +1,65 @@
+Findings: 
+ 
+Pericardial effusion 
+No definite pulmonary nodule in visual field. 
+Lobulated contour of liver compatible with liver cirrhosis 
+Splenomegaly. 
+No definite space occupying lesion in the   spleen  
+Ill define poor enhancing mass (4.2x3.6cm) in pancreatic tail region with splenic artery encsement. 
+Obstruction abd obliterated of splenic vein , maybe be due to tumor invasion. 
+Diffuse biliary dilatation  
+Multiple poor enhancing mass in bil. liver, favor metastasis  
+Unremarkable study of gallbladder  
+Patency of portal vein   
+Bil. renal cysts.  
+No definite hydronephrosis. 
+Enlarged paraaortic and periportal LNs  
+Ascites in pelvic cavity 
+No  free air in the abdomen  . 
+Wall thickening of urinary bladder. 
+Enlarged prostate gland with internal calcification. 
+No definite bone destruction. 
+Kindly note that subtle mucosal lesion could not be well evaluated on routine CT. 
+ 
+IMP: 
+ 
+1.Ill define poor enhancing mass in pancreatic tail region with splenic artery encasement and possible splenic vein invasion. Pancreas cancer or metastatic LNs ? 
+2.Enlarged retroperitoneal LNs, suspect lymphnode metastasis 
+3.Poor enhancing mass in bil. liver, primary or metastasis? 
+4.Liver cirrhosis with splenomegaly. 
+5.Diffuse biliary dilatation no interval change compared with 2015/7/31 CT study, pancreatic head/ampullar obstructive lesion? 
+ 
+●Imaging Report Form for Pancreatic Carcinoma (AJCC 8th Edition) 
+1. Tumor location 
+   ○Pancreatic head and neck 
+   ○Pancreatic body  
+   ●Pancreatic tail 
+   ○Others___________________ 
+2. Tumor Size： 
+   ○Measurable: _______4.2___cm (in greatest diameter) 
+   ○Non-measurable 
+3. Pathology: ○Not available ●Available (Pathology type:adenocarcinoma) 
+ 
+-------------------Primary Tumor(T)-------------------------- 
+TX    ○Primary tumor cannot be assessed 
+T0    ○No evidence of primary tumor 
+Tis    ○Carcinoma in situ 
+T1    Tumor limited to the pancreas, <= 2 cm in greatest dimension 
+○ T1a Tumour 0.5 cm or less  
+○ T1b Tumour greater than 0.5 cm and less than 1 cm  
+○ T1c Tumor greater than 1 cm but no more than 2 cm  
+T2    ○Tumour more than 2 cm but no more than 4 cm 
+T3    ●Tumour more than 4 cm in greatest  dimension 
+T4    ○Tumor involves the celiac axis or the superior mesenteric artery and/or common hepatic  artery (unresectable primary tumor) ○Inferior vena cava 
+ ○Aorta ○Rib ○Vertebral body ○Other: ________ 
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+NX    ○Regional lymph nodes cannot be assessed 
+N0    ○No regional lymph node metastasis 
+N1    ○Metastases in 1 to 3 nodes 
+N2    ●Metastases in 4 or more nodes 
+-------------------Distant Metastasis(M)---------------------- 
+M1    ●Distant metastasis 
+Imaging stage:   T3 N2 M1(in this study) 
+ 
+ 

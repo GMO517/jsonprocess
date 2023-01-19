@@ -1,0 +1,93 @@
+Reason for Exam:  
+ 
+       Report: Liver CT with and without IV contrast enhancement study shows:  
+ 
+Techniques:  
+ 
+From lower chest to liver inferior edge in 5-mm contiguous section. Contrast agent -100ml of contrast medium injected at 2.5ml/sec, 30 sec. After initiation of injection, starting arterial phase scan;  portal phase scan performed in 20 sec after the end of the arterial phase scan; and venous phase scan began in 20 sec after the end of the portal phase scan. 
+ 
+Findings: 
+ 
+ 
+ 
+TNM for Hepatocellua Carcinoma (AJCC 7th Edition) 
+ 
+1.Tumor Location: S8 
+ 
+2.Tumor Size: 2.0cm 
+ 
+3.Pathology: ¡³Not available ¡´Available (Pathology type:¡¼) 
+ 
+ 
+ 
+-------------------Primary Tumor(T)------------------- 
+ 
+ Tx    ¡³Primary tumor cannot be assessed ¡¼ 
+ 
+ T0    ¡³No primary tumor ¡¼ 
+ 
+Stage I 
+ 
+ T1    ¡´Solitary tumor without vascular invasion ¡¼ 
+ 
+Stage II 
+ 
+ T2    ¡³Solitary tumor with vascular invasion 
+ 
+       ¡³Multiple tumors none more than 5 cm 
+ 
+       ¡¼ 
+ 
+Stage III 
+ 
+ A T3a ¡³Multiple tumors more than 5 cm ¡¼ 
+ 
+ B T3b ¡³Single tumor or multiple tumors of any size 
+ 
+       involving a major branch of the portal vein or 
+ 
+       hepatic vein ¡¼ 
+ 
+ C T4  ¡³Tumor(s) with direct invasion of adjacent 
+ 
+       organs other than the gallbladder or with 
+ 
+       perforation of visceral peritoneum. ¡¼ 
+ 
+ 
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+ Nx    ¡³Regional lymph nodes cannot be assessed ¡¼ 
+ 
+ N0    ¡´No regional lymph nodes ¡¼ 
+ 
+Stage IVA 
+ 
+ N1    ¡³Regional lymph node metastasis ¡¼ 
+ 
+ 
+ 
+-------------------Distant Metastasis(M)------------------- 
+ 
+ M0    ¡´No distant metastasis¡¼ 
+ 
+Stage IVB 
+ 
+ M1    ¡³Distant metastasis¡¼ 
+ 
+ 
+ 
+Tumor stage   T 1 N 0 M 0 
+ 
+              Stage I 
+ 
+ 
+ 
+Other findings: 
+ 
+(1) fatty liver 
+ 
+(2) gallstone 
+ 
+(3) a small left renal cyst 

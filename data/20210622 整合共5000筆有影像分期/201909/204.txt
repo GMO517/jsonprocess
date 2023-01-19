@@ -1,0 +1,67 @@
+brief hx: liver nodule by echo, non b, non c
+
+no previous ct study available for comparison 
+ct of liver without and with iv enhancement triphasic scans studies  
+techniques: 
+from lower chest to liver inferior edge in 5-mm contiguous section, contrast 
+medium injected, arterial phase scan starting at 30 sec after initiation of 
+injection; portal phase scan performed in 20 sec after the end of the arterial 
+phase; and venous phase scan at 20 sec after the end of the portal phase 
+
+findings:
+mild right pleural effusion
+relative low density of liver is compatible with fatty liver 
+large ill-defined hetergenous enhanced mass about 9x12x13cm in s6-7-8 with some 
+late hypodense washout, r/o hcc or chc
+patency of the portal veins but partial obliteration of rpv may due to tumor 
+invasion, focal periportal enlarged lns up to 1.3cm also noted
+mild splenomegaly
+no ascites
+no definite biliary dilatation, normal gb
+unremarkable change of the pancreas
+multiple enlarged periaortic lns up to 1.8cm, r/o metastasis
+no abnormal fluid collection in the abdomen
+bil. small renal cysts 
+tiny right renal stone, no right hydronephrosis
+multiple left renal stones with moderate hydronephrosis
+imp:
+large ill-defined hetergenous enhanced liver mass about 9x12x13cm in s6-7-8 with
+ rpv invasion r/o hcc or cholangioca
+bil. renal stones, moderate left hydronephrosis
+
+(tentative tumor staging without pathology)
+¡´imaging report form for intrahepatic bile ducts tumor (ajcc 8th edition)
+1.tumor number/location: 
+    location: right 
+2.tumor size: 
+   ¡¼measurable: 12 cm (the largest tumor)
+   ¡¼non-measurable
+3.pathology: ¡´not available ¡³available (pathology type:¡¼)
+
+-------------------primary tumor(t)--------------------------
+ tx   ¡³primary tumor cannot be assessed
+ t0   ¡³no primary tumor
+stage 0
+ tis   ¡³carcinoma in situ
+stage i
+ t1   ¡³solitary tumor without vascular invasion
+t1a   ¡³ solitary tumor ?5 cm without vascular invasion
+t1b   ¡³ solitary tumor >5 cm without vascular invasion
+stage ii
+ t2   ¡³ solitary tumor with intrahepatic vascular invasion or multiple
+tumors, with or without vascular invasion
+stage iii
+ t3   ¡³tumor perforating the visceral peritoneum 
+stage iva
+ t4   ¡´tumor involving local extrahepatic structures by direct invasion 
+-------------------regional lymph nodes(n)-----------------
+ nx   ¡³regional lymph nodes cannot be assessed
+ n0   ¡³no regional lymph nodes ¡¼
+stage iva
+ n1   ¡´regional lymph node metastasis ¡¼
+-------------------distant metastasis(m)---------------------
+ m0  ¡³no distant metastasis (no pathologic m0; use clinical m to complete 
+stage group)
+stage ivb
+ m1  ¡´distant metastasis¡¼
+imaging stage   t4 n1 m1( in this study)

@@ -1,0 +1,102 @@
+ Report: CT of liver without & with contrast enhancement triphasic scans shows:  
+ 
+Lobulated contour of liver compatible with liver cirrhosis  . 
+ 
+Splenomegaly   
+ 
+3 early enhanced and washed out tumors are noted over  S6 (1cm and 0.94cm) and S5 (2cm) of the liver 
+ 
+S4 (1cm) nodule with early enhancement 
+ 
+1.6cm non-enhanced tumor over S5, favor regnerative nodules 
+ 
+No definite enlargement of retroperitoneal LNs   
+ 
+No definite biliary dilatation  . 
+ 
+No definite obstructive uropathy  . 
+ 
+No abnormal fluid collection in the abdomen  . 
+ 
+Patency of the portal vein 
+ 
+ 
+ 
+IMP: Liver cirrhosis  
+ 
+     3 HCCs over right liver     
+ 
+  
+ 
+●TNM for Hepatocellua Carcinoma (AJCC 7th Edition) 
+ 
+1.Tumor Location:  S6 (1cm and 0.94cm) and S5 (2cm) 
+ 
+2.Tumor Size: S6 (1cm and 0.94cm) and S5 (2cm) 
+ 
+3.Pathology: ●Not available ○Available (Pathology type:□) 
+ 
+ 
+ 
+-------------------Primary Tumor(T)------------------- 
+ 
+ Tx    ○Primary tumor cannot be assessed □ 
+ 
+ T0    ○No primary tumor □ 
+ 
+Stage I 
+ 
+ T1    ○Solitary tumor without vascular invasion □ 
+ 
+Stage II 
+ 
+ T2    ○Solitary tumor with vascular invasion 
+ 
+       ●Multiple tumors none more than 5 cm 
+ 
+ 
+ 
+Stage III 
+ 
+ A T3a ○Multiple tumors more than 5 cm □ 
+ 
+ B T3b ○Single tumor or multiple tumors of any size 
+ 
+       involving a major branch of the portal vein or 
+ 
+       hepatic vein □ 
+ 
+ C T4  ○Tumor(s) with direct invasion of adjacent 
+ 
+       organs other than the gallbladder or with 
+ 
+       perforation of visceral peritoneum. □ 
+ 
+ 
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+ Nx    ○Regional lymph nodes cannot be assessed □ 
+ 
+ N0   ●No regional lymph nodes □ 
+ 
+Stage IVA 
+ 
+ N1    ○Regional lymph node metastasis □ 
+ 
+ 
+ 
+-------------------Distant Metastasis(M)------------------- 
+ 
+ M0    ●No distant metastasis□ 
+ 
+Stage IVB 
+ 
+ M1    ○Distant metastasis□ 
+ 
+ 
+ 
+Imaging stage   T2N0 Mx 
+ 
+              Stage 2 
+ 

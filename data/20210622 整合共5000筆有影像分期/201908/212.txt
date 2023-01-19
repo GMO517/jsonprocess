@@ -1,0 +1,83 @@
+ct of liver  without & with contrast enhancement and with cta shows:
+  
+techniques: 
+from lower chest to upper abdomen in 1-mm contiguous section with 
+reconstruction of 5mm
+contrast agent 120ml of contrast medium  at 2.5-3ml/sec. scanning was 
+under the control of the bolus tracting  that  including the arterial, 
+portal and venous phase. reconstruction vascular images are performed 
+according to the pathway of the hepatic artery, portal vein and 
+inferior vena cava.
+  
+findings:
+lobulated contour of liver compatible with liver cirrhosis  .
+s/p tae of multiple hccs in right lobe liver with lipidol stasis
+thrombosis of rapv with thrombus extends to distal mpv, small caliber
+ of rppv
+patent lpv
+several focal early enhance area in right lobe liver with isodensity
+ during portal phase, favor focal ap shuntings
+splenomegaly
+no definite space occupying lesion in the pancreas and spleen .
+gallstones, mild dilatation of cbd=9mm and bil. ihds
+no definite obstructive uropathy  .
+renal cysts
+no definite enlargement of retroperitoneal lns  .
+no abnormal fluid collection in the abdomen  .
+the volumetric of right and left lobe liver is 471cm3 and 931cm3 respectively
+
+imp:
+1.liver cirrhosis and splenomegaly
+2.thrombosis of rapv with thrombus extends to distal mpv, small caliber
+ of rppv
+3.several focal early enhance area in right lobe liver with isodensity
+ during portal phase, favor focal ap shuntings
+4.gallstones, mild dilatation of cbd=9mm and bil. ihds
+
+¡´imaging report form for hepatocellua carcinoma (ajcc 7th edition)
+1.tumor number/location: 
+    number: ¡³1 ¡³2 ¡³3 ¡´multiple:
+    location: right lobe 
+2.tumor size: 
+    ¡³measurable:  cm (the largest tumor)
+    ¡´non-measurable
+3.tumor characteristics and associated liver features
+    ¡³vascular invasion 
+    ¡³extrahepatic spread 
+    ¡³ascites 
+    ¡´portal vein thrombosis, location 
+    ¡³portosystemic collateral vessel
+    ¡³typical enhancement pattern (hypervascular enhancement and early wash-out)
+3.pathology: ¡³not available ¡´available 
+(pathology type:hepatocellular carcinoma, poorly differentiated )
+
+-------------------primary tumor(t)--------------------------
+ tx    ¡³primary tumor cannot be assessed 
+ t0    ¡³no primary tumor 
+stage i
+ t1    ¡³solitary tumor without vascular invasion 
+stage ii
+ t2    ¡³solitary tumor with vascular invasion
+       ¡³multiple tumors none more than 5 cm
+stage iii
+ a t3a ¡³multiple tumors more than 5 cm 
+ b t3b ¡´single tumor or multiple tumors of any size
+       involving a major branch of the portal vein or
+       hepatic vein 
+ c t4  ¡³tumor(s) with direct invasion of ivc, biliary trees, adjacent
+       organs other than the gallbladder or with
+       perforation of visceral peritoneum. 
+-------------------regional lymph nodes(n)-----------------
+ nx    ¡³regional lymph nodes cannot be assessed 
+ n0    ¡´no regional lymph nodes
+stage iva
+ n1    ¡³regional lymph node metastasis 
+        ¡³periceliac, ¡³hilar( common bile duct, hepatic artery, portal vein 
+and cystic duct) ¡³peripancreatic ¡³paraaortic ¡³portocaval ¡³retrocaval ¡³other
+s_______ 
+-------------------distant metastasis(m)----------------------
+stage ivb
+ m1    ¡³distant metastasis
+¡³	invasion of gallbladder
+¡³	cardiophrenic, mesenteric, retrocrural ln
+imaging stage   t3b n0( in this study)

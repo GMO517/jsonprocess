@@ -1,0 +1,92 @@
+ 
+Findings: 
+ 
+A small patch consolidation in RML 
+ 
+Calcified pulmonary nodule in LLL(0.27cm) 
+ 
+A LLS liver nodule(3.16cm) with avid early enhancement ans iso density in delayed phases, favoring focal nodular hyperplasia. 
+ 
+A multiple loculated cystic lesion(2.34cm) in pancreatic neck with mild enhancement and mild P-duct dilatation(0.25cm), suspected cystadenoma or cystaadenocarcinoma. 
+ 
+No definite space occupying lesion in the spleen. 
+ 
+No definite biliary dilatation  . 
+ 
+Unremarkable study of gallbladder  
+ 
+Patency of portal vein   
+ 
+Normal function and contour of bil. kidneys and no definite obstructive uropathy. 
+ 
+No definite enlargement of retroperitoneal LNs  . 
+ 
+No abnormal fluid collection in the abdomen  . 
+ 
+ 
+ 
+IMP: 
+ 
+* A LLS liver nodule(3.16cm) with avid early enhancement ans iso density in delayed phases, favoring focal nodular hyperplasia. 
+ 
+* A multiple loculated cystic lesion(2.34cm) in pancreatic neck with mild enhancement and mild P-duct dilatation(0.25cm), suspected cystadenoma or cystaadenocarcinoma. 
+ 
+ 
+ 
+●Imaging Report Form for Pancreatic Carcinoma (AJCC 7th Edition) 
+ 
+1. Tumor location 
+ 
+   ○Pancreatic head and neck 
+ 
+   ○Pancreatic body  
+ 
+   ○Pancreatic tail 
+ 
+   ○Others___________________ 
+ 
+2. Tumor Size： 
+ 
+   ○Measurable: __________cm (in greatest diameter) 
+ 
+   ○Non-measurable 
+ 
+3. Pathology: ○Not available ○Available (Pathology type:□) 
+ 
+ 
+ 
+-------------------Primary Tumor(T)-------------------------- 
+ 
+TX    ○Primary tumor cannot be assessed 
+ 
+T0    ○No evidence of primary tumor 
+ 
+Tis    ○Carcinoma in situ 
+ 
+T1    ○Tumor limited to the pancreas, 〈= 2 cm in greatest dimension 
+ 
+T2    ●Tumor limited to the pancreas, 〉 2 cm in greatest dimension 
+ 
+T3    ○Tumor extends beyond the pancreas but without involvement of the celiac axis or the superior mesenteric artery 
+ 
+T4    ○Tumor involves the celiac axis or the superior mesenteric artery (unresectable primary tumor) ○Inferior vena cava ○Aorta ○Rib ○Vertebral body ○Other: ________ 
+ 
+ 
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+NX    ○Regional lymph nodes cannot be assessed 
+ 
+N0    ●No regional lymph node metastasis 
+ 
+N1    ○Regional lymph node metastasis 
+ 
+○ Pancreaticoduodenal nodes ○ Celiac axis nodes ○ Superior mesenteric nodes ○ Hepatic hilar nodes ○ Splenic hilar nodes ○ Superior peripancreatic nodes ○ Inferior peripancreatic nodes ○ Others ____________ 
+ 
+-------------------Distant Metastasis(M)---------------------- 
+ 
+M1    ○Distant metastasis 
+ 
+ 
+ 
+Imaging stage:   T2 N0(in this study) 

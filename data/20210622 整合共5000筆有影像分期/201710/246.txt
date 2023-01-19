@@ -1,0 +1,101 @@
+Findings: 
+ 
+Relative low density of liver is compatible with fatty liver 
+ 
+Ill-defined hypodense lesion in S7 near IVC about 2.1cm without evident enhancement, biopsy proved to be cholangioca or metastasis  
+ 
+A small liver cyst about 0.9cm in S8 
+ 
+Patency of the portal veins 
+ 
+Mild splenomegaly 
+ 
+No ascites 
+ 
+No definite biliary dilatation, normal GB 
+ 
+Unremarkable change of the pancreas 
+ 
+No abnormal fluid collection in the abdomen  
+ 
+No hydronephrosis 
+ 
+No evident enlarged retroperitoneal LNs 
+ 
+IMP: 
+ 
+Moderate fatty liver 
+ 
+Small liver cysts in S8 
+ 
+Ill-defined hypodense mass (2,1cm) in S7 near IVC, biopsy proved to be cholangioca or metastasis  
+ 
+ 
+ 
+●Imaging Report Form for intrahepatic bile ducts tumor (AJCC 7th Edition) 
+ 
+ 
+ 
+1.Tumor Number/Location:  
+ 
+    Location:  S7  
+ 
+2.Tumor Size:  
+ 
+   ○Measurable: 2.1 cm (the largest tumor) 
+ 
+   ○Non-measurable 
+ 
+3.Pathology: ○Not available ○Available (Pathology type:□) 
+ 
+ 
+ 
+-------------------Primary Tumor(T)-------------------------- 
+ 
+ Tx    ○Primary tumor cannot be assessed 
+ 
+ T0    ○No primary tumor 
+ 
+Stage 0 
+ 
+ Tis   ○Carcinoma in situ 
+ 
+Stage I 
+ 
+ T1    ●Solitary tumor without vascular invasion 
+ 
+Stage II 
+ 
+ T2a   ○Solitary tumor with vascular invasion 
+ 
+ T2b   ○Multiple tumors with or without vascular invasion 
+ 
+Stage III 
+ 
+ T3    ○Tumor perforating the visceral peritoneum or involving the local extrahepatic structures by direct invasion 
+ 
+Stage IVA 
+ 
+ T4    ○Tumor(s) with periductal invasion 
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+ Nx    ○Regional lymph nodes cannot be assessed 
+ 
+ N0    ●No regional lymph nodes □ 
+ 
+Stage IVA 
+ 
+ N1    ○Regional lymph node metastasis □ 
+ 
+-------------------Distant Metastasis(M)--------------------- 
+ 
+ M0   ○No distant metastasis (no pathologic M0; use clinical M to complete stage group) 
+ 
+Stage IVB 
+ 
+ M1   ○Distant metastasis□ 
+ 
+ 
+ 
+Imaging stage   T1 N0 (tentative in this study) 

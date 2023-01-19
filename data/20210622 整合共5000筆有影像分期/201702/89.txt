@@ -1,0 +1,99 @@
+Findings: 
+ 
+Lobulated and uneven contour of liver compatible with liver cirrhosis 
+ 
+Poorly defined hypodense liver tumor masses over right posterior portion about up to 5.4cm, mild enahncement 
+ 
+Diffuse dilatation of biliary tree due to hilar obstruction, masses in the dilated posr IHDs and CHD also noted s/p ERBD stents and PTCD from left approach 
+ 
+Patency of the portal veins 
+ 
+Enlarged periportal and hilar LNs up to 1.7cm  
+ 
+Mild splenomegaly 
+ 
+No ascites 
+ 
+Unremarkable change of the pancreas 
+ 
+No abnormal fluid collection in the abdomen  
+ 
+No hydronephrosis 
+ 
+No evident enlarged retroperitoneal LNs 
+ 
+IMP: 
+ 
+Favoring cholangioca over S6-7 with hilar obstruction causing diffuse biliary tree dilatation, hilar enlarged LNs 
+ 
+ 
+ 
+(tentative tumor staging for cholangioca) 
+ 
+●Imaging Report Form for intrahepatic bile ducts tumor (AJCC 7th Edition) 
+ 
+ 
+ 
+1.Tumor Number/Location:  
+ 
+    Location:  S6-7  
+ 
+2.Tumor Size:  
+ 
+   ○Measurable: 5.4 cm (the largest tumor) 
+ 
+   ○Non-measurable 
+ 
+3.Pathology: ●Not available ○Available (Pathology type:□) 
+ 
+ 
+ 
+-------------------Primary Tumor(T)-------------------------- 
+ 
+ Tx    ○Primary tumor cannot be assessed 
+ 
+ T0    ○No primary tumor 
+ 
+Stage 0 
+ 
+ Tis   ○Carcinoma in situ 
+ 
+Stage I 
+ 
+ T1    ○Solitary tumor without vascular invasion 
+ 
+Stage II 
+ 
+ T2a   ○Solitary tumor with vascular invasion 
+ 
+ T2b   ○Multiple tumors with or without vascular invasion 
+ 
+Stage III 
+ 
+ T3    ○Tumor perforating the visceral peritoneum or involving the local extrahepatic structures by direct invasion 
+ 
+Stage IVA 
+ 
+ T4    ●Tumor(s) with periductal invasion 
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+ Nx    ○Regional lymph nodes cannot be assessed 
+ 
+ N0    ○No regional lymph nodes □ 
+ 
+Stage IVA 
+ 
+ N1    ●Regional lymph node metastasis □ 
+ 
+-------------------Distant Metastasis(M)--------------------- 
+ 
+ M0   ○No distant metastasis (no pathologic M0; use clinical M to complete stage group) 
+ 
+Stage IVB 
+ 
+ M1   ○Distant metastasis□ 
+ 
+ 
+ 
+Imaging stage   T4 N1( in this study) 

@@ -1,0 +1,80 @@
+ct of liver  without & with contrast enhancement and with cta for liver 
+transplant shows:
+ 
+techniques: 
+from lower chest to upper abdomen in 1-mm contiguous section with reconstruction
+ of 5mm
+contrast agent 100ml of contrast medium  at 2.5-3ml/sec. scanning was under the 
+control of the bulus tracting  that  including the arterial, portal and venous 
+phase. reconstructive vascular images are performed according to the pathway of 
+the hepatic artery, portal vein and inferior vena cava.
+ 
+findings:
+lobulated contour of liver compatible with liver cirrhosis  .
+non-enhanced lesoion with size of  0.95 and 3.5cm over segment 4 of the liver
+multiple small cysts over the right liver
+no early enhanced tumor over the liver
+mild dilatation of bilateral ihds
+no definite enlargement of retroperitoneal lns  .
+splenomegaly  
+no ascites in the abdomen
+small gall stone
+patency of the hepatic artery (2 right has and lha from lga) and gastroepiloric
+ artery
+patency of the ivc and pv. 
+the size of the mpv is 0.86cm
+prominent of the coronary vein   0.37cm with gastric and esophageal varices 
+splenorenal or gastrorenal shunt with size of   16.7cm
+the volume of the liver is  755cm3 and the spleen is 453cm3
+ 
+imp: 
+liver cirrhosis for liver transplant
+non-enhanced lesoion with size of  0.95 and 3.5cm over segment 4 of the liver, 
+nature?
+
+¡´imaging report form for hepatocellua carcinoma (ajcc 8th edition)
+1.tumor number/location: 
+number: ¡³1 ?? ¡³3 multiple:
+location: s4 
+2.tumor size: 
+    ¡³measurable:  3.5cm (the largest tumor)
+    ¡³non-measurable
+3.tumor characteristics and associated liver features
+    ¡³vascular invasion 
+    ¡³extrahepatic spread 
+    ¡³ascites 
+    ¡³portal vein thrombosis, location 
+    ¡³portosystemic collateral vessel
+    ¡³typical enhancement pattern (hypervascular enhancement and early wash-out)
+3.pathology: ¡³not available ¡´available (pathology type:¡¼)
+
+-------------------primary tumor(t)--------------------------
+ tx  ¡³ primary tumor cannot be assessed 
+ t0  ¡³ no primary tumor 
+stage i
+t1   ¡³ solitary tumor ¡Ø2 cm, or > 2cm without vascular invasion
+t1a  solitary tumor ¡Ø2 cm
+t1b  solitary tumor > 2cm without vascular invasion
+stage ii
+t2   ¡´ solitary tumor >2cm with vascular invasion, or multiple tumors,none >5
+cm 
+stage iii
+t3   ¡³multiple tumors more than 5 cm 
+t4   ¡³tsingle tumor or multiple tumors of any size involving a major
+branch of the portal vein or hepatic vein, or tumor(s) with direct
+invasion of adjacent organs other than the gallbladder or with
+perforation of visceral peritoneum 
+-------------------regional lymph nodes(n)-----------------
+nx   ¡³regional lymph nodes cannot be assessed 
+n0   ¡´no regional lymph nodes
+stage iva
+n1   ¡³regional lymph node metastasis 
+     ¡³periceliac, ¡³hilar( common bile duct, hepatic artery, portal vein and 
+cystic duct) ¡³peripancreatic ¡³paraaortic ¡³portocaval ¡³retrocaval
+¡³others  __ 
+-------------------distant metastasis(m)----------------------
+stage ivb
+m1  ¡³distant metastasis
+¡³	invasion of gallbladder
+¡³	cardiophrenic, mesenteric, retrocrural ln
+imaging stage   t2 n0( in this study)

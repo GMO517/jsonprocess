@@ -1,0 +1,85 @@
+findings:
+annulus calcification of mitral valves.
+heavy calcified plaques over coronary arteries and aorta.
+cardiomegaly with enlarged ra and rv. 
+focal thickening pleura over dependent site of left chest. 
+plate atelectasis over rml.
+infiltration over lingular lobe and bil. lls.
+no definite space occupying lesion in the spleen and pancreas.
+calcified spot at s4 of liver.
+hypodense , heterogeous enhancing (no obvious early enhancing, wash out pattern)
+ nodule in s5 (2.4cm), seems mildly progression in size as compared with ct on 2
+0170925 (outer hospital).
+bilobar liver cysts (< 1.0cm).
+borderline dilatation of cbd and chd (upto 1.2cm).
+gallstones.
+patency of portal vein  
+diverticula over a-colon.
+no definite hydronephrosis.
+small size bil. kidneys with renal cysts (upto 3.2cm of right).
+small retroperitoneal lns  .
+no abnormal free air in the abdomen.
+minimal ascites in pelvic cavity.
+small round laminated radiopaque density(ies) in the pelvic cavity due to 
+phlebolith(s).
+osteoporotic change of visible bony structure.
+decrease height (fracture) of l3, compression fracture or pathological fracture 
+?
+old fracture or osteoblastic lesions over right pubic bone.
+
+imp:
+* liver nodule in s5 (2.4cm), seems mildly progression in size as compared with 
+ct on 20170925   (outer hospital), hcc or other nature ?
+* liver cysts.
+* esrd kidneys.
+* decrease height of l3, compression fracture or pathological fracture ?
+* old fracture or osteoblastic lesions over right pubic bone.
+
+¡´imaging report form for hepatocellua carcinoma (ajcc 7th edition)
+1.tumor number/location: 
+    number: ¡´1 ¡³2 ¡³3 ¡³multiple:
+    location:  s4/5
+2.tumor size: 
+    ¡´measurable: 2.4 cm (the largest tumor)
+    ¡³non-measurable
+3.tumor characteristics and associated liver features
+    ¡³vascular invasion 
+    ¡³extrahepatic spread 
+    ¡³ascites 
+    ¡³portal vein thrombosis, location 
+    ¡³portosystemic collateral vessel
+    ¡³typical enhancement pattern (hypervascular enhancement and early wash-out)
+3.pathology: ¡³not available ¡´available 
+ (pathology type:hepatocellular carcinoma, moderately differentiated)
+
+-------------------primary tumor(t)--------------------------
+ tx    ¡³primary tumor cannot be assessed 
+ t0    ¡³no primary tumor 
+stage i
+ t1    ¡´solitary tumor without vascular invasion 
+stage ii
+ t2    ¡³solitary tumor with vascular invasion
+       ¡³multiple tumors none more than 5 cm
+stage iii
+ a t3a ¡³multiple tumors more than 5 cm 
+ b t3b ¡³single tumor or multiple tumors of any size
+       involving a major branch of the portal vein or
+       hepatic vein 
+ c t4  ¡³tumor(s) with direct invasion of ivc, biliary trees, adjacent
+       organs other than the gallbladder or with
+       perforation of visceral peritoneum. 
+-------------------regional lymph nodes(n)-----------------
+ nx    ¡³regional lymph nodes cannot be assessed 
+ n0    ¡´no regional lymph nodes
+stage iva
+ n1    ¡³regional lymph node metastasis 
+        ¡³periceliac, ¡³hilar( common bile duct, hepatic artery, portal vein 
+and cystic duct) ¡³peripancreatic ¡³paraaortic ¡³portocaval ¡³retrocaval ¡³other
+s_______ 
+-------------------distant metastasis(m)----------------------
+stage ivb
+ m1    ¡³distant metastasis
+¡³	invasion of gallbladder
+¡³	cardiophrenic, mesenteric, retrocrural ln
+
+imaging stage   t1 n0 m0 or m1 (l3 vertebral body ?)  (in this study)

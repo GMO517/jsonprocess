@@ -1,0 +1,59 @@
+Findings: 
+ 
+Lobulated contour of liver compatible with liver cirrhosis  . 
+ 
+Splenomegaly   
+ 
+Engorged esophageal varices 
+ 
+Small hypodense liver nodule in S5 about 1.2cm with poor enhancement 
+ 
+No definite space occupying lesion in the spleen and pancreas   
+ 
+No definite biliary dilatation  
+ 
+Multiple gallstones 
+ 
+Patency of portal veins 
+ 
+Normal function and contour of bil. kidneys, no hydronephrosis 
+ 
+Right renal small cyst about 2.2cm 
+ 
+No definite enlargement of retroperitoneal LNs   
+ 
+No abnormal fluid collection in the abdomen  
+ 
+ 
+ 
+IMP: 
+ 
+Liver cirrhosis with mild splenomegaly 
+ 
+Multiple gallstones 
+ 
+Small S5 liver nodule about 1.2cm without evident early enahncement 
+ 
+ 
+ 
+●TNM for Hepatocellua Carcinoma (AJCC 7th Edition) 
+ 
+1.Tumor Location: S5 
+ 
+2.Tumor Size: 1.2cm 
+ 
+3.Pathology: ●Not available ○Available (Pathology type:□) 
+ 
+-------------------Primary Tumor(T)------------------- 
+ 
+Stage I 
+ 
+ T1    ●Solitary tumor without vascular invasion □ 
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+ N0    ●No regional lymph nodes □ 
+ 
+ 
+ 
+Imaging stage   T1 N0 (in this study) 

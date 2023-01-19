@@ -1,0 +1,74 @@
+Findings:  
+ 
+No definite pulmonary nodule noted in visualized field.  
+A poorly defined  5.3 cm hypodense mass with early washout in S7-8 liver, suspected invasion or encasement of RHV. 
+Patency of portal vein.  
+No definite biliary dilatation.  
+Unremarkable gallbladder without stone.  
+Two cardiophrenic enlarged LNs (20 mm & 9 mm), favoring metastatic LNs 
+No definite focal mass in pancreas and spleen.  
+Compression fracture of L4-5. 
+Focal sclerotic change over right acetabulum (0.6 cm), maybe due to bone island  
+Bilateral renal cysts, the biggest on the right with size of 2.5 cm .  
+Right lower calyceal stone with a 1.2 cm poorly defined hypodense nodule in lower renal pole, chronic inflammation associated with renal stone? 
+No definite hydronephrosis  
+No definite adrenal nodule.  
+No definite retroperitoneal lymphadenopathy.  
+Enlarged prostate with calcifications.  
+No fluid collection in abdomen.  
+Kindly note that subtle mucosal lesion could not be well evaluated on routine CT.  
+ 
+IMP:  
+* A poorly defined  5.3 cm hypodense mass with early washout in S7-8 liver, suspected invasion or encasement of RHV, compatible with HCC. 
+* Two cardiophrenic enlarged LNs (20 mm & 9 mm), favoring metastatic LNs 
+* Bilateral renal cysts, the biggest on the right with size of 2.5 cm .  
+* Right lower calyceal stone with a 1.2 cm poorly defined hypodense nodule in lower renal pole, chronic inflammation associated with renal stone? 
+* Compression fracture of L4-5. 
+ 
+ 
+Tentative imaging staging (Not pathology proven yet)  
+ 
+●Imaging Report Form for Hepatocellua Carcinoma (AJCC 8th Edition) 
+1.Tumor Number/Location:  
+Number: ●1 ●2 ○3 Multiple: 
+Location: S7-8 
+2.Tumor Size:  
+    ●Measurable: 5.3 cm (the largest tumor) 
+    ○Non-measurable 
+3.Tumor Characteristics and Associated Liver Features 
+    ●Vascular invasion  
+    ○Extrahepatic spread  
+    ○Ascites  
+    ○Portal vein thrombosis, location  
+    ○Portosystemic collateral vessel 
+    ○Typical enhancement pattern (hypervascular enhancement and early wash-out) 
+3.Pathology: ○Not available ○Available (Pathology type:□) 
+ 
+-------------------Primary Tumor(T)-------------------------- 
+ Tx  ○ Primary tumor cannot be assessed  
+ T0  ○ No primary tumor  
+Stage I 
+T1   ○ Solitary tumor ≦2 cm, or 〉 2cm without vascular invasion 
+T1a  Solitary tumor ≦2 cm 
+T1b  Solitary tumor 〉 2cm without vascular invasion 
+Stage II 
+T2   ○ Solitary tumor 〉2cm with vascular invasion, or multiple tumors,none 〉5cm  
+Stage III 
+T3   ●Multiple tumors more than 5 cm  
+T4   ○TSingle tumor or multiple tumors of any size involving a major 
+branch of the portal vein or hepatic vein, or tumor(s) with direct 
+invasion of adjacent organs other than the gallbladder or with 
+perforation of visceral peritoneum  
+-------------------Regional Lymph Nodes(N)----------------- 
+Nx   ○Regional lymph nodes cannot be assessed  
+N0   ○No regional lymph nodes 
+Stage IVA 
+N1   ●Regional lymph node metastasis  
+     ○Periceliac, ○Hilar( common bile duct, hepatic artery, portal vein and cystic duct) ○Peripancreatic ○Paraaortic ○Portocaval ○Retrocaval 
+○Others_______  
+-------------------Distant Metastasis(M)---------------------- 
+Stage IVB 
+M1  ○Distant metastasis 
+○ Invasion of gallbladder 
+○ Cardiophrenic, Mesenteric, Retrocrural LN 
+Imaging stage   T3 N1 ( in this study) 

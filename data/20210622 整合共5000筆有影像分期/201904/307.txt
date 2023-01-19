@@ -1,0 +1,74 @@
+Findings: 
+Bil. pleural effusion 
+RUL nodule (0.4cm)  
+Right lower lung consolidation 
+No definite space occupying lesion in the  spleen and pancreas. 
+S/P LDLT with right liver graft  
+Early enhancing nodule in S5(1cm) and S8(0.87cm, 1.5cm) without washout in delay phase  
+Splenomegaly  
+No definite biliary dilatation  . 
+Patency of portal vein   
+No definite hydronephrosis. 
+No definite enlargement of retroperitoneal LNs  . 
+No free air in the abdomen  . 
+Mark ascites . 
+Omental and mesenteric fat stranding . 
+Submucosal edema of A-colon . 
+Right hydrocele. 
+No definite bone destruction. 
+Right ribs old fracture . 
+s/p transpedicular screws fixation over L3-4-5-S1 . 
+Kindly note that subtle mucosal lesion could not be well evaluated on routine CT. 
+ 
+IMP: 
+1.S/P LDLT with right liver graft  
+2.Splenomoegaly and ascites  
+3.Early enhancing nodule in S5(1cm) and S8(0.87cm, 1.5cm) without washout, dysplatic nodules? suggest MRI study for the lesion characteristic evaluation. 
+4.Right lower lung consolidation and bil. pleural effusion 
+ 
+ 
+Tentative staging for liver tumor if HCC is proven  
+●Imaging Report Form for Hepatocellua Carcinoma (AJCC 8th Edition) 
+1.Tumor Number/Location:  
+Number: ○1 ○2 ●3 Multiple: 
+Location: S5,S8  
+2.Tumor Size:  
+    ●Measurable:  1.5cm (the largest tumor) 
+    ○Non-measurable 
+3.Tumor Characteristics and Associated Liver Features 
+    ○Vascular invasion  
+    ○Extrahepatic spread  
+    ○Ascites  
+    ○Portal vein thrombosis, location  
+    ○Portosystemic collateral vessel 
+    ○Typical enhancement pattern (hypervascular enhancement and early wash-out) 
+3.Pathology: ●Not available ○Available (Pathology type:□) 
+ 
+-------------------Primary Tumor(T)-------------------------- 
+ Tx  ○ Primary tumor cannot be assessed  
+ T0  ○ No primary tumor  
+Stage I 
+T1   ○ Solitary tumor ≦2 cm, or 〉 2cm without vascular invasion 
+T1a  Solitary tumor ≦2 cm 
+T1b  Solitary tumor 〉 2cm without vascular invasion 
+Stage II 
+T2   ● Solitary tumor 〉2cm with vascular invasion, or multiple tumors,none 〉5cm  
+Stage III 
+T3   ○Multiple tumors more than 5 cm  
+T4   ○TSingle tumor or multiple tumors of any size involving a major 
+branch of the portal vein or hepatic vein, or tumor(s) with direct 
+invasion of adjacent organs other than the gallbladder or with 
+perforation of visceral peritoneum  
+-------------------Regional Lymph Nodes(N)----------------- 
+Nx   ○Regional lymph nodes cannot be assessed  
+N0   ●No regional lymph nodes 
+Stage IVA 
+N1   ○Regional lymph node metastasis  
+     ○Periceliac, ○Hilar( common bile duct, hepatic artery, portal vein and cystic duct) ○Peripancreatic ○Paraaortic ○Portocaval ○Retrocaval 
+○Others_______  
+-------------------Distant Metastasis(M)---------------------- 
+Stage IVB 
+M1  ○Distant metastasis 
+○ Invasion of gallbladder 
+○ Cardiophrenic, Mesenteric, Retrocrural LN 
+Imaging stage   T2 N0 Mx( in this study) 

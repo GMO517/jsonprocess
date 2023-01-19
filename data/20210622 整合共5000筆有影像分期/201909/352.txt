@@ -1,0 +1,75 @@
+brief hx: recurrent hcc, liver cirrhosis for pre-op evaluation
+ct of liver and with cta for lt without & with contrast enhancement shows:
+techniques: 
+from lower chest to liver inferior edge in 5-mm contiguous section, contrast 
+medium injected, 30 sec after initiation of injection, starting arterial phase 
+scan; portal phase scan performed in 20 sec after the end of the arterial phase 
+scan; and venous phase scan began in 20 sec after the end of the portal phase 
+scan, reformation of images for ct angiography
+
+findings 
+lobulated contour of liver compatible with liver cirrhosis 
+moderate splenomegaly
+two early enhanced liver nodules in s5 (4.7cm) and s7 (0.9cm) with early washout
+one liver cyst about 1.3cm in s6
+no definite space occupying lesion in the spleen and pancreas
+no biliary tree dilatation 
+patency of hepatic arteries, both rha and lha are from pha
+patency of portal vein, no portal thrombosis
+volume of right liver is 904 cm3, left liver is 203cm3, volume of the spleen is 
+281 cm3
+no definite enlargement of retroperitoneal lns 
+mild ascites
+
+imp: 
+liver cirrhosis with splenomegaly
+two early enhanced liver nodules in s5 (4.7cm) and s7 (0.9cm)
+patent ha, pv and ivc
+
+(tentative tumor staging)
+¡´imaging report form for hepatocellua carcinoma (ajcc 8th edition)
+1.tumor number/location: 
+number: ¡³1 ¡´2 ¡³3 multiple:
+location: s5
+2.tumor size: 
+    ¡³measurable: 4.7 cm (the largest tumor)
+    ¡³non-measurable
+3.tumor characteristics and associated liver features
+    ¡³vascular invasion 
+    ¡³extrahepatic spread 
+    ¡³ascites 
+    ¡³portal vein thrombosis, location 
+    ¡³portosystemic collateral vessel
+    ¡´typical enhancement pattern (hypervascular enhancement and early wash-out)
+3.pathology: ¡´not available ¡³available (pathology type:¡¼)
+
+-------------------primary tumor(t)--------------------------
+ tx  ¡³ primary tumor cannot be assessed 
+ t0  ¡³ no primary tumor 
+stage i
+t1   ¡³ solitary tumor ¡Ø2 cm, or > 2cm without vascular invasion
+t1a  solitary tumor ¡Ø2 cm
+t1b  ¡³solitary tumor > 2cm without vascular invasion
+stage ii
+t2   ¡´ solitary tumor >2cm with vascular invasion, or multiple tumors,none >5
+cm 
+stage iii
+t3   ¡³multiple tumors more than 5 cm 
+t4   ¡³tsingle tumor or multiple tumors of any size involving a major
+branch of the portal vein or hepatic vein, or tumor(s) with direct
+invasion of adjacent organs other than the gallbladder or with
+perforation of visceral peritoneum 
+-------------------regional lymph nodes(n)-----------------
+nx   ¡³regional lymph nodes cannot be assessed 
+n0   ¡´no regional lymph nodes
+stage iva
+n1   ¡³regional lymph node metastasis 
+     ¡³periceliac, ¡³hilar( common bile duct, hepatic artery, portal vein and 
+cystic duct) ¡³peripancreatic ¡³paraaortic ¡³portocaval ¡³retrocaval
+¡³others_______ 
+-------------------distant metastasis(m)----------------------
+stage ivb
+m1  ¡³distant metastasis
+¡³	invasion of gallbladder
+¡³	cardiophrenic, mesenteric, retrocrural ln
+imaging stage   t2 n0( in this study)

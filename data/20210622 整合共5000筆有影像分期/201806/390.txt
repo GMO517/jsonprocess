@@ -1,0 +1,50 @@
+Imaging  Findings: 
+No obvious lung nodule 
+Multiple hypodense tumors with mild peripheral enhancement in both lobes of liver, the biggest one about 13.8cm in S5-6 liver, favor metastasis tumors 
+Favor infiltrative or ulcerative tumor of rectum may extends to left perirectal fat plane and with multiple enlarged regional LNs 
+No significant peritoneal seeding tumor 
+No definite space occupying lesion in the pancreas and spleen . 
+Patent MPV and branches, no evidence of thrombosis 
+No adrenal gland mass 
+No definite biliary dilatation. Normal gallbladder without stone. 
+No definite obstructive uropathy  . 
+No definite enlargement of retroperitoneal LNs  . 
+No abnormal fluid collection in the abdomen  . 
+ 
+Impression:  
+1. Favor infiltrative or ulcerative tumor of rectum may extends to left perirectal fat plane and with multiple enlarged regional LNs 
+2. Multiple liver tumors favor metastasis tumors 
+ 
+●Imaging Report Form for Colorectal Cancer (AJCC 8th Edition) 
+1.Tumor Location: 
+○Cecum ○Ascending ○Hepatic flexure ○Transverse ○Splenic flexure ○Descending ○Sigmoid ●Rectum ○Other ____________ 
+2.Tumor Size:  
+○Measurable: __________cm (largest diameter) 
+●Non-measurable 
+3.Pathology: ●Not available ○Available (Pathology type:□) 
+-------------------Primary Tumor(T)--------------------------- 
+Tx   ○Primary tumor cannot be assessed 
+Tis   ○Carcinoma in situ, intramucosal carcinoma(tumor in lamina propria) 
+T0   ○No evidence of primary tumor 
+<=T2 ○Tumor invades submucosa or muscularis propria 
+T3   ○Tumor invades through the muscularis propria into pericolorectal tissues 
+T4a  ●Tumor penetrates to the surface of the visceral peritoneum 
+T4b  ○Tumor directly invades or is adherent to other organs or structures 
+-------------------Regional Lymph Nodes(N)----------------- 
+Nx   ○Regional lymph nodes cannot be assessed 
+N0   ○No enlarged regional lymph node metastasis 
+N1   ○Metastasis in 1 to 3 regional lymph node 
+  N1a ○Metastasis in 1 regional lymph node 
+  N1b ○Metastasis in 2-3 regional lymph nodes 
+  N1c ○Tumor deposit(s) in the subserosa, mesentery, or non-peritonealized pericolic or perirectal tissues without regional nodal metastasis       
+N2    ○Metastasis in 4 or more regional lymph nodes 
+N2a   ●Metastasis in 4 to 6 regional lymph nodes 
+N2b   ○Metastasis in 7 or more regional lymph nodes 
+○Pericolic/perirectal ○Ileocolic ○Right colic ○Middle colic ○Left colic ○ Superior rectal ○Superior mesenteric artery ○Inferior mesenteric artery ○Others ____________ 
+-------------------Distant Metastasis(M)----------------------- 
+M1    ○Distant metastasis 
+M1a   ●Metastasis confined to one organ or site(e.g., liver, lung, ovary, non-regional node)  
+M1b   ○Metastases in more than one organ/site without peritoneal metastasis  
+M1c   ○Peritoneal metastasis  with or without other organ metastasis 
+Tentative Imaging stage  T4a N2a M1a  ( in this study) 
+ 

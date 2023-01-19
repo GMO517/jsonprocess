@@ -1,0 +1,99 @@
+Findings: 
+ 
+Relative low density of liver is compatible with fatty liver 
+ 
+No obvious focal liver nodule 
+ 
+Patency of the portal veins 
+ 
+Mild splenomegaly 
+ 
+No ascites 
+ 
+Contracted GB with irregular wall thickening and soft tissue mass, favoring GB cancer. 
+ 
+Dilatation of CBD (1.3cm) and CHD, mild dilatation of bil. IHDs r/o distal obstruction 
+ 
+Unremarkable change of the pancreas 
+ 
+No abnormal fluid collection in the abdomen  
+ 
+No hydronephrosis 
+ 
+No evident enlarged retroperitoneal LNs 
+ 
+IMP: 
+ 
+Contracted GB with wall thickening and hypodense mass, r/o GB cancer 
+ 
+Dilatation of CBD(1.3cm) and CHD, mild dilatation of bil. IHDs r/o distal obstruction 
+ 
+ 
+ 
+●Imaging Report Form for gall bladder tumor (AJCC 7th Edition) 
+ 
+1.Tumor Number/Location:  
+ 
+    Location:  □  
+ 
+2.Tumor Size:  
+ 
+  ○Measurable: 2.7 cm (the largest tumor) 
+ 
+  ○Non-measurable 
+ 
+3.Pathology: ○Not available ○Available (Pathology type:□) 
+ 
+-------------------Primary Tumor(T)-------------------------- 
+ 
+ Tx  ○Primary tumor cannot be assessed  
+ 
+ T0  ○No evidence of primary tumor  
+ 
+Stage 0 
+ 
+ Tis  ○Carcinoma in situ 
+ 
+Stage I 
+ 
+ T1  ○Tumor invades lamina propria or muscle layer 
+ 
+    T1a   ○Tumor invades lamina propira  
+ 
+    T1b   ○Tumor invades muscular layer 
+ 
+Stage II 
+ 
+ T2  ●Tumor invades perimuscular connective tissue; no extension beyond serosa or into liver 
+ 
+Stage IIIA 
+ 
+ T3  ○Tumor perforates the serosa (visceral peritoneum) and/or directly invades the liver and/or one other adjacent organ or structure, such as the stomach, duodenum, colon, pancreas, omentum, or extrahepatic bile ducts 
+ 
+Stage IVA (T4 N0-1) 
+ 
+ T4  ○Tumor invades main portal vein or hepatic artery or invades two or more extrahepatic organs or structures 
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+ Nx  ○Regional lymph nodes cannot be assessed  
+ 
+ N0  ●No regional lymph node metastasis 
+ 
+Stage IIIB (T1-T3 N1 M0) 
+ 
+ N1  Metastases to nodes along the cystic duct, common bile duct, hepatic artery, and/or portal vein. 
+ 
+Stage IVB  
+ 
+ N2  Metastases to periaortic, pericaval, superior mesentery artery and/or celiac artery lymph nodes 
+ 
+-------------------Distant Metastasis(M)---------------------- 
+ 
+ M0  ○No distant metastasis (no pathologic M0; use clinical M to complete stage group) 
+ 
+Stage IVB 
+ 
+ M1  ○Distant metastasis 
+ 
+Imaging stage   T2 N0( in this study) 

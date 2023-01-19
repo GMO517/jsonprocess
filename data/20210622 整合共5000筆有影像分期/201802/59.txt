@@ -1,0 +1,54 @@
+Findings: 
+A 2 mm tiny pulmonary nodule in RML 
+A 3 mm tiny calcified granuloma in LLL 
+Fibrotic chagne in left lingular lobe and RML with focal plate atelectasis. 
+Lobulated contour of liver compatible with liver cirrhosis 
+s/p LLS hepatectomy, S4-5 tumor resection and cholecystectomy  
+s/p RFA with necrotic change as hypodense areas over S5 and S6 liver 
+s/p TAE with lipiodol stasis in multiple HCC over right liver 
+Newfound two early enhancement and early washout nodules over the right liver (5.4 cm & 4.3 cm), favoring recurrent HCCs 
+Dilated right S8 IHD with prominent pneumobilia, no interval change 
+Patency of portal veins. 
+No definite space occupying lesion in the pancreas and spleen  
+No definite obstructive uropathy   
+No definite enlargement of retroperitoneal LNs  
+No abnormal fluid collection in the abdomen 
+A stable osteolytic lesion (1.7 cm) over left femur. 
+A newfound enhancing nodule at left urinary bladder wall (12 mm), suspected bladder cancer.  
+IMP: 
+Liver cirrhosis 
+s/p LLS hepatectomy, S4-5 tumor resection and cholecystectomy  
+s/p RFA with necrotic change over S5 and S6 liver 
+s/p TAE with lipiodol stasis over right lobe liver 
+* Two recurrent HCCs in right lobe of liver  (5.4 cm & 4.3 cm) 
+* A 2 mm tiny pulmonary nodule in RML 
+* A newfound enhancing nodule at left urinary bladder wall (12 mm), suspected bladder cancer.  
+●Imaging Report Form for urinary Bladder Tumor (AJCC 8th Edition) 
+1.Tumor Location: left urinary bladder wall 
+2.Tumor Size: 1.2 cm 
+3.Pathology: ○Not available ●Available (Pathology type:Papillary urothelial carcinoma, low-grade) 
+-------------------Primary Tumor(T)-------------------------- 
+Tx○Primary tumor cannot be assessed 
+T0    ○No evidence of primary tumor 
+Ta    ○Non-invasive papillary carcinoma 
+Tis    ○Urothelial carcinoma in situ:” flat tumor” 
+T1    ●Tumor invades lamina propria(subepithelial connective tissue) 
+T2    ○Tumor invades muscularispropria 
+T3    ○Tumor invades perivesical soft tissue 
+T4    ○Extravesical tumor directly invades any of the following:  
+T4a   ○Tumor invadesprostatic stroma, uterus, vagina 
+T4b   ○Tumor invades pelvic wall, abdominal wall 
+-------------------Regional Lymph Nodes(N)----------------- 
+Nx○Lymph nodes cannot be assessed 
+N0    ●No lymph node metastasis 
+N1    ○Single regional lymph node metastasis in true pelvis 
+(○perivesical○obturator○internal iliac○external iliac○sacral) 
+N2    ○Multiple regional lymph node metastasis in true pelvis 
+(○perivesical○obturator○internal iliac○external iliac○sacral) 
+N3    ○Lymph nodes metastasis to the common iliac lymph nodes 
+-------------------Distant Metastasis(M)--------------------- 
+M0○No distant metastasis  
+M1    ○Distant metastasis  
+M1a○Distant metastasis limited to lymph nodes beyond the common ilias 
+M1b○Non-lymph node distant metastases 
+Imaging stage:   T1 N0 (in this study) 

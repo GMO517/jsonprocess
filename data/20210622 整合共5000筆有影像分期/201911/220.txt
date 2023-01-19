@@ -1,0 +1,111 @@
+Reason for Exam:  
+ 
+       Report: Computed Tomography of Liver With and Without Enhancement Show: 
+ 
+ 
+ 
+9.4cm hetergenous tumor over S7-8-4 liver, No tumor over LLS liver 
+ 
+Occlusion and encasement of the MHV, Separated S3 and S2 HV 
+ 
+the S2 liver is free from the tumor 
+ 
+The tumor is contiguous with the S3 HV and RHV 
+ 
+No IRHV 
+ 
+No definite enlargement of retroperitoneal LNs  . 
+ 
+Small LN 0.6cm over gastrohepatic region 
+ 
+No definite biliary dilatation  . 
+ 
+No definite obstructive uropathy  . 
+ 
+Patency of the portal vein 
+ 
+No abnormal fluid collection in the abdomen  . 
+ 
+The vol of the LLS and part of the S4b is 360cm3 
+ 
+The vol of the right and part of the S4 live ris 963cm3 
+ 
+ 
+ 
+IMP:9.4cm hetergenous tumor over S7-8-4 liver, No tumor over LLS liver 
+ 
+Occlusion and encasement of the MHV, Separated S3 and S2 HV 
+ 
+ 
+ 
+ 
+ 
+Staging after pathology 
+ 
+¡´Imaging Report Form for intrahepatic bile ducts tumor (AJCC 7th Edition) 
+ 
+ 
+ 
+1.Tumor Number/Location:  
+ 
+    Location:   S7-8-4   
+ 
+2.Tumor Size:  
+ 
+   ¡³Measurable:  9.4cm (the largest tumor) 
+ 
+   ¡³Non-measurable 
+ 
+3.Pathology: ¡³Not available ¡´Available (Pathology type:¡¼) 
+ 
+ 
+ 
+-------------------Primary Tumor(T)-------------------------- 
+ 
+ Tx    ¡³Primary tumor cannot be assessed 
+ 
+ T0    ¡³No primary tumor 
+ 
+Stage 0 
+ 
+ Tis   ¡³Carcinoma in situ 
+ 
+Stage I 
+ 
+ T1    ¡´Solitary tumor without vascular invasion 
+ 
+Stage II 
+ 
+ T2a   ¡³Solitary tumor with vascular invasion 
+ 
+ T2b   ¡³Multiple tumors with or without vascular invasion 
+ 
+Stage III 
+ 
+ T3    ¡³Tumor perforating the visceral peritoneum or involving the local extrahepatic structures by direct invasion 
+ 
+Stage IVA 
+ 
+ T4    ¡³Tumor(s) with periductal invasion 
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+ Nx    ¡³Regional lymph nodes cannot be assessed 
+ 
+ N0    ¡´No regional lymph nodes ¡¼ 
+ 
+Stage IVA 
+ 
+ N1    ¡³Regional lymph node metastasis ¡¼ 
+ 
+-------------------Distant Metastasis(M)--------------------- 
+ 
+ M0   ¡³No distant metastasis (no pathologic M0; use clinical M to complete stage group) 
+ 
+Stage IVB 
+ 
+ M1   ¡³Distant metastasis¡¼ 
+ 
+ 
+ 
+Imaging stage   T1 N0( in this study) 

@@ -1,0 +1,104 @@
+Imaging  Findings: 
+ 
+Relative low density of liver with good visualization of venous  
+ 
+system compatible with fatty liver, favor severe fatty change of liver 
+ 
+A 1.68cm cyst in high S8 liver 
+ 
+A relatively hyperdense area in S2 liver (2.9X2.4cm) , difficult 
+ 
+ to assess the enhancement pattern in this severe fatty liver case 
+ 
+Patent MPV and branches, no evidence of thrombosis 
+ 
+No definite space occupying lesion in the pancreas and spleen . 
+ 
+No definite biliary dilatation. Normal gallbladder without stone. 
+ 
+Normal function of both kidneys, no definite obstructive uropathy  . 
+ 
+No definite enlargement of retroperitoneal LNs  . 
+ 
+No abnormal fluid collection in the abdomen  . 
+ 
+ 
+ 
+Impression:  
+ 
+1.Severe fatty change of liver 
+ 
+2.A 1.68cm cyst in high S8 liver 
+ 
+3.A relatively hyperdense area/nodule in S2 liver (2.9X2.4cm), difficult 
+ 
+  to assess the enhancement pattern in this severe fatty liver case, due 
+ 
+  to tumor or focal fatty sparing? suggest MRI study. 
+ 
+ 
+ 
+●Imaging Report Form for intrahepatic bile ducts tumor (AJCC 7th Edition) 
+ 
+1.Tumor Number/Location:  
+ 
+    Location:  S2  
+ 
+2.Tumor Size:  
+ 
+   ●Measurable: 2.9 cm (the largest tumor) 
+ 
+   ○Non-measurable 
+ 
+3.Pathology: ○Not available ●Available  
+ 
+(Pathology type:CHOLANGIOCARCINOMA, MODERATELY DIFFERENTIATED ) 
+ 
+ 
+ 
+-------------------Primary Tumor(T)-------------------------- 
+ 
+ Tx    ●Primary tumor cannot be assessed 
+ 
+ T0    ○No primary tumor 
+ 
+Stage 0 
+ 
+ Tis   ○Carcinoma in situ 
+ 
+Stage I 
+ 
+ T1    ●Solitary tumor without vascular invasion 
+ 
+Stage II 
+ 
+ T2a   ○Solitary tumor with vascular invasion 
+ 
+ T2b   ○Multiple tumors with or without vascular invasion 
+ 
+Stage III 
+ 
+ T3    ○Tumor perforating the visceral peritoneum or involving the local extrahepatic structures by direct invasion 
+ 
+Stage IVA 
+ 
+ T4    ○Tumor(s) with periductal invasion 
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+ Nx    ○Regional lymph nodes cannot be assessed 
+ 
+ N0    ●No regional lymph nodes □ 
+ 
+Stage IVA 
+ 
+ N1    ○Regional lymph node metastasis □ 
+ 
+-------------------Distant Metastasis(M)--------------------- 
+ 
+ M0   ○No distant metastasis (no pathologic M0; use clinical M to complete stage group) 
+ 
+Stage IVB 
+ 
+ M1   ○Distant metastasis□ 
+ Imaging stage   Tx or T1 N0( in this study) 

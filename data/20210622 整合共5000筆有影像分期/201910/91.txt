@@ -1,0 +1,66 @@
+ct of abdomen without & with iv contrast enhancement shows:  
+  
+  techniques: 
+    from lower chest to pubic edge in 5-mm contiguous section 
+    contrast agent (body weight+10)ml of contrast medium  at 2ml/sec, 30 sec 
+  scanning including  the arterial phase and delayed phase are performed 
+  
+  findings:  
+  linear atelectass change over rll.
+  no definite pulmonary nodule in visual field.
+  no definite space occupying lesion in the spleen and pancreas.
+  multiple hypodense lesions with minimal enhancement over bilobar liver, favoring
+   metastasis.
+  no definite biliary dilatation.
+  unremarkable study of gallbladder.
+  patency of portal vein.
+  no definite adrenal mass.
+  no definite hydronephrosis.
+  bilateral renal cysts.
+  no definite enlargement of retroperitoneal lns.
+  no abnormal fluid collection or free air in the abdomen. 
+  no definite bone destruction.
+  uneven annular wall thickening over rectosigmoid colon, compatible with colon 
+  cancer.
+  several small regional lns noted.
+  
+  imp:
+  * compatible with rectosigmoid colon cancer with multiple liver metastasis.
+  * several small regional lns noted.
+  
+  ¡´imaging report form for colorectal cancer (ajcc 7th edition)
+  1.tumor location:
+  ¡³cecum ¡³ascending ¡³hepatic flexure ¡³transverse ¡³splenic flexure ¡³
+  descending ¡´sigmoid ¡´rectum ¡³other ____________
+  2.tumor size: 
+  ¡³measurable: __________cm (largest diameter)
+  ¡³non-measurable
+  3.pathology: ¡´not available ¡³available (pathology type:¡¼)
+  -------------------primary tumor(t)---------------------------
+  tx   ¡³primary tumor cannot be assessed
+  t0   ¡³no evidence of primary tumor
+  <=t2  ¡´tumor invades submucosa or muscularis propria
+  t3   ¡³tumor invades through the muscularis propria into pericolorectal tissues
+  t4a  ¡³tumor penetrates to the surface of the visceral peritoneum
+  t4b  ¡³tumor directly invades or is adherent to other organs or structures
+  -------------------regional lymph nodes(n)-----------------
+  nx   ¡³regional lymph nodes cannot be assessed
+  n0   ¡³no regional lymph node metastasis
+  n1   ¡´metastasis in 1 to 3 regional lymph node
+    n1a ¡³metastasis in 1 regional lymph node
+    n1b ¡³metastasis in 2-3 regional lymph nodes
+    n1c ¡³tumor deposit(s) in the subserosa, mesentery, or non-peritonealized 
+  pericolic or perirectal tissues without regional nodal metastasis      
+  n2    ¡³metastasis in 4 or more regional lymph nodes
+  n2a   ¡³metastasis in 4 to 6 regional lymph nodes
+  n2b   ¡³metastasis in 7 or more regional lymph nodes
+  ¡³pericolic/perirectal ¡³ileocolic ¡³right colic ¡³middle colic ¡³left 
+  colic ¡³ superior rectal ¡³superior mesenteric artery ¡³inferior 
+  mesenteric artery ¡³others ____________
+  -------------------distant metastasis(m)-----------------------
+  m1    ¡³distant metastasis
+  m1a    ¡´metastasis confined to one organ or site(e.g., liver, lung, ovary, non-
+  regional node) 
+  m1b    ¡³metastases in more than one organ/site or the peritoneum. 
+  
+  imaging stage   t<=2 n1 m1a( in this study)

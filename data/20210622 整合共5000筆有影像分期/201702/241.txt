@@ -1,0 +1,105 @@
+Findings:  
+ 
+Two small subpleural nodules (3-5mm) in left basal lung 
+ 
+Multiple hypdonse and heterogeneously enhanced nodules masses (5-80mm) in right liver, especially S5-6, and a few small nodule in left liver 
+ 
+No definite biliary tree dilatation  . 
+ 
+Patency of portal vein   
+ 
+No definite space occupying lesion in the spleen 
+ 
+Mildly dilated P-duct but no definite pancreatic mass is seen 
+ 
+One well enhanced nodule (1cm) anterior to left diaphragmatic crus 
+ 
+Multiple bil. renal csyts (4-19mm) 
+ 
+No hydronephrosis  
+ 
+Multiple prominent intercavoaortic and left paraaortic LNs 
+ 
+No dilated ureters 
+ 
+Minimal ascites 
+ 
+No focal bowel dilatation (but subtle hollow organ tumor or small mucosal lesion may not be well detected on conventional abdominal CT)  
+ 
+Degenerative change of lumbar spine with spurs formation  
+ 
+Enlarged prostate gland 
+ 
+ 
+ 
+Impression 
+ 
+1. Two small subpleural nodules (3-5mm) in left basal lung. Metastasis? 
+ 
+2. Multiple hypdonse and heterogeneously enhanced nodules masses both lobes, more in right lobe. Nature? Metastsis or primary malignant liver tumors? 
+ 
+3. One well enhanced nodule (1cm) anterior to left diaphragmatic crus 
+ 
+4. Enlarged prostate gland 
+ 
+ 
+ 
+●Imaging Report Form for Cholangiocarcinoma (AJCC 7th Edition) 
+ 
+1.Tumor Location: Both lobes, biggest in S7 
+ 
+2.Tumor Size: 
+ 
+●Measurable:8cm (largest diameter) 
+ 
+○Non-measurable 
+ 
+3.Pathology: ○Not available ○Available (Pathology type:LIVER, S6-7, FINE NEEDLE ASPIRATION BIOPSY 
+ 
+      ----- ADENOCARCINOMA, CHOLANGIOCARCINOMA OR METASTATIC) 
+ 
+ 
+ 
+-------------------Primary Tumor(T)-------------------------- 
+ 
+Tx    ○Primary tumor cannot be assessed 
+ 
+T0    ○No primary tumor 
+ 
+Stage I 
+ 
+T1    ○Solitary tumor without vascular invasion 
+ 
+Stage II 
+ 
+T2a   ○Solitary tumor with vascular invasion 
+ 
+T2b   ○Multiple tumors with or without vascular invasion 
+ 
+Stage III 
+ 
+T3    ○Tumor perforating the visceral peritoneum or involving the local extrahepatic structures by direct invasion 
+ 
+Stage IVA 
+ 
+T4    ●Tumor(s) with periductal invasion 
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+Nx    ○Regional lymph nodes cannot be assessed 
+ 
+N0    ○No enlarged regional lymph nodes □ 
+ 
+Stage IVA 
+ 
+N1    ●Regional lymph node metastasis □ 
+ 
+-------------------Distant Metastasis(M)--------------------- 
+ 
+Stage IVB 
+ 
+ M1   ●Distant metastasis□ 
+ 
+ 
+ 
+Imaging stage   T4 N1M1( in this study) 

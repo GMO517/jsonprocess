@@ -1,0 +1,100 @@
+Findings: 
+ 
+Mild coarse liver with fatty change due to chronic liver parenchymal disease 
+ 
+Three poor enhancement hypodense lesions in S2/3 about 0.7, 0.8 and 1.0cm, no evident progressive change as compare to the study at 2009-08 
+ 
+Another 2.0cm early enhanced nodule in S7 nearby IVC may be HCC 
+ 
+Another small liver cyst in S4 about 1.0cm 
+ 
+No definite biliary dilatation, normal GB  
+ 
+Patency of portal veins  
+ 
+Normal function and contour of bil. kidneys, no hydronephrosis 
+ 
+No definite enlargement of retroperitoneal LNs  
+ 
+No abnormal fluid collection in the abdomen  
+ 
+IMP: 
+ 
+Three small nodular lesions in LLS without significant change 
+ 
+A new enhanced liver nodule in S7 about 2.0cm near IVC, HCC suspected  
+ 
+ 
+ 
+●TNM for Hepatocellua Carcinoma (AJCC 7th Edition) 
+ 
+1.Tumor Location: S7 
+ 
+2.Tumor Size: 2.0cm 
+ 
+3.Pathology: ●Not available ○Available (Pathology type:□) 
+ 
+ 
+ 
+-------------------Primary Tumor(T)------------------- 
+ 
+ Tx    ○Primary tumor cannot be assessed □ 
+ 
+ T0    ○No primary tumor □ 
+ 
+Stage I 
+ 
+ T1    ●Solitary tumor without vascular invasion □ 
+ 
+Stage II 
+ 
+ T2    ○Solitary tumor with vascular invasion 
+ 
+       ○Multiple tumors none more than 5 cm 
+ 
+       □ 
+ 
+Stage III 
+ 
+ A T3a ○Multiple tumors more than 5 cm □ 
+ 
+ B T3b ○Single tumor or multiple tumors of any size 
+ 
+       involving a major branch of the portal vein or 
+ 
+       hepatic vein □ 
+ 
+ C T4  ○Tumor(s) with direct invasion of adjacent 
+ 
+       organs other than the gallbladder or with 
+ 
+       perforation of visceral peritoneum. □ 
+ 
+ 
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+ Nx    ○Regional lymph nodes cannot be assessed □ 
+ 
+ N0    ●No regional lymph nodes □ 
+ 
+Stage IVA 
+ 
+ N1    ○Regional lymph node metastasis □ 
+ 
+ 
+ 
+-------------------Distant Metastasis(M)------------------- 
+ 
+ M0    ●No distant metastasis□ 
+ 
+Stage IVB 
+ 
+ M1    ○Distant metastasis□ 
+ 
+ 
+ 
+Tumor stage   TI N0 M0 
+ 
+              StageI 
+ 

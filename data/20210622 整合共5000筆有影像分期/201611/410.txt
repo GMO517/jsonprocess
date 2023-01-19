@@ -1,0 +1,113 @@
+Findings: 
+ 
+Bronchiectasis and volume shrinkage of RML and left lingual lobe of bilateral lungs. 
+ 
+Focal pleural thickening over RML. 
+ 
+Lobulated and uneven contour of liver is compatible with liver cirrhosis 
+ 
+1.0cm early enhancing nodule in S7 of liver with early wash-out, favoring HCC. Not present on previous study on 2016/01/16. 
+ 
+Multiple hepatic cysts in right lobe and S1 of liver up to 1.5cm. 
+ 
+Mild IHDs dilatation. 
+ 
+Multiple tiny gallbladder stones. 
+ 
+Gallbladder wall thickening, but gallbladder is not distended. 
+ 
+Patency of the portal veins 
+ 
+Unremarkable change of the pancreas. 
+ 
+Marked splenomegaly. 
+ 
+No focal adrenal mass 
+ 
+Several small but prominent liver hilar lymph nodes. 
+ 
+Moderate amount of ascites. 
+ 
+No definite obstructive uropathy   
+ 
+ 
+ 
+IMP: 
+ 
+* Liver cirrhosis with splenomegaly and ascites 
+ 
+* Early enhancing and wash-out nodule in S7 of liver. Favoring HCC. 
+ 
+* Bronchiectasis and volume shrinkage of RML and left lingual lobe. May be due to NTM. 
+ 
+* Gallbladder stones. 
+ 
+ 
+ 
+●TNM for Hepatocellua Carcinoma (AJCC 7th Edition) 
+ 
+1.Tumor Location: S7 
+ 
+2.Tumor Size: 1cm 
+ 
+3.Pathology: ●Not available ○Available (Pathology type:□) 
+ 
+ 
+ 
+-------------------Primary Tumor(T)------------------- 
+ 
+ Tx    ○Primary tumor cannot be assessed □ 
+ 
+ T0    ○No primary tumor □ 
+ 
+Stage I 
+ 
+ T1    ●Solitary tumor without vascular invasion □ 
+ 
+Stage II 
+ 
+ T2    ○Solitary tumor with vascular invasion 
+ 
+       ○Multiple tumors none more than 5 cm 
+ 
+ 
+ 
+Stage III 
+ 
+ A T3a ○Multiple tumors more than 5 cm □ 
+ 
+ B T3b ○Single tumor or multiple tumors of any size 
+ 
+       involving a major branch of the portal vein or 
+ 
+       hepatic vein □ 
+ 
+ C T4  ○Tumor(s) with direct invasion of adjacent 
+ 
+       organs other than the gallbladder or with 
+ 
+       perforation of visceral peritoneum. □ 
+ 
+ 
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+ Nx    ○Regional lymph nodes cannot be assessed □ 
+ 
+ N0    ●No regional lymph nodes □ 
+ 
+Stage IVA 
+ 
+ N1    ○Regional lymph node metastasis □ 
+ 
+ 
+ 
+-------------------Distant Metastasis(M)------------------- 
+ 
+Stage IVB 
+ 
+ M1    ○Distant metastasis□ 
+ 
+ 
+ 
+Imaging stage   T1 N0 (in this study) 

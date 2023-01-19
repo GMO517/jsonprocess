@@ -1,0 +1,113 @@
+Findings: 
+ 
+Calcification of right coronary artery  
+ 
+No definite pulmonary nodule in visual field. 
+ 
+Lobulated contour of liver, compatible with liver cirrhosis.  
+ 
+A 0.5 cm calcified granuloma in S6. 
+ 
+Equivocal early enhancing nodules with early washout in S2 liver with size 2cm , suspecting hepatocellular carcinoma 
+ 
+Several small non enhancing nodules in right liver all size 〈0.5 cm, maybe cysts? 
+ 
+Splenomegaly 
+ 
+No definite space occupying lesion in the spleen and pancreas. 
+ 
+No definite biliary dilatation  . 
+ 
+Unremarkable study of gallbladder  
+ 
+Patency of portal vein   
+ 
+No definite hydronephrosis. 
+ 
+No definite enlargement of retroperitoneal LNs  . 
+ 
+No abnormal fluid collection in the abdomen  . 
+ 
+No definite bone destruction. 
+ 
+Kindly note that subtle mucosal lesion could not be well evaluated on routine CT. 
+ 
+Degenerative change of lumbar spine with spurs formation  
+ 
+ 
+ 
+IMP: 
+ 
+1. Suspecting HCC in S2 liver (2cm); Tentative staging T1Nx in this study 
+ 
+2. Probably multiple right liver cysts and calcified granuloma in S6 
+ 
+3. Liver cirrhosis with splenomegaly 
+ 
+4. Calcification of right coronary artery  
+ 
+ 
+ 
+●TNM for Hepatocellua Carcinoma (AJCC 7th Edition) 
+ 
+1.Tumor Location: S2 
+ 
+2.Tumor Size: 2cm 
+ 
+3.Pathology: ●Not available ○Available (Pathology type:□) 
+ 
+ 
+ 
+-------------------Primary Tumor(T)------------------- 
+ 
+ Tx    ○Primary tumor cannot be assessed □ 
+ 
+ T0    ○No primary tumor □ 
+ 
+Stage I 
+ 
+ T1    ●Solitary tumor without vascular invasion □ 
+ 
+Stage II 
+ 
+ T2    ○Solitary tumor with vascular invasion 
+ 
+          ○Multiple tumors none more than 5 cm 
+ 
+ 
+ 
+Stage III 
+ 
+ A T3a ○Multiple tumors more than 5 cm □ 
+ 
+ B T3b ○Single tumor or multiple tumors of any size 
+ 
+       involving a major branch of the portal vein or 
+ 
+       hepatic vein □ 
+ 
+ C T4  ○Tumor(s) with direct invasion of adjacent 
+ 
+       organs other than the gallbladder or with 
+ 
+       perforation of visceral peritoneum. □ 
+ 
+ 
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+ Nx    ○Regional lymph nodes cannot be assessed □ 
+ 
+ N0    ●No regional lymph nodes □ 
+ 
+Stage IVA 
+ 
+ N1    ○Regional lymph node metastasis □ 
+ 
+ 
+ 
+-------------------Distant Metastasis(M)------------------- 
+ 
+Stage IVB 
+ 
+ M1    ○Distant metastasis□ 

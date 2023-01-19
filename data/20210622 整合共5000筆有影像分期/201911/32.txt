@@ -1,0 +1,47 @@
+ct of liver without & with contrast enhancement triphasic scans shows: 
+  lobulated contour of liver compatible with liver cirrhosis  .
+  3 minimal enhanced tumors are noted over s5-6 liver with size of 8.3, 2, and 2.3cm
+  no definite enlargement of retroperitoneal lns  .
+  no definite biliary dilatation  .
+  no definite obstructive uropathy  .
+  no abnormal fluid collection in the abdomen  .
+  patency of the portal vein and with normal spleen
+  
+  imp: liver cirrhosis 
+       3 tumors over s5-6 liver, nature hcc?
+  
+  staging after pathology
+  ¡´tnm for hepatocellua carcinoma (ajcc 7th edition)
+  1.tumor location: s5-6 liver with size of 8.3, 2, and 2.3cm
+  2.tumor size: s5-6 liver with size of 8.3, 2, and 2.3cm
+  3.pathology: ¡´not available ¡³available (pathology type:¡¼)
+  
+  -------------------primary tumor(t)-------------------
+   tx    ¡³primary tumor cannot be assessed ¡¼
+   t0    ¡³no primary tumor ¡¼
+  stage i
+   t1    ¡³solitary tumor without vascular invasion ¡¼
+  stage ii
+   t2    ¡³solitary tumor with vascular invasion
+         ¡´multiple tumors none more than 5 cm
+  
+  stage iii
+   a t3a ¡³multiple tumors more than 5 cm ¡¼
+   b t3b ¡³single tumor or multiple tumors of any size
+         involving a major branch of the portal vein or
+         hepatic vein ¡¼
+   c t4  ¡³tumor(s) with direct invasion of adjacent
+         organs other than the gallbladder or with
+         perforation of visceral peritoneum. ¡¼
+  
+  -------------------regional lymph nodes(n)-----------------
+   nx    ¡³regional lymph nodes cannot be assessed ¡¼
+   n0    ¡´no regional lymph nodes ¡¼
+  stage iva
+   n1    ¡³regional lymph node metastasis ¡¼
+  
+  -------------------distant metastasis(m)-------------------
+  stage ivb
+   m1    ¡³distant metastasis¡¼
+  
+  imaging stage   t2 n0 (in this study)

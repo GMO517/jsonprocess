@@ -1,0 +1,101 @@
+Findings: 
+ 
+A large right renal mass(7.7x5.58cm) with liver invasation, regional LNs metastasis and righr adrenal gland metastasis, favoring RCC 
+ 
+RML pulmonary calcified nodule(0.39cm) 
+ 
+Bronchiectasis over LLL  
+ 
+LLS hepatic cyst(7.89cm) 
+ 
+Right upper ureteral stone with severe right hydronephrosis 
+ 
+No definite space occupying lesion in the spleen and pancreas. 
+ 
+No definite biliary dilatation  . 
+ 
+Unremarkable study of gallbladder  
+ 
+Patency of portal vein   
+ 
+Normal function and contour of left kidneys and no definite obstructive uropathy. 
+ 
+No definite enlargement of retroperitoneal LNs  . 
+ 
+No abnormal fluid collection in the abdomen  . 
+ 
+ 
+ 
+IMP: 
+ 
+* A large right renal mass(7.7x5.58cm) with liver invasation, regional LNs metastasis and righr adrenal gland metastasis, favoring RCC 
+ 
+* RML pulmonary calcified nodule(0.39cm) 
+ 
+* Bronchiectasis over LLL  
+ 
+* LLS hepatic cyst(7.89cm) 
+ 
+* Right upper ureteral stone with severe right hydronephrosis 
+ 
+ 
+ 
+●Imaging Report Form for Renal Tumor (AJCC 7th Edition) 
+ 
+1.Tumor Location: ○Right Kidney, ○Left Kidney, ○Both Kidneys 
+ 
+2.Tumor Size:  
+ 
+○Measurable: __________cm (greatest dimension),  
+ 
+○ Non-measurable 
+ 
+3.Pathology: ○Not available ○Available (Pathology type:□) 
+ 
+-------------------Primary Tumor(T)--------------------------- 
+ 
+T0    ○No primary tumor  
+ 
+T1    ○Tumor〈=7cm (limited to kidney)  
+ 
+  T1a ○Tumor〈=4cm  
+ 
+  T1b ○4cm〈Tumor〈=7cm  
+ 
+T2    ○Tumor〉7cm(limited to kidney)  
+ 
+  T2a ○7cm〈Tumor〈=10cm  
+ 
+  T2b ○Tumor〉10cm  
+ 
+T3    ○Extends into major veins or perirenal tissue  
+ 
+  T3a ○Extends into renal vein or segmental branches  
+ 
+      ○Invades perirenal and/or renal sinus fat  
+ 
+  T3b ○Extends into vena cava below diaphragm  
+ 
+  T3c ○Extends into vena cava above diaphragm  
+ 
+      ○Invades the wall of the vena cava  
+ 
+T4    ●Invades beyond Gerota's fascia 
+ 
+      ○Extension into the ipsilateral adrenal gland 
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+N0    ○No regional lymph nodes  
+ 
+N1    ●Regional lymph nodes metastasis  
+ 
+○Renal hilar ○Paracaval ○Aortocaval ○Paraaortic 
+ 
+-------------------Distant Metastasis(M)----------------------- 
+ 
+M1   ○Distant metastasis  
+ 
+ 
+ 
+Imaging stage   T4 N1( in this study) 

@@ -1,0 +1,55 @@
+brief hx: neoplasm of uncertain behavior of right adrenal gland
+mri of bil. kidneys and upper retroperitoneum show:
+scanning techniques: cor and axl with t1wi, t2wi and t1/c+ sequencies, mra for 
+renal arteries and veins are also included
+fingings:
+ill-defined right liver mass about 10cm in s7-8 with obliterated posterior rpv 
+may be due to tumor invasion
+another right adrenal or suprarenal mass about 6.1cm with intermediate si on t2
+wi and low on t1wi favor solid tumor mass, hetrogenous enhancement noted after 
+iv gd contrat medisum injection
+large right renal cystic mass about 10x12cm with focal calcified wall, nature?
+remarkable enlargement of retroperitoneal lns up to 1.5cm 
+unremarkable change of left kidney and visualized adrenal gland
+
+imp: 
+large heterogenous right liver mass (s7-8) with right post pv invasion
+nodular mass (6cm) over right suprarenal region r/o primary or metastasis
+large right renal cystic mass about 10x12cm with focal calcified wall, nature?
+retroepritoneal ln metastasis
+
+¡´imaging report form for intrahepatic bile ducts tumor (ajcc 8th edition)
+1.tumor number/location: 
+    location:  ¡¼ 
+2.tumor size: 
+   ¡¼measurable:  cm (the largest tumor)
+   ¡¼non-measurable
+3.pathology: ¡´not available ¡³available (pathology type:¡¼)
+
+-------------------primary tumor(t)--------------------------
+ tx   ¡³primary tumor cannot be assessed
+ t0   ¡³no primary tumor
+stage 0
+ tis   ?³Carcinoma in situ
+stage i
+ t1   ¡³solitary tumor without vascular invasion
+t1a   ¡³ solitary tumor ?5 cm without vascular invasion
+t1b   ¡³ solitary tumor >5 cm without vascular invasion
+stage ii
+ t2   ¡³ solitary tumor with intrahepatic vascular invasion or multiple
+tumors, with or without vascular invasion
+stage iii
+ t3   ¡³tumor perforating the visceral peritoneum 
+stage iva
+ t4   ¡´tumor involving local extrahepatic structures by direct invasion 
+-------------------regional lymph nodes(n)-----------------
+ nx   ¡³regional lymph nodes cannot be assessed
+ n0   ¡³no regional lymph nodes ¡¼
+stage iva
+ n1   ¡´regional lymph node metastasis ¡¼
+-------------------distant metastasis(m)---------------------
+ m0  ¡³no distant metastasis (no pathologic m0; use clinical m to complete 
+stage group)
+stage ivb
+ m1  ¡³distant metastasis¡¼
+imaging stage   t4 n1( in this study)

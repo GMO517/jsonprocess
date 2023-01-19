@@ -1,0 +1,50 @@
+Findings: 
+RLL lung infiltration and nodular lesions over base or hemidiapgragm r/o metastasis 
+Multiple peritoneal seeding lesions over right anterior liver surface and subphrenic region 
+Several tiny liver cysts in right lobe 〈 1cm 
+Patency of the portal veins 
+Mild splenomegaly 
+No ascites 
+No definite biliary dilatation, normal GB 
+Unremarkable change of the pancreas 
+s/p right hemicolectomy 
+Multiple mesenteric nodular lesions up to 2.0cm with strandings  
+No hydronephrosis, bil. renal cysts up to 1.6cm 
+No evident enlarged retroperitoneal LNs 
+Mild ascites 
+Large cystic mass about 7x8x9cm r/o ovarian cystic tumor, urinary bladder structure is less likely 
+The urinary bladder is not distended for assessment 
+Prominent pre-rectal irregular soft tissue mass about 6x11cm may be also peritoneal seeding masses 
+IMP: 
+s/p right hemicolectomy 
+Diffuse mesenteric and peritoneal seeding nodular masses, favor carcinomatosis 
+Large cystic mass about 7x8x9cm in pelvis r/o ovarian cystic tumor? 
+ 
+●Imaging Report Form for Ovarian, Fallopian tube, and Primary Peritoneal Carcinoma(AJCC 8th Edition) 
+1. Tumor Location 
+○ Right ● Left ○ Bilateral ○ Difficult to determine 
+2. Tumor Size:  
+○Measurable: __________cm (greatest dimension)  
+○Non-measurable 
+3. Content: ○Cystic ○Solid ○Mixed cystic and solid 
+4. Pathology:  ●Not available ○Available (Pathology type:□) 
+-------------------Primary Tumor(T)--------------------------- 
+TX   ○Primary tumor cannot be assessed 
+T0   ○No evidence of primary tumor 
+T1   Tumor limited to ovaries (1 or both) or fallopian tube(s) 
+T1a   ○Tumor limited to 1 ovary(capsule intact) or fallopian tube, no tumor on ovarian or fallopian tube surface; no malignant cells in ascites or peritoneal washings 
+T1b   ○Tumor limited to both ovaries(capsules intact) or fallopian tubes, no tumor on ovarian or fallopian tubes surface; no malignant cells in ascites or peritoneal washings 
+T1c   ○Tumor limited to 1 or both ovaries or fallopian tubes,with any of the following:  
+T1c1  ○Surgical spill 
+T1c2  ○Capsule ruptured before surgery or tumor on ovarian or fallopian tube surface 
+T1c3  ○Malignant cells in ascites or peritoneal washings 
+T2   Tumor involves 1 or both ovaries or fallopian tubeswith pelvic extension below pelvic brim or primary peritoneal cancer 
+T2a   ○Extension &/or implants on uterus &/or fallopian tubes &/or ovaries 
+T2b   ○Extension to &/or implants on other pelvic tissues 
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+N0   ○No regional lymph node metastasis 
+ 
+Imaging stage:   T2 N0 (tentative tumor staging in this study) 
+ 

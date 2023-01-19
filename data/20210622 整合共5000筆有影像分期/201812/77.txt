@@ -1,0 +1,92 @@
+Findings: 
+ 
+Relative low density of liver is compatible with fatty liver  
+ 
+Multiple hypodense liver nodules in both lobes with mild enhancement, the biggest about 7.2cm in S4 r/o metastasis 
+ 
+Patency of the portal veins 
+ 
+Mild splenomegaly 
+ 
+No ascites 
+ 
+Focal polypoid nodule over sigmoid colon may be colon mixed hypo dense and  
+ 
+No definite biliary dilatation, normal GB 
+ 
+Unremarkable change of the pancreas 
+ 
+No abnormal fluid collection in the abdomen  
+ 
+No hydronephrosis, but large right renal cyst about 9.5cm noted 
+ 
+No evident enlarged retroperitoneal LNs 
+ 
+Focal polypoid mass over sigmoid colon and pericolic enlarged LNs up to 0.8cm 
+ 
+IMP: 
+ 
+Sigmoid colon cancer with liver metastasis 
+ 
+ 
+ 
+●TNM for Colon Cancer (AJCC 7th Edition) 
+ 
+1.Tumor Location: sigmoid 
+ 
+2.Tumor Size: □cm 
+ 
+3.Pathology: ●Not available ○Available (Pathology type:□) 
+ 
+ 
+ 
+TX    ○Primary tumor cannot be assessed □ 
+ 
+T0    ○No evidence of primary tumor □ 
+ 
+Tis   ○Carcinoma in situ: intraepithelial or invasionof 
+ 
+      lamina propria □ 
+ 
+T1    ○Tumor invades submucosa □ 
+ 
+T2    ○Tumor invades muscularis propria □ 
+ 
+T3    ●Tumor invades through the muscularis propria into pericolorectal tissues □ 
+ 
+T4a   ○Tumor penetrates to the surface of the visceral peritoneum □ 
+ 
+T4b   ○Tumor directly invades or is adherent to other organs or structures □ 
+ 
+ 
+ 
+NX   ○Regional lymph nodes cannot be assessed □ 
+ 
+N0    ○No regional lymph node metastasi □ 
+ 
+N1    ●Metastasis in 1 to 3 regional lymph node □ 
+ 
+  N1a ○Metastasis in 1 regional lymph node □ 
+ 
+  N1b ○Metastasis in 2-3 regional lymph nodes □ 
+ 
+  N1c ○Tumor deposit(s) in the subserosa, mesentery, or non-peritonealized pericolic or perirectal tissues without regional nodal metastasis □       
+ 
+N2     ○Metastasis in 4 or more regional lymph nodes □ 
+ 
+N2a   ○Metastasis in 4 to 6 regional lymph nodes □ 
+ 
+N2b   ○Metastasis in 7 or more regional lymph nodes □ 
+ 
+ 
+ 
+M1     ●Distant metastasis □ 
+ 
+M1a   ○Metastasis confined to one organ or site(e.g., liver, lung, ovary, non-regional node). □ 
+ 
+M1b   ○Metastases in more than one organ/site or the peritoneum. □ 
+ 
+ 
+ 
+Imaging stage   T3 N1 M1 (in this study) 
+ 

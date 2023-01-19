@@ -1,0 +1,54 @@
+finding:
+  lobulated contour of liver compatible with liver cirrhosis. 
+  splenomegaly  
+   a 0.8 cm lesion in high s4 with low signal intensity on t1wi, mild high signal 
+  intensity on t2wi and long t2wi, early enhancement with early washed out and low 
+  signal on hepatobiliary images, favor hcc.
+   a 1.15 lesion in s5 liver with low signal intensity on t1wi, bright on t2wi and 
+  long t2wi and no obvious enhancement, favor cyst.
+  small( < 0.65 cm) gallstones.
+  no definite biliary dilatation. 
+  patency of portal vein. 
+  no abnormal fluid collection in the abdomen. 
+  
+  
+  ¡´tnm for hepatocellua carcinoma (ajcc 7th edition)
+  1.tumor location: high s4 liver
+  2.tumor size: 0.8 cm
+  3.pathology: ¡´not available ¡³available (pathology type:¡¼)
+  
+  -------------------primary tumor(t)-------------------
+   tx    ¡³primary tumor cannot be assessed ¡¼
+   t0    ¡³no primary tumor ¡¼
+  stage i
+   t1    ¡´solitary tumor without vascular invasion ¡¼
+  stage ii
+   t2    ¡³solitary tumor with vascular invasion
+         ¡³multiple tumors none more than 5 cm
+  
+  stage iii
+   a t3a ¡³multiple tumors more than 5 cm ¡¼
+   b t3b ¡³single tumor or multiple tumors of any size
+         involving a major branch of the portal vein or
+         hepatic vein ¡¼
+   c t4  ¡³tumor(s) with direct invasion of adjacent
+         organs other than the gallbladder or with
+         perforation of visceral peritoneum. ¡¼
+  
+  -------------------regional lymph nodes(n)-----------------
+   nx    ¡³regional lymph nodes cannot be assessed ¡¼
+   n0    ¡´no regional lymph nodes ¡¼
+  stage iva
+   n1    ¡³regional lymph node metastasis ¡¼
+  
+  -------------------distant metastasis(m)-------------------
+   m0    ¡³no distant metastasis¡¼
+  stage ivb
+   m1    ¡³distant metastasis¡¼
+  
+  imaging stage   t1 n0 mx
+¡ÕºK­n¡Ö
+  imp.: 
+  (1) liver cirrhosis and splenomegaly. 
+  (2) favor a 0.8 cm hcc in high s4 liver, imaging stage: t1n0mx.
+  (3) a 1.15 cyst in s5 liver.

@@ -1,0 +1,97 @@
+Findings: 
+ 
+Lobulated and uneven contour of liver compatible with liver cirrhosis 
+ 
+Multiple small hypodense liver nodules in both lobes, the biggest about 2cm, favor liver metastasis 
+ 
+Patency of the portal veins 
+ 
+Mild splenomegaly 
+ 
+No ascites 
+ 
+No definite biliary dilatation, but gallstones noted 
+ 
+Ill-defined hypodense mass over pancreatic body about 2.8cm r/o pancreatic tumor 
+ 
+Massive ascites 
+ 
+Moderate left hydronephrosis r/o ureteral obstruction 
+ 
+No evident enlarged retroperitoneal LNs 
+ 
+Degenerative change of lumbar spine with spurs formation and scoliosis 
+ 
+IMP: 
+ 
+Liver cirrhosis with splenomegaly, varices and ascites 
+ 
+Multiple gallstones 
+ 
+Multiple small hypodense liver nodules in both lobes r/o metastasis 
+ 
+Ill-defined hypodense mass over pancreatic body (2.8cm) r/o pancreatic tumor 
+ 
+Moderate left hydronephrosis r/o ureteral obstruction 
+ 
+ 
+ 
+(tentative tumor staging) 
+ 
+●Imaging Report Form for Pancreatic Carcinoma (AJCC 7th Edition) 
+ 
+1. Tumor location 
+ 
+   ○Pancreatic head and neck 
+ 
+   ●Pancreatic body  
+ 
+   ○Pancreatic tail 
+ 
+   ○Others___________________ 
+ 
+2. Tumor Size： 
+ 
+   ○Measurable: _2.8_cm (in greatest diameter) 
+ 
+   ○Non-measurable 
+ 
+3. Pathology: ●Not available ○Available (Pathology type:□) 
+ 
+ 
+ 
+-------------------Primary Tumor(T)-------------------------- 
+ 
+TX    ○Primary tumor cannot be assessed 
+ 
+T0    ○No evidence of primary tumor 
+ 
+Tis    ○Carcinoma in situ 
+ 
+T1    ○Tumor limited to the pancreas, 〈= 2 cm in greatest dimension 
+ 
+T2    ●Tumor limited to the pancreas, 〉 2 cm in greatest dimension 
+ 
+T3    ○Tumor extends beyond the pancreas but without involvement of the celiac axis or the superior mesenteric artery 
+ 
+T4    ○Tumor involves the celiac axis or the superior mesenteric artery (unresectable primary tumor) ○Inferior vena cava ○Aorta ○Rib ○Vertebral body ○Other: ________ 
+ 
+ 
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+NX    ○Regional lymph nodes cannot be assessed 
+ 
+N0    ●No regional lymph node metastasis 
+ 
+N1    ○Regional lymph node metastasis 
+ 
+○ Pancreaticoduodenal nodes ○ Celiac axis nodes ○ Superior mesenteric nodes ○ Hepatic hilar nodes ○ Splenic hilar nodes ○ Superior peripancreatic nodes ○ Inferior peripancreatic nodes ○ Others ____________ 
+ 
+-------------------Distant Metastasis(M)---------------------- 
+ 
+M1    ●Distant metastasis 
+ 
+ 
+ 
+Imaging stage:   T2 N0 M1(in this study) 

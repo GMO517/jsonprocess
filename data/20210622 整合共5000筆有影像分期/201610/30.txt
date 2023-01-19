@@ -1,0 +1,128 @@
+Findings: 
+ 
+Interstitial infiltrates in visualized bil. lower lungfields  
+ 
+Consolidation with air bronchogram in the RLL 
+ 
+Coarse echotexture of liver compatible with chronic liver parenchymal disease 
+ 
+Large heterogeneous enhancing infiltrative mass (16.2cm) involving bilobar liver with some calcification 
+ 
+Occlusion and tumor infiltration of the right and left PV, IVC, and some extension into right atrium 
+ 
+Filling defect in left pulmonary artery due to embolism 
+ 
+Unremarkable spleen with no focal lesion 
+ 
+Moderate ascites 
+ 
+Unremarkable pancreas and bil. adrenal glands 
+ 
+No definite biliary dilatation, contracted GB 
+ 
+No hydronephrosis 
+ 
+No evident enlarged retroperitoneal LNs 
+ 
+Prominent superficial epigastric veins 
+ 
+ 
+ 
+IMP: 
+ 
+* Chronic liver parenchymal disease withy splenomegaly and ascites 
+ 
+* Multiple infiltrative enhanced liver tumors in bil. lobes (the biggest 16.2cm), compatible with HCCs 
+ 
+* Tumor invasion and occlusion of the right & left PV, IVC, extension into right atrium and also left pulmonary embolism 
+ 
+ 
+ 
+●Imaging Report Form for Hepatocellular Carcinoma (AJCC 7th Edition) 
+ 
+1.Tumor Number/Location:  
+ 
+    Number: ●1 ○2 ○3 ○Multiple: 
+ 
+    Location:  □Bilobar  
+ 
+2.Tumor Size:  
+ 
+    ●Measurable: 16.2 cm (the largest tumor) 
+ 
+    ○Non-measurable 
+ 
+3.Tumor Characteristics and Associated Liver Features 
+ 
+    ●Vascular invasion  
+ 
+    ○Extrahepatic spread  
+ 
+    ●Ascites  
+ 
+    ●Portal vein thrombosis, location: right and left 
+ 
+    ○Portosystemic collateral vessel 
+ 
+    ●Typical enhancement pattern (hypervascular enhancement and early wash-out) 
+ 
+3.Pathology: ●Not available ○Available (Pathology type:□) 
+ 
+ 
+ 
+-------------------Primary Tumor(T)-------------------------- 
+ 
+ Tx    ○Primary tumor cannot be assessed  
+ 
+ T0    ○No primary tumor  
+ 
+Stage I 
+ 
+ T1    ○Solitary tumor without vascular invasion  
+ 
+Stage II 
+ 
+ T2    ○Solitary tumor with vascular invasion 
+ 
+       ○Multiple tumors none more than 5 cm 
+ 
+Stage III 
+ 
+ A T3a ○Multiple tumors more than 5 cm  
+ 
+ B T3b ○Single tumor or multiple tumors of any size 
+ 
+       involving a major branch of the portal vein or 
+ 
+       hepatic vein  
+ 
+ C T4  ●Tumor(s) with direct invasion of IVC, biliary trees, adjacent 
+ 
+       organs other than the gallbladder or with 
+ 
+       perforation of visceral peritoneum.  
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+ Nx    ○Regional lymph nodes cannot be assessed  
+ 
+ N0    ●No regional lymph nodes 
+ 
+Stage IVA 
+ 
+ N1    ○Regional lymph node metastasis  
+ 
+        ○Periceliac, ○Hilar( common bile duct, hepatic artery, portal vein and cystic duct) ○Peripancreatic ○Paraaortic ○Portocaval ○Retrocaval ○Others_______  
+ 
+-------------------Distant Metastasis(M)---------------------- 
+ 
+Stage IVB 
+ 
+ M1    ●Distant metastasis 
+ 
+○ Invasion of gallbladder 
+ 
+○ Cardiophrenic, Mesenteric, Retrocrural LN 
+ 
+Imaging stage   T4 N0 M1 
+ 

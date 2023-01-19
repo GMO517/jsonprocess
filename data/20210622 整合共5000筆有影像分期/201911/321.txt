@@ -1,0 +1,51 @@
+findings:
+  one pulmonary nodule about 1.1cm in rll lnug base r/o metastasis
+  relative low density of liver is compatible with fatty liver
+  multiple hypodense liver nodules in s3 (1.3cm), s5 (2.0cm) and s6 (2.3cm), favor
+   liver metastasis
+  no definite biliary dilatation, normal gb
+  patency of the portal veins
+  unremarkable change of the pancreas and spleen
+  no definite enlargement of retroperitoneal lns 
+  no abnormal fluid collection in the abdomen 
+  no definite obstructive uropathy  
+  focal segmental sigmoid colon wall thcikening with mild pericolic strandings and
+   lns up to 0.9cm
+  imp:
+  sigmoid colon ca with pericolic invasion and ln metastasis
+  multiple liver nodules may be liver metastasis
+  rll lung nodule r/o lung metastasis
+  
+  ¡´tnm for colon cancer (ajcc 7th edition)
+  1.tumor location: sigmoid colon
+  2.tumor size: ¡¼cm
+  3.pathology: ¡³not available ¡´available (pathology type:¡¼)
+  
+  tx    ¡³primary tumor cannot be assessed ¡¼
+  t0    ¡³no evidence of primary tumor ¡¼
+  tis   ¡³carcinoma in situ: intraepithelial or invasionof
+        lamina propria ¡¼
+  t1    ¡³tumor invades submucosa ¡¼
+  t2    ¡³tumor invades muscularis propria ¡¼
+  t3    ¡´tumor invades through the muscularis propria into pericolorectal 
+  tissues ¡¼
+  t4a   ¡³tumor penetrates to the surface of the visceral peritoneum ¡¼
+  t4b   ¡³tumor directly invades or is adherent to other organs or structures ¡¼
+  
+  nx   ¡³regional lymph nodes cannot be assessed ¡¼
+  n0    ¡³no regional lymph node metastasi ¡¼
+  n1    ¡³metastasis in 1 to 3 regional lymph node ¡¼
+    n1a ¡´metastasis in 1 regional lymph node ¡¼
+    n1b ¡³metastasis in 2-3 regional lymph nodes ¡¼
+    n1c ¡³tumor deposit(s) in the subserosa, mesentery, or non-peritonealized 
+  pericolic or perirectal tissues without regional nodal metastasis ¡¼      
+  n2     ¡³metastasis in 4 or more regional lymph nodes ¡¼
+  n2a   ¡³metastasis in 4 to 6 regional lymph nodes ¡¼
+  n2b   ¡³metastasis in 7 or more regional lymph nodes ¡¼
+  
+  m1     ¡³distant metastasis ¡¼
+  m1a   ¡³metastasis confined to one organ or site(e.g., liver, lung, ovary, non-
+  regional node). ¡¼
+  m1b   ¡³metastases in more than one organ/site or the peritoneum. ¡¼
+  
+  imaging stage   t3 n1a m1 (in this study)

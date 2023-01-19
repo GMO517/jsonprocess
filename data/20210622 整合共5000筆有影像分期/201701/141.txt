@@ -1,0 +1,97 @@
+Findings: 
+ 
+Mild coarse liver with fatty change due to chronic liver parenchymal disease 
+ 
+Two hypodense liver nodules in S7 (1.4cm) and S8 (1.3cm) with early enhancement and washout, mor eprominent over the S7 nodule, more favor HCCs 
+ 
+Patency of the portal veins 
+ 
+Mild splenomegaly, no ascites 
+ 
+No definite biliary dilatation, normal GB 
+ 
+Unremarkable change of the pancreas 
+ 
+No obvious enlargement of retroepritooneal LN 
+ 
+No  hydronephrosis 
+ 
+IMP:  
+ 
+Chronic liver parenchymal disease with mild splenomegaly 
+ 
+Two small early enhanced liver nodules in S7/8, more favor HCCs 
+ 
+ 
+ 
+●TNM for Hepatocellua Carcinoma (AJCC 7th Edition) 
+ 
+1.Tumor Location: S7/8 
+ 
+2.Tumor Size: 1.3 & 1.4cm 
+ 
+3.Pathology: ●Not available ○Available (Pathology type:□) 
+ 
+ 
+ 
+-------------------Primary Tumor(T)------------------- 
+ 
+ Tx    ○Primary tumor cannot be assessed □ 
+ 
+ T0    ○No primary tumor □ 
+ 
+Stage I 
+ 
+ T1    ○Solitary tumor without vascular invasion □ 
+ 
+Stage II 
+ 
+ T2    ○Solitary tumor with vascular invasion 
+ 
+       ●Multiple tumors none more than 5 cm 
+ 
+ 
+ 
+Stage III 
+ 
+ A T3a ○Multiple tumors more than 5 cm □ 
+ 
+ B T3b ○Single tumor or multiple tumors of any size 
+ 
+       involving a major branch of the portal vein or 
+ 
+       hepatic vein □ 
+ 
+ C T4  ○Tumor(s) with direct invasion of adjacent 
+ 
+       organs other than the gallbladder or with 
+ 
+       perforation of visceral peritoneum. □ 
+ 
+ 
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+ Nx    ○Regional lymph nodes cannot be assessed □ 
+ 
+ N0    ●No regional lymph nodes □ 
+ 
+Stage IVA 
+ 
+ N1    ○Regional lymph node metastasis □ 
+ 
+ 
+ 
+-------------------Distant Metastasis(M)------------------- 
+ 
+ M0    ○No distant metastasis□ 
+ 
+Stage IVB 
+ 
+ M1    ○Distant metastasis□ 
+ 
+ 
+ 
+Imaging stage   T2 N0 Mx 
+ 
+              StageII 

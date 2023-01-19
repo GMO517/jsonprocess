@@ -1,0 +1,97 @@
+Findings: 
+ 
+Relative low density of liver is compatible with fatty liver  
+ 
+One hypodens eliver nodule about 3.5cm in S7 with peripheral persistent enahncement, more favor hemangioma 
+ 
+Patency of the portal veins 
+ 
+No splenomegaly 
+ 
+No ascites 
+ 
+No definite biliary dilatation, but gallstones noted 
+ 
+Unremarkable change of the pancreas 
+ 
+No abnormal fluid collection in the abdomen  
+ 
+No hydronephrosis, tiny left renal stones noted 
+ 
+No evident enlarged retroperitoneal LNs 
+ 
+One heterogenous enhanced uterine nodular mass about 5.8cm may be myoma 
+ 
+Focal polypoid sigmoid colon mass about 3.7cm with two pericolic LNs up to 1.0cm, favoring colon cancer 
+ 
+IMP: 
+ 
+S7 enhancing liver nodule (3.5cm) may be hemangioma 
+ 
+Multiple gallstones 
+ 
+Tiny left renal stones 
+ 
+ 
+ 
+( Add tumor staging for colon ca ) 
+ 
+●TNM for Colon Cancer (AJCC 7th Edition) 
+ 
+1.Tumor Location: sigmoid 
+ 
+2.Tumor Size: 3.7cm 
+ 
+3.Pathology: ○Not available ○Available (Pathology type:□) 
+ 
+ 
+ 
+TX    ○Primary tumor cannot be assessed □ 
+ 
+T0    ○No evidence of primary tumor □ 
+ 
+Tis   ○Carcinoma in situ: intraepithelial or invasionof 
+ 
+      lamina propria □ 
+ 
+T1    ○Tumor invades submucosa □ 
+ 
+T2    ●Tumor invades muscularis propria □ 
+ 
+T3    ○Tumor invades through the muscularis propria into pericolorectal tissues □ 
+ 
+T4a   ○Tumor penetrates to the surface of the visceral peritoneum □ 
+ 
+T4b   ○Tumor directly invades or is adherent to other organs or structures □ 
+ 
+ 
+ 
+NX   ○Regional lymph nodes cannot be assessed □ 
+ 
+N0    ○No regional lymph node metastasi □ 
+ 
+N1    ●Metastasis in 1 to 3 regional lymph node □ 
+ 
+  N1a ○Metastasis in 1 regional lymph node □ 
+ 
+  N1b ●Metastasis in 2-3 regional lymph nodes □ 
+ 
+  N1c ○Tumor deposit(s) in the subserosa, mesentery, or non-peritonealized pericolic or perirectal tissues without regional nodal metastasis □       
+ 
+N2     ○Metastasis in 4 or more regional lymph nodes □ 
+ 
+N2a   ○Metastasis in 4 to 6 regional lymph nodes □ 
+ 
+N2b   ○Metastasis in 7 or more regional lymph nodes □ 
+ 
+ 
+ 
+M1     ○Distant metastasis □ 
+ 
+M1a   ○Metastasis confined to one organ or site(e.g., liver, lung, ovary, non-regional node). □ 
+ 
+M1b   ○Metastases in more than one organ/site or the peritoneum. □ 
+ 
+ 
+ 
+Imaging stage   T2 N1b (in this study) 

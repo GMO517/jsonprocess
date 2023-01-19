@@ -1,0 +1,47 @@
+Findings: 
+Diffuse irregular gastric wall thickening over high body portion with perigastric strnadings, no other perifocal enlarged LN noted 
+Relative low density of liver is compatible with fatty liver  
+No obvious focal liver nodule 
+Patency of the portal veins 
+No splenomegaly 
+No ascites 
+No definite biliary dilatation, normal GB 
+Unremarkable change of the pancreas 
+No abnormal fluid collection in the abdomen  
+No hydronephrosis 
+No evident enlarged retroperitoneal LNs 
+IMP: 
+No evident focal liver mass  
+Diffuse irregular gastric wall thickening over high body portion with perigastric strnadings, may be compatible with gastric cancer 
+ 
+(tentative tumor staging without pathology available) 
+●Imaging Report Form for Gastric Cancer (AJCC 8th Edition) 
+1.Tumor Location:  
+    ○Cardia ○Fundus ●Body: Lesser/Greater curvature ○Antrum ○Pylorus ○ Other__________ 
+2.Tumor Size:  
+    ○Non-measurable 
+    ○Measurable: __________cm (greatest diameter) 
+3.Pathology: ○Not available ○Available (Pathology type:□) 
+-------------------Primary Tumor(T)--------------------------- 
+TX      ○Primary tumor cannot be assessed 
+T0      ○No primary tumor □ 
+〈=T3    ●Lamina propia, Submucosa, Muscularis propia, Subserosa( confined to gastric wall) 
+T4 
+   T4a  ○Perforates serosa 
+   T4b  ○Adjacent structures invasion 
+-------------------Regional Lymph Nodes(N)----------------- 
+N0      ●No regional lymph nodes 
+N1      ○1-2 regional LNs 
+N2      ○3-6  regional LNs 
+N3a     ○7-15 regional LNs 
+N3b     ○16 or more regional LNs 
+○Right paracardial ○Left paracardial ○Lesser curvature ○Greater curvature 
+○Suprapyloric ○Infrapyloric ○Left gastric artery ○Common hepatic artery 
+○Celiac artery ○Splenic hilum ○Splenic artery ○Hepatic pedicle ○Middle colic artery ○ Others_______ 
+-------------------Distant Metastasis(M)----------------------- 
+M1  ○Distant metastasis  
+ ○Non-regional lymph nodes: ○Retropancreatic ○Mesenteric root ○Para-aortic  
+ ○Distant organs : location _______________ 
+ 
+Imaging stage   T3 N0(tentative staging in this study) 
+ 

@@ -1,0 +1,92 @@
+Findings: 
+ 
+Bil. pleural effusion 
+ 
+Numerous hypodense liver nodules in both lobes up to 5.1cm with rim enhancement 
+ 
+Patency of the portal veins 
+ 
+Mild splenomegaly 
+ 
+Moderate amount of ascites 
+ 
+Increased peritoneal and mesentery strandinds and seeding nodules up to 1.7cm, favor peritoneal carcinomatosis 
+ 
+No definite biliary dilatation, normal GB 
+ 
+Ill-defined hypodense mass over pancreatic tail up to 5.6cm with perifocal splenic invasion (2.8cm) and peripancreatic enlarged LNs up to 2.0cm 
+ 
+No hydronephrosis 
+ 
+Right renal cyst about 4.4cm 
+ 
+Several enlarged retroperitoneal LNs up to 2.1cm 
+ 
+No definite colon mass can be identitied in this study 
+ 
+IMP: 
+ 
+Pancreatic tail cancer with perifocal invasion and enlarged LNs, liver metastasis and peritoneal carcinomatosis 
+ 
+ 
+ 
+(tentative tumor staging for pancreatic cancer) 
+ 
+●Imaging Report Form for Pancreatic Carcinoma (AJCC 7th Edition) 
+ 
+1. Tumor location 
+ 
+   ○Pancreatic head and neck 
+ 
+   ○Pancreatic body  
+ 
+   ●Pancreatic tail 
+ 
+   ○Others___________________ 
+ 
+2. Tumor Size： 
+ 
+   ○Measurable: 6.2_cm (in greatest diameter) 
+ 
+   ○Non-measurable 
+ 
+3. Pathology: ●Not available ○Available (Pathology type:□) 
+ 
+ 
+ 
+-------------------Primary Tumor(T)-------------------------- 
+ 
+TX    ○Primary tumor cannot be assessed 
+ 
+T0    ○No evidence of primary tumor 
+ 
+Tis    ○Carcinoma in situ 
+ 
+T1    ○Tumor limited to the pancreas, 〈= 2 cm in greatest dimension 
+ 
+T2    ○Tumor limited to the pancreas, 〉 2 cm in greatest dimension 
+ 
+T3    ○Tumor extends beyond the pancreas but without involvement of the celiac axis or the superior mesenteric artery 
+ 
+T4    ●Tumor involves the celiac axis or the superior mesenteric artery (unresectable primary tumor) ○Inferior vena cava ○Aorta ○Rib ○Vertebral body ○Other: ________ 
+ 
+ 
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+NX    ○Regional lymph nodes cannot be assessed 
+ 
+N0    ○No regional lymph node metastasis 
+ 
+N1    ●Regional lymph node metastasis 
+ 
+○ Pancreaticoduodenal nodes ○ Celiac axis nodes ○ Superior mesenteric nodes ○ Hepatic hilar nodes ○ Splenic hilar nodes ○ Superior peripancreatic nodes ○ Inferior peripancreatic nodes ○ Others ____________ 
+ 
+-------------------Distant Metastasis(M)---------------------- 
+ 
+M1    ●Distant metastasis 
+ 
+ 
+ 
+Imaging stage:   T4 N1 M1(in this study) 
+ 

@@ -1,0 +1,74 @@
+brief hx: a 66-year-old male patient with liver nodules for further evaluation.
+  this study has been compared with the previous study on 2012.06.14.
+  mri of the liver, pulse sequences:
+    axl t1wi , t2wi , and long t2wi, 5 mm in thickness for whole liver; axl t1wic+ 
+  20, 50, 120 sec and 20 min after iv infusion of primovist 0.2ml/kg, 5 mm in 
+  thickness for whole liver.
+  
+  finding:
+  lobulated contour of liver compatible with liver cirrhosis. 
+  splenomegaly  
+  a 0.7 cm cyst in s2 liver.
+   at least 10 lesions in right lobe liver (the largest one about 2.1 cm in size in 
+  s5 liver) with low signal intensity on t1wi, mild high signal intensity on t2wi 
+  and long t2wi, mild early enhancement with early washed out and low signal 
+  intensity on hepatobiliary phases, favor hccs.
+  s4 liver atrophy.
+  no focal nodule in lls liver.
+  patency of portal vein. 
+  no definite biliary dilatation. 
+  no definite obstructive uropathy. 
+  no abnormal fluid collection in the abdomen. 
+  
+  ¡´imaging report form for hepatocellua carcinoma (ajcc 7th edition)
+  1.tumor number/location: 
+      number: ¡³1 ¡³2 ¡³3 ¡´multiple: at least 10 nodules
+      location:  right lobe liver 
+  2.tumor size: 
+      ¡´measurable: 2.1 cm (the largest tumor)
+      ¡³non-measurable
+  3.tumor characteristics and associated liver features
+      ¡³vascular invasion 
+      ¡³extrahepatic spread 
+      ¡³ascites 
+      ¡³portal vein thrombosis, location 
+      ¡³portosystemic collateral vessel
+      ¡´typical enhancement pattern (hypervascular enhancement and early wash-out)
+  3.pathology: ¡´not available ¡³available (pathology type:¡¼)
+  
+  -------------------primary tumor(t)--------------------------
+   tx    ¡³primary tumor cannot be assessed 
+   t0    ¡³no primary tumor 
+  stage i
+   t1    ¡³solitary tumor without vascular invasion 
+  stage ii
+   t2    ¡³solitary tumor with vascular invasion
+         ¡´multiple tumors none more than 5 cm
+  stage iii
+   a t3a ¡³multiple tumors more than 5 cm 
+   b t3b ¡³single tumor or multiple tumors of any size
+         involving a major branch of the portal vein or
+         hepatic vein 
+   c t4  ¡³tumor(s) with direct invasion of ivc, adjacent
+         organs other than the gallbladder or with
+         perforation of visceral peritoneum. 
+  -------------------regional lymph nodes(n)-----------------
+   nx    ¡³regional lymph nodes cannot be assessed 
+   n0    ¡´no regional lymph nodes
+  stage iva
+   n1    ¡³regional lymph node metastasis 
+          ¡³periceliac, ¡³hilar( common bile duct, hepatic artery, portal vein and 
+  cystic duct) ¡³peripancreatic ¡³paraaortic ¡³portocaval ¡³retrocaval 
+  ¡³others_______ 
+  -------------------distant metastasis(m)----------------------
+  stage ivb
+   m1    ¡³distant metastasis
+  ¡³	invasion of gallbladder
+  ¡³	cardiophrenic, mesenteric, retrocrural ln
+  imaging stage   t2 n0( in this study)
+  
+  imp.: 
+  (1) liver cirrhosis and splenomegaly. 
+  (2) favor at least 10 hccs in right lobe liver (the largest one about 2.1 cm in 
+  size in s5 liver), imaging stage: t2 n0( in this study)
+  (3) s4 liver atrophy and no focal nodule in lls liver.

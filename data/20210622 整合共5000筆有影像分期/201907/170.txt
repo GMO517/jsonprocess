@@ -1,0 +1,137 @@
+ computed tomography of ct angiography (cta) with and without enhancement show:
+    ill martginated tumor over s4 liver    
+    isolated dilatation of bilateral ihds with s/p biliary stent
+    no definite enlargement of retroperitoneal lns  .
+    no definite obstructive uropathy  .
+    no abnormal fluid collection in the abdomen  .
+    patency of the portal vein and hepatic artery
+    the vol of the right liver is 787cm3 and the left liver is 555cm3
+    imp: hilar cholangiocarcinoma with isolated dilatation of the bil ihds
+    
+    
+    ¡´imaging report form for perihilar bile ducts tumor (ajcc 7th edition)
+    
+    1.tumor number/location: 
+        location:  ¡¼ 
+    2.tumor size: 
+       ¡³measurable:  cm (the largest tumor)
+       ¡³non-measurable
+    3.pathology: ¡³not available ¡³available (pathology type:¡¼)
+    
+    -------------------primary tumor(t)--------------------------
+     tx    ¡³primary tumor cannot be assessed
+     t0    ¡³no primary tumor
+    stage 0
+     tis   ¡³carcinoma in situ
+    stage i
+     t1    ¡³tumor confined to the bile duct, with extension up to the muscle 
+  layer 
+    or fibrous tissue
+    stage ii
+     t2a   ¡³tumor invades beyond the wall of the bile duct to surrounding
+   adipose
+     tissue
+     t2b   ¡´tumor invades adjacent hepatic parenchyma
+    stage iiia
+     t3    ¡³tumor invades unilateral branches of the portal vein or hepatic
+   artery
+    stage iva (t4 n0-n1)
+     t4    ¡³tumor invades main portal vein or its branches bilaterally; or the 
+    common hepatic artery; or the second-order biliary radicals bilaterally; or
+     unilateral
+    second-order biliary radicals with contralateral portal vein or hepatic artery
+     involvement
+    -------------------regional lymph nodes(n)-----------------
+     nx    ¡³regional lymph nodes cannot be assessed
+     n0    ¡´no regional lymph nodes ¡¼
+    stage iiib (t1-3 n1 m0)
+     n1    ¡³regional lymph node metastasis (including nodes along the cystic 
+  duct,
+    common bile duct, hepatic artery, and portal vein)
+    stage ivb
+     n2    ¡³metastasis to periaortic, pericaval, superior mesentery artery, and/
+  or 
+    celiac artery lymph nodes
+     
+    -------------------distant metastasis(m)---------------------
+     m0   ¡³no distant metastasis (no pathologic m0; use clinical m to complete 
+    stage group)brief hx: hcc post op and recurrence s/p tae f/u
+this study has been compared to the previous study on 2017.04.12
+ct of the liver with pre-contrast & triphasic contrast enhancement studies show:
+ 
+techniques: 
+from lower chest to liver inferior edge in 5-mm contiguous section, contrast 
+medium injected at 2ml/sec, 30 sec after initiation of injection, starting 
+arterial phase scan; portal phase scan performed in 20 sec after the end of the 
+arterial phase scan; and venous phase scan began in 20 sec after the end of 
+portal phase scan
+findings:
+no definite pulmonary nodule in the visualized lower lung field
+s/p left lateral segmental hepatectomy 
+s/p tae and rfa with dense lipiodol stasis and tissue necrosis in s7
+no other early enhance and early washout tumor in the liver
+no definite space occupying lesion in the spleen and pancreas.
+no definite biliary dilatation but with multiple gallstones noted
+patency of portal veins  
+no hydronephrosis but left renal stones noted
+no definite enlargement of retroperitoneal lns 
+no abnormal fluid collection in the abdomen
+bil. tiny renal caliceal stones noted
+progressive lobulated enlargement of the prostate with bladder base indentation 
+r/o prostate tumor or hypertrophy
+imp:
+s/p lls hepatectomy
+s/p tae and rfa with lipiodol stasis and necrotic change in s7
+no evident recurrent liver tumor
+multiple gallstones and left renal stones
+progressive lobulated prostate enlargement r/o prostate tumor or hypertrophy
+
+¡´imaging report form for prostate cancer (ajcc 8th edition)
+1. tumor location: ¡³rt¡³ lt ¡³ peripheral ¡³ transitional ¡³ central zone
+¡³not assessable
+2. tumor size: 
+¡³measurable: cm 
+¡³non-measurable
+3. pathology: ¡´not available ¡³available (histopathologic grade: g¡¼)
+4. study method: ¡´ ct scans  ¡³ mri
+-------------------primary tumor(t)---------------------------
+tx   ¡´primary tumor cannot be assessed 
+t0   ¡³no evidence of primary tumor 
+t1   ¡³clinically inapparent tumor that is not palpable
+t1a  ¡³tumor incidental histologic finding in 5% or less of tissue resected
+t1b  ¡³tumor histologic finding in more than 5% of tissue resected
+t1c  ¡³tumor identified by needle biopsy in one or both sides
+t2   ¡³tumor is palpable and confined within prostate
+       t2a  ¡³tumor involves one-half of one side or less
+       t2b  ¡³tumor involves more than one-half of one side but not both sides
+       t2c  ¡³tumor involves both sides
+t3   ¡³extraprostatic tumor is not fixed or does not invade adjacent structure
+       t3a  ¡³extraprostatic extension (uni - or bilateral)
+       t3b  ¡³tumor invades seminal vesicle(s)
+(t2 and t3 only for mri study)
+t4   ¡³tumor is fixed or invades adjacent structures other than seminal 
+vesicles.
+¡³pelvic side wall
+¡³pelvic organs invasion 
+(if yes, ¡³bladder ¡³rectum ¡³external sphincter¡³levator muscles¡³pelvic wall)
+-------------------regional lymph nodes(n)-----------------
+nx   ¡³regional lns were not assessed
+n0   ¡´no positive regional lns
+n1   ¡³metastasis in regional ln(s).
+¡³obturator (rt/lt) ¡³internal iliac (rt/lt) ¡³external iliac (rt/lt) ¡³
+sacral ¡³others
+-------------------distant metastasis(m)-----------------------
+m0¡³no distant metastasis
+m1   ¡³distant metastasis
+    m1a  ¡³nonregional ln(s)
+¡³common iliac (rt/lt) ¡³inguinal (rt/lt) ¡³paraaortic (rt/lt) ¡³others
+    m1b  ¡³bone(s)
+    m1c  ¡³other site(s) with or without bone disease
+
+imaging stage   tx n0( in this study)
+
+    stage ivb
+     m1   ¡³distant metastasis¡¼
+    
+    imaging stage   t2b n0( in this study)
+    

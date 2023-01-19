@@ -1,0 +1,109 @@
+Findings:  
+ 
+ 
+ 
+Multiple bilobar hepatic cysts, (up to 1.4 cm at LLS liver)  
+ 
+No definite enhanced liver tumor noted.  
+ 
+No definite focal mass in adrenal glands and spleen.  
+ 
+A 3.06 cm poorly defined heterogenously enhanced mass over pancreatic uncinate process with compression to MPV, SMA 
+ 
+Partial thrombosis noted in MPV & SMV. 
+ 
+Enlarged regional mesenteric LNs noted. 
+ 
+Patency of portal vein.  
+ 
+Mild dilatation of bil IHDs. 
+ 
+Gallstones without definite wall-thickening of gallbladder.  
+ 
+Normal function and contour of both kidneys.  
+ 
+Patency of bilateral ureters.  
+ 
+Bilateral renal cysts, the biggest on the left with size of 2.9 cm .  
+ 
+A 1.8 cm duodenal diverticulum. 
+ 
+Multiple diverticula at the colon. 
+ 
+Enlarged prostate with calcifications.  
+ 
+No definite bony destruction.  
+ 
+Kindly note that subtle mucosal lesion could not be well evaluated on routine CT.  
+ 
+ 
+ 
+IMP: * Suspected uncinate process pancreatic cancer with involvement of MPV/SMV/SMA and regional lymphadenopathy . 
+ 
+     * Mild dilatation of bil IHDs. 
+ 
+     * Gallstones. 
+ 
+ 
+ 
+Tentative imaging staging (Not pathology proven yet)  
+ 
+ 
+ 
+●Imaging Report Form for Pancreatic Carcinoma (AJCC 7th Edition) 
+ 
+1. Tumor location 
+ 
+   ●Pancreatic head and neck 
+ 
+   ○Pancreatic body  
+ 
+   ○Pancreatic tail 
+ 
+   ○Others___________________ 
+ 
+2. Tumor Size： 
+ 
+   ●Measurable: ___3____cm (in greatest diameter) 
+ 
+   ○Non-measurable 
+ 
+3. Pathology: ●Not available ○Available (Pathology type:□) 
+ 
+ 
+ 
+-------------------Primary Tumor(T)-------------------------- 
+ 
+TX    ○Primary tumor cannot be assessed 
+ 
+T0    ○No evidence of primary tumor 
+ 
+Tis    ○Carcinoma in situ 
+ 
+T1    ○Tumor limited to the pancreas, 〈= 2 cm in greatest dimension 
+ 
+T2    ○Tumor limited to the pancreas, 〉 2 cm in greatest dimension 
+ 
+T3    ○Tumor extends beyond the pancreas but without involvement of the celiac axis or the superior mesenteric artery 
+ 
+T4    ●Tumor involves the celiac axis or the superior mesenteric artery (unresectable primary tumor) ○Inferior vena cava ○Aorta ○Rib ○Vertebral body ○Other: ________ 
+ 
+ 
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+NX    ○Regional lymph nodes cannot be assessed 
+ 
+N0    ○No regional lymph node metastasis 
+ 
+N1    ●Regional lymph node metastasis 
+ 
+○ Pancreaticoduodenal nodes ○ Celiac axis nodes ● Superior mesenteric nodes ○ Hepatic hilar nodes ○ Splenic hilar nodes ○ Superior peripancreatic nodes ○ Inferior peripancreatic nodes ○ Others ____________ 
+ 
+-------------------Distant Metastasis(M)---------------------- 
+ 
+M1    ○Distant metastasis 
+ 
+ 
+ 
+Imaging stage:   T4 N1 (in this study) 

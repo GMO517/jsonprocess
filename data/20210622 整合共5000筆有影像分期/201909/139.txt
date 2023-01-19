@@ -1,0 +1,64 @@
+brief hx: a -year-old  patient with  for further evaluation.
+  this study has been compared with the previous study on .
+  no previous ct study was availble to compare.
+  liver ct without and with iv enhancement triphasic scans studies
+  techniques: 
+    from lower chest to liver inferior edge in 5-mm contiguous section for before 
+  and after iv enhancement ct.
+  findings:
+  lobulated contour of liver compatible with liver cirrhosis. 
+  splenomegaly  
+  postoperative appearance of cholecystectomy. 
+  a 0.34 cm calcification in s7 liver.
+  a 2.7 cm early enahncement and early wash out tumor in high s8 liver.
+  no significant change of the three small changes with early enhancement but 
+  isodense in venous phase images in lls( 0.86 cm), lower s8( 0.74 cm) and medial 
+  s5( 0.76 cm) liver compared with previous ct studies since 2008.09.26.
+  patency of portal vein. 
+  no definite biliary dilatation. 
+  no definite obstructive uropathy. 
+  no definite enlargement of retroperitoneal lns. 
+  no abnormal fluid collection in the abdomen. 
+  imp.: 
+  (1) liver cirrhosis, splenomegaly and s/p cholecystectomy.
+  (2) a 2.7 cm hcc in high s8 liver, stage i( t1n0mx).
+  (3) no significant change of the three small early enhancement changes in lls( 0.
+  86 cm), lower s8( 0.74 cm) and medial s5( 0.76 cm) liver compared with previous ct 
+  studies since 2008.09.26.
+  
+  tnm for hepatocellua carcinoma (ajcc 7th edition)
+  1.tumor location: high s8
+  2.tumor size: 2.7cm
+  3.pathology: ¡´not available ¡³available (pathology type:¡¼)
+  
+  -------------------primary tumor(t)-------------------
+   tx    ¡³primary tumor cannot be assessed ¡¼
+   t0    ¡³no primary tumor ¡¼
+  stage i
+   t1    ¡´solitary tumor without vascular invasion ¡¼
+  stage ii
+   t2    ¡³solitary tumor with vascular invasion
+         ¡³multiple tumors none more than 5 cm
+         ¡¼
+  stage iii
+   a t3a ¡³multiple tumors more than 5 cm ¡¼
+   b t3b ¡³single tumor or multiple tumors of any size
+         involving a major branch of the portal vein or
+         hepatic vein ¡¼
+   c t4  ¡³tumor(s) with direct invasion of adjacent
+         organs other than the gallbladder or with
+         perforation of visceral peritoneum. ¡¼
+  
+  -------------------regional lymph nodes(n)-----------------
+   nx    ¡³regional lymph nodes cannot be assessed ¡¼
+   n0    ¡´no regional lymph nodes ¡¼
+  stage iva
+   n1    ¡³regional lymph node metastasis ¡¼
+  
+  -------------------distant metastasis(m)-------------------
+   m0    ¡´no distant metastasis¡¼
+  stage ivb
+   m1    ¡³distant metastasis¡¼
+  
+  tumor stage   t 1 n 0 m x
+                stage i

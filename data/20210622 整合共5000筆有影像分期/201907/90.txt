@@ -1,0 +1,63 @@
+abdominal and pelvic ct with and without iv enhancement shows:
+  
+  techniques: 
+  from lower chest to pelvis in 5-mm contiguous section for preenhanced ct
+  from lower chest to pelvis in 5-mm contiguous section for  enhanced ct
+   
+  findings: 
+  no definite space-occupying lesion in the liver, spleen and pancreas. 
+  no definite biliary dilatation  .
+  s/p cholcystectomy
+  patency of portal vein  
+  no hydronephrosis ofboth  kidney(s)
+  no definite enlargement of retroperitoneal lns  .
+  no abnormally loculated fluid or free air gas in the abdomen  .
+  no definite intraluminal colon mass can be identified on this ct (post polypectomy?
+  )
+  
+  impression
+  the colon on suspected on colonoscopy cannot be well seen on this ct
+  
+  
+  ¡´tnm for colon cancer (ajcc 7th edition)
+  1.tumor location: no assessible
+  2.tumor size: cannot be assessed
+  3.pathology: ¡³not available ¡´available (pathology type:adenocarcinoma, stage 0 
+  (ptis nx mx))
+  
+  tx    ¡´primary tumor cannot be assessed ¡¼
+  t0    ¡³no evidence of primary tumor ¡¼
+  tis   ¡³carcinoma in situ: intraepithelial or invasionof
+        lamina propria ¡¼
+  t1    ¡³tumor invades submucosa ¡¼
+  t2    ¡³tumor invades muscularis propria ¡¼
+  t3    ¡³tumor invades through the muscularis
+        propria into pericolorectal tissues ¡¼
+  t4a   ¡³tumor penetrates to the surface of the visceral peritoneum ¡¼
+  t4b   ¡³tumor directly invades or is adherent to other organs or structures ¡¼
+  
+  nx    ¡´regional lymph nodes cannot be assessed ¡¼
+  n0    ¡³no regional lymph node metastasi ¡¼
+  n1    ¡³metastasis in 1 to 3 regional lymph node ¡¼
+    n1a ¡³metastasis in 1 regional lymph node ¡¼
+    n1b ¡³metastasis in 2-3 regional lymph nodes ¡¼
+    n1c ¡³tumor deposit(s) in the subserosa, mesentery, or
+        non-peritonealized pericolic or perirectal tissues 
+        without regional nodal metastasis ¡¼      
+  n2    ¡³metastasis in 4 or more regional lymph nodes ¡¼
+  n2a   ¡³metastasis in 4 to 6 regional lymph nodes ¡¼
+  n2b   ¡³metastasis in 7 or more regional lymph nodes ¡¼
+  
+  m0    ¡´no distant metastasis(no pathlogic m0;use clinical m to complete stage 
+  group ¡¼
+  m1    ¡³distant metastasis ¡¼
+  m1a    ¡³metastasis confined to one organ or site(e.g., liver, lung, ovary, 
+  non-regional node). ¡¼
+  m1b    ¡³metastases in more than one organ/site or the peritoneum. ¡¼
+  
+  special situations
+  tx, nx, mx    ¡³t, ¡³n, ¡³m -- status not assessable ¡¼
+  tis           ¡³focus of in situ cancer ¡¼
+  
+  imaging stage   tx nx m0
+                stage: not assessable

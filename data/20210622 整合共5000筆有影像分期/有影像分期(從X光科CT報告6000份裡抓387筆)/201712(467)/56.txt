@@ -1,0 +1,106 @@
+ 
+Findings: 
+ 
+Relative low density of liver is compatible with fatty liver  
+ 
+No obvious focal liver nodule 
+ 
+Patency of the portal veins 
+ 
+No splenomegaly 
+ 
+No ascites 
+ 
+Obliterated GB with stones and soft tissue mass about 3.5x5.0cm with enhancemnt, favor GB tumor with invasion to S5  
+ 
+Several enlared periportal LNs up to 1.3cm 
+ 
+No evident IHD dilatation 
+ 
+Unremarkable change of the pancreas 
+ 
+No abnormal fluid collection in the abdomen  
+ 
+s/p LAR with colostomy over LLQ. 
+ 
+Bil. moderate hydronephrosis with caliceal stones, suspected bil. ureteral obstruction nature? 
+ 
+No evident enlarged retroperitoneal LNs 
+ 
+IMP: 
+ 
+Gallstones and suspcious GB tumor with mass about 3.5x5.0cm and invasion to S5, periportal enlarged LNs   
+ 
+s/p LAR with colostomy over LLQ. 
+ 
+Bil. moderate hydronephrosis with caliceal renal stones due to bil. ureteral obstruction nature? 
+ 
+(tentative tumor staging) 
+ 
+¡´Imaging Report Form for gall bladder tumor (AJCC 7th Edition) 
+ 
+1.Tumor Number/Location:  
+ 
+    Location:  ¡¼  
+ 
+2.Tumor Size:  
+ 
+  ¡³Measurable: 5.0 cm (the largest tumor) 
+ 
+  ¡³Non-measurable 
+ 
+3.Pathology: ¡´Not available ¡³Available (Pathology type:¡¼) 
+ 
+-------------------Primary Tumor(T)-------------------------- 
+ 
+ Tx  ¡³Primary tumor cannot be assessed  
+ 
+ T0  ¡³No evidence of primary tumor  
+ 
+Stage 0 
+ 
+ Tis  ¡³Carcinoma in situ 
+ 
+Stage I 
+ 
+ T1  ¡³Tumor invades lamina propria or muscle layer 
+ 
+    T1a   ¡³Tumor invades lamina propira  
+ 
+    T1b   ¡³Tumor invades muscular layer 
+ 
+Stage II 
+ 
+ T2  ¡³Tumor invades perimuscular connective tissue; no extension beyond serosa or into liver 
+ 
+Stage IIIA 
+ 
+ T3  ¡´Tumor perforates the serosa (visceral peritoneum) and/or directly invades the liver and/or one other adjacent organ or structure, such as the stomach, duodenum, colon, pancreas, omentum, or extrahepatic bile ducts 
+ 
+Stage IVA (T4 N0-1) 
+ 
+ T4  ¡³Tumor invades main portal vein or hepatic artery or invades two or more extrahepatic organs or structures 
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+ Nx  ¡³Regional lymph nodes cannot be assessed  
+ 
+ N0  ¡³No regional lymph node metastasis 
+ 
+Stage IIIB (T1-T3 N1 M0) 
+ 
+ N1  ¡´Metastases to nodes along the cystic duct, common bile duct, hepatic artery, and/or portal vein. 
+ 
+Stage IVB  
+ 
+ N2  Metastases to periaortic, pericaval, superior mesentery artery and/or celiac artery lymph nodes 
+ 
+-------------------Distant Metastasis(M)---------------------- 
+ 
+ M0  ¡³No distant metastasis (no pathologic M0; use clinical M to complete stage group) 
+ 
+Stage IVB 
+ 
+ M1  ¡³Distant metastasis 
+ 
+Imaging stage   T3 N1( in this study) 

@@ -1,0 +1,101 @@
+Findings:   
+ 
+ 
+ 
+No definite pulmonary nodule in visual field. 
+ 
+No definite space occupying lesion in the spleen. 
+ 
+Decrease attenuation of S4 liver, may be due to focal fatty change. 
+ 
+Three hypodensity lesion in left lobe subcapsule region (4.37cm and 1.94cm) and perigastric region(1.65cm) 
+ 
+Enlarged of pancreatic head(5.61cm) with P-duct dilatation, suspected pancreatic cancer  
+ 
+Another 2.51cm hypodensity lesion in body of pancrease, progressive change, nature? 
+ 
+No definite biliary dilatation  . 
+ 
+Collapsed of gallbladder . 
+ 
+Patency of portal vein .  
+ 
+Occluted splenic vein with prominent left gastric vein. 
+ 
+Normal function and contour of bil. kidneys and no definite obstructive uropathy. 
+ 
+Enlargement of perigastric and portal hepatis LNs  . 
+ 
+No abnormal fluid collection in the abdomen  . 
+ 
+Stool retention in colon. 
+ 
+ 
+ 
+IMP: 
+ 
+*Enlarged of pancreatic head(5.61cm) with P-duct dilatation, suspected pancreatic cancer  
+ 
+*Another 2.51cm hypodensity lesion in body of pancrease, progressive change, nature? 
+ 
+*Three hypodensity lesion in left lobe subcapsule region (4.37cm and 1.94cm) and perigastric region(1.65cm). 
+ 
+ 
+ 
+●Imaging Report Form for Pancreatic Carcinoma (AJCC 7th Edition) 
+ 
+1. Tumor location 
+ 
+   ○Pancreatic head and neck 
+ 
+   ○Pancreatic body  
+ 
+   ○Pancreatic tail 
+ 
+   ○Others___________________ 
+ 
+2. Tumor Size： 
+ 
+   ○Measurable: __________cm (in greatest diameter) 
+ 
+   ○Non-measurable 
+ 
+3. Pathology: ○Not available ○Available (Pathology type:□) 
+ 
+ 
+ 
+-------------------Primary Tumor(T)-------------------------- 
+ 
+TX    ○Primary tumor cannot be assessed 
+ 
+T0    ○No evidence of primary tumor 
+ 
+Tis    ○Carcinoma in situ 
+ 
+T1    ○Tumor limited to the pancreas, 〈= 2 cm in greatest dimension 
+ 
+T2    ●Tumor limited to the pancreas, 〉 2 cm in greatest dimension 
+ 
+T3    ○Tumor extends beyond the pancreas but without involvement of the celiac axis or the superior mesenteric artery 
+ 
+T4    ○Tumor involves the celiac axis or the superior mesenteric artery (unresectable primary tumor) ○Inferior vena cava ○Aorta ○Rib ○Vertebral body ○Other: ________ 
+ 
+ 
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+NX    ○Regional lymph nodes cannot be assessed 
+ 
+N0    ●No regional lymph node metastasis 
+ 
+N1    ○Regional lymph node metastasis 
+ 
+○ Pancreaticoduodenal nodes ○ Celiac axis nodes ○ Superior mesenteric nodes ○ Hepatic hilar nodes ○ Splenic hilar nodes ○ Superior peripancreatic nodes ○ Inferior peripancreatic nodes ○ Others ____________ 
+ 
+-------------------Distant Metastasis(M)---------------------- 
+ 
+M1    ○Distant metastasis 
+ 
+ 
+ 
+Imaging stage:   T2 N0 Mx(in this study) 

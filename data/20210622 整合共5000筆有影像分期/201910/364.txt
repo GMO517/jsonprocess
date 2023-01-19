@@ -1,0 +1,60 @@
+brief hx: intrahepatic bile duct tumor for pre-op evaluation
+ct of liver and with cta without & with contrast enhancement shows:
+techniques: 
+from lower chest to liver inferior edge in 5-mm contiguous section, contrast 
+medium injected at 2ml/sec, 30 sec after initiation of injection, starting 
+arterial phase scan;  portal phase scan performed in 20 sec after the end of the
+ arterial phase scan; and venous phase scan began in 20 sec after the end of the
+  portal phase scan, reformation of images for ct angiography
+findings 
+large ill-defined mass in left lobe about 5x7cm and extending to hilar region 
+causing diffuse bil. intrahepatic biliary tree dilatation
+obliteration of left portal vein and left hepatic vein may be due to tumor
+ invasion
+patent right and main portal veins
+gallstones noted
+no definite space occupying lesion in the spleen and pancreas
+no splenomegaly and no ascites
+patent hepatic arteries, both rha and lha from pha
+no definite enlargement of retroperitoneal lns 
+s/p total hysterectomy
+volume of right liver is 933cm3, left liver is 308cm3 and spleen is 177cm3
+imp: 
+favor left cholangioca with biliary dilatation, lpv and lhv invasion
+
+(this is tentative tumor staging)
+¡´imaging report form for intrahepatic bile ducts tumor (ajcc 8th edition)
+1.tumor number/location: 
+    location:  left lobe 
+2.tumor size: 
+   ¡¼measurable: 5x7 cm (the largest tumor)
+   ¡¼non-measurable
+3.pathology: ¡´not available ¡³available (pathology type:¡¼)
+
+-------------------primary tumor(t)--------------------------
+ tx   ¡³primary tumor cannot be assessed
+ t0   ¡³no primary tumor
+stage 0
+ tis   ¡³carcinoma in situ
+stage i
+ t1   ¡³solitary tumor without vascular invasion
+t1a   ¡³ solitary tumor ?5 cm without vascular invasion
+t1b   ¡³ solitary tumor >5 cm without vascular invasion
+stage ii
+ t2   ¡´ solitary tumor with intrahepatic vascular invasion or multiple
+tumors, with or without vascular invasion
+stage iii
+ t3   ¡³tumor perforating the visceral peritoneum 
+stage iva
+ t4   ¡³tumor involving local extrahepatic structures by direct invasion 
+-------------------regional lymph nodes(n)-----------------
+ nx   ¡³regional lymph nodes cannot be assessed
+ n0   ¡´no regional lymph nodes ¡¼
+stage iva
+ n1   ¡³regional lymph node metastasis ¡¼
+-------------------distant metastasis(m)---------------------
+ m0  ¡³no distant metastasis (no pathologic m0; use clinical m to complete 
+stage group)
+stage ivb
+ m1  ¡³distant metastasis¡¼
+imaging stage   t2 n0( in this study)

@@ -1,0 +1,105 @@
+Imaging  Findings: 
+ 
+Several tiny cysts in LLS and S7 of liver 
+ 
+A 1.89cm nodule in S7 of liver with mild early enhance and washout  
+ 
+in portal phase, suspect HCC 
+ 
+Patent MPV and branches, no evidence of thrombosis 
+ 
+No definite space occupying lesion in the pancreas and spleen . 
+ 
+No definite biliary dilatation. Gallstone 
+ 
+Bilateral renal cysts, the biggest one in left kidney(3.4cm) 
+ 
+Normal function of both kidneys, no definite obstructive uropathy  . 
+ 
+No definite enlargement of retroperitoneal LNs  . 
+ 
+No abnormal fluid collection in the abdomen  . 
+ 
+Enlargement of prostate gland 
+ 
+ 
+ 
+Impression:  
+ 
+1.S7 liver nodule(1.89cm), suspect HCC 
+ 
+2.Liver and renal cysts 
+ 
+3.Gallstone 
+ 
+ 
+ 
+●TNM for Hepatocellua Carcinoma (AJCC 7th Edition) 
+ 
+1.Tumor Location: S7 
+ 
+2.Tumor Size: 1.89cm 
+ 
+3.Pathology: ●Not available ○Available (Pathology type:□) 
+ 
+ 
+ 
+-------------------Primary Tumor(T)------------------- 
+ 
+ Tx    ○Primary tumor cannot be assessed □ 
+ 
+ T0    ○No primary tumor □ 
+ 
+Stage I 
+ 
+ T1    ●Solitary tumor without vascular invasion □ 
+ 
+Stage II 
+ 
+ T2    ○Solitary tumor with vascular invasion 
+ 
+       ○Multiple tumors none more than 5 cm 
+ 
+ 
+ 
+Stage III 
+ 
+ A T3a ○Multiple tumors more than 5 cm □ 
+ 
+ B T3b ○Single tumor or multiple tumors of any size 
+ 
+       involving a major branch of the portal vein or 
+ 
+       hepatic vein □ 
+ 
+ C T4  ○Tumor(s) with direct invasion of adjacent 
+ 
+       organs other than the gallbladder or with 
+ 
+       perforation of visceral peritoneum. □ 
+ 
+ 
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+ Nx    ○Regional lymph nodes cannot be assessed □ 
+ 
+ N0    ●No regional lymph nodes □ 
+ 
+Stage IVA 
+ 
+ N1    ○Regional lymph node metastasis □ 
+ 
+ 
+ 
+-------------------Distant Metastasis(M)------------------- 
+ 
+ M0    ○No distant metastasis□ 
+ 
+Stage IVB 
+ 
+ M1    ○Distant metastasis□ 
+ 
+ 
+ 
+Imaging stage   T1 N0 Mx              Stage I 

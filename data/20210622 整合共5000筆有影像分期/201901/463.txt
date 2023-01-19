@@ -1,0 +1,80 @@
+Findings:  
+ 
+Mild pulmonary infiltration in right lower lung and left ligular lobe  
+A 13.2x10x8.5 cm early enhancement and early washout tumor in S5-6 liver with central necrosis, compatible with HCCs 
+Equivocal obliteration of MHV, suspicious invasion of MHV 
+Another two small early washout daughter nodules in S6 liver (1.1 cm & 1.2 cm), favoring HCCs. 
+Two 0.6 cm & 1.2 cm hypodense nodules in the spleen 
+Patency of portal vein.  
+Enlarged prostate with calcifications.  
+Gallstones in gallbladder (up to 1.6 cm) without definite GB wall-thickening  
+Focal IHD dilatation in S2 liver. 
+No definite focal mass in pancreas   
+A 3.8 cm poorly defined heterogenously enhanced nodular mass in left kidney 
+Bilateral renal cysts, the biggest on the left with size of 1.0 cm .  
+Normal function and contour of right kidney.  
+Patency of right ureter.  
+No definite adrenal nodule.  
+A 4 cm outpouching lesion at right urinary bladder wall, due to bladder diverticulum . 
+Diffuse atherosclerotic change of visualized vessels.  
+Enlarged prostate with calcifications.  
+S/P sigmoid colectomy with anastomosis 
+Kindly note that subtle mucosal lesion could not be well evaluated on routine CT.  
+ 
+IMP:  
+* S/P sigmoid colectomy with anastomosis 
+* Gallstones 
+* A huge HCC in S5-6 liver with suspicious invasion of MHV. 
+* Another two small early washout daughter nodules in S6 liver (1.1 cm & 1.2 cm), favoring HCCs. 
+* Focal IHD dilatation in S2 liver. 
+* A 3.8 cm poorly defined heterogenously enhanced nodular mass in left kidney, RCC? 
+* Two 0.6 cm & 1.2 cm hypodense nodules in the spleen 
+ 
+Tentative imaging staging (Not pathology proven yet)  
+ 
+●Imaging Report Form for Hepatocellua Carcinoma (AJCC 8th Edition) 
+1.Tumor Number/Location:  
+Number: ○1 ○2 ●3 Multiple: 
+Location: S5-6 
+2.Tumor Size:  
+    ●Measurable: 13.2 cm (the largest tumor) 
+    ○Non-measurable 
+3.Tumor Characteristics and Associated Liver Features 
+    ●Vascular invasion  
+    ○Extrahepatic spread  
+    ○Ascites  
+    ○Portal vein thrombosis, location  
+    ○Portosystemic collateral vessel 
+    ●Typical enhancement pattern (hypervascular enhancement and early wash-out) 
+3.Pathology: ●Not available ○Available (Pathology type:□) 
+ 
+-------------------Primary Tumor(T)-------------------------- 
+ Tx  ○ Primary tumor cannot be assessed  
+ T0  ○ No primary tumor  
+Stage I 
+T1   ○ Solitary tumor ≦2 cm, or 〉 2cm without vascular invasion 
+T1a  Solitary tumor ≦2 cm 
+T1b  Solitary tumor 〉 2cm without vascular invasion 
+Stage II 
+T2   ○ Solitary tumor 〉2cm with vascular invasion, or multiple tumors,none 〉5cm  
+Stage III 
+T3   ●Multiple tumors more than 5 cm  
+T4   ●TSingle tumor or multiple tumors of any size involving a major 
+branch of the portal vein or hepatic vein, or tumor(s) with direct 
+invasion of adjacent organs other than the gallbladder or with 
+perforation of visceral peritoneum  
+-------------------Regional Lymph Nodes(N)----------------- 
+Nx   ○Regional lymph nodes cannot be assessed  
+N0   ●No regional lymph nodes 
+Stage IVA 
+N1   ○Regional lymph node metastasis  
+     ○Periceliac, ○Hilar( common bile duct, hepatic artery, portal vein and cystic duct) ○Peripancreatic ○Paraaortic ○Portocaval ○Retrocaval 
+○Others_______  
+-------------------Distant Metastasis(M)---------------------- 
+Stage IVB 
+M1  ○Distant metastasis 
+○ Invasion of gallbladder 
+○ Cardiophrenic, Mesenteric, Retrocrural LN 
+ 
+Imaging stage   T3-4 N0 ( in this study) 
+ 

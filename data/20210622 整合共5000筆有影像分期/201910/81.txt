@@ -1,0 +1,84 @@
+abdominal ct with pre-enhanced and cta studies show:
+  technique:
+  axial images are reconstructed in 5-mm section. 
+  coronal, sagittal oblique mip cta adn ctp images are reconstructed
+  
+  findings:
+  a 9.3cm heterogeneously enhanced mass in s7-8-1 region with close attcament of 
+  ivc and invasion of rhv, mhv and rpv branches
+  three other small nodules  (1.2cm-1.4cm) in s7 and s8 
+  dilated s7 and s8 ihds
+  patent lpv and mpv
+  s/p ptgbd
+  borderline extrahepatic duct dilatation
+  prominent hepatoduodenal ligament and portocaval lns
+  no p-duct dilatation
+  mild swelling of pancreatic head
+  no focal splenic mass
+  bil. kidneys are well opacified with no apparent focal pelvicalyceal obstructive
+   lesion 
+  patency of bil. ureter(s).
+  no enlarged lymph node in the pelvis 
+  
+   impression: 
+  1. s7-8-1 heterogeneously enhanced mass close attcament of ivc and invasion of 
+  rhv, mhv and rpv branches and ihds and several s7 and s8 nodules. nature? 
+  cholangiocarcinomas or metastasis? 
+  2. s/p ptgbd and borderline extrahepatic duct dilatation but no p-duct 
+  dilatation is found (the suspected ampullar vater tumor cannot be definitively 
+  seen in this ct)
+  3. prominent hepatoduodenal ligament and portocaval lns. metastatic?
+  
+  ¡´imaging report form for hepatocellua carcinoma (ajcc 7th edition)
+  1.tumor number/location: 
+      number: ¡³1 ¡³2 ¡³3 ¡´multiple:
+      location:  s7-8-1 
+  2.tumor size: 
+      ¡´measurable: 9.3cm (the largest tumor)
+      ¡³non-measurable
+  3.tumor characteristics and associated liver features
+      ¡´vascular invasion 
+      ¡³extrahepatic spread 
+      ¡³ascites 
+      ¡³portal vein thrombosis, location 
+      ¡³portosystemic collateral vessel
+      ¡³typical enhancement pattern (hypervascular enhancement and early wash-out)
+  3.pathology: ¡³not available ¡´available (pathology type:liver,  segment 7-8-1, 
+  extended right lobectomy 
+         ----- combined hepatocellular (70%) and cholangiocarcinoma (30%)
+               pathologic staging (ajcc): stage iva (pt4 nx))
+  
+  -------------------primary tumor(t)--------------------------
+   tx    ¡³primary tumor cannot be assessed 
+   t0    ¡³no primary tumor 
+  stage i
+   t1    ¡³solitary tumor without vascular invasion 
+  stage ii
+   t2    ¡³solitary tumor with vascular invasion
+         ¡³multiple tumors none more than 5 cm
+  stage iii
+   a t3a ¡³multiple tumors more than 5 cm 
+   b t3b ¡³single tumor or multiple tumors of any size
+         involving a major branch of the portal vein or
+         hepatic vein 
+   c t4  ¡´tumor(s) with direct invasion of ivc, 
+              ¡´tumor(s) with invasion of biliary tree (including ihds)
+              ¡³tumor(s) with direct invasion of organs other than the 
+  gallbladder 
+              ¡³tumor(s) with  perforation of visceral peritoneum. 
+  -------------------regional lymph nodes(n)-----------------
+   nx    ¡³regional lymph nodes cannot be assessed 
+   n0    ¡³no enlarged regional lymph nodes
+  stage iva
+   n1    ¡³regional lymph node metastasis 
+          ¡³periceliac, ¡³hilar( common bile duct, hepatic artery, portal vein 
+  and cystic duct) ¡³peripancreatic ¡³paraaortic ¡³portocaval ¡³retrocaval ¡³other
+  s_______ 
+  -------------------distant metastasis(m)----------------------
+  stage ivb
+   m1    ¡³distant metastasis
+  ¡³	invasion of gallbladder
+  ¡³	cardiophrenic, mesenteric, retrocrural ln
+  imaging stage   t4 nx(prominent hepatoduodenal ligament and portocaval lns. 
+  metastatic?y)
+  

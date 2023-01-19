@@ -1,0 +1,101 @@
+Findings: 
+ 
+Mild decreased attenuation of liver parenchyma compatible with fatty change  
+ 
+No obvious focal liver nodule 
+ 
+Patency of the portal veins 
+ 
+Gallstone (0.9cm), no biliary tree dilatation 
+ 
+Unremarkable pancreas, spleen and bil. adrenal glands; no focal lesion 
+ 
+No abnormal fluid collection in the abdomen  
+ 
+Tiny right renal stone (0.3cm) 
+ 
+Right hydronephrosis and hydroureter with suspicious ureteral tumor mass about 1.5x2.4cm 
+ 
+No evident enlarged retroperitoneal LNs 
+ 
+Calcified pelvic LNs (0.9cm, 0.6cm) 
+ 
+Irregular wall thickening of the urinary bladder with internal soft tissue masses about 2.3 to 4.5cm may be bladder tumors 
+ 
+Several enlarged LNs over bil. pelvis up to 2.1cm r/o metastasis 
+ 
+IMP: 
+ 
+ * Fatty liver, no obvious focal liver nodule 
+ 
+ * Gallstone (0.9cm) 
+ 
+ * Right hydronephrosis with suspicious ureteral tumor 
+ 
+ * Irregular urinary bladder wall thickening with soft tissue masses about 2.3 to 4.5cm, suspected bladder tumors 
+ 
+ * Suspect bil pelvic LN metastasis 
+ 
+ 
+ 
+(tentative tumor staging without pathology) 
+ 
+●TNM for Bladder Tumor (AJCC 7th Edition) 
+ 
+1.Tumor Location: bladder base 
+ 
+2.Tumor Size: 4.5cm 
+ 
+3.Pathology: ●Not available ○Available (Pathology type:□) 
+ 
+ 
+ 
+-------------------Primary Tumor(T)------------------- 
+ 
+Tx     ○Primary tumor cannot be assessed 
+ 
+T0     ○No evidence of primary tumor □ 
+ 
+Ta     ○Non-invasive papillary carcinoma 
+ 
+Tis    ○Carcinoma in situ- flat tumor 
+ 
+T1     ○Tumor invades subepithelial connective tissue □ 
+ 
+T2     ○Tumor invades muscle □ 
+ 
+  T2a ○Tumor invades superficial muscle □ 
+ 
+  T2b ●Tumor invades deep muscle □ 
+ 
+T3     ○Tumor invades perivesical tissue □ 
+ 
+T4     ○Tumor invades any of the following: prostate, uterus, vagina, pelvic wall, abdominal wall 
+ 
+T4a   ○Tumor invades prostate, uterus, vagina 
+ 
+T4b   ○Tumor invades pelvic wall, abdominal wall□ 
+ 
+ 
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+Nx    ○Regional lymph nodes cannot be assessed 
+ 
+N0    ○No regional lymph nodes □ 
+ 
+N1    ●Single regional lymph node metastasis 〈 2cm □ 
+ 
+N2    ○Single regional lymph node 〉 2cm but 〈 5cm in greatest dimension; or multiple lymph nodes, all 〈 5cm 
+ 
+N3    ○Metastasis in lymph nodes 〉 5cm in greatest dimension 
+ 
+ 
+ 
+-------------------Distant Metastasis(M)------------------- 
+ 
+M1    ○Distant metastasis □ 
+ 
+ 
+ 
+Imaging stage:   T2b N1 (in this study) 

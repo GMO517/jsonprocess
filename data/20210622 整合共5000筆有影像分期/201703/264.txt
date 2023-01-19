@@ -1,0 +1,52 @@
+Findings: 
+Lobulated and uneven contour of liver compatible with liver cirrhosis 
+Multiple liver cysts in both lobes, the biggest up to 2.8cm 
+Patency of the portal veins 
+Mild splenomegaly 
+No ascites 
+Diffuse biliary tree dilatation may be with hilar infiltrated mass r/o hilar tumor 
+Unremarkable change of the pancreas 
+No abnormal fluid collection in the abdomen  
+Numerous bil. renal cysts with derranged normal renal contour structures and small renal size, no evident hydronephrosis, favor polycystic kidneys 
+No evident enlarged retroperitoneal LNs 
+IMP: 
+Liver cirrhosis with splenomegaly 
+Suspected infiltrated hilar tumor (4cm) with biliary dilatation 
+Multiple liver and renal cysts, favor polycystic disease 
+ 
+(tentative tumor staging) 
+●Imaging Report Form for perihilar bile ducts tumor (AJCC 8th Edition) 
+1.Tumor Number/Location:  
+    Location:  hilum  
+2.Tumor Size:  
+   ○Measurable: 4.3 cm (the largest tumor) 
+   ○Non-measurable 
+3.Pathology: ●Not available ○Available (Pathology type:□) 
+ 
+-------------------Primary Tumor(T)-------------------------- 
+ Tx    ○Primary tumor cannot be assessed 
+ T0    ○No primary tumor 
+Stage 0 
+ Tis    ○Carcinoma in situ 
+Stage I 
+ T1    ○Tumor confined to the bile duct, with extension up to the muscle layer or fibrous tissue 
+Stage II 
+ T2a   ○Tumor invades beyond the wall of the bile duct to surrounding adipose tissue 
+ T2b   ●Tumor invades adjacent hepatic parenchyma 
+Stage IIIA 
+ T3    ○Tumor invades unilateral branches of the portal vein or hepatic artery 
+Stage IVA (T4 N0-N1) 
+ T4    ○Tumor invades main portal vein or its branches bilaterally; or the common hepatic artery; or the second-order biliary radicals bilaterally; or unilateral 
+second-order biliary radicals with contralateral portal vein or hepatic artery involvement 
+-------------------Regional Lymph Nodes(N)----------------- 
+ Nx    ○Regional lymph nodes cannot be assessed 
+ N0    ●No regional lymph nodes □ 
+Stage IIIB (T1-3 N1 M0) 
+ N1    ○One to three positive lymph nodes typically involving the hialr, cystic duct, common bile duct, hepatic artery, posterior pancreatoduodenal, and portal vein lymph nodes 
+Stage IVB 
+ N2    ○ Four or more positive lymph nodes from the sites described for N1  
+-------------------Distant Metastasis(M)--------------------- 
+ M0   ○No distant metastasis (no pathologic M0; use clinical M to complete stage group) 
+Stage IVB 
+ M1   ○Distant metastasis□ 
+Imaging stage   T2b N0( in this study) 

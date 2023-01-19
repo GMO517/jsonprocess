@@ -1,0 +1,92 @@
+
+       Report: CT of liver without & with contrast enhancement triphasic scans shows:  
+ 
+ 
+ 
+2.26cm enhanced tumor over LLS liver with IHDs dilatation 
+ 
+Atrophic change of the LLS liver 
+ 
+Tumor invasion to the left portal vein (umbilical portion) 
+ 
+No definite enlargement of retroperitoneal LNs  . 
+ 
+No definite obstructive uropathy  . 
+ 
+No abnormal fluid collection in the abdomen  . 
+ 
+Patency of the portal vein and with normal spleen 
+ 
+ 
+ 
+IMP: Cholangiocarcinoma over LLS liver 
+ 
+    
+ 
+●Imaging Report Form for intrahepatic bile ducts tumor (AJCC 7th Edition) 
+ 
+ 
+ 
+1.Tumor Number/Location:  
+ 
+    Location:  LLS 
+ 
+2.Tumor Size:  
+ 
+   ○Measurable: 2.26 cm (the largest tumor) 
+ 
+   ○Non-measurable 
+ 
+3.Pathology: ●Not available ○Available (Pathology type:□) 
+ 
+ 
+ 
+-------------------Primary Tumor(T)-------------------------- 
+ 
+ Tx    ○Primary tumor cannot be assessed 
+ 
+ T0    ○No primary tumor 
+ 
+Stage 0 
+ 
+ Tis   ○Carcinoma in situ 
+ 
+Stage I 
+ 
+ T1    ○Solitary tumor without vascular invasion 
+ 
+Stage II 
+ 
+ T2a   ●Solitary tumor with vascular invasion 
+ 
+ T2b   ○Multiple tumors with or without vascular invasion 
+ 
+Stage III 
+ 
+ T3    ○Tumor perforating the visceral peritoneum or involving the local extrahepatic structures by direct invasion 
+ 
+Stage IVA 
+ 
+ T4    ○Tumor(s) with periductal invasion 
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+ Nx    ○Regional lymph nodes cannot be assessed 
+ 
+ N0    ●No regional lymph nodes □ 
+ 
+Stage IVA 
+ 
+ N1    ○Regional lymph node metastasis □ 
+ 
+-------------------Distant Metastasis(M)--------------------- 
+ 
+ M0   ○No distant metastasis (no pathologic M0; use clinical M to complete stage group) 
+ 
+Stage IVB 
+ 
+ M1   ○Distant metastasis□ 
+ 
+ 
+ 
+Imaging stage   T2a N0( in this study) 

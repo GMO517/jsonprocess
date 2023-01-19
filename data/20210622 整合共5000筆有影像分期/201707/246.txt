@@ -1,0 +1,93 @@
+Findings: 
+ 
+s/p choloecystectomy and S4/8 segmentectomy 
+ 
+A 2.3x4.2cm complex hypodense mass over the LLS-S4 region with mild enhancement and adjacent periptoneal wall thickening 
+ 
+Mild dilated bile ducts with CBD 1.5cm 
+ 
+Patency of the portal vein and with normal spleen 
+ 
+No definite enlargement of retroperitoneal LNs  
+ 
+No definite obstructive uropathy  
+ 
+No abnormal fluid collection in the abdomen. 
+ 
+IMP:  
+ 
+s/p choloecystectomy and S4/8 segmentectomy 
+ 
+A 2.3x4.2cm complex mass over the LLS-S4 with adjacent periptoneal wall thickening r/o cholangioca or inflammatory mass  
+ 
+ 
+ 
+(tentative tumor staging) 
+ 
+●Imaging Report Form for intrahepatic bile ducts tumor (AJCC 7th Edition) 
+ 
+ 
+ 
+1.Tumor Number/Location:  
+ 
+    Location:  LLS-S4  
+ 
+2.Tumor Size:  
+ 
+   ○Measurable: 4.2 cm (the largest tumor) 
+ 
+   ○Non-measurable 
+ 
+3.Pathology: ●Not available ○Available (Pathology type:□) 
+ 
+ 
+ 
+-------------------Primary Tumor(T)-------------------------- 
+ 
+ Tx    ○Primary tumor cannot be assessed 
+ 
+ T0    ○No primary tumor 
+ 
+Stage 0 
+ 
+ Tis   ○Carcinoma in situ 
+ 
+Stage I 
+ 
+ T1    ○Solitary tumor without vascular invasion 
+ 
+Stage II 
+ 
+ T2a   ○Solitary tumor with vascular invasion 
+ 
+ T2b   ○Multiple tumors with or without vascular invasion 
+ 
+Stage III 
+ 
+ T3    ●Tumor perforating the visceral peritoneum or involving the local extrahepatic structures by direct invasion 
+ 
+Stage IVA 
+ 
+ T4    ○Tumor(s) with periductal invasion 
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+ Nx    ○Regional lymph nodes cannot be assessed 
+ 
+ N0    ●No regional lymph nodes □ 
+ 
+Stage IVA 
+ 
+ N1    ○Regional lymph node metastasis □ 
+ 
+-------------------Distant Metastasis(M)--------------------- 
+ 
+ M0   ○No distant metastasis (no pathologic M0; use clinical M to complete stage group) 
+ 
+Stage IVB 
+ 
+ M1   ○Distant metastasis□ 
+ 
+ 
+ 
+Imaging stage   T3 N0( in this study) 

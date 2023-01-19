@@ -1,0 +1,62 @@
+findings:
+calcified plaque(s) on  coronary arterial wall
+no definite evidence of focal mass in  lung
+mild infiltration in rml, lingular, bilateral lower lobe(s) of lung, maybe mild 
+non-specific inflammatory changes
+small perihilar and mediastinal lns
+no definite evidence of pneumothorax or pleural effusion  
+no definite evidence of pericardial effusion or penumopericardium  
+no definite aortic dissection 
+multiple hepatic nodules/masses; favoring metastasis [target: s4a/51mm, s7/40mm]
+small s6 hepatic cysts (<8mm)
+no definite space occupying lesion in the liver, spleen and pancreas. 
+no definite  biliary dilatation
+small retroperitoneal  region(s) lns
+no hydronephrosis,  
+focal collaspe at the visualized  colon; colonic annular lesion(s) can not be 
+excluded by the examination
+no definite pneumoperitoneum is seen.  
+circumferential lumen narrowing with irregular margin over rectosigmoid colon, 
+colon cancer is considered
+increased adjacent pericolic strandings 
+small but prominent lns over ima ln chains and right pericardial regions
+enlarged periceliac lns
+
+imp:[1]favoring rectosigmoid colon cancer with ln, hepatic metastasis
+
+¡´imaging report form for colorectal cancer (ajcc 7th edition)
+1.tumor location:
+¡³cecum ¡³ascending ¡³hepatic flexure ¡³transverse ¡³splenic flexure ¡³
+descending ¡´sigmoid ¡³rectum ¡³other ____________
+2.tumor size: 
+¡³measurable: __________cm (largest diameter)
+¡´non-measurable
+3.pathology: ¡³not available ¡³available (pathology type:¡¼)
+-------------------primary tumor(t)---------------------------
+tx   ¡³primary tumor cannot be assessed
+t0   ¡³no evidence of primary tumor
+<=t2  ¡³tumor invades submucosa or muscularis propria
+t3   ¡³tumor invades through the muscularis propria into pericolorectal tissues
+t4a  ¡³tumor penetrates to the surface of the visceral peritoneum
+t4b  ¡³tumor directly invades or is adherent to other organs or structures
+-------------------regional lymph nodes(n)-----------------
+nx   ¡³regional lymph nodes cannot be assessed
+n0   ¡³no regional lymph node metastasis
+n1   ¡´metastasis in 1 to 3 regional lymph node
+  n1a ¡³metastasis in 1 regional lymph node
+  n1b ¡³metastasis in 2-3 regional lymph nodes
+  n1c ¡³tumor deposit(s) in the subserosa, mesentery, or non-peritonealized 
+pericolic or perirectal tissues without regional nodal metastasis      
+n2    ¡³metastasis in 4 or more regional lymph nodes
+n2a   ¡³metastasis in 4 to 6 regional lymph nodes
+n2b   ¡³metastasis in 7 or more regional lymph nodes
+¡³pericolic/perirectal ¡³ileocolic ¡³right colic ¡³middle colic ¡³left 
+colic ¡³ superior rectal ¡³superior mesenteric artery ¡³inferior 
+mesenteric artery ¡³others ____________
+-------------------distant metastasis(m)-----------------------
+m1    ¡´distant metastasis
+m1a    ¡³metastasis confined to one organ or site(e.g., liver, lung, ovary, non-
+regional node) 
+m1b    ¡³metastases in more than one organ/site or the peritoneum. 
+
+imaging stage   t=<t4a n1 m1b( in this study)

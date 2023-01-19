@@ -1,0 +1,105 @@
+    Report: Computed Tomography of Liver With and Without Enhancement Show: 
+ 
+ 
+ 
+Lobulated contour of liver compatible with liver cirrhosis with splenomegaly 
+ 
+5cm infiltrative tumor over S5-8 liver 
+ 
+Multiple enlarged LNs over peripancreatic (3.2 and 4.4cm) and para-arotic region (2. 
+ 
+2 and 2.8cm) 
+ 
+No definite biliary dilatation  . 
+ 
+No definite obstructive uropathy  . 
+ 
+No abnormal fluid collection in the abdomen  . 
+ 
+Patency of the portal vein 
+ 
+ 
+ 
+IMP:  
+ 
+ 
+ 
+Liver cirrhosis with splenomegaly 
+ 
+5cm infiltrative tumor over S5-8 liver 
+ 
+Multiple enlarged LNs over peripancreatic (3.2 and 4.4cm) and para-arotic region (2. 
+ 
+2 and 2.8cm) 
+ 
+ 
+ 
+ 
+ 
+●TNM for Hepatocellua Carcinoma (AJCC 7th Edition) 
+ 
+1.Tumor Location: S5-8 
+ 
+2.Tumor Size: 5cm 
+ 
+3.Pathology: ●Not available ○Available (Pathology type:□) 
+ 
+ 
+ 
+-------------------Primary Tumor(T)------------------- 
+ 
+ Tx    ○Primary tumor cannot be assessed □ 
+ 
+ T0    ○No primary tumor □ 
+ 
+Stage I 
+ 
+ T1    ●Solitary tumor without vascular invasion □ 
+ 
+Stage II 
+ 
+ T2    ○Solitary tumor with vascular invasion 
+ 
+       ○Multiple tumors none more than 5 cm 
+ 
+ 
+ 
+Stage III 
+ 
+ A T3a ○Multiple tumors more than 5 cm □ 
+ 
+ B T3b ○Single tumor or multiple tumors of any size 
+ 
+       involving a major branch of the portal vein or 
+ 
+       hepatic vein □ 
+ 
+ C T4  ○Tumor(s) with direct invasion of adjacent 
+ 
+       organs other than the gallbladder or with 
+ 
+       perforation of visceral peritoneum. □ 
+ 
+ 
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+ Nx    ○Regional lymph nodes cannot be assessed □ 
+ 
+ N0    ○No regional lymph nodes □ 
+ 
+Stage IVA 
+ 
+ N1    ●Regional lymph node metastasis □ 
+ 
+ 
+ 
+-------------------Distant Metastasis(M)------------------- 
+ 
+Stage IVB 
+ 
+ M1    ○Distant metastasis□ 
+ 
+ 
+ 
+Imaging stage   T1 N1 (in this study) 

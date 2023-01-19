@@ -1,0 +1,65 @@
+imaging  findings:
+  lobulated contour of liver compatible with liver cirrhosis  .
+  about four early enhance nodules in s5(0.95,2,0.55cm) and s6(1.08cm)
+   of liver
+  patent mpv and branches, no evidence of thrombosis
+  no definite space occupying lesion in the pancreas and spleen .
+  big gallstones(1.65cm), mild wall thickening of gb
+  a 1.37cm radiopaque stone in mid portion of cbd but no significant 
+  dilatation of chd; 
+  dilatation of lower cbd=1.12cm may due to distal cbd or ampulla
+   vater lesion
+  a 2.1cm duodenum diverticulum
+  no definite obstructive uropathy  .
+  no definite enlargement of retroperitoneal lns  .
+  no abnormal fluid collection in the abdomen  .
+  no pneumoperitoneum
+  enlargement of prostate gland, s/p turp
+    
+   impression: 
+  1.liver cirrhosis
+  2.about four early enhance nodules in s5(0.95,2,0.55cm) and s6(1.08cm)
+   of liver, suspect hccs
+  3.big gallstones(1.65cm), mild wall thickening of gb
+  4.a 1.37cm radiopaque stone in mid portion of cbd but no significant 
+  dilatation of chd and ihd; 
+  5.dilatation of lower cbd=1.12cm may due to distal cbd or ampulla
+   vater lesion
+  
+  ¡´tnm for hepatocellua carcinoma (ajcc 7th edition)
+  1.tumor location: s5(0.95,2,0.55cm) and s6(1.08cm) of liver
+  2.tumor size: 0.55cm-->2cm
+  3.pathology: ¡³not available ¡´available (pathology type:hepatocellular carcinoma 
+  )
+  
+  -------------------primary tumor(t)-------------------
+   tx    ¡³primary tumor cannot be assessed ¡¼
+   t0    ¡³no primary tumor ¡¼
+  stage i
+   t1    ¡³solitary tumor without vascular invasion ¡¼
+  stage ii
+   t2    ¡³solitary tumor with vascular invasion
+         ¡´multiple tumors none more than 5 cm
+  
+  stage iii
+   a t3a ¡³multiple tumors more than 5 cm ¡¼
+   b t3b ¡³single tumor or multiple tumors of any size
+         involving a major branch of the portal vein or
+         hepatic vein ¡¼
+   c t4  ¡³tumor(s) with direct invasion of adjacent
+         organs other than the gallbladder or with
+         perforation of visceral peritoneum. ¡¼
+  
+  -------------------regional lymph nodes(n)-----------------
+   nx    ¡³regional lymph nodes cannot be assessed ¡¼
+   n0    ¡´no regional lymph nodes ¡¼
+  stage iva
+   n1    ¡³regional lymph node metastasis ¡¼
+  
+  -------------------distant metastasis(m)-------------------
+   m0    ¡´no distant metastasis¡¼
+  stage ivb
+   m1    ¡³distant metastasis¡¼
+  
+  imaging stage   t2 n0 m0, stage ii(in this study)
+                

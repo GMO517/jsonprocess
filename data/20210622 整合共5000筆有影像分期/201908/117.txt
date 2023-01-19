@@ -1,0 +1,76 @@
+mri of liver with gd-enhancement studies :
+      
+techniques: 
+the patient is lying on the mri gantry in supine position
+pul sequence --> pre-enhanced : t1w (in-phase, out-phase), t2w, 
+                                t2fs, heavy t2, dwi/adc, mrcp 
+                 post-enhanced : t1w triphase
+  
+imaging  findings:
+lobulated contour of liver compatible with liver cirrhosis.
+a mass lesion in s2-3 liver near lpv and lhv, measure about 2.2x2.2cm,
+ slight low si on t1w, moderate high si on t2w, high si on dw1; and 
+ shows early enhanced and early wash out pattern in post-enhanced study,
+ favor hepatocellular carcinoma.
+patent mpv and branches, no evidence of thrombosis
+a 0.6cm cyst in inferior aspect of spleen
+a well define nodule (0.86cm) with early rim enhancement in pancreatic tail,
+ low si on t1w, high si on t2w nature?
+no definite biliary dilatation. gallstone(1.1cm)
+no definite obstructive uropathy.
+no definite enlargement of retroperitoneal lns  .
+no abnormal fluid collection in the abdomen  .
+  
+impression:
+1.liver cirrhosis ; patent pv; no ascites
+2.one hyervascular liver nodule in s2-3(2.2cm), favor hcc
+3.a well define nodule (0.86cm) with early rim enhancement in pancreatic tail,
+ suspicious for endocrine pancreatic tumor
+4.gallstone
+
+¡´imaging report form for hepatocellua carcinoma (ajcc 7th edition)
+1.tumor number/location: 
+    number: ¡´1 ¡³2 ¡³3 ¡³multiple:
+    location:  s2-3 liver 
+2.tumor size: 
+    ¡´measurable: 2.2 cm (the largest tumor)
+    ¡³non-measurable
+3.tumor characteristics and associated liver features
+    ¡³vascular invasion 
+    ¡³extrahepatic spread 
+    ¡³ascites 
+    ¡³portal vein thrombosis, location 
+    ¡³portosystemic collateral vessel
+    ¡´typical enhancement pattern (hypervascular enhancement and early wash-out)
+3.pathology: ¡´not available ¡³available (pathology type:¡¼)
+
+-------------------primary tumor(t)--------------------------
+ tx    ¡³primary tumor cannot be assessed 
+ t0    ¡³no primary tumor 
+stage i
+ t1    ¡´solitary tumor without vascular invasion 
+stage ii
+ t2    ¡³solitary tumor with vascular invasion
+       ¡³multiple tumors none more than 5 cm
+stage iii
+ a t3a ¡³multiple tumors more than 5 cm 
+ b t3b ¡³single tumor or multiple tumors of any size
+       involving a major branch of the portal vein or
+       hepatic vein 
+ c t4  ¡³tumor(s) with direct invasion of ivc, biliary trees, adjacent
+       organs other than the gallbladder or with
+       perforation of visceral peritoneum. 
+-------------------regional lymph nodes(n)-----------------
+ nx    ¡³regional lymph nodes cannot be assessed 
+ n0    ¡´no regional lymph nodes
+stage iva
+ n1    ¡³regional lymph node metastasis 
+        ¡³periceliac, ¡³hilar( common bile duct, hepatic artery, portal vein 
+and cystic duct) ¡³peripancreatic ¡³paraaortic ¡³portocaval ¡³retrocaval ¡³other
+s_______ 
+-------------------distant metastasis(m)----------------------
+stage ivb
+ m1    ¡³distant metastasis
+¡³	invasion of gallbladder
+¡³	cardiophrenic, mesenteric, retrocrural ln
+imaging stage   t1 n0( in this study)

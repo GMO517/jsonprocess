@@ -1,0 +1,105 @@
+Findings: 
+ 
+Right pleural effusion 
+ 
+No definite pulmonary nodule in visual field. 
+ 
+Lobulated liver contour suggesting cirrhotic change. 
+ 
+s/p RFA with hypodense necrotic change in S8 
+ 
+No definite early enhancing or washout nodule in both lobes liver 
+ 
+A 1 cm hypodense nodule in LLS liver, maybe due to cyst 
+ 
+Marked splenomegaly 
+ 
+A early enhanced scaccular vascular lesion about 3.4cm from splenic artery, favor aneurysm 
+ 
+No definite biliary dilatation but gallbladder stones 
+ 
+Partial thrombosis in main portal vein and LPV 
+ 
+Prominent splenorenal shunt with aneurysmal dilatation 
+ 
+No hydronephrosis. 
+ 
+A 0.7 cm fatty nodule in left kidney, angiomyolipoma? 
+ 
+A 2.5cm enhanced nodule over upper pole of right kidney may be RCC 
+ 
+No definite enlargement of retroperitoneal LNs   
+ 
+No abnormal fluid collection in the abdomen   
+ 
+IMP: 
+ 
+Liver cirrhosis with splenomegaly 
+ 
+s/p RFA with hypodense necrotic change in S8 
+ 
+No other enhanced liver nodule 
+ 
+Partial thrombosis in main portal vein and LPV, no interval change 
+ 
+Large splenic arterial aneurysm about 3.4cm  
+ 
+Large splenorenal shunt 
+ 
+Right renal enhanced nodule (2.5cm) may be RCC 
+ 
+ 
+ 
+(tentative renal tumor staging) 
+ 
+●TNM for Renal Tumor (AJCC 7th Edition) 
+ 
+1.Tumor Location: right upper pole 
+ 
+2.Tumor Size: 2.5cm 
+ 
+3.Pathology: ●Not available ○Available (Pathology type:□) 
+ 
+ 
+ 
+T0     ○No primary tumor □ 
+ 
+T1     ○Tumor〈=7cm (limited to kidney) □ 
+ 
+  T1a ●Tumor〈=4cm □ 
+ 
+  T1b ○4cm〈Tumor〈=7cm □ 
+ 
+T2     ○Tumor〉7cm(limited to kidney) □ 
+ 
+  T2a ○7cm〈Tumor〈=10cm □ 
+ 
+  T2b ○Tumor〉10cm □ 
+ 
+T3     ○Extends into major veins or perirenal tissue □ 
+ 
+  T3a ○Extends into renal vein or segmental branches □ 
+ 
+          ○Invades perirenal and/or renal sinus fat □ 
+ 
+  T3b ○Extends into vena cava below diaphragm □ 
+ 
+  T3c ○Extends into vena cava above diaphragm □ 
+ 
+          ○Invades the wall of the vena cava □ 
+ 
+T4    ○Invades beyond Gerota's fascia 
+ 
+         ○Extension into the ipsilateral adrenal gland□ 
+ 
+N0    ●No regional lymph nodes □ 
+ 
+N1    ○Regional lymph nodes metastasis □ 
+ 
+ 
+ 
+M1    ○Distant metastasis □ 
+ 
+ 
+ 
+Imaging stage   T1a N0 (in this study) 

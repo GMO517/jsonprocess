@@ -1,0 +1,49 @@
+Findings: 
+ 
+No definite pulmonary nodule in visual field. 
+An enhanced nodule(2.05cm) in gastric antrum, compatible with gastric tumor 
+Two enhanced nodules(2.34 and 0.94cm) in S6 liver, suspected with hemangiomas 
+A S6 hepatic cyst(1.53cm) 
+No definite space occupying lesion in the spleen and pancreas. 
+No definite biliary dilatation  . 
+Unremarkable study of gallbladder  
+Patency of portal vein   
+Normal function and contour of bil. kidneys and no definite obstructive uropathy. 
+No definite enlargement of retroperitoneal LNs  . 
+No abnormal fluid collection in the abdomen  . 
+ 
+IMP: 
+* An enhanced nodule(2.05cm) in gastric antrum, compatible with gastric tumor 
+* Two enhanced nodules(2.34 and 0.94cm) in S6 liver, suspected with hemangiomas 
+* A S6 hepatic cyst(1.53cm) 
+ 
+●Imaging Report Form for Gastric Cancer (AJCC 8th Edition) 
+1.Tumor Location:  
+    ○Cardia ○Fundus ○Body: Lesser/Greater curvature ○Antrum ○Pylorus ○ Other__________ 
+2.Tumor Size:  
+    ○Non-measurable 
+    ○Measurable: __________cm (greatest diameter) 
+3.Pathology: ○Not available ○Available (Pathology type:□) 
+-------------------Primary Tumor(T)--------------------------- 
+TX      ○Primary tumor cannot be assessed 
+T0      ○No primary tumor □ 
+〈=T3    ●Lamina propia, Submucosa, Muscularis propia, Subserosa( confined to gastric wall) 
+T4 
+   T4a  ○Perforates serosa 
+   T4b  ○Adjacent structures invasion 
+-------------------Regional Lymph Nodes(N)----------------- 
+N0      ●No regional lymph nodes 
+N1      ○1-2 regional LNs 
+N2      ○3-6  regional LNs 
+N3a     ○7-15 regional LNs 
+N3b     ○16 or more regional LNs 
+○Right paracardial ○Left paracardial ○Lesser curvature ○Greater curvature 
+○Suprapyloric ○Infrapyloric ○Left gastric artery ○Common hepatic artery 
+○Celiac artery ○Splenic hilum ○Splenic artery ○Hepatic pedicle ○Middle colic artery ○ Others_______ 
+-------------------Distant Metastasis(M)----------------------- 
+M1  ○Distant metastasis  
+ ○Non-regional lymph nodes: ○Retropancreatic ○Mesenteric root ○Para-aortic  
+ ○Distant organs : location _______________ 
+ 
+Imaging stage   T〈=T3  N0( in this study) 
+ 

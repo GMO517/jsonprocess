@@ -1,0 +1,97 @@
+   Report: Computed Tomography of Liver With and Without Enhancement Show: 
+ 
+ 
+ 
+ 2.5cm tumor over LLS liver surface and with early enhanced and washed out 
+ 
+S/P cholecystectomy and with mild dilated bile duct, the CHD is 1.17cm 
+ 
+No definite enlargement of retroperitoneal LNs  . 
+ 
+Patency of the portal vein and with normal spleen 
+ 
+No definite obstructive uropathy  . 
+ 
+No abnormal fluid collection in the abdomen  . 
+ 
+ 
+ 
+IMP: 
+ 
+ 
+ 
+ 2.5cm HCC over LLS liver surface   
+ 
+S/P cholecystectomy and with mild dilated bile duct, the CHD is 1.17cm 
+ 
+ 
+ 
+ 
+ 
+●TNM for Hepatocellua Carcinoma (AJCC 7th Edition) 
+ 
+1.Tumor Location: LLS 
+ 
+2.Tumor Size: 2.5cm 
+ 
+3.Pathology:●Not available ○Available (Pathology type:□) 
+ 
+ 
+ 
+-------------------Primary Tumor(T)------------------- 
+ 
+ Tx    ○Primary tumor cannot be assessed □ 
+ 
+ T0    ○No primary tumor □ 
+ 
+Stage I 
+ 
+ T1    ●Solitary tumor without vascular invasion □ 
+ 
+Stage II 
+ 
+ T2    ○Solitary tumor with vascular invasion 
+ 
+       ○Multiple tumors none more than 5 cm 
+ 
+ 
+ 
+Stage III 
+ 
+ A T3a ○Multiple tumors more than 5 cm □ 
+ 
+ B T3b ○Single tumor or multiple tumors of any size 
+ 
+       involving a major branch of the portal vein or 
+ 
+       hepatic vein □ 
+ 
+ C T4  ○Tumor(s) with direct invasion of adjacent 
+ 
+       organs other than the gallbladder or with 
+ 
+       perforation of visceral peritoneum. □ 
+ 
+ 
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+ Nx    ○Regional lymph nodes cannot be assessed □ 
+ 
+ N0    ●No regional lymph nodes □ 
+ 
+Stage IVA 
+ 
+ N1    ○Regional lymph node metastasis □ 
+ 
+ 
+ 
+-------------------Distant Metastasis(M)------------------- 
+ 
+Stage IVB 
+ 
+ M1    ○Distant metastasis□ 
+ 
+ 
+ 
+Imaging stage   T1 N0 (in this study) 

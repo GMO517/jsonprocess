@@ -1,0 +1,117 @@
+
+ 
+Findings: 
+ 
+ 
+ 
+No definite pulmonary nodule in visual field. 
+ 
+Lobulated contour of liver compatible with liver cirrhosis  . 
+ 
+Splenomegaly   
+ 
+An early enhancing and early wash-out tumor(2.9cm) noted in S6/7 liver. 
+ 
+A focal patch enhancing lesion noted in S5/6 liver, favoring focal A-P shunting. 
+ 
+No definite biliary dilatation  . 
+ 
+Unremarkable study of gallbladder  
+ 
+Patency of portal vein   
+ 
+Bil. tiny renal cysts. 
+ 
+Normal function and contour of bil. kidneys and no definite obstructive uropathy. 
+ 
+No definite enlargement of retroperitoneal LNs  . 
+ 
+No abnormal fluid collection in the abdomen  . 
+ 
+Prostate calcification. 
+ 
+Subchondral cysts in left femoral head maybe due to OA change or AVN. 
+ 
+ 
+ 
+IMP: 
+ 
+* Liver cirrhosis with splenomegaly. 
+ 
+* S6/7 HCC(2.9cm) 
+ 
+* Favoring focal A-P shunting over S5/6 liver. 
+ 
+ 
+ 
+●TNM for Hepatocellua Carcinoma (AJCC 7th Edition) 
+ 
+1.Tumor Location: S6/7 
+ 
+2.Tumor Size: 2.9cm 
+ 
+3.Pathology: ○Not available ●Available (Pathology type:□) 
+ 
+ 
+ 
+-------------------Primary Tumor(T)------------------- 
+ 
+ Tx    ○Primary tumor cannot be assessed □ 
+ 
+ T0    ○No primary tumor □ 
+ 
+Stage I 
+ 
+ T1    ●Solitary tumor without vascular invasion □ 
+ 
+Stage II 
+ 
+ T2    ○Solitary tumor with vascular invasion 
+ 
+       ○Multiple tumors none more than 5 cm 
+ 
+ 
+ 
+Stage III 
+ 
+ A T3a ○Multiple tumors more than 5 cm □ 
+ 
+ B T3b ○Single tumor or multiple tumors of any size 
+ 
+       involving a major branch of the portal vein or 
+ 
+       hepatic vein □ 
+ 
+ C T4  ○Tumor(s) with direct invasion of adjacent 
+ 
+       organs other than the gallbladder or with 
+ 
+       perforation of visceral peritoneum. □ 
+ 
+ 
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+ Nx    ○Regional lymph nodes cannot be assessed □ 
+ 
+ N0    ●No regional lymph nodes □ 
+ 
+Stage IVA 
+ 
+ N1    ○Regional lymph node metastasis □ 
+ 
+ 
+ 
+-------------------Distant Metastasis(M)------------------- 
+ 
+ M0    ●No distant metastasis□ 
+ 
+Stage IVB 
+ 
+ M1    ○Distant metastasis□ 
+ 
+ 
+ 
+Imaging stage   T1 N0 M0 
+ 
+                Stage1 

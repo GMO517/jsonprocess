@@ -1,0 +1,119 @@
+Findings:  
+ 
+ 
+ 
+No definite pulmonary nodule noted in visualized field.  
+ 
+An extensive huge mass (12.8 cm) with poor enhancement in caudate lobe and right lobe liver 
+ 
+Obliteration of right portal vein, favoring RPV invasion 
+ 
+Patency of MPV and LPV.  
+ 
+A huge enhancing soft tissue mass over left adnexal region (11x10.4 cm), protruding uterine tumor or left ovarian tumor? 
+ 
+No definite biliary dilatation.  
+ 
+Collapsed gallbladder. 
+ 
+A 2.1 cm hypodense nodule in uterus with central enhancement, maybe due to myoma. 
+ 
+Several bilobar tiny hepatic cysts . 
+ 
+No definite focal mass in pancreas and spleen.  
+ 
+No definite adrenal nodule.  
+ 
+No definite hydronephrosis  
+ 
+No definite retroperitoneal lymphadenopathy.  
+ 
+No fluid collection in abdomen.  
+ 
+No definite bony destruction.  
+ 
+Kindly note that subtle mucosal lesion could not be well evaluated on routine CT.  
+ 
+ 
+ 
+IMP:  
+ 
+* An extensive poorly enhanced tumor (12.8 cm) in caudate lobe and right lobe liver with invasion of RPV, atypical enhancement pattern HCCs or cholangioCA ?  
+ 
+* A huge enhancing soft tissue mass over left adnexal region (11x10.4 cm), protruding uterine tumor or left ovarian tumor?  
+ 
+* A 2.1 cm hypodense nodule in uterus with central enhancement, maybe due to myoma. 
+ 
+ 
+ 
+ 
+ 
+●Imaging Report Form for intrahepatic bile ducts tumor (AJCC 8th Edition) 
+ 
+1.Tumor Number/Location:  
+ 
+    Location: right lobe  
+ 
+2.Tumor Size:  
+ 
+   ●Measurable: 12.8 cm (the largest tumor) 
+ 
+   □Non-measurable 
+ 
+3.Pathology: ○Not available ●Available (Pathology type Adenocarcinoma) 
+ 
+ 
+ 
+-------------------Primary Tumor(T)-------------------------- 
+ 
+ Tx   ○Primary tumor cannot be assessed 
+ 
+ T0   ○No primary tumor 
+ 
+Stage 0 
+ 
+ Tis   ○Carcinoma in situ 
+ 
+Stage I 
+ 
+ T1   ○Solitary tumor without vascular invasion 
+ 
+T1a   ○ Solitary tumor ?5 cm without vascular invasion 
+ 
+T1b   ○ Solitary tumor 〉5 cm without vascular invasion 
+ 
+Stage II 
+ 
+ T2   ● Solitary tumor with intrahepatic vascular invasion or multiple 
+ 
+tumors, with or without vascular invasion 
+ 
+Stage III 
+ 
+ T3   ○Tumor perforating the visceral peritoneum  
+ 
+Stage IVA 
+ 
+ T4   ○Tumor involving local extrahepatic structures by direct invasion  
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+ Nx   ○Regional lymph nodes cannot be assessed 
+ 
+ N0   ●No regional lymph nodes □ 
+ 
+Stage IVA 
+ 
+ N1   ○Regional lymph node metastasis □ 
+ 
+-------------------Distant Metastasis(M)--------------------- 
+ 
+ M0  ○No distant metastasis (no pathologic M0; use clinical M to complete stage group) 
+ 
+Stage IVB 
+ 
+ M1  ○Distant metastasis□ 
+ 
+ 
+ 
+Imaging stage   T2 N0 ( in this study) 

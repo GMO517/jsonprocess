@@ -1,0 +1,191 @@
+Findings: 
+ 
+Lobulated contour of liver and fatty change compatible with liver cirrhosis 
+ 
+Three hypodense liver nodules over S (1.5cm), S6 (2.0cm) and S7-8 (2.3cm) with early enhancement and early washout, compatible with HCCs 
+ 
+Patency of the portal veins 
+ 
+No biliary tree dilatation, normal GB 
+ 
+Mild splenomegaly  
+ 
+No ascites 
+ 
+No definite enlargement of retroperitoneal LNs 
+ 
+Unremarkable change of the pancreas 
+ 
+IMP:   
+ 
+Liver cirrhosis with splenomegaly 
+ 
+Three enhanced liver nodules over S3, S6 and S7-8 compatible with HCCs 
+ 
+ 
+ 
+●TNM for Hepatocellua Carcinoma (AJCC 7th Edition) 
+ 
+1.Tumor Location: S3, S6 and S7/8 
+ 
+2.Tumor Size: 1.5, 2.0 and 2.3cm 
+ 
+3.Pathology: ●Not available ○Available (Pathology type:□) 
+ 
+ 
+ 
+-------------------Primary Tumor(T)------------------- 
+ 
+ Tx    ○Primary tumor cannot be assessed □ 
+ 
+ T0    ○No primary tumor □ 
+ 
+Stage I 
+ 
+ T1    ○Solitary tumor without vascular invasion □ 
+ 
+Stage II 
+ 
+ T2    ○Solitary tumor with vascular invasion 
+ 
+       ●Multiple tumors none more than 5 cm 
+ 
+ 
+ 
+Stage III 
+ 
+ A T3a ○Multiple tumors more than 5 cm □ 
+ 
+ B T3b ○Single tumor or multiple tumors of any size 
+ 
+       involving a major branch of the portal vein or 
+ 
+       hepatic vein □ 
+ 
+ C T4  ○Tumor(s) with direct invasion of adjacent 
+ 
+       organs other than the gallbladder or with 
+ 
+       perforation of visceral peritoneum. □ 
+ 
+ 
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+ Nx    ○Regional lymph nodes cannot be assessed □ 
+ 
+ N0    ●No regional lymph nodes □ 
+ 
+Stage IVA 
+ 
+ N1    ○Regional lymph node metastasis □ 
+ 
+ 
+ 
+-------------------Distant Metastasis(M)------------------- 
+ 
+ M0    ●No distant metastasis□ 
+ 
+Stage IVB 
+ 
+ M1    ○Distant metastasis□ 
+ 
+ 
+ 
+Imaging stage   T2 N0 M0    Stage II 
+ Findings: 
+ 
+Lobulated contour of liver and fatty change compatible with liver cirrhosis 
+ 
+Three hypodense liver nodules over S (1.5cm), S6 (2.0cm) and S7-8 (2.3cm) with early enhancement and early washout, compatible with HCCs 
+ 
+Patency of the portal veins 
+ 
+No biliary tree dilatation, normal GB 
+ 
+Mild splenomegaly  
+ 
+No ascites 
+ 
+No definite enlargement of retroperitoneal LNs 
+ 
+Unremarkable change of the pancreas 
+ 
+IMP:   
+ 
+Liver cirrhosis with splenomegaly 
+ 
+Three enhanced liver nodules over S3, S6 and S7-8 compatible with HCCs 
+ 
+ 
+ 
+●TNM for Hepatocellua Carcinoma (AJCC 7th Edition) 
+ 
+1.Tumor Location: S3, S6 and S7/8 
+ 
+2.Tumor Size: 1.5, 2.0 and 2.3cm 
+ 
+3.Pathology: ●Not available ○Available (Pathology type:□) 
+ 
+ 
+ 
+-------------------Primary Tumor(T)------------------- 
+ 
+ Tx    ○Primary tumor cannot be assessed □ 
+ 
+ T0    ○No primary tumor □ 
+ 
+Stage I 
+ 
+ T1    ○Solitary tumor without vascular invasion □ 
+ 
+Stage II 
+ 
+ T2    ○Solitary tumor with vascular invasion 
+ 
+       ●Multiple tumors none more than 5 cm 
+ 
+ 
+ 
+Stage III 
+ 
+ A T3a ○Multiple tumors more than 5 cm □ 
+ 
+ B T3b ○Single tumor or multiple tumors of any size 
+ 
+       involving a major branch of the portal vein or 
+ 
+       hepatic vein □ 
+ 
+ C T4  ○Tumor(s) with direct invasion of adjacent 
+ 
+       organs other than the gallbladder or with 
+ 
+       perforation of visceral peritoneum. □ 
+ 
+ 
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+ Nx    ○Regional lymph nodes cannot be assessed □ 
+ 
+ N0    ●No regional lymph nodes □ 
+ 
+Stage IVA 
+ 
+ N1    ○Regional lymph node metastasis □ 
+ 
+ 
+ 
+-------------------Distant Metastasis(M)------------------- 
+ 
+ M0    ●No distant metastasis□ 
+ 
+Stage IVB 
+ 
+ M1    ○Distant metastasis□ 
+ 
+ 
+ 
+Imaging stage   T2 N0 M0    Stage II 
+ 

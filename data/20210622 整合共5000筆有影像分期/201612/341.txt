@@ -1,0 +1,97 @@
+ Report: CT of liver without & with contrast enhancement triphasic scans shows:  
+ 
+ 
+ 
+1.88cm tumor over CHD region and with isolated dilatation of bilateral IHDs 
+ 
+Contrast medium in gall bladder due to previous ERCP 
+ 
+No definite space occupying lesion in the liver  . 
+ 
+No definite enlargement of retroperitoneal LNs  . 
+ 
+No definite obstructive uropathy  . 
+ 
+No abnormal fluid collection in the abdomen  . 
+ 
+Patency of the portal vein 
+ 
+ 
+ 
+IMP:  
+ 
+1.88cm tumor over CHD region and with isolated dilatation of bilateral IHDs 
+ 
+Cholangiocarcinoma 
+ 
+ 
+ 
+ 
+ 
+●Imaging Report Form for distal bile duct tumor (AJCC 7th Edition) 
+ 
+ 
+ 
+1.Tumor Number/Location:  
+ 
+   Location:  CHD 
+ 
+2.Tumor Size:  
+ 
+   ○Measurable:  1.88cm (the largest tumor) 
+ 
+   ○Non-measurable 
+ 
+3.Pathology: ●Not available ○Available (Pathology type:□) 
+ 
+ 
+ 
+-------------------Primary Tumor(T)-------------------------- 
+ 
+ Tx    ○Primary tumor cannot be assessed  
+ 
+ T0    ○No evidence of primary tumor  
+ 
+Stage 0 
+ 
+ Tis   ○Carcinoma in situ 
+ 
+Stage IA 
+ 
+ T1    ●Tumor confined to the bile duct histologically 
+ 
+Stage IB 
+ 
+ T2    ○Tumor invades beyond the wall of the bile duct 
+ 
+Stage IIA 
+ 
+ T3  ○Tumor invades the gallbladder, pancreas, duodenum or other adjacent organs without involvement of the celiac axis, or the superior mesenteric artery 
+ 
+Stage III (T4 AnyN) 
+ 
+ T4  ○Tumor involves the celiac axis, or the superior mesenteric artery 
+ 
+  
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+ Nx    ○Regional lymph nodes cannot be assessed  
+ 
+ N0    ●No regional lymph node metastasis 
+ 
+Stage IIB (T1-T3 N1 M0) 
+ 
+ N1    Regional lymph node metastasis  
+ 
+-------------------Distant Metastasis(M)---------------------- 
+ 
+ M0    ○No distant metastasis (no pathologic M0; use clinical M to complete stage group) 
+ 
+Stage IV 
+ 
+ M1    ○Distant metastasis 
+ 
+ 
+ 
+Imaging stage   T1 N0( in this study) 

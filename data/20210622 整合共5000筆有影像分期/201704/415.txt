@@ -1,0 +1,99 @@
+Findings: 
+ 
+Mucoal lesion of GI tract cannot be well evaluated in routine abdominal CT study.  
+ 
+Mild pulmonary infiltration in the RLL. 
+ 
+Right pleural mild effusion 
+ 
+Lobulated contour of liver compatible with liver cirrhosis.  
+ 
+Splenomegaly   
+ 
+Engorged esophageal and gastric varices.  
+ 
+No definite space occupying lesion in the liver, spleen and pancreas.  
+ 
+A 2.3 cm splenuc artery aneurysm. 
+ 
+Partial thrombosis( about 0.9 cm in thickness) extending in right proximal portal vein through main portal trunk to splenomesenteric junction. 
+ 
+Left splenorenal shunt. 
+ 
+A 2.6 cm accessory spleen in inferior perisplenic region. 
+ 
+A 0.17 cm gallstone. 
+ 
+No definite biliary dilatation.  
+ 
+Normal function and contour of bil. kidneys.  
+ 
+A 0.8 cm left renal agngiomyolipoma. 
+ 
+A 1.7 cm well enhancement nodule in upper pole of right kidney. 
+ 
+Patency of bil. ureters.  
+ 
+No definite enlargement of retroperitoneal LNs.  
+ 
+No abnormal fluid collection in the abdomen.  
+ 
+Enlarged uterine corpus with well enhancement nodules( upto 3.2 cm). 
+ 
+ 
+ 
+●TNM for Renal Tumor (AJCC 7th Edition) 
+ 
+1.Tumor Location: right kidney 
+ 
+2.Tumor Size: 1.7cm 
+ 
+3.Pathology: ●Not available ○Available (Pathology type:□) 
+ 
+ 
+ 
+T0    ○No primary tumor □ 
+ 
+T1    ○Tumor〈=7cm (limited to kidney) □ 
+ 
+  T1a ●Tumor〈=4cm □ 
+ 
+  T1b ○4cm〈Tumor〈=7cm □ 
+ 
+T2    ○Tumor〉7cm(limited to kidney) □ 
+ 
+  T2a ○7cm〈Tumor〈=10cm □ 
+ 
+  T2b ○Tumor〉10cm □ 
+ 
+T3    ○Extends into major veins or perirenal tissue □ 
+ 
+  T3a ○Extends into renal vein or segmental branches □ 
+ 
+      ○Invades perirenal and/or renal sinus fat □ 
+ 
+  T3b ○Extends into vena cava below diaphragm □ 
+ 
+  T3c ○Extends into vena cava above diaphragm □ 
+ 
+      ○Invades the wall of the vena cava □ 
+ 
+T4    ○Invades beyond Gerota's fascia 
+ 
+      ○Extension into the ipsilateral adrenal gland 
+ 
+      □ 
+ 
+N0    ●No regional lymph nodes □ 
+ 
+N1    ○Regional lymph nodes metastasis □ 
+ 
+ 
+ 
+M0    ●No distant metastasis □ 
+ 
+M1    ○Distant metastasis □ 
+ 
+ 
+ 
+Imaging stage   T1 N0 M0( in this study) 

@@ -1,0 +1,58 @@
+Findings: 
+ 
+No definite pulmonary nodule in visual field. 
+Hiatal herniation of stomach . 
+Lobulated contour of liver compatible with liver cirrhosis 
+No definite space occupying lesion in the liver, spleen and pancreas. 
+Multiple infiltrative poor enhancing tumors (8.1cm) in S6,S7,S8 liver with IHDs  dilatation, encasing/invasion RHA and right portal vein 
+Aberrent right hepatic artery from SMA  
+Small periportal, gastrohepatic and paraaortic LNs (short axis 〈1cm) 
+Unremarkable study of gallbladder  
+Patency of main portal vein    
+No definite hydronephrosis. 
+No abnormal fluid collection or free air in the abdomen  . 
+No definite bone destruction. 
+Kindly note that subtle mucosal lesion could not be well evaluated on routine CT. 
+ 
+IMP: 
+ 
+1.Right liver (S6,S7,S8) poor enhancing tumor with IHDs dilatation, favor cholangiocarcinoma. 
+ 
+2.Liver cirrhosis . 
+ 
+3.Hiatal hernia. 
+ 
+●Imaging Report Form for intrahepatic bile ducts tumor (AJCC 8th Edition) 
+1.Tumor Number/Location:  
+    Location:  S6,S7,S8  
+2.Tumor Size:  
+   □Measurable: 8 cm (the largest tumor) 
+   □Non-measurable 
+3.Pathology: ●Not available ○Available (Pathology type:□) 
+ 
+-------------------Primary Tumor(T)-------------------------- 
+ Tx   ○Primary tumor cannot be assessed 
+ T0   ○No primary tumor 
+Stage 0 
+ Tis   ○Carcinoma in situ 
+Stage I 
+ T1   ○Solitary tumor without vascular invasion 
+T1a   ○ Solitary tumor ?5 cm without vascular invasion 
+T1b   ○ Solitary tumor 〉5 cm without vascular invasion 
+Stage II 
+ T2   ● Solitary tumor with intrahepatic vascular invasion or multiple 
+tumors, with or without vascular invasion 
+Stage III 
+ T3   ○Tumor perforating the visceral peritoneum  
+Stage IVA 
+ T4   ○Tumor involving local extrahepatic structures by direct invasion  
+-------------------Regional Lymph Nodes(N)----------------- 
+ Nx   ○Regional lymph nodes cannot be assessed 
+ N0   ○No regional lymph nodes □ 
+Stage IVA 
+ N1   ●Regional lymph node metastasis □ 
+-------------------Distant Metastasis(M)--------------------- 
+ M0  ○No distant metastasis (no pathologic M0; use clinical M to complete stage group) 
+Stage IVB 
+ M1  ○Distant metastasis□ 
+Imaging stage   T2 N1 Mx( in this study) 

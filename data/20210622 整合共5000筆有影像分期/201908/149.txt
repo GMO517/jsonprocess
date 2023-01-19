@@ -1,0 +1,63 @@
+indications: pancreatic tumor for staging
+
+abdominal and pelvic ct without and with iv enhancement
+techniques:
+from lower chest to lower pelvis in 5-mm contiguous section for non-contrast ct
+from lower chest to lower pelvis in 5-mm contiguous section for contrast ct
+coronal reconstruction is also done
+
+findings: 
+focal atelectatic changes in lingular lung
+more than 10 nodules (5-25mm) in both lobes of the liver
+dilated biliary tree
+patency of portal vein  
+one ill-defined pancreatic head tumor (42mm) focal invasion of sma and enlarged 
+peripancreatic ln
+dilated p-duct
+no apparent adrenal mass 
+no hydronephrosis 
+no enlarged lymph node in the pelvis 1317af
+no focal bowel dilatation (but subtle hollow organ tumor or small mucosal lesion
+ may not be well detected on conventional abdominal ct) 
+ 
+
+ impression: 
+1. highly suspect pancreatic head cancer with invasion of sma, peripancreatic ln
+ and liver metastasis
+2. dilated biliary tree and p-duct
+
+pathology not available. 
+tentative ct staging: 
+¡´imaging report form for pancreatic carcinoma (ajcc 8th edition)
+1. tumor location
+   ¡´pancreatic head and neck
+   ¡³pancreatic body 
+   ¡³pancreatic tail
+   ¡³others___________________
+2. tumor size¡G
+   ¡´measurable:4.2cm (in greatest diameter)
+   ¡³non-measurable
+3. pathology: ¡´not available ¡³available (pathology type:¡¼)
+
+-------------------primary tumor(t)--------------------------
+tx    ¡³primary tumor cannot be assessed
+t0    ¡³no evidence of primary tumor
+tis    ¡³carcinoma in situ
+t1    tumor limited to the pancreas, <= 2 cm in greatest dimension
+¡³ t1a	tumour 0.5 cm or less 
+¡³ t1b	tumour greater than 0.5 cm and less than 1 cm 
+¡³ t1c	tumor greater than 1 cm but no more than 2 cm 
+t2    ¡³tumour more than 2 cm but no more than 4 cm
+t3    ¡³tumour more than 4 cm in greatest 	dimension
+t4    ¡´tumor involves the celiac axis or the superior mesenteric artery and/or 
+common hepatic 	artery (unresectable primary tumor) ¡³inferior vena cava
+ ¡³aorta ¡³rib ¡³vertebral body ¡³other: ________
+
+-------------------regional lymph nodes(n)-----------------
+nx    ¡³regional lymph nodes cannot be assessed
+n0    ¡³no regional lymph node metastasis
+n1    ¡´metastases in 1 to 3 nodes
+n2    ¡³metastases in 4 or more nodes
+-------------------distant metastasis(m)----------------------
+m1    ¡´distant metastasis
+imaging stage:   t4n1m1 (in this study)

@@ -1,0 +1,111 @@
+Findings: 
+ 
+Relative low density of liver with good visualization of venous system compatible with fatty liver.  
+ 
+A 2.54 cm lesion in S4 liver with isodense enhancement and early wash out, suspect HCC. 
+ 
+A 1.51 cm hypodense lesion in S8 liver with poor enhancement. 
+ 
+No definite space occupying lesion in the adrenal glands, spleen and pancreas.  
+ 
+No definite biliary dilatation.  
+ 
+Patency of portal vein.  
+ 
+Normal function and contour of bil. kidneys.  
+ 
+A 0.42 cm right renal stone. 
+ 
+Patency of bil. ureters.  
+ 
+No definite enlargement of retroperitoneal LNs.  
+ 
+No abnormal fluid collection in the abdomen.  
+ 
+Enlarged uterine cervix. 
+ 
+ 
+ 
+¡´TNM for Hepatocellua Carcinoma (AJCC 7th Edition) 
+ 
+1.Tumor Location: S4 
+ 
+2.Tumor Size: 2.54 cm 
+ 
+3.Pathology: ¡´Not available ¡³Available (Pathology type:¡¼) 
+ 
+ 
+ 
+-------------------Primary Tumor(T)------------------- 
+ 
+ Tx    ¡³Primary tumor cannot be assessed ¡¼ 
+ 
+ T0    ¡³No primary tumor ¡¼ 
+ 
+Stage I 
+ 
+ T1    ¡´Solitary tumor without vascular invasion ¡¼ 
+ 
+Stage II 
+ 
+ T2    ¡³Solitary tumor with vascular invasion 
+ 
+       ¡³Multiple tumors none more than 5 cm 
+ 
+ 
+ 
+Stage III 
+ 
+ A T3a ¡³Multiple tumors more than 5 cm ¡¼ 
+ 
+ B T3b ¡³Single tumor or multiple tumors of any size 
+ 
+       involving a major branch of the portal vein or 
+ 
+       hepatic vein ¡¼ 
+ 
+ C T4  ¡³Tumor(s) with direct invasion of adjacent 
+ 
+       organs other than the gallbladder or with 
+ 
+       perforation of visceral peritoneum. ¡¼ 
+ 
+ 
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+ Nx    ¡³Regional lymph nodes cannot be assessed ¡¼ 
+ 
+ N0    ¡´No regional lymph nodes ¡¼ 
+ 
+Stage IVA 
+ 
+ N1    ¡³Regional lymph node metastasis ¡¼ 
+ 
+ 
+ 
+-------------------Distant Metastasis(M)------------------- 
+ 
+ M0    ¡³No distant metastasis¡¼ 
+ 
+Stage IVB 
+ 
+ M1    ¡³Distant metastasis¡¼ 
+ 
+ 
+ 
+Imaging stage   T1 N0 Mx 
+ 
+ 
+ 
+IMP:  
+ 
+(1) Fatty liver change. 
+ 
+(2) A 2.54 cm lesion in S4 liver with isodense enhancement and early wash out, suspect HCC, imaging stage: T1N0Mx( No pathology proof). 
+ 
+(3) A 1.51 cm hypodense lesion in S8 liver with poor enhancement, suspect cyst or cystic tumor. 
+ 
+(4) A 0.42 cm right renal stone. 
+ 
+(5) Enlarged uterine cervix. 

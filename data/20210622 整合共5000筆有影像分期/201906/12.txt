@@ -1,0 +1,61 @@
+magnetic resonance imaging of liver with and without enhancement show:
+
+findings:
+ 
+one 2.17 tumor over s4 liver with high signal in t2wi/dwi and mild enhancement, 
+cholangiocarcinoma?
+one 1.63cm s3 liver nodule with high signal in long t2wi image, early and 
+delayed enhanced, compatible with hemangioma 
+multiple cysts over both kidneys with the biggest one 3.09cm on the right
+patency of the portal veins
+mild splenomegaly
+no ascites
+no definite biliary dilatation, normal gb
+unremarkable change of the pancreas
+no abnormal fluid collection in the abdomen 
+no hydronephrosis
+no evident enlarged retroperitoneal lns
+calcification of prostate  .
+
+imp:
+* liver cirrhosis with splenomegaly
+* one 2.17 tumor over s4 liver with high signal in t2wi/dwi and mild enhancement
+, cholangiocarcinoma?
+* one 1.63cm s3 liver nodule with high signal in long t2wi image, early and 
+delayed enhanced, compatible with hemangioma
+
+¡´imaging report form for intrahepatic bile ducts tumor (ajcc 8th edition)
+1.tumor number/location: 
+    location:  ¡¼ 
+2.tumor size: 
+   ¡¼measurable:  cm (the largest tumor)
+   ¡¼non-measurable
+3.pathology: ¡³not available ¡³available (pathology type:¡¼)
+
+-------------------primary tumor(t)--------------------------
+ tx   ¡³primary tumor cannot be assessed
+ t0   ¡³no primary tumor
+stage 0
+ tis   ¡³carcinoma in situ
+stage i
+ t1   ¡³solitary tumor without vascular invasion
+t1a   ¡´ solitary tumor ?5 cm without vascular invasion
+t1b   ¡³ solitary tumor >5 cm without vascular invasion
+stage ii
+ t2   ¡³ solitary tumor with intrahepatic vascular invasion or multiple
+tumors, with or without vascular invasion
+stage iii
+ t3   ¡³tumor perforating the visceral peritoneum 
+stage iva
+ t4   ¡³tumor involving local extrahepatic structures by direct invasion 
+-------------------regional lymph nodes(n)-----------------
+ nx   ¡³regional lymph nodes cannot be assessed
+ n0   ¡³no regional lymph nodes ¡¼
+stage iva
+ n1   ¡³regional lymph node metastasis ¡¼
+-------------------distant metastasis(m)---------------------
+ m0  ¡´no distant metastasis (no pathologic m0; use clinical m to complete 
+stage group)
+stage ivb
+ m1  ¡³distant metastasis¡¼
+imaging stage   t1a no( in this study)

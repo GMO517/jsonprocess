@@ -1,0 +1,129 @@
+Reason for Exam:  
+ 
+       Report: CT of liver without & with contrast enhancement triphasic scans shows:  
+ 
+Relative low density of liver with good visualization of venous system compatible with fatty liver  . 
+ 
+1.26cm early and persisted strong enanced nodule over LLS liver 
+ 
+8.35cm  enhanced tumor with central low density over S5 liver 
+ 
+No definite enlargement of retroperitoneal LNs  . 
+ 
+No definite biliary dilatation but with gall stones 
+ 
+No definite obstructive uropathy  . 
+ 
+No abnormal fluid collection in the abdomen  . 
+ 
+Patency of the portal vein 
+ 
+4.8cm cyst over right kidney 
+ 
+ 
+ 
+IMP:fatty liver  . 
+ 
+1.26cm early and persisted strong enanced nodule over LLS liver, hemangioma? 
+ 
+8.35cm  enhanced tumor with central low density over S5 liver, nature? 
+ 
+ gall stones 
+ 
+Suggest MRI study 
+ 
+ 
+ 
+ 
+ 
+Staging after pathology 
+ 
+ 
+ 
+¡´Imaging Report Form for Hepatocellua Carcinoma (AJCC 7th Edition) 
+ 
+1.Tumor Number/Location:  
+ 
+    Number: ¡³1 ¡´2 ¡³3 ¡³Multiple: 
+ 
+    Location:  S3 and S5-6  
+ 
+2.Tumor Size:  
+ 
+    ¡³Measurable: 8.35cm (the largest tumor) 
+ 
+    ¡³Non-measurable 
+ 
+3.Tumor Characteristics and Associated Liver Features 
+ 
+    ¡³Vascular invasion  
+ 
+    ¡³Extrahepatic spread  
+ 
+    ¡³Ascites  
+ 
+    ¡³Portal vein thrombosis, location  
+ 
+    ¡³Portosystemic collateral vessel 
+ 
+    ¡³Typical enhancement pattern (hypervascular enhancement and early wash-out) 
+ 
+3.Pathology: ¡³Not available ¡³Available (Pathology type:¡¼) 
+ 
+ 
+ 
+-------------------Primary Tumor(T)-------------------------- 
+ 
+ Tx    ¡³Primary tumor cannot be assessed  
+ 
+ T0    ¡³No primary tumor  
+ 
+Stage I 
+ 
+ T1    ¡³Solitary tumor without vascular invasion  
+ 
+Stage II 
+ 
+ T2    ¡³Solitary tumor with vascular invasion 
+ 
+       ¡³Multiple tumors none more than 5 cm 
+ 
+Stage III 
+ 
+ A T3a ¡´Multiple tumors more than 5 cm  
+ 
+ B T3b ¡³Single tumor or multiple tumors of any size 
+ 
+       involving a major branch of the portal vein or 
+ 
+       hepatic vein  
+ 
+ C T4  ¡³Tumor(s) with direct invasion of IVC, biliary trees, adjacent 
+ 
+       organs other than the gallbladder or with 
+ 
+       perforation of visceral peritoneum.  
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+ Nx    ¡³Regional lymph nodes cannot be assessed  
+ 
+ N0    ¡´No regional lymph nodes 
+ 
+Stage IVA 
+ 
+ N1    ¡³Regional lymph node metastasis  
+ 
+        ¡³Periceliac, ¡³Hilar( common bile duct, hepatic artery, portal vein and cystic duct) ¡³Peripancreatic ¡³Paraaortic ¡³Portocaval ¡³Retrocaval ¡³Others_______  
+ 
+-------------------Distant Metastasis(M)---------------------- 
+ 
+Stage IVB 
+ 
+ M1    ¡³Distant metastasis 
+ 
+¡³ Invasion of gallbladder 
+ 
+¡³ Cardiophrenic, Mesenteric, Retrocrural LN 
+ 
+Imaging stage   T3a N0( in this study) 

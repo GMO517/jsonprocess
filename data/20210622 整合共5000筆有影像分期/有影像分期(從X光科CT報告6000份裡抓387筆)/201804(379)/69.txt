@@ -1,0 +1,120 @@
+Findings: 
+ 
+Mildly lobulated contour of liver compatible with liver parenchymal disease.  
+ 
+Mild splenomegaly.  
+ 
+A 3.3 cm early enhancement and early wash out tumor in S6 liver, compatible with HCC. 
+ 
+A 0.61 cm poor enhancement hypodense lesion in the S8 liver, suspect small cyst. 
+ 
+No definite biliary dilatation.  
+ 
+Patency of portal vein.  
+ 
+A 1.5 cm LN in hepatopancreatic region( near S1 surface. 
+ 
+Two small LNs in posterior parapancreatic( 0.9 cm) and hepatoduodenal ligament( 0.52 cm). 
+ 
+No definite biliary dilatation.  
+ 
+Patency of portal vein.  
+ 
+Normal function and contour of bil. kidneys.  
+ 
+A 0.35 cm left renal stone. 
+ 
+Patency of bil. ureters.  
+ 
+No definite enlargement of retroperitoneal LNs.  
+ 
+No abnormal fluid collection in the abdomen.  
+ 
+Calcification over ileocolonic small vessel wall.  
+ 
+IMP:  
+ 
+(1) Chronic liver parenchymal disease and mild splenomegaly.  
+ 
+(2) A 3.3 cm HCC in S6 liver with a 1.5 cm LN in hepatopancreatic region( near S1 surface), stage IVA( T1N1Mx). 
+ 
+(3) Two small LNs in posterior parapancreatic( 0.9 cm) and hepatoduodenal ligament( 0.52 cm). 
+ 
+(4) Suspect a 0.61 cm small cyst in the S8 liver. 
+ 
+(5) A 0.35 cm left renal stone. 
+ 
+ 
+ 
+TNM for Hepatocellua Carcinoma (AJCC 7th Edition) 
+ 
+1.Tumor Location: S6 liver 
+ 
+2.Tumor Size: 3.3cm 
+ 
+3.Pathology: ¡³Not available ¡´Available (Pathology type:MODERATELY DIFFERENTIATED) 
+ 
+ 
+ 
+-------------------Primary Tumor(T)------------------- 
+ 
+ Tx    ¡³Primary tumor cannot be assessed ¡¼ 
+ 
+ T0    ¡³No primary tumor ¡¼ 
+ 
+Stage I 
+ 
+ T1    ¡´Solitary tumor without vascular invasion ¡¼ 
+ 
+Stage II 
+ 
+ T2    ¡³Solitary tumor with vascular invasion 
+ 
+       ¡³Multiple tumors none more than 5 cm 
+ 
+       ¡¼ 
+ 
+Stage III 
+ 
+ A T3a ¡³Multiple tumors more than 5 cm ¡¼ 
+ 
+ B T3b ¡³Single tumor or multiple tumors of any size 
+ 
+       involving a major branch of the portal vein or 
+ 
+       hepatic vein ¡¼ 
+ 
+ C T4  ¡³Tumor(s) with direct invasion of adjacent 
+ 
+       organs other than the gallbladder or with 
+ 
+       perforation of visceral peritoneum. ¡¼ 
+ 
+ 
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+ Nx    ¡³Regional lymph nodes cannot be assessed ¡¼ 
+ 
+ N0    ¡³No regional lymph nodes ¡¼ 
+ 
+Stage IVA 
+ 
+ N1    ¡´Regional lymph node metastasis ¡¼ 
+ 
+ 
+ 
+-------------------Distant Metastasis(M)------------------- 
+ 
+ M0    ¡´No distant metastasis¡¼ 
+ 
+Stage IVB 
+ 
+ M1    ¡³Distant metastasis¡¼ 
+ 
+ 
+ 
+Tumor stage   T 1 N 1 Mx 
+ 
+              Stage¡¼ 
+ 

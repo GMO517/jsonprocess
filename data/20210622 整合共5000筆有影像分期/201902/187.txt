@@ -1,0 +1,126 @@
+Findings: 
+ 
+Small lobulated contour of right lobe liver with hypertrophy of left lobe liver and splenomegaly, compatible with liver cirrhosis  
+ 
+A equivocal early washout lesion(3.31cm) in S8 liver, HCC?   
+ 
+S/P cholecystectomy 
+ 
+No obvious dilatation of the biliary tree and no stone in it  
+ 
+No definite evidence of portal vein thrombosis  
+ 
+No delayed function of the both kidneys 
+ 
+No obvious obstructive uropathy  
+ 
+No definite enlarged lymph nodes noted at visualized fields  
+ 
+No definite evidence of pneumoperitoneum noted  
+ 
+No obvious bony destruction detected  
+ 
+Ascites  
+ 
+Foreign body(ies) over penis  
+ 
+ 
+ 
+IMP:  
+ 
+* Liver cirrhosis with splenomegaly and ascites 
+ 
+* A equivocal early washout lesion(3.31cm) in S8 liver, HCC?   
+ 
+* S/P cholecystectomy 
+ 
+ 
+ 
+●Imaging Report Form for Hepatocellua Carcinoma (AJCC 7th Edition) 
+ 
+1.Tumor Number/Location:  
+ 
+    Number: ○1 ○2 ○3 ○Multiple: 
+ 
+    Location:  □  
+ 
+2.Tumor Size:  
+ 
+    ○Measurable:  cm (the largest tumor) 
+ 
+    ○Non-measurable 
+ 
+3.Tumor Characteristics and Associated Liver Features 
+ 
+    ○Vascular invasion  
+ 
+    ○Extrahepatic spread  
+ 
+    ○Ascites  
+ 
+    ○Portal vein thrombosis, location  
+ 
+    ○Portosystemic collateral vessel 
+ 
+    ○Typical enhancement pattern (hypervascular enhancement and early wash-out) 
+ 
+3.Pathology: ○Not available ○Available (Pathology type:□) 
+ 
+ 
+ 
+-------------------Primary Tumor(T)-------------------------- 
+ 
+ Tx    ○Primary tumor cannot be assessed  
+ 
+ T0    ○No primary tumor  
+ 
+Stage I 
+ 
+ T1    ●Solitary tumor without vascular invasion  
+ 
+Stage II 
+ 
+ T2    ○Solitary tumor with vascular invasion 
+ 
+       ○Multiple tumors none more than 5 cm 
+ 
+Stage III 
+ 
+ A T3a ○Multiple tumors more than 5 cm  
+ 
+ B T3b ○Single tumor or multiple tumors of any size 
+ 
+       involving a major branch of the portal vein or 
+ 
+       hepatic vein  
+ 
+ C T4  ○Tumor(s) with direct invasion of IVC, biliary trees, adjacent 
+ 
+       organs other than the gallbladder or with 
+ 
+       perforation of visceral peritoneum.  
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+ Nx    ○Regional lymph nodes cannot be assessed  
+ 
+ N0    ●No regional lymph nodes 
+ 
+Stage IVA 
+ 
+ N1    ○Regional lymph node metastasis  
+ 
+        ○Periceliac, ○Hilar( common bile duct, hepatic artery, portal vein and cystic duct) ○Peripancreatic ○Paraaortic ○Portocaval ○Retrocaval ○Others_______  
+ 
+-------------------Distant Metastasis(M)---------------------- 
+ 
+Stage IVB 
+ 
+ M1    ○Distant metastasis 
+ 
+○ Invasion of gallbladder 
+ 
+○ Cardiophrenic, Mesenteric, Retrocrural LN 
+ 
+Imaging stage   T1 N0( in this study) 
+ 

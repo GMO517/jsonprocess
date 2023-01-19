@@ -1,0 +1,119 @@
+Findings: 
+ 
+ Lobulated contour of the liver compatible with cirrhosis 
+ 
+ Infiltrative poorly enhancing hilar mass involving bil. liver (8.4x8.9cm), compatible with cholangiocarcinoma 
+ 
+ Tumor infiltration with total occlusion of right and left PV, MPV, down to the splenomesenteric junction 
+ 
+ THrombosis of RHV, MHV, and LHV, partially extending to IVC 
+ 
+ Infiltration of right(6mm) and left(4mm) IHDs 
+ 
+ Contracted gallbladder with thickened wall and multiple stones 
+ 
+ Splenomegaly with cyst(1cm) 
+ 
+ Unremarkable pancreas and adrenal glands. 
+ 
+ Tiny (〈1cm) non-obstructive right renal stone and bil. renal parenchymal calcifications 
+ 
+ Several bil. renal cysts, no  hydronephrosis 
+ 
+ Large esophageal and gastric varices and splenorenal shunt 
+ 
+ Some enlarged LNs, largest at aortocaval region (3.2cm) 
+ 
+ Minimal pulmonary infiltrates in visualized RLL 
+ 
+ 
+ 
+IMP: 
+ 
+ * Liver cirrhosis with splenomegaly and varices 
+ 
+ * Infiltrative hilar mass (8.4x8.9cm), compatible with cholangiocarcinoma 
+ 
+ * Infiltration and occlusion of right and left PV, MPV down to the splenomesenteric junction, RHV, MHV, LHV, and partially extending to IVC 
+ 
+ * Infiltration of right(6mm) and left(4mm) IHDs 
+ 
+ * Some enlarged LNs, largest at aortocaval region (3.2cm) 
+ 
+ 
+ 
+●Imaging Report Form for perihilar bile ducts tumor (AJCC 7th Edition) 
+ 
+ 
+ 
+1.Tumor Number/Location:  
+ 
+    Location:  □  
+ 
+2.Tumor Size:  
+ 
+   ○Measurable:  cm (the largest tumor) 
+ 
+   ○Non-measurable 
+ 
+3.Pathology: ○Not available ○Available (Pathology type:□) 
+ 
+ 
+ 
+-------------------Primary Tumor(T)-------------------------- 
+ 
+ Tx    ○Primary tumor cannot be assessed 
+ 
+ T0    ○No primary tumor 
+ 
+Stage 0 
+ 
+ Tis   ○Carcinoma in situ 
+ 
+Stage I 
+ 
+ T1    ○Tumor confined to the bile duct, with extension up to the muscle layer or fibrous tissue 
+ 
+Stage II 
+ 
+ T2a   ○Tumor invades beyond the wall of the bile duct to surrounding adipose tissue 
+ 
+ T2b   ○Tumor invades adjacent hepatic parenchyma 
+ 
+Stage IIIA 
+ 
+ T3    ○Tumor invades unilateral branches of the portal vein or hepatic artery 
+ 
+Stage IVA (T4 N0-N1) 
+ 
+ T4    ●Tumor invades main portal vein or its branches bilaterally; or the common hepatic artery; or the second-order biliary radicals bilaterally; or unilateral 
+ 
+second-order biliary radicals with contralateral portal vein or hepatic artery involvement 
+ 
+-------------------Regional Lymph Nodes(N)----------------- 
+ 
+ Nx    ○Regional lymph nodes cannot be assessed 
+ 
+ N0    ○No regional lymph nodes □ 
+ 
+Stage IIIB (T1-3 N1 M0) 
+ 
+ N1    ○Regional lymph node metastasis (including nodes along the cystic duct,common bile duct, hepatic artery, and portal vein) 
+ 
+Stage IVB 
+ 
+ N2    ●Metastasis to periaortic, pericaval, superior mesentery artery, and/or celiac artery lymph nodes 
+ 
+  
+ 
+-------------------Distant Metastasis(M)--------------------- 
+ 
+ M0   ○No distant metastasis (no pathologic M0; use clinical M to complete stage group) 
+ 
+Stage IVB 
+ 
+ M1   ○Distant metastasis□ 
+ 
+ 
+ 
+Imaging stage   T4 N2( in this study) 
