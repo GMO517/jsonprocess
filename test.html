@@ -69,17 +69,20 @@
             //未處理的資料
             const sectionKeyWord = "***";
             const splitKeyWord = "\r\n";
+            const reg = /^\w[a-zA-z]+\:|.*AJCC.*|.*ajcc.*/mg;
+
             //切割用keyword 需要調整從這邊弄 
             let section = originData.split(sectionKeyWord);
             // console.log(section);
             // 先切三塊
-            var FileData = []
+            var fileData = [];
+            var regArray = [];//把每每個
+            var newArryForReg = [];//放關鍵字的的Array
             for (i = 0; i < section.length; i++) {
                 createSectionDiv(i);
                 var NewData = section[i].toString().split(splitKeyWord);
+                fileData.push(NewData)//塞進同一個陣列
 
-
-                FileData.push(NewData)//塞進同一個陣列
 
                 let final = NewData.filter(function (value) {
                     return value !== "\r";
@@ -91,7 +94,8 @@
                 }
 
             }
-            getFile()
+
+            getFile(fileData, newArryForReg)
 
             clearFile_btn.addEventListener("click", function () {
                 //清除資料
@@ -121,12 +125,32 @@
                 document.querySelector('.section' + i).appendChild(div);
             }
 
-            function getFile() {
-                const obj = {
-                    data: FileData
-                }
-                let test_file = document.getElementById('txt_link')
-                let Json_file = document.getElementById('json_link')
+
+            function getFile(objArr, newArryForReg) {
+                const obj = {};
+                let test_file = document.getElementById('txt_link');
+                let Json_file = document.getElementById('json_link');
+                const reg_2 = /^\w[a-zA-Z_]+\:|ajcc|AJCC/mg;//後面加入關鍵字
+                var sentence;
+
+                objArr.forEach(element => {//正則關鍵字  
+                    const fileData_str = element.join('');
+                    regArray = fileData_str.match(reg_2);//關鍵字回傳陣列放入空陣列
+                    const emptyArr = [];//新稱屬性的陣列
+                    if (regArray) {//判斷每個關鍵字是否為null
+                        emptyArr.type = regArray.toString();
+                        emptyArr.sentence = element;//塞入句子
+                        newArryForReg.push(Object.assign({}, emptyArr))
+                        //把陣列都轉為物件放入陣列                              
+                    } else return newArryForReg//回傳Array放關鍵字         
+                })
+
+                obj.data = newArryForReg;
+                console.log(obj);
+
+
+
+
 
 
                 let str_obj = JSON.stringify(obj, null, 2)
@@ -142,6 +166,7 @@
                 test_file.download = file.name
                 Json_file.href = URL.createObjectURL(json)
                 Json_file.download = 'abc';
+
             }
 
 
