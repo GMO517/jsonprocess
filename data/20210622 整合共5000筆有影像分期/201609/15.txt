@@ -21,7 +21,6 @@ No abnormal fluid collection in the abdomen  .
 Patency of the portal vein 
  
  
- 
 IMP: 
  
 * Liver cirrhosis and splenomegaly   
@@ -29,7 +28,6 @@ IMP:
 * Progressive change in S8 liver nodule(3.63cm), HCC? 
  
 * Multiple gall stones 
- 
  
  
 ●Imaging Report Form for Hepatocellua Carcinoma (AJCC 7th Edition) 
