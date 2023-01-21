@@ -66,7 +66,6 @@
 
       let originData = reader.result;
       //originData = 未處理的資料
-      const sectionKeyWord = "***";
       const splitKeyWord = "\r\n";
       //切割用keyword 需要調整從這邊弄 
       const reg = /^\w[a-zA-z]+\:|.*AJCC.*|.*ajcc.*/mg;
@@ -74,34 +73,64 @@
       // 於開頭的 "任意文字:" (含大小寫)
       // or
       // 任何含AJCC的行
-      let section = originData.split(sectionKeyWord);
+      let section = originData.split(reg);
       // 先切段落
-      var fileData = [];
-      var regArray = [];//把每每個
-      var newArrayForReg = [];//放關鍵字的的Array
+      let keyword = originData.match(reg);
       for (i = 0; i < section.length; i++) {
         createSectionDiv(i);
         var NewData = section[i].toString().split(splitKeyWord);
-        fileData.push(NewData)//塞進同一個陣列
         let final = NewData.filter(function (value) {
           return value !== "\r";
-          //沒有換行符號才放入陣列 => 篩選出空行
         })
         for (j = 0; j < final.length; j++) {
           if (final[j] != "") {
             createForm(final[j]);
           }
         }
-
       }
-      getFile(fileData, newArrayForReg)
-
       //======json 正則區塊======//
 
       let keyArray = originData.match(reg);
       console.log(keyArray);
       let contentSection = originData.split(reg);
       console.log(contentSection);
+
+      // ======土法煉鋼區=======//
+      let dataJson = {
+        "data": [
+          {
+            "Type": keyArray[0],
+            "Sentences": [
+              contentSection[1]
+            ]
+          },
+          {
+            "Type": keyArray[1],
+            "Sentences": [
+              contentSection[2]
+            ]
+          },
+          {
+            "Type": keyArray[2],
+            "Sentences": [
+              contentSection[3]
+            ]
+          }
+        ]
+      }
+      console.log(dataJson);
+      //========================//
+      // let newJson = {
+      //   data: [
+      //     {
+      //       "Type": keyArray[0],
+      //       "Sentences": [
+      //         contentSection[1]
+      //       ]
+      //     }
+      //   ]
+      // }
+
       let newJson = {
         data: [
           {
@@ -112,20 +141,22 @@
           }
         ]
       }
-      console.log(newJson);
-      // let test1 = {
-      //   "data": [
-      //     {
-      //       "Type": "Imp",
-      //       "Sentences": [
-      //         "123"
-      //       ]
-      //     }
-      //   ]
-      // }
+      // console.log(newJson);
+      let test1 =
+      {
+        "Type": "123",
+        "Sentences": [
+          "a",
+          "b",
+          "c"
+        ]
+      }
 
 
-      // newJson.data = {test1}
+
+
+
+      // newJson.push(test1); // 調整中
       // console.log(newJson);
       // var jsonObj = {
       //   members:
@@ -146,7 +177,6 @@
       //   var newUser = "user" + i;
       //   var newValue = "value" + i;
       //   jsonObj.members.viewers[newUser] = { newValue };
-
       // }
 
       // console.log(jsonObj);
@@ -173,14 +203,22 @@
         });
         //----//
       })
-
       function createSectionDiv(x) {
         //創造段落區塊
         const secDiv = document.createElement('div');
         secDiv.classList.add('section' + x);
         secDiv.classList.add('sectionColor');
         document.querySelector('.chat-messages').appendChild(secDiv);
+        //keyword塞回段落中
+        const div = document.createElement('div');
+        div.classList.add('message');
+        if (keyword[i - 1] != undefined) {
+          //會重複一次 要-1 而 最開始的會undefined 所以要過濾掉
+          div.innerText = keyword[i - 1];
+        }
+        document.querySelector('.section' + i).appendChild(div);
       }
+
       function createForm(y) {
         //創造分句
         const div = document.createElement('div');
@@ -190,10 +228,7 @@
       }
 
 
-      function getFile(objArr, newArrayForReg) {
 
-
-      }
 
 
     }
