@@ -82,6 +82,7 @@
         let final = NewData.filter(function (value) {
           return value !== "\r";
         })
+
         for (j = 0; j < final.length; j++) {
           if (final[j] != "") {
             createForm(final[j]);
@@ -90,8 +91,8 @@
       }
       //======json 正則區塊======//
 
-      let keyArray = originData.match(reg);
-      console.log(keyArray);
+      // let keyArray = originData.match(reg);
+      // console.log(keyArray);
       let contentSection = originData.split(reg);
       console.log(contentSection);
 
@@ -99,19 +100,19 @@
       let dataJson = {
         "data": [
           {
-            "Type": keyArray[0],
+            "Type": keyword[0],
             "Sentences": [
               contentSection[1]
             ]
           },
           {
-            "Type": keyArray[1],
+            "Type": keyword[1],
             "Sentences": [
               contentSection[2]
             ]
           },
           {
-            "Type": keyArray[2],
+            "Type": keyword[2],
             "Sentences": [
               contentSection[3]
             ]
@@ -131,26 +132,26 @@
       //   ]
       // }
 
-      let newJson = {
-        data: [
-          {
-            "Type": keyArray[0],
-            "Sentences": [
-              contentSection[1]
-            ]
-          }
-        ]
-      }
+      // let newJson = {
+      //   data: [
+      //     {
+      //       "Type": keyArray[0],
+      //       "Sentences": [
+      //         contentSection[1]
+      //       ]
+      //     }
+      //   ]
+      // }
       // console.log(newJson);
-      let test1 =
-      {
-        "Type": "123",
-        "Sentences": [
-          "a",
-          "b",
-          "c"
-        ]
-      }
+      // let test1 =
+      // {
+      //   "Type": "123",
+      //   "Sentences": [
+      //     "a",
+      //     "b",
+      //     "c"
+      //   ]
+      // }
 
 
 

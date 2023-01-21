@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+
+<body>
+
+</body>
+<script>
+
+  let originObject = { "data": [] }
+  let test = []
+
+  let addObj = {
+    "Type": "Finding",
+    "Sentences": [
+      "2.5cm minimal enhanced tumor over S4 liver ",
+      "Calcification over bilateral renal regions",
+      "No definite enlargement of retroperitoneal LNs  .",
+      "No definite biliary dilatation  .",
+      "No definite obstructive uropathy  .",
+      "No abnormal fluid collection in the abdomen  .",
+      "No obvious bony destruction detected"
+    ]
+  };
+  let imp = {
+    "Type": "Imp",
+    "Sentences": [
+      "S4 liver tumor, nature? "
+    ]
+  };
+
+  test.push(addObj, imp);
+  console.log(test);
+  // console.log(JSON.stringify(test));
+  originObject.data = test;
+  console.log(originObject);
+  console.log(JSON.stringify(originObject));
+  // console.log(newJson);
+  // let test1 =
+  // {
+  //   "Type": "123",
+  //   "Sentences": [
+  //     "a",
+  //     "b",
+  //     "c"
+  //   ]
+  // }
+
+
+
+
+
+  // newJson.push(test1); // 調整中
+  // console.log(newJson);
+  // var jsonObj = {
+  //   members:
+  //   {
+  //     host: "hostName",
+  //     viewers:
+  //     {
+  //       user1: "value1",
+  //       user2: "value2",
+  //       user3: "value3"
+  //     }
+  //   }
+  // }
+
+  // var i;
+
+  // for (i = 4; i <= 8; i++) {
+  //   var newUser = "user" + i;
+  //   var newValue = "value" + i;
+  //   jsonObj.members.viewers[newUser] = { newValue };
+  // }
+
+  // console.log(jsonObj);
+      // ======區塊結束======//
+</script>
+
+</html>
