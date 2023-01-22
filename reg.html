@@ -76,112 +76,47 @@
       let section = originData.split(reg);
       // 先切段落
       let keyword = originData.match(reg);
+      let originObject = { "data": [] }
+      let contentArray = []
       for (i = 0; i < section.length; i++) {
         createSectionDiv(i);
         var NewData = section[i].toString().split(splitKeyWord);
-        let final = NewData.filter(function (value) {
-          return value !== "\r";
-        })
-
-        for (j = 0; j < final.length; j++) {
-          if (final[j] != "") {
-            createForm(final[j]);
+        var final = NewData.filter(function (value) {
+          if ((value !== "\r") && (value !== "")) {
+            return value;
           }
+        })
+        for (j = 0; j < final.length; j++) {
+          createForm(final[j]);
         }
       }
+
+      objectToJson();
+
+      console.log(JSON.stringify(originObject));
       //======json 正則區塊======//
+      function objectToJson() {
+        let contentSection = originData.split(reg);
+        contentSection.toString().replace(/\\r\\n/g, "");
+        console.log(contentSection);
+        for (let a = 0; a < section.length - 1; a++) {
+          let objContent = {
+            "Type": keyword[a],
+            "Sentences": [
+              contentSection[a + 1]
+            ]
+          };
+          // console.log(objContent);
+          contentArray.push(objContent);
+          // console.log(contentArray);
+          originObject.data = contentArray;
 
-      // let keyArray = originData.match(reg);
-      // console.log(keyArray);
-      let contentSection = originData.split(reg);
-      console.log(contentSection);
+        }
+        console.log(originObject);
+        return originObject;
 
-      // ======土法煉鋼區=======//
-      let dataJson = {
-        "data": [
-          {
-            "Type": keyword[0],
-            "Sentences": [
-              contentSection[1]
-            ]
-          },
-          {
-            "Type": keyword[1],
-            "Sentences": [
-              contentSection[2]
-            ]
-          },
-          {
-            "Type": keyword[2],
-            "Sentences": [
-              contentSection[3]
-            ]
-          }
-        ]
       }
-      console.log(dataJson);
-      //========================//
-      // let newJson = {
-      //   data: [
-      //     {
-      //       "Type": keyArray[0],
-      //       "Sentences": [
-      //         contentSection[1]
-      //       ]
-      //     }
-      //   ]
-      // }
 
-      // let newJson = {
-      //   data: [
-      //     {
-      //       "Type": keyArray[0],
-      //       "Sentences": [
-      //         contentSection[1]
-      //       ]
-      //     }
-      //   ]
-      // }
-      // console.log(newJson);
-      // let test1 =
-      // {
-      //   "Type": "123",
-      //   "Sentences": [
-      //     "a",
-      //     "b",
-      //     "c"
-      //   ]
-      // }
-
-
-
-
-
-      // newJson.push(test1); // 調整中
-      // console.log(newJson);
-      // var jsonObj = {
-      //   members:
-      //   {
-      //     host: "hostName",
-      //     viewers:
-      //     {
-      //       user1: "value1",
-      //       user2: "value2",
-      //       user3: "value3"
-      //     }
-      //   }
-      // }
-
-      // var i;
-
-      // for (i = 4; i <= 8; i++) {
-      //   var newUser = "user" + i;
-      //   var newValue = "value" + i;
-      //   jsonObj.members.viewers[newUser] = { newValue };
-      // }
-
-      // console.log(jsonObj);
-      //======區塊結束======//
       clearFile_btn.addEventListener("click", function () {
         //清除資料
         let parent_node = document.querySelector(".chat-messages")
@@ -204,6 +139,14 @@
         });
         //----//
       })
+      let json_file = document.getElementById('json-link');
+      let json = new Blob([JSON.stringify(originObject)], {
+        type: "application/json;charset = utf-8",
+      })
+
+      json_file.href = URL.createObjectURL(json)
+      json_file.download = 'abc';
+
       function createSectionDiv(x) {
         //創造段落區塊
         const secDiv = document.createElement('div');
@@ -227,7 +170,6 @@
         div.innerText = y;
         document.querySelector('.section' + i).appendChild(div);
       }
-
 
 
 
