@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Bootstrap demo</title>
+  <link rel="stylesheet" href="./public/css.css">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
+
+</head>
+
+<body>
+  <div class="file-container">
+    <div class="fileSideBar">
+      <div class="file-opt">
+        <h4>請選擇檔案:</h4>
+        <br>
+        <input type="file" name="files" id="files" value="" />
+        <div class="clear-btn">
+          <button type="button" id="clear-btn">資料清除</button>
+        </div>
+        <br>
+        <h5>下載:</h5>
+        <div class="download-btn">
+          <!-- <button type="button"><a id="txt-link">Test.txt</a></button> -->
+          <button type="button"><a id="json-link">Json.json</a></button>
+        </div>
+
+      </div>
+    </div>
+    <div class="file">
+      <div class="header">
+        <div class="file-title">格式化輸出系統</div>
+      </div>
+      <div class="chat-messages" style="background-color:white;">
+      </div>
+    </div>
+  </div>
+  <div class="footer">
+  </div>
+
+
+
+
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+  <!-- <script src="js/jquery.min.js"></script> -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8"
+    crossorigin="anonymous"></script>
+
+
+</body>
+
+
+<script>
+  let files = document.getElementById('files');
+  let json_file = document.getElementById('json-link');
+  let originData = ""; //用於儲存抓進來的資料
+  const reg = /^\w[a-zA-z]+\:|.*AJCC.*|.*ajcc.*/mg; //挑選段落之正則表示法
+  const splitKeyWord = "\r\n"; //去除換行符號用的正則表示法
+  let keyword = ""; //用於儲存段落關鍵字
+  let contentArray = ""; //用於儲存段落內容
+  let jsonObject = { "data": [] }; //最後要輸出出去的json物件
+  let updateArray = [];
+  files.onchange = function () { //file有變化事件則開始執行
+    let file = files.files[0];
+    let reader = new FileReader();
+    reader.readAsText(file);
+    reader.onload = function () { //讀取器有讀取才進函式
+
+      originData = reader.result;
+      dataProcess(); //呼叫資料處理的函式
+
+      let str_obj = JSON.stringify(jsonObject);
+      let json = new Blob([str_obj], {
+        type: "application/json;charset = utf-8",
+      })
+      json_file.href = URL.createObjectURL(json)
+      json_file.download = 'abc';
+    }
+  }
+  function dataProcess() {
+    keyword = originData.match(reg); //先抓出段落關鍵字
+    section = originData.split(reg); //再把各段落切出來
+    section = section.filter(v => v); //去除空值
+    for (let i = 0; i < section.length; i++) {
+      contentArray = section[i].split(splitKeyWord);
+      contentArray = contentArray.filter(v => v); //去除空值
+      // console.log(contentArray);
+      let objContent = {
+        "Type": keyword[i],
+        "Sentences":
+          contentArray
+
+      };
+      updateArray.push(objContent);
+      jsonObject.data = updateArray;
+    }
+    console.log(updateArray);
+    console.log(jsonObject);
+  }
+
+</script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js'></script>
+
+</html>
