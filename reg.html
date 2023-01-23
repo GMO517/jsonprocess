@@ -67,10 +67,6 @@
       let originData = reader.result;
       //originData = 未處理的資料
       const splitKeyWord = "\r\n";
-<<<<<<< HEAD
-      const reg = /^w[a-zA-Z]+\:|.*AJCC.*|.*ajcc.*/;
-=======
->>>>>>> 975d996899af7318bdec9f663759d7fee922c0d1
       //切割用keyword 需要調整從這邊弄 
       const reg = /^\w[a-zA-z]+\:|.*AJCC.*|.*ajcc.*/mg;
       // 正則表達式 選取對象 
@@ -80,47 +76,111 @@
       let section = originData.split(reg);
       // 先切段落
       let keyword = originData.match(reg);
-      let originObject = { "data": [] }
-      let contentArray = []
       for (i = 0; i < section.length; i++) {
         createSectionDiv(i);
         var NewData = section[i].toString().split(splitKeyWord);
-        var final = NewData.filter(function (value) {
-          if ((value !== "\r") && (value !== "")) {
-            return value;
-          }
+        let final = NewData.filter(function (value) {
+          return value !== "\r";
         })
         for (j = 0; j < final.length; j++) {
-          createForm(final[j]);
+          if (final[j] != "") {
+            createForm(final[j]);
+          }
         }
       }
-
-      objectToJson();
-
-      console.log(JSON.stringify(originObject));
       //======json 正則區塊======//
-      function objectToJson() {
-        let contentSection = originData.split(reg);
-        contentSection.toString().replace(/\\r\\n/g, "");
-        console.log(contentSection);
-        for (let a = 0; a < section.length - 1; a++) {
-          let objContent = {
-            "Type": keyword[a],
+
+      let keyArray = originData.match(reg);
+      console.log(keyArray);
+      let contentSection = originData.split(reg);
+      console.log(contentSection);
+
+      // ======土法煉鋼區=======//
+      let dataJson = {
+        "data": [
+          {
+            "Type": keyArray[0],
             "Sentences": [
-              contentSection[a + 1]
+              contentSection[1]
             ]
-          };
-          // console.log(objContent);
-          contentArray.push(objContent);
-          // console.log(contentArray);
-          originObject.data = contentArray;
+          },
+          {
+            "Type": keyArray[1],
+            "Sentences": [
+              contentSection[2]
+            ]
+          },
+          {
+            "Type": keyArray[2],
+            "Sentences": [
+              contentSection[3]
+            ]
+          }
+        ]
+      }
+      console.log(dataJson);
+      //========================//
+      // let newJson = {
+      //   data: [
+      //     {
+      //       "Type": keyArray[0],
+      //       "Sentences": [
+      //         contentSection[1]
+      //       ]
+      //     }
+      //   ]
+      // }
 
-        }
-        console.log(originObject);
-        return originObject;
-
+      let newJson = {
+        data: [
+          {
+            "Type": keyArray[0],
+            "Sentences": [
+              contentSection[1]
+            ]
+          }
+        ]
+      }
+      // console.log(newJson);
+      let test1 =
+      {
+        "Type": "123",
+        "Sentences": [
+          "a",
+          "b",
+          "c"
+        ]
       }
 
+
+
+
+
+      // newJson.push(test1); // 調整中
+      // console.log(newJson);
+      // var jsonObj = {
+      //   members:
+      //   {
+      //     host: "hostName",
+      //     viewers:
+      //     {
+      //       user1: "value1",
+      //       user2: "value2",
+      //       user3: "value3"
+      //     }
+      //   }
+      // }
+
+      // var i;
+
+      // for (i = 4; i <= 8; i++) {
+      //   var newUser = "user" + i;
+      //   var newValue = "value" + i;
+      //   jsonObj.members.viewers[newUser] = { newValue };
+      // }
+
+      // console.log(jsonObj);
+      //======區塊結束======//
       clearFile_btn.addEventListener("click", function () {
         //清除資料
         let parent_node = document.querySelector(".chat-messages")
@@ -143,14 +203,6 @@
         });
         //----//
       })
-      let json_file = document.getElementById('json-link');
-      let json = new Blob([JSON.stringify(originObject)], {
-        type: "application/json;charset = utf-8",
-      })
-
-      json_file.href = URL.createObjectURL(json)
-      json_file.download = 'abc';
-
       function createSectionDiv(x) {
         //創造段落區塊
         const secDiv = document.createElement('div');
@@ -174,6 +226,7 @@
         div.innerText = y;
         document.querySelector('.section' + i).appendChild(div);
       }
+
 
 
 

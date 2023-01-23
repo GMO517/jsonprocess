@@ -11,30 +11,33 @@
 </head>
 
 <body>
-    <div class="fileSideBar">
-        <div class="file-opt">
-            <h4>請選擇檔案:</h4>
-            <br>
-            <input type="file" name="files" id="files" value="" />
-            <div class="clear-btn">
-                <button type="button" id="clear-btn">資料清除</button>
-            </div>
-            <br>
-            <h5>下載:</h5>
-            <div class="download-btn">
-                <button type="button"><a id="txt-link">Test.txt</a></button>
-                <button type="button"><a id="json-link">Json.json</a></button>
-            </div>
 
-        </div>
-    </div>
     <div class="file-container">
+        <div class="fileSideBar">
+            <div class="file-opt">
+                <h4>請選擇檔案:</h4>
+                <br>
+                <input type="file" name="files" id="files" value="" />
+                <div class="clear-btn">
+                    <button type="button" id="clear-btn">資料清除</button>
+                </div>
+                <br>
+                <h4>下載:</h4>
+                <div class="download-btn">
+                    <button type="button"><a id="txt-link">Test.txt</a></button>
+                    <button type="button"><a id="json-link">Json.json</a></button>
+                </div>
+    
+            </div>
+        </div>
+        <div class="file">
         <div class="header">
             <div class="file-title">格式化輸出系統</div>
         </div>
         <div class="chat-messages" style="background-color:white;">
         </div>
     </div>
+</div>
     <div class="footer">
     </div>
 
@@ -67,8 +70,6 @@
             //originData = 未處理的資料
             const sectionKeyWord = "***";
             const splitKeyWord = "\r\n";
-            const reg = /^\w[a-zA-z]+\:|.*AJCC.*|.*ajcc.*/mg;
-
             //切割用keyword 需要調整從這邊弄 
             const reg = /^\w[a-zA-z]+\:|.*AJCC.*|.*ajcc.*/mg;
             // 正則表達式 選取對象 
@@ -76,27 +77,14 @@
             // or
             // 任何含AJCC的行
             let section = originData.split(sectionKeyWord);
-<<<<<<< HEAD
-            // console.log(section);
-            // 先切三塊
-            var fileData = [];
-            var regArray = [];//把每每個
-            var newArryForReg = [];//放關鍵字的的Array
-=======
             // 先切段落
             var fileData = [];
             var regArray = [];//把每每個
             var newArrayForReg = [];//放關鍵字的的Array
->>>>>>> 975d996899af7318bdec9f663759d7fee922c0d1
             for (i = 0; i < section.length; i++) {
                 createSectionDiv(i);
                 var NewData = section[i].toString().split(splitKeyWord);
                 fileData.push(NewData)//塞進同一個陣列
-<<<<<<< HEAD
-
-
-=======
->>>>>>> 975d996899af7318bdec9f663759d7fee922c0d1
                 let final = NewData.filter(function (value) {
                     return value !== "\r";
                     //沒有換行符號才放入陣列 => 篩選出空行
@@ -108,13 +96,7 @@
                 }
 
             }
-<<<<<<< HEAD
-
-            getFile(fileData, newArryForReg)
-
-=======
             getFile(fileData, newArrayForReg)
->>>>>>> 975d996899af7318bdec9f663759d7fee922c0d1
             clearFile_btn.addEventListener("click", function () {
                 //清除資料
                 let parent_node = document.querySelector(".chat-messages")
@@ -144,19 +126,11 @@
             }
 
 
-<<<<<<< HEAD
-            function getFile(objArr, newArryForReg) {
-                const obj = {};
-                let test_file = document.getElementById('txt_link');
-                let Json_file = document.getElementById('json_link');
-                const reg_2 = /^\w[a-zA-Z_]+\:|ajcc|AJCC|IMP/mg;//後面加入關鍵字
-=======
             function getFile(objArr, newArrayForReg) {
                 const obj = {};
                 let test_file = document.getElementById('txt-link');
                 let json_file = document.getElementById('json-link');
                 const reg_2 = /^\w[a-zA-Z_]+\:|ajcc|AJCC/mg;//後面加入關鍵字
->>>>>>> 975d996899af7318bdec9f663759d7fee922c0d1
                 var sentence;
 
                 objArr.forEach(element => {//正則關鍵字  
@@ -166,19 +140,6 @@
                     if (regArray) {//判斷每個關鍵字是否為null
                         emptyArr.type = regArray.toString();
                         emptyArr.sentence = element;//塞入句子
-<<<<<<< HEAD
-                        newArryForReg.push(Object.assign({}, emptyArr))
-                        //把陣列都轉為物件放入陣列                              
-                    } else return newArryForReg//回傳Array放關鍵字         
-                })
-
-                obj.data = newArryForReg;
-                console.log(obj);
-
-
-
-
-=======
                         newArrayForReg.push(Object.assign({}, emptyArr))
                         //把陣列都轉為物件放入陣列                              
                     } else return newArrayForReg//回傳Array放關鍵字         
@@ -187,7 +148,6 @@
                 obj.data = newArrayForReg;
                 console.log(obj);
 
->>>>>>> 975d996899af7318bdec9f663759d7fee922c0d1
 
 
                 let str_obj = JSON.stringify(obj, null, 2)
@@ -199,13 +159,8 @@
                 })
                 test_file.href = URL.createObjectURL(txt)
                 test_file.download = file.name
-<<<<<<< HEAD
-                Json_file.href = URL.createObjectURL(json)
-                Json_file.download = 'abc';
-=======
                 json_file.href = URL.createObjectURL(json)
                 json_file.download = 'abc';
->>>>>>> 975d996899af7318bdec9f663759d7fee922c0d1
 
             }
 
