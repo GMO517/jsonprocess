@@ -9,100 +9,65 @@
 </head>
 
 <body>
-
+  <input type="file" name="files" id="files" value="" />
 </body>
 <script>
 
-  let originObject = { "data": [] }
-  let test = []
+  let files = document.getElementById('files');
+  const clearFile_btn = document.querySelector("#clear-btn");
+  files.onchange = function () {
 
-  let addObj = {
-    "Type": "Finding",
-    "Sentences": [
-      "2.5cm minimal enhanced tumor over S4 liver ",
-      "Calcification over bilateral renal regions",
-      "No definite enlargement of retroperitoneal LNs  .",
-      "No definite biliary dilatation  .",
-      "No definite obstructive uropathy  .",
-      "No abnormal fluid collection in the abdomen  .",
-      "No obvious bony destruction detected"
-    ]
-  };
-  let imp = {
-    "Type": "Imp",
-    "Sentences": [
-      "S4 liver tumor, nature? "
-    ]
-  };
+    let file = files.files[0];
+    let reader = new FileReader();
+    reader.readAsText(file);
+    reader.onload = function () {
 
-  test.push(addObj, imp);
-  console.log(test);
-  // console.log(JSON.stringify(test));
-  originObject.data = test;
-  console.log(originObject);
-  console.log(JSON.stringify(originObject));
+      let originData = reader.result;
+      //originData = 未處理的資料
+      const splitKeyWord = "\r\n";
+      //切割用keyword 需要調整從這邊弄 
+      const reg = /^\w[a-zA-z]+\:|.*AJCC.*|.*ajcc.*/mg;
+      // 正則表達式 選取對象 
+      // 於開頭的 "任意文字:" (含大小寫)
+      // or
+      // 任何含AJCC的行
+      let section = originData.split(reg);
+      // 先切段落
+      let keyword = originData.match(reg);
+      let originObject = { "data": [] }
+      let contentArray = []
+      let contentSection = originData.split(reg);
+      contentSection.toString().replace(/\r\n/g, "");
+      console.log(contentSection);
+      for (let a = 0; a < section.length - 1; a++) {
+        let objContent = {
+          "Type": keyword[a],
+          "Sentences": [
+            contentSection[a + 1]
+          ]
+        };
+        // console.log(objContent);
+        contentArray.push(objContent);
+        // console.log(contentArray);
+        originObject.data = contentArray;
 
-  //========================//
-      // let newJson = {
-      //   data: [
-      //     {
-      //       "Type": keyArray[0],
-      //       "Sentences": [
-      //         contentSection[1]
-      //       ]
-      //     }
-      //   ]
-      // }
+      }
+      console.log(originObject);
+      // let json_file = document.getElementById('json-link');
+      // let json = new Blob([JSON.stringify(originObject)], {
+      //   type: "application/json;charset = utf-8",
+      // })
 
-      // let newJson = {
-      //   data: [
-      //     {
-      //       "Type": keyArray[0],
-      //       "Sentences": [
-      //         contentSection[1]
-      //       ]
-      //     }
-      //   ]
-      // }
-      // console.log(newJson);
-      // let test1 =
-      // {
-      //   "Type": "123",
-      //   "Sentences": [
-      //     "a",
-      //     "b",
-      //     "c"
-      //   ]
-      // }
+      // json_file.href = URL.createObjectURL(json)
+      // json_file.download = 'abc';
+    }
+
+  }
 
 
 
 
 
-      // newJson.push(test1); // 調整中
-      // console.log(newJson);
-      // var jsonObj = {
-      //   members:
-      //   {
-      //     host: "hostName",
-      //     viewers:
-      //     {
-      //       user1: "value1",
-      //       user2: "value2",
-      //       user3: "value3"
-      //     }
-      //   }
-      // }
-
-      // var i;
-
-      // for (i = 4; i <= 8; i++) {
-      //   var newUser = "user" + i;
-      //   var newValue = "value" + i;
-      //   jsonObj.members.viewers[newUser] = { newValue };
-      // }
-
-      // console.log(jsonObj);
 
 </script>
 

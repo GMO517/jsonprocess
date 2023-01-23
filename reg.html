@@ -12,28 +12,30 @@
 </head>
 
 <body>
-  <div class="fileSideBar">
-    <div class="file-opt">
-      <h4>請選擇檔案:</h4>
-      <br>
-      <input type="file" name="files" id="files" value="" />
-      <div class="clear-btn">
-        <button type="button" id="clear-btn">資料清除</button>
-      </div>
-      <br>
-      <h5>下載:</h5>
-      <div class="download-btn">
-        <button type="button"><a id="txt-link">Test.txt</a></button>
-        <button type="button"><a id="json-link">Json.json</a></button>
-      </div>
-
-    </div>
-  </div>
   <div class="file-container">
-    <div class="header">
-      <div class="file-title">格式化輸出系統</div>
+    <div class="fileSideBar">
+      <div class="file-opt">
+        <h4>請選擇檔案:</h4>
+        <br>
+        <input type="file" name="files" id="files" value="" />
+        <div class="clear-btn">
+          <button type="button" id="clear-btn">資料清除</button>
+        </div>
+        <br>
+        <h5>下載:</h5>
+        <div class="download-btn">
+          <!-- <button type="button"><a id="txt-link">Test.txt</a></button> -->
+          <button type="button"><a id="json-link">Json.json</a></button>
+        </div>
+
+      </div>
     </div>
-    <div class="chat-messages" style="background-color:white;">
+    <div class="file">
+      <div class="header">
+        <div class="file-title">格式化輸出系統</div>
+      </div>
+      <div class="chat-messages" style="background-color:white;">
+      </div>
     </div>
   </div>
   <div class="footer">
@@ -97,7 +99,7 @@
       //======json 正則區塊======//
       function objectToJson() {
         let contentSection = originData.split(reg);
-        contentSection.toString().replace(/\\r\\n/g, "");
+        contentSection.toString().replace(/\r\n/g, "");
         console.log(contentSection);
         for (let a = 0; a < section.length - 1; a++) {
           let objContent = {
