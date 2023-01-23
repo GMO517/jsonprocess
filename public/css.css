@@ -27,7 +27,7 @@ body {
 
 }
 
-.file_opt {
+.file-opt {
     height: 120px;
     width: 100%;
     display: inline-block;
@@ -36,21 +36,21 @@ body {
     
 
 }
-.Download_btn{
+.download-btn{
     margin-top: 10px;
     display: flex;
     justify-content: space-around;
 }
-.Download_btn button{
+.download-btn button{
     background: #05537a;
     border-radius: 2px;
 }
-.Download_btn a{
+.download-btn a{
     text-decoration: none;
     color:white ;
     font-size: 18px;
 }
-.Download_btn a:hover{
+.download-btn a:hover{
     color: black;
 }
 
@@ -62,7 +62,7 @@ body {
 
 }
 
-.filetitle {
+.file-title {
     max-height: inherit;
     width: 300px;
     display: flex;
@@ -72,7 +72,7 @@ body {
     font-weight: 700;
 }
 
-.Clear_btn {
+.clear-btn {
     display: flex;
     font-size: 18px;
     font-weight: bold;
@@ -86,7 +86,7 @@ body {
     font-weight: 700;
 }
 
-.fileContainer {
+.file-container {
     width: 50%;
     position: absolute;
     top:50%;

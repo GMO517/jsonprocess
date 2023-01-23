@@ -26,7 +26,7 @@ osteoporotic change of visible bony structure.
 decrease height (fracture) of l3, compression fracture or pathological fracture 
 ?
 old fracture or osteoblastic lesions over right pubic bone.
-***
+
 imp:
 * liver nodule in s5 (2.4cm), seems mildly progression in size as compared with 
 ct on 20170925   (outer hospital), hcc or other nature ?
@@ -34,7 +34,7 @@ ct on 20170925   (outer hospital), hcc or other nature ?
 * esrd kidneys.
 * decrease height of l3, compression fracture or pathological fracture ?
 * old fracture or osteoblastic lesions over right pubic bone.
-***
+
 ●imaging report form for hepatocellua carcinoma (ajcc 7th edition)
 1.tumor number/location: 
     number: ●1 ○2 ○3 ○multiple:
