@@ -12,28 +12,30 @@
 </head>
 
 <body>
-    <div class="fileSideBar">
-        <div class="file-opt">
-            <h4>請選擇檔案:</h4>
-            <br>
-            <input type="file" name="files" id="files" value="" />
-            <div class="clear-btn">
-                <button type="button" id="clear-btn">資料清除</button>
-            </div>
-            <br>
-            <h5>下載:</h5>
-            <div class="download-btn">
-                <button type="button"><a id="txt-link">Test.txt</a></button>
-                <button type="button"><a id="json-link">Json.json</a></button>
-            </div>
-
-        </div>
-    </div>
     <div class="file-container">
-        <div class="header">
-            <div class="file-title">格式化輸出系統</div>
+        <div class="fileSideBar">
+            <div class="file-opt">
+                <h4>請選擇檔案:</h4>
+                <br>
+                <input type="file" name="files" id="files" value="" />
+                <div class="clear-btn">
+                    <button type="button" id="clear-btn">資料清除</button>
+                </div>
+                <br>
+                <h5>下載:</h5>
+                <div class="download-btn">
+                    <!-- <button type="button"><a id="txt-link">Test.txt</a></button> -->
+                    <button type="button"><a id="json-link">Json.json</a></button>
+                </div>
+
+            </div>
         </div>
-        <div class="chat-messages" style="background-color:white;">
+        <div class="file">
+            <div class="header">
+                <div class="file-title">格式化輸出系統</div>
+            </div>
+            <div class="chat-messages" style="background-color:white;">
+            </div>
         </div>
     </div>
     <div class="footer">
@@ -54,11 +56,10 @@
 
 
 <script>
-
     let files = document.getElementById('files');
     const clearFile_btn = document.querySelector("#clear-btn");
+    let json_file = document.getElementById('json-link');
     files.onchange = function () {
-
         let file = files.files[0];
         let reader = new FileReader();
         reader.readAsText(file);
@@ -88,98 +89,39 @@
                     }
                 }
             }
+            let contentArray = [];
+            let originObject = { "data": [] };
+            objectToJson();
+
+            let str_obj = JSON.stringify(originObject);
+            let json = new Blob([str_obj], {
+                type: "application/json;charset = utf-8",
+            })
+            json_file.href = URL.createObjectURL(json)
+            json_file.download = 'abc';
             //======json 正則區塊======//
 
-            let keyArray = originData.match(reg);
-            console.log(keyArray);
-            let contentSection = originData.split(reg);
-            console.log(contentSection);
+            function objectToJson() {
+                let contentSection = originData.split(reg);
+                contentSection.toString().replace(/\r\n/g, "");
+                console.log(contentSection);
+                for (let a = 0; a < section.length - 1; a++) {
+                    let objContent = {
+                        "Type": keyword[a],
+                        "Sentences": [
+                            contentSection[a + 1]
+                        ]
+                    };
+                    // console.log(objContent);
+                    contentArray.push(objContent);
+                    // console.log(contentArray);
+                    originObject.data = contentArray;
 
-            // ======土法煉鋼區=======//
-            let dataJson = {
-                "data": [
-                    {
-                        "Type": keyArray[0],
-                        "Sentences": [
-                            contentSection[1]
-                        ]
-                    },
-                    {
-                        "Type": keyArray[1],
-                        "Sentences": [
-                            contentSection[2]
-                        ]
-                    },
-                    {
-                        "Type": keyArray[2],
-                        "Sentences": [
-                            contentSection[3]
-                        ]
-                    }
-                ]
-            }
-            console.log(dataJson);
-            //========================//
-            // let newJson = {
-            //   data: [
-            //     {
-            //       "Type": keyArray[0],
-            //       "Sentences": [
-            //         contentSection[1]
-            //       ]
-            //     }
-            //   ]
-            // }
-
-            let newJson = {
-                data: [
-                    {
-                        "Type": keyArray[0],
-                        "Sentences": [
-                            contentSection[1]
-                        ]
-                    }
-                ]
-            }
-            // console.log(newJson);
-            let test1 =
-            {
-                "Type": "123",
-                "Sentences": [
-                    "a",
-                    "b",
-                    "c"
-                ]
+                }
+                // console.log(originObject);
+                return originObject;
             }
 
-
-
-
-
-            // newJson.push(test1); // 調整中
-            // console.log(newJson);
-            // var jsonObj = {
-            //   members:
-            //   {
-            //     host: "hostName",
-            //     viewers:
-            //     {
-            //       user1: "value1",
-            //       user2: "value2",
-            //       user3: "value3"
-            //     }
-            //   }
-            // }
-
-            // var i;
-
-            // for (i = 4; i <= 8; i++) {
-            //   var newUser = "user" + i;
-            //   var newValue = "value" + i;
-            //   jsonObj.members.viewers[newUser] = { newValue };
-            // }
-
-            // console.log(jsonObj);
             //======區塊結束======//
             clearFile_btn.addEventListener("click", function () {
                 //清除資料
@@ -228,12 +170,6 @@
             }
         }
     }
-
-
-
-
-
-
 </script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js'></script>
 
