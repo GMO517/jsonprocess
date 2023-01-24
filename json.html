@@ -70,10 +70,8 @@
     let reader = new FileReader();
     reader.readAsText(file);
     reader.onload = function () { //讀取器有讀取才進函式
-
       originData = reader.result;
       dataProcess(); //呼叫資料處理的函式
-
       let str_obj = JSON.stringify(jsonObject);
       let json = new Blob([str_obj], {
         type: "application/json;charset = utf-8",
@@ -89,18 +87,17 @@
     for (let i = 0; i < section.length; i++) {
       contentArray = section[i].split(splitKeyWord);
       contentArray = contentArray.filter(v => v); //去除空值
-      // console.log(contentArray);
+      console.log(contentArray);
       let objContent = {
         "Type": keyword[i],
         "Sentences":
           contentArray
 
       };
-      updateArray.push(objContent);
-      jsonObject.data = updateArray;
+      updateArray.push(objContent); //先push到陣列裡
+      jsonObject.data = updateArray; //再把整個陣列丟進object裡
     }
-    console.log(updateArray);
-    console.log(jsonObject);
+    console.log(JSON.stringify(jsonObject));
   }
 
 </script>
