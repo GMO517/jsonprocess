@@ -86,6 +86,11 @@
     section = section.filter(v => v); //去除空值
     for (let i = 0; i < section.length; i++) {
       contentArray = section[i].split(splitKeyWord);
+      for (let j = 0; j < contentArray.length; j++) {
+        if (contentArray[j] === " ") { //去除切割完陣列的空白值
+          contentArray[j] = ""; //轉換成空值 之後一起去除
+        }
+      }
       contentArray = contentArray.filter(v => v); //去除空值
       console.log(contentArray);
       let objContent = {
