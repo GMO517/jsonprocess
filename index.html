@@ -59,25 +59,28 @@
     let files = document.getElementById('files');
     const clearFile_btn = document.querySelector("#clear-btn");
     let json_file = document.getElementById('json-link');
+    let originData = ""; //用於儲存抓進來的資料
+    const splitKeyWord = "\r\n";
+    //切割用keyword 需要調整從這邊弄 
+    const reg = /^\w[a-zA-z]+\:|.*AJCC.*|.*ajcc.*/mg;
+    // 正則表達式 選取對象 
+    // 於開頭的 "任意文字:" (含大小寫) or 任何含AJCC的行
+    let section = originData.split(reg);
+    // 先切段落
+    let keyword = ""; //用於儲存段落關鍵字
+    let contentArray = ""; //用於儲存段落內容
+    let jsonObject = { "data": [] }; //最後要輸出出去的json物件
+    let updateArray = [];
+
     files.onchange = function () {
         let file = files.files[0];
         let reader = new FileReader();
         reader.readAsText(file);
         reader.onload = function () {
-
-            let originData = reader.result;
+            originData = reader.result;
             //originData = 未處理的資料
-            const splitKeyWord = "\r\n";
-            //切割用keyword 需要調整從這邊弄 
-            const reg = /^\w[a-zA-z]+\:|.*AJCC.*|.*ajcc.*/mg;
-            // 正則表達式 選取對象 
-            // 於開頭的 "任意文字:" (含大小寫)
-            // or
-            // 任何含AJCC的行
-            let section = originData.split(reg);
-            // 先切段落
-            let keyword = originData.match(reg);
             for (i = 0; i < section.length; i++) {
+                console.log(section);-
                 createSectionDiv(i);
                 var NewData = section[i].toString().split(splitKeyWord);
                 let final = NewData.filter(function (value) {
@@ -89,40 +92,19 @@
                     }
                 }
             }
-            let contentArray = [];
-            let originObject = { "data": [] };
-            objectToJson();
 
-            let str_obj = JSON.stringify(originObject);
+            dataProcess(); //呼叫資料處理的函式
+            let str_obj = JSON.stringify(jsonObject);
             let json = new Blob([str_obj], {
                 type: "application/json;charset = utf-8",
             })
             json_file.href = URL.createObjectURL(json)
             json_file.download = 'abc';
-            //======json 正則區塊======//
 
-            function objectToJson() {
-                let contentSection = originData.split(reg);
-                contentSection.toString().replace(/\r\n/g, "");
-                console.log(contentSection);
-                for (let a = 0; a < section.length - 1; a++) {
-                    let objContent = {
-                        "Type": keyword[a],
-                        "Sentences": [
-                            contentSection[a + 1]
-                        ]
-                    };
-                    // console.log(objContent);
-                    contentArray.push(objContent);
-                    // console.log(contentArray);
-                    originObject.data = contentArray;
 
-                }
-                // console.log(originObject);
-                return originObject;
-            }
 
-            //======區塊結束======//
+
+
             clearFile_btn.addEventListener("click", function () {
                 //清除資料
                 let parent_node = document.querySelector(".chat-messages")
@@ -135,16 +117,41 @@
                     }
                 }
                 //AJAX//
-                $.ajax({
-                    url: "./data/input.json",
-                    method: 'GET',
-                    dataType: 'json',
-                    success: function (jsonData) {
-                        console.log(jsonData);
-                    }
-                });
+                // $.ajax({
+                //     url: "./data/input.json",
+                //     method: 'GET',
+                //     dataType: 'json',
+                //     success: function (jsonData) {
+                //         console.log(jsonData);
+                //     }
+                // });
                 //----//
             })
+
+            function dataProcess() {
+                keyword = originData.match(reg); //先抓出段落關鍵字
+                section = originData.split(reg); //再把各段落切出來
+                section = section.filter(v => v); //去除空值
+                for (let i = 0; i < section.length; i++) {
+                    contentArray = section[i].split(splitKeyWord);
+                    for (let j = 0; j < contentArray.length; j++) {
+                        if (contentArray[j] === " ") { //去除切割完陣列的空白值
+                            contentArray[j] = ""; //轉換成空值 之後一起去除
+                        }
+                    }
+                    contentArray = contentArray.filter(v => v); //去除空值
+                    console.log(contentArray);
+                    let objContent = {
+                        "Type": keyword[i],
+                        "Sentences":
+                            contentArray
+
+                    };
+                    updateArray.push(objContent); //先push到陣列裡
+                    jsonObject.data = updateArray; //再把整個陣列丟進object裡
+                }
+                console.log(JSON.stringify(jsonObject));
+            }
             function createSectionDiv(x) {
                 //創造段落區塊
                 const secDiv = document.createElement('div');
