@@ -23,14 +23,9 @@ body {
 }
 
 .fileSideBar {
-<<<<<<< HEAD
-    position: absolute;
-    left: 70px;
-=======
     /* position: absolute; */
     padding: 30px;
     left: 20px;
->>>>>>> 7babd966988d7ce4e49a58e6b3c60d4873c3fa59
     height: 500px;
     width: 25%;
     vertical-align: bottom;
@@ -111,12 +106,6 @@ body {
     height: 500px;
     display: flex;
     background-color: rgb(243, 240, 240);
-<<<<<<< HEAD
-
-
-
-=======
->>>>>>> 7babd966988d7ce4e49a58e6b3c60d4873c3fa59
 }
 
 .chat-messages {
@@ -130,16 +119,10 @@ body {
 .file {
     position: absolute;
     right: 0px;
-<<<<<<< HEAD
-    width: 60%;
-    height: 500px;
-}
-=======
     width: 75%;
     height: 500px;
 }
 
->>>>>>> 7babd966988d7ce4e49a58e6b3c60d4873c3fa59
 /* 
 .footer {
     display: inline-block;
