@@ -99,6 +99,13 @@ body {
     font-weight: 700;
     font-size: 18px;
 }
+.py-btn {
+    height: 30px;
+    width: 80px;
+    font-weight: 700;
+    font-size: 18px;
+    margin-left: 10px;
+}
 
 .file-container {
     position: relative;

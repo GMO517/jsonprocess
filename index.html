@@ -20,6 +20,7 @@
                 <input type="file" name="files" id="files" value="" />
                 <div class="clear-btn">
                     <button type="button" id="clear-btn">資料清除</button>
+                    <button type="button" class="py-btn">Python</button>
                 </div>
                 <br>
                 <h5>下載:</h5>
@@ -58,6 +59,7 @@
 <script>
     let files = document.getElementById('files');
     const clearFile_btn = document.querySelector("#clear-btn");
+    const showPythonFile = document.querySelector('.py-btn');
     let json_file = document.getElementById('json-link');
     let originData = ""; //用於儲存抓進來的資料
     const splitKeyWord = "\r\n";
@@ -80,8 +82,8 @@
             originData = reader.result;
             //originData = 未處理的資料
             for (i = 0; i < section.length; i++) {
-                console.log(section);-
-                createSectionDiv(i);
+                console.log(section); -
+                    createSectionDiv(i);
                 var NewData = section[i].toString().split(splitKeyWord);
                 let final = NewData.filter(function (value) {
                     return value !== "\r";
@@ -126,7 +128,7 @@
                 //     }
                 // });
                 //----//
-            })
+            });
 
             function dataProcess() {
                 keyword = originData.match(reg); //先抓出段落關鍵字
@@ -177,6 +179,19 @@
             }
         }
     }
+    // ------------------- python接口 --------------------- //
+    showPythonFile.addEventListener('click', function () {
+
+        $.ajax({
+            url: "",/*檔案路徑*/
+            method: 'GET',
+            success: function (pythonData) {
+                console.log(pythonData);
+            }
+        });
+
+    });
+     // ------------------- 接口結束 --------------------- //
 </script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js'></script>
 
