@@ -102,10 +102,7 @@
             })
             json_file.href = URL.createObjectURL(json)
             json_file.download = 'abc';
-
-
-
-
+            clearOldData(); //每次下載完都要呼叫清理舊資料的函式
 
             clearFile_btn.addEventListener("click", function () {
                 //清除資料
@@ -177,8 +174,15 @@
                 div.innerText = y;
                 document.querySelector('.section' + i).appendChild(div);
             }
+            function clearOldData() {
+                keyword = "";
+                section = "";
+                contentArray = "";
+                updateArray = [];
+            }
         }
     }
+
     // ------------------- python接口 --------------------- //
     showPythonFile.addEventListener('click', function () {
 
