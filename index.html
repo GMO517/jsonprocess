@@ -29,9 +29,7 @@
                             <div class="input-btn">
                                 請選擇檔案:
                                 <input type="file" name="files" id="files" value="" / class="file-btn">
-                                <div class="clear-btn ">
-                                    <button type="button" class="btn btn-light" id="clear-btn">資料清除</button>
-                                </div>
+                                <button type="button" class="btn btn-light" id="clear-btn">資料清除</button>
                             </div>
                         </div>
                         <div class="output-option">
@@ -88,7 +86,8 @@
     let contentArray = ""; //用於儲存段落內容
     let jsonObject = { "data": [] }; //最後要輸出出去的json物件
     let updateArray = [];
-
+    let processedData = "";
+    let contentShowSave = [];
     files.onchange = function () {
         let file = files.files[0];
         let reader = new FileReader();
@@ -96,21 +95,9 @@
         reader.onload = function () {
             originData = reader.result;
             //originData = 原始資料 抓進來的資料 
-            for (i = 0; i < section.length; i++) {
-                console.log(section);
-                createSectionDiv(i);
-                var NewData = section[i].toString().split(splitKeyWord);
-                let final = NewData.filter(function (value) {
-                    return value !== "\r";
-                })
-                for (j = 0; j < final.length; j++) {
-                    if (final[j] != "") {
-                        createForm(final[j]);
-                    }
-                }
-            }
-
             dataProcess(); //呼叫資料處理的函式
+            keywordShow();
+            // contentShow();
             let str_obj = JSON.stringify(jsonObject);
             let json = new Blob([str_obj], {
                 type: "application/json;charset = utf-8",
@@ -131,11 +118,26 @@
                     }
                 }
             });
-
-
         }
     }
 
+    //資料顯示函式
+    function keywordShow() {
+        //創造段落區塊
+        //keyword塞回段落中
+        for (let i = 0; i < keyword.length; i++) {
+            const secDiv = document.createElement('div');
+            secDiv.classList.add('section' + i);
+            secDiv.classList.add('sectionColor');
+            secDiv.innerText = keyword[i];
+            document.querySelector('.message-show').appendChild(secDiv);
+            for (let j = 0; j < contentShowSave[i].length; j++) {
+                let content = document.createElement('div');
+                content.innerText = contentShowSave[i][j];
+                document.querySelector('.section' + i).appendChild(content);
+            }
+        }
+    }
     //資料處理函式
     function dataProcess() {
         keyword = originData.match(reg); //先抓出段落關鍵字
@@ -149,48 +151,26 @@
                 }
             }
             contentArray = contentArray.filter(v => v); //去除空值
-            console.log(contentArray);
+            contentShowSave[i] = contentArray;
             let objContent = {
                 "Type": keyword[i],
                 "Sentences":
                     contentArray
-
             };
             updateArray.push(objContent); //先push到陣列裡
             jsonObject.data = updateArray; //再把整個陣列丟進object裡
         }
         // console.log(JSON.stringify(jsonObject));
-    }
-    //資料顯示函式
-    function createSectionDiv(x) {
-        //創造段落區塊
-        const secDiv = document.createElement('div');
-        secDiv.classList.add('section' + x);
-        secDiv.classList.add('sectionColor');
-        document.querySelector('.message-show').appendChild(secDiv);
-        //keyword塞回段落中
-        const div = document.createElement('div');
-        div.classList.add('message');
-        if (keyword[i - 1] != undefined) {
-            //會重複一次 要-1 而 最開始的會undefined 所以要過濾掉
-            div.innerText = keyword[i - 1];
-        }
-        document.querySelector('.section' + i).appendChild(div);
+        return jsonObject;
     }
 
-    function createForm(y) {
-        //創造分句
-        const div = document.createElement('div');
-        div.classList.add('message');
-        div.innerText = y;
-        document.querySelector('.section' + i).appendChild(div);
-    }
     function clearOldData() {
         keyword = "";
         section = "";
         contentArray = "";
         updateArray = [];
     }
+
 
     // ------------------- python接口 --------------------- //
     showPythonFile.addEventListener('click', function () {
