@@ -1,87 +1,64 @@
-* {
-    margin: 0;
-    padding: 0;
-
-}
-
-html {
-    height: 100%;
-}
-
 body {
-    display: flex;
-    height: 99.7%;
+    background-color: #cbd5de;
 }
 
-.header {
-    height: 70px;
-    position: relative;
+.main {
+    width: 90%;
+    height: 700px;
     display: flex;
-    flex-wrap: nowrap;
     justify-content: center;
-    background-color: #F0F0F0;
-    border-left: 2px black solid;
-}
-
-.fileSideBar {
-    height: inherit;
-    width: 300px;
-    vertical-align: bot;
-    background-color: #F0F0F0;
-
-
-}
-
-.file_opt {
-    height: 120px;
-    display: inline-block;
     align-items: center;
-    justify-content: center;
-
-
+    margin: auto;
 }
 
-#files {
-    width: 200px;
-    font-size: 14px;
-    font-weight: 700;
+.title {
+    text-align: center;
+    font-size: 2em;
 }
 
-.filetitle {
-    max-height: inherit;
-    width: 300px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 25px;
-    font-weight: 700;
+.content {
+    border: 2px solid;
+    padding: 10px;
+    border-radius: 10px;
+    height: auto;
+    width: 95%;
+    max-width: 900px;
+    background-color: white;
 }
 
-.Clear_btn {
-    position: absolute;
-    display: flex;
-    top: 40%;
-    left: 40px;
-}
 
-#clear-btn {
-    height: 24px;
-    width: 100px;
-    font-weight: 700;
-}
-
-.fileContainer {
-    width: 100%;
+.side-bar {
     height: 100%;
-    position: relative;
+    font-size: 0.9em;
+}
+
+
+
+.input-option *,
+.output-option * {
+    margin: 10px;
+}
+
+.input-btn,
+.output-btn {
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.message-show {
+    /* background-color: #aaf; */
+    height: 450px;
+    /* width: 200px; */
+    overflow: scroll;
+    font-size: 16px;
+    border: 1px black solid;
 }
 
 .chat-messages {
-    height: 620px;
+    height: 430px;
     overflow: scroll;
     font-size: 16px;
-    border-top: 2px black solid;
-    border-left: 2px black solid;
+    border: 1px black solid;
 
 }
 

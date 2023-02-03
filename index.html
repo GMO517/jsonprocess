@@ -5,62 +5,76 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>格式化輸出系統 demo</title>
-    <link rel="stylesheet" href="./public/css.css">
+
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
+    <link rel="stylesheet" href="./public/style.css">
 
 </head>
 
 <body>
-    <div class="file-container">
-        <div class="fileSideBar">
-            <div class="file-opt">
-                <h4>請選擇檔案:</h4>
-                <br>
-                <input type="file" name="files" id="files" value="" />
-                <div class="clear-btn">
-                    <button type="button" id="clear-btn">資料清除</button>
-                    <button type="button" class="py-btn">Python</button>
+    <div class="main">
+        <div class="content shadow p-3 mb-5 bg-body rounded">
+            <div class="row">
+                <div class="col-12">
+                    <div class="title">
+                        格式化輸出系統
+                    </div>
                 </div>
-                <br>
-                <h5>下載:</h5>
-                <div class="download-btn">
-                    <button type="button">
-                        <a id="json-link">Json.json</a>
-                    </button>
+            </div>
+            <div class="row">
+                <div class="col-3">
+                    <div class="side-bar">
+                        <div class="input-option">
+                            <div class="input-btn">
+                                請選擇檔案:
+                                <input type="file" name="files" id="files" value="" / class="file-btn">
+                                <div class="clear-btn ">
+                                    <button type="button" class="btn btn-light" id="clear-btn">資料清除</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="output-option">
+                            <div class="output-btn">
+                                請選擇輸出方式:
+                                <button type="button" class="btn btn-light" id="json-btn">
+                                    <a id="json-link">json</a>
+                                </button><br>
+                                <button type="button" class="btn btn-light" id="py-btn">python</button>
+                            </div>
+                        </div>
+                    </div>
                 </div>
-
-            </div>
-        </div>
-        <div class="file">
-            <div class="header">
-                <div class="file-title">格式化輸出系統</div>
-            </div>
-            <div class="chat-messages" style="background-color:white;">
+                <div class="col-9">
+                    <div class="message-show">
+                        <!-- 原始資料處理過後顯示區塊 -->
+                    </div>
+                </div>
+                <div class="col-3" style="display:none">
+                    <!-- json檔案輸出顯示 -->
+                    <div class="json-show"></div>
+                </div>
+                <div class="col-3" style="display:none">
+                    <!-- python資料讀入區塊 -->
+                    <div class="python-show"></div>
+                </div>
             </div>
         </div>
     </div>
-    <div class="footer">
-    </div>
-
-
-
-
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet"
-        integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
-    <!-- <script src="js/jquery.min.js"></script> -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js"
-        integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8"
-        crossorigin="anonymous"></script>
-
-
 </body>
 
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+<!-- ---------- -->
+
+<!-- jquery CDN -->
+<script src="https://code.jquery.com/jquery-3.6.3.js" integrity="sha256-nQLuAZGRRcILA+6dMBOvcRh5Pe310sBpanc6+QBmyVM="
+    crossorigin="anonymous"></script>
 
 <script>
-    let files = document.getElementById('files');
+    const files = document.getElementById('files');
     const clearFile_btn = document.querySelector("#clear-btn");
-    const showPythonFile = document.querySelector('.py-btn');
+    const showPythonFile = document.querySelector('#py-btn');
+    // const json_file = document.querySelector('#json-btn');
     let json_file = document.getElementById('json-link');
     let originData = ""; //用於儲存抓進來的資料
     const splitKeyWord = "\r\n";
@@ -100,8 +114,8 @@
             let str_obj = JSON.stringify(jsonObject);
             let json = new Blob([str_obj], {
                 type: "application/json;charset = utf-8",
-            })
-            json_file.href = URL.createObjectURL(json)
+            });
+            json_file.href = URL.createObjectURL(json);
             json_file.download = 'abc';
             clearOldData(); //每次下載完都要呼叫清理舊資料的函式
 
@@ -153,7 +167,7 @@
         const secDiv = document.createElement('div');
         secDiv.classList.add('section' + x);
         secDiv.classList.add('sectionColor');
-        document.querySelector('.chat-messages').appendChild(secDiv);
+        document.querySelector('.message-show').appendChild(secDiv);
         //keyword塞回段落中
         const div = document.createElement('div');
         div.classList.add('message');
