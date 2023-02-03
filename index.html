@@ -105,21 +105,23 @@
             json_file.href = URL.createObjectURL(json);
             json_file.download = 'abc';
             clearOldData(); //每次下載完都要呼叫清理舊資料的函式
-
-            clearFile_btn.addEventListener("click", function () {
-                //清除資料
-                let parent_node = document.querySelector(".chat-messages")
-                let child_node = parent_node.lastElementChild;
-                files.value = '';
-                if (child_node) {
-                    while (child_node) {
-                        parent_node.removeChild(child_node);
-                        child_node = parent_node.lastElementChild;
-                    }
-                }
-            });
         }
     }
+    clearFile_btn.addEventListener("click", clearContent);
+    //清除資料
+    // ------------------- python接口 --------------------- //
+    showPythonFile.addEventListener('click', function () {
+        $.ajax({
+            url: "",/*檔案路徑*/
+            method: 'GET',
+            success: function (pythonData) {
+                console.log(pythonData);
+            }
+        });
+
+    });
+    // ------------------- 接口結束 --------------------- //
+
 
     //資料顯示函式
     function keywordShow() {
@@ -170,21 +172,17 @@
         contentArray = "";
         updateArray = [];
     }
-
-
-    // ------------------- python接口 --------------------- //
-    showPythonFile.addEventListener('click', function () {
-
-        $.ajax({
-            url: "",/*檔案路徑*/
-            method: 'GET',
-            success: function (pythonData) {
-                console.log(pythonData);
+    function clearContent() {
+        let parent_node = document.querySelector(".message-show")
+        let child_node = parent_node.lastElementChild;
+        files.value = '';
+        if (child_node) {
+            while (child_node) {
+                parent_node.removeChild(child_node);
+                child_node = parent_node.lastElementChild;
             }
-        });
-
-    });
-     // ------------------- 接口結束 --------------------- //
+        }
+    }
 </script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js'></script>
 
