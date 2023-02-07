@@ -8,12 +8,16 @@ body {
 
 .message-show {
     overflow: scroll;
-    height: 500px;
+    height: 400px;
 }
 
 .right-side-columns .sentence, .Structure {
     overflow: scroll;
     height: 300px;
+}
+.right-side-columns{
+    height: 600px;
+    overflow: scroll;
 }
 
 
