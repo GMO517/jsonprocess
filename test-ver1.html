@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>格式化輸出系統</title>
+
+  <link href="./bootstrap/bootstrap.min.css" rel="stylesheet">
+  <link href="./bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link rel="stylesheet" href="./public-ver1/style.css">
+  <link rel="stylesheet" href="./public-ver1/output-style.css">
+</head>
+
+<body>
+
+  <header id="header" class="header fixed-top d-flex align-items-center">
+    <div class="d-flex align-items-center justify-content-between">
+      <i class="bi bi-list toggle-sidebar-btn"></i>
+    </div>
+  </header>
+
+
+  <!-- left Sidebar -->
+  <aside id="sidebar" class="sidebar">
+
+    <ul class="sidebar-nav" id="sidebar-nav">
+
+      <li class="nav-item">
+        <a class="nav-link justify-content-center" href="index.html">
+          <span>Dashboard</span>
+        </a>
+
+        <ul class="fs-5">
+
+          <!-- 選擇檔案 -->
+          <li class="input-btn">
+            <div>請選擇檔案:</div>
+            <input type="file" class="form-control mb-2" id="files" name="files">
+            <button type="button" class="btn btn-light mb-2 fs-6" id="clear-btn">
+              資料清除</button>
+          </li>
+          <!-- 選擇檔案結束 -->
+
+          <!-- 選擇輸出方式 -->
+          <li class="output-btn">
+            <div>請選擇輸出方式:</div>
+            <button type="button" class="btn btn-light mb-2" id="json-btn">
+              <a id="json-link" class="fs-6 text-dark">json</a>
+            </button><br>
+            <button type="button" class="btn btn-light fs-6" id="py-btn">python</button>
+          </li>
+        </ul>
+      </li>
+      <!-- 選擇輸出方式結束 -->
+
+    </ul>
+  </aside>
+  <!-- End left Sidebar-->
+
+  <main id="main" class="main">
+
+    <div class="pagetitle">
+      <h1>格式化輸出系統</h1>
+      <nav>
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item active"><span>/</span>格式化輸出系統</li>
+        </ol>
+      </nav>
+    </div>
+
+
+    <div class="row">
+
+      <!------------- middle columns --------------->
+      <div class="col-lg-8">
+        <div class="row">
+          <!-- Reports -->
+          <div class="col-12">
+            <div class="card">
+              <div class="card-body">
+                <h5 class="card-title">Reports
+                  <hr>
+                </h5>
+                <div class="message-show fs-5">
+                  <!-- 原始資料處理過後顯示區塊 -->
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- End Reports -->
+        </div>
+      </div>
+      <!-------------- End middle columns ---------------->
+
+
+      <!------------- Right sidebar columns --------------->
+      <div class="right-side-columns col-lg-4">
+
+        <!-- Sentence -->
+        <div class="card">
+          <div class="card-body">
+            <h5 class="card-title">Sentence
+              <hr>
+            </h5>
+            <div class="sentence fs-2">
+              <!-- Sentence顯示區塊 -->
+            </div>
+          </div>
+        </div>
+        <!-- End Sentence -->
+
+        <!-- Structure -->
+        <div class="card">
+          <div class="card-body">
+            <h5 class="card-title">Structure
+              <hr>
+            </h5>
+            <div class="Structure fs-2">
+              <!-- Structure顯示區塊 -->
+            </div>
+          </div>
+        </div>
+        <!-- End Structure -->
+        <!------------- End Right sidebar columns --------------->
+
+      </div>
+     
+
+
+  </main>
+  <!-- End $main -->
+  <script>
+    const files = document.getElementById('files');
+    const clearFile_btn = document.querySelector("#clear-btn");
+    const showPythonFile = document.querySelector('#py-btn');
+    // const json_file = document.querySelector('#json-btn');
+    let json_file = document.getElementById('json-link');
+    let originData = ""; //用於儲存抓進來的資料
+    const splitKeyWord = "\r\n";
+    //切割用keyword 需要調整從這邊弄 
+    const reg = /^\w[a-zA-z]+\:|.*AJCC.*|.*ajcc.*/mg;
+    // 正則表達式 選取對象 
+    // 於開頭的 "任意文字:" (含大小寫) or 任何含AJCC的行
+    let section = originData.split(reg);
+    // 先切段落
+    let keyword = ""; //用於儲存段落關鍵字
+    let contentArray = ""; //用於儲存段落內容
+    let jsonObject = { "data": [] }; //最後要輸出出去的json物件
+    let updateArray = [];
+    let processedData = "";
+    let contentShowSave = [];
+    files.onchange = function () {
+      let file = files.files[0];
+      let reader = new FileReader();
+      reader.readAsText(file);
+      reader.onload = function () {
+        originData = reader.result;
+        //originData = 原始資料 抓進來的資料 
+        dataProcess(); //呼叫資料處理的函式
+        keywordShow();
+        // contentShow();
+        let str_obj = JSON.stringify(jsonObject);
+        let json = new Blob([str_obj], {
+          type: "application/json;charset = utf-8",
+        });
+        json_file.href = URL.createObjectURL(json);
+        json_file.download = 'abc';
+        clearOldData(); //每次下載完都要呼叫清理舊資料的函式
+      }
+    }
+    clearFile_btn.addEventListener("click", clearContent);
+    //清除資料
+    // ------------------- python接口 --------------------- //
+    showPythonFile.addEventListener('click', function () {
+      $.ajax({
+        url: "",/*檔案路徑*/
+        method: 'GET',
+        success: function (pythonData) {
+          console.log(pythonData);
+        }
+      });
+
+    });
+    // ------------------- 接口結束 --------------------- //
+
+
+    //資料顯示函式
+    function keywordShow() {
+      //創造段落區塊
+      //keyword塞回段落中
+      for (let i = 0; i < keyword.length; i++) {
+        const secDiv = document.createElement('div');
+        secDiv.classList.add('section' + i);
+        secDiv.classList.add('sectionColor');
+        secDiv.innerText = keyword[i];
+        document.querySelector('.message-show').appendChild(secDiv);
+        for (let j = 0; j < contentShowSave[i].length; j++) {
+          let content = document.createElement('div');
+          content.innerText = contentShowSave[i][j];
+          document.querySelector('.section' + i).appendChild(content);
+        }
+      }
+    }
+    //資料處理函式
+    function dataProcess() {
+      keyword = originData.match(reg); //先抓出段落關鍵字
+      section = originData.split(reg); //再把各段落切出來
+      section = section.filter(v => v); //去除空值
+      for (let i = 0; i < section.length; i++) {
+        contentArray = section[i].split(splitKeyWord);
+        for (let j = 0; j < contentArray.length; j++) {
+          if (contentArray[j] === " ") { //去除切割完陣列的空白值
+            contentArray[j] = ""; //轉換成空值 之後一起去除
+          }
+        }
+        contentArray = contentArray.filter(v => v); //去除空值
+        contentShowSave[i] = contentArray;
+        let objContent = {
+          "Type": keyword[i],
+          "Sentences":
+            contentArray
+        };
+        updateArray.push(objContent); //先push到陣列裡
+        jsonObject.data = updateArray; //再把整個陣列丟進object裡
+      }
+      // console.log(JSON.stringify(jsonObject));
+      return jsonObject;
+    }
+
+    function clearOldData() {
+      keyword = "";
+      section = "";
+      contentArray = "";
+      updateArray = [];
+    }
+    function clearContent() {
+      let parent_node = document.querySelector(".message-show")
+      let child_node = parent_node.lastElementChild;
+      files.value = '';
+      if (child_node) {
+        while (child_node) {
+          parent_node.removeChild(child_node);
+          child_node = parent_node.lastElementChild;
+        }
+      }
+    }
+  </script>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js'></script>
+
+  <!-- Vendor JS Files -->
+  <script src="./bootstrap/bootstrap.bundle.min.js"></script>
+
+
+  <!-- Template Main JS File -->
+  <script src="./js/main.js"></script>
+
+</body>
+
+</html>

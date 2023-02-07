@@ -1,0 +1,27 @@
+:root {
+    --lightGray: #ADADAD;
+}
+
+body {
+    background-color: #cbd5de;
+}
+
+.message-show {
+    overflow: scroll;
+    height: 500px;
+}
+
+.right-side-columns .sentence, .Structure {
+    overflow: scroll;
+    height: 300px;
+}
+
+
+/* 指定奇數偶數 */
+.sectionColor:nth-child(odd) {
+    background: pink;
+}
+
+.sectionColor:nth-child(even) {
+    background: yellow;
+}
