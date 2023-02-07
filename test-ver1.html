@@ -28,7 +28,7 @@
     <ul class="sidebar-nav" id="sidebar-nav">
 
       <li class="nav-item">
-        <a class="nav-link justify-content-center" href="index.html">
+        <a class="nav-link justify-content-center" href="#">
           <span>Dashboard</span>
         </a>
 
@@ -62,12 +62,60 @@
   <main id="main" class="main">
 
     <div class="pagetitle">
-      <h1>格式化輸出系統</h1>
+      <h1 class="d-flex">格式化輸出系統</h1>
+      <button type="button" class="btn btn-info d-flex" data-bs-toggle="modal" data-bs-target="#exampleModal">
+        Open Sentence / Structure
+      </button>
       <nav>
         <ol class="breadcrumb">
+
           <li class="breadcrumb-item active"><span>/</span>格式化輸出系統</li>
         </ol>
       </nav>
+      <div class="modal fade  bd-example-modal-xl" tabindex="-1" id="exampleModal">
+        <div class="modal-dialog modal-dialog-centered modal-xl">
+          <div class=" modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title">Sentence / Structure</h5>
+              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body  ">
+              <div class="container">
+                <div class="row ">
+                  <!-- Sentence -->
+                  <div class="card col-6">
+                    <div class="card-body">
+                      <h5 class="card-title">Sentence
+                        <hr>
+                      </h5>
+                      <div class="Structure fs-2">
+                        <!-- Sentence顯示區塊 -->
+                      </div>
+                    </div>
+                  </div>
+                  <!-- End Sentence -->
+
+                  <!-- Structure -->
+                  <div class="card col-6">
+                    <div class="card-body">
+                      <h5 class="card-title">Structure
+                        <hr>
+                      </h5>
+                      <div class="Structure fs-2">
+                        <!-- Structure顯示區塊 -->
+                      </div>
+                    </div>
+                  </div>
+                  <!-- End Structure -->
+                </div>
+              </div>
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
 
 
@@ -126,7 +174,7 @@
         <!------------- End Right sidebar columns --------------->
 
       </div>
-     
+
 
 
   </main>
