@@ -32,11 +32,44 @@ body {
     background: yellow;
 }
 
+/* -----------------按鈕modal區塊---------------------------- */
 
-/* modal  */
-
-.modal-content {
-    min-width: 600px;
+.sentenceDiv {
+    font-size: 16px;
 }
 
-/*--------*/
+.structureDiv {
+    font-size: 16px;
+}
+
+.card-body {
+    overflow: scroll;
+}
+
+.Sentence-modal-block {
+    background: lightcyan;
+}
+
+.structure-modal-block {
+    background: lightpink;
+
+}
+
+.m-body {
+    /* //按鈕modal的body(包住顯示兩區塊的body) */
+    display: flex;
+    height: 500px;
+
+}
+
+hr {
+    margin: 0;
+    padding: 0px;
+
+}
+
+.sentence-sidebar {}
+
+.structure-sidebar {}
+
+/* ----------------------------------------- */
