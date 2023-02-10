@@ -11,11 +11,13 @@ body {
     height: 400px;
 }
 
-.right-side-columns .sentence, .Structure {
+.right-side-columns .sentence,
+.Structure {
     overflow: scroll;
     height: 300px;
 }
-.right-side-columns{
+
+.right-side-columns {
     height: 600px;
     overflow: scroll;
 }
@@ -29,3 +31,12 @@ body {
 .sectionColor:nth-child(even) {
     background: yellow;
 }
+
+
+/* modal  */
+
+.modal-content {
+    min-width: 600px;
+}
+
+/*--------*/

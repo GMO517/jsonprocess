@@ -99,6 +99,7 @@ body {
     font-weight: 700;
     font-size: 18px;
 }
+
 .py-btn {
     height: 30px;
     width: 80px;
@@ -130,23 +131,3 @@ body {
     height: 500px;
 }
 
-/* 
-.footer {
-    display: inline-block;
-    width: 50px;
-    position: fixed;
-    bottom: 0;
-    right: 0;
-    width: 85%;
-    height: 5%;
-    background-color: rgb(0, 0, 0);
-} */
-
-/* 指定奇數偶數 */
-.sectionColor:nth-child(odd) {
-    background: pink;
-}
-
-.sectionColor:nth-child(even) {
-    background: yellow;
-}
