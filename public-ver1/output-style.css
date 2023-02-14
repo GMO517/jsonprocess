@@ -56,7 +56,7 @@ body {
 }
 
 .m-body {
-    /* //按鈕modal的body(包住顯示兩區塊的body) */
+    /* //按鈕modal的body */
     display: flex;
     height: 500px;
 
