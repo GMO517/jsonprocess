@@ -2,6 +2,7 @@ const files = document.getElementById('files');
 const clearFile_btn = document.querySelector("#clear-btn");
 const showPythonFile = document.querySelector('#py-btn');
 const jsonShow = document.getElementById('jsonShow')
+const sidebarBtn = document.getElementById('sidebar-btn');
 // const json_file = document.querySelector('#json-btn');
 let json_file = document.getElementById('json-link');
 let originData = ""; //用於儲存抓進來的資料
@@ -27,6 +28,7 @@ files.onchange = function () {
   let reader = new FileReader();
   reader.readAsText(file);
   reader.onload = function () {
+    document.querySelector('body').classList.toggle('toggle-sidebar')//控制開合
     originData = reader.result;
     //originData = 原始資料 抓進來的資料 
     dataProcess(); //呼叫資料處理的函式
@@ -39,12 +41,15 @@ files.onchange = function () {
     json_file.href = URL.createObjectURL(json);
     json_file.download = 'abc';
     clearOldData(); //每次下載完都要呼叫清理舊資料的函式
+
+
+
   }
 }
 
 clearFile_btn.addEventListener("click", clearContent);
 //清除資料
-// ------------------- python接口 --------------------- //
+
 
 // ------------------- python接口 --------------------- //
 jsonShow.addEventListener('click', function () {
@@ -87,12 +92,15 @@ function showJson(jsonData) {
     //middle 區塊顯示//
     const sentenceDiv = document.createElement('div');
     sentenceDiv.classList.add('sentenceDiv');
+    sentenceDiv.classList.add('sentenceColor');
+
     sentenceDiv.innerText = jsonData.data[i].Sentence;
     document.querySelector('.sentence-show').appendChild(sentenceDiv);
 
     const structureDiv = document.createElement('div');
     structureDiv.innerText = jsonData.data[i].Structure;
     structureDiv.classList.add('structureDiv');
+    structureDiv.classList.add('structureColor');
     document.querySelector('.structure-show').appendChild(structureDiv);
     //middle end//
 
@@ -100,12 +108,14 @@ function showJson(jsonData) {
     //sidebar 區塊顯示//
     const sentenceSideBarDiv = document.createElement('div');
     sentenceSideBarDiv.classList.add('sentenceDiv');
+    sentenceSideBarDiv.classList.add('sentenceColor');
     sentenceSideBarDiv.innerText = jsonData.data[i].Sentence;
     document.querySelector('.sentence-sidebar').appendChild(sentenceSideBarDiv);
 
     const structureSideBarDiv = document.createElement('div');
-    structureSideBarDiv.innerText = jsonData.data[i].Structure;
     structureSideBarDiv.classList.add('structureDiv');
+    structureSideBarDiv.classList.add('structureColor');
+    structureSideBarDiv.innerText = jsonData.data[i].Structure;
     document.querySelector('.structure-sidebar').appendChild(structureSideBarDiv);
     //sidebar end//
   }
@@ -141,7 +151,11 @@ function clearOldData() {
   section = "";
   contentArray = "";
   updateArray = [];
+  jsonData = "";
+  document.querySelector('body').classList.toggle('toggle-sidebar')
+
 }
+
 function clearContent() {
   let parent_node = document.querySelector(".message-show")
   let child_node = parent_node.lastElementChild;
@@ -150,6 +164,43 @@ function clearContent() {
     while (child_node) {
       parent_node.removeChild(child_node);
       child_node = parent_node.lastElementChild;
+    }
+  }
+
+  let sentenceParentNode = document.querySelector(".sentence-show");
+  let sentenceChild = sentenceParentNode.lastElementChild;
+  if (sentenceChild) {
+    while (sentenceChild) {
+      sentenceParentNode.removeChild(sentenceChild);
+      sentenceChild = sentenceParentNode.lastElementChild;
+    }
+  }
+
+  let structureParentNode = document.querySelector(".structure-show");
+  let structureChild = structureParentNode.lastElementChild;
+  if (structureChild) {
+    while (structureChild) {
+      structureParentNode.removeChild(structureChild);
+      structureChild = structureParentNode.lastElementChild;
+    }
+  }
+
+  // modal 清除
+  let sentenceSidebarParentNode = document.querySelector(".sentence-sidebar");
+  let sentenceSidebarChild = sentenceSidebarParentNode.lastElementChild;
+  if (sentenceSidebarChild) {
+    while (sentenceSidebarChild) {
+      sentenceSidebarParentNode.removeChild(sentenceSidebarChild);
+      sentenceSidebarChild = sentenceSidebarParentNode.lastElementChild;
+    }
+  }
+
+  let structureSidebarParentNode = document.querySelector(".structure-sidebar");
+  let structureSidebarChild = structureSidebarParentNode.lastElementChild;
+  if (structureSidebarChild) {
+    while (structureSidebarChild) {
+      structureSidebarParentNode.removeChild(structureSidebarChild);
+      structureSidebarChild = structureSidebarParentNode.lastElementChild;
     }
   }
 }
