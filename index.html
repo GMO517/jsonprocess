@@ -17,7 +17,7 @@
 
   <header id="header" class="header fixed-top d-flex align-items-center">
     <div class="d-flex align-items-center justify-content-between">
-      <i class="bi bi-list toggle-sidebar-btn"></i>
+      <i class="bi bi-list toggle-sidebar-btn" id="sidebar-btn"></i>
     </div>
   </header>
 
@@ -37,11 +37,11 @@
           <!-- 選擇檔案 -->
           <li class="input-btn">
             <div>請選擇txt檔:</div>
-            <input type="file" class="form-control mb-2" id="files" name="files">
+            <input type="file" class="form-control mb-2 files" id="files" name="files">
             <div>顯示json檔:</div>
-            <button type="button" class="btn btn-danger" id="jsonShow">顯示json</button>
+            <button type="button" class="btn btn-danger jsonShow-btn" id="jsonShow">顯示json</button>
             <br>
-            <button type="button" class="btn btn-light mb-2 fs-6" id="clear-btn">
+            <button type="button" class="btn btn-light mb-2 fs-6 clear-btn" id="clear-btn">
               資料清除
             </button>
           </li>
@@ -88,7 +88,7 @@
             </div>
             <div class="modal-body m-body">
               <!-- Sentence -->
-              <div class="card col-6 Sentence-modal-block">
+              <div class="card col-6 sentence-modal-block">
                 <div class="card-body">
                   <h5 class="card-title">Sentence
                     <hr>
