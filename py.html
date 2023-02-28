@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>格式化輸出系統</title>
+
+  <link href="./public-ver1/bootstrap/bootstrap.min.css" rel="stylesheet">
+  <link href="./public-ver1/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link rel="stylesheet" href="./public-ver1/style.css">
+  <link rel="stylesheet" href="./public-ver1/output-style.css">
+
+
+  <link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" />
+  <script defer src="https://pyscript.net/alpha/pyscript.js"></script>
+</head>
+
+<body>
+
+  <!-- 這邊改成python的檔案位置 -->
+  <py-script src="./test.py"></py-script>
+  <!-- ----------------------  -->
+  <header id="header" class="header fixed-top d-flex align-items-center">
+    <div class="d-flex align-items-center justify-content-between">
+      <i class="bi bi-list toggle-sidebar-btn" id="sidebar-btn"></i>
+    </div>
+  </header>
+
+
+  <!-- left Sidebar -->
+  <aside id="sidebar" class="sidebar">
+
+    <ul class="sidebar-nav" id="sidebar-nav">
+
+      <li class="nav-item">
+        <a class="nav-link justify-content-center" href="#">
+          <span>Dashboard</span>
+        </a>
+
+        <ul class="fs-5">
+
+          <!-- 選擇檔案 -->
+          <li class="input-btn">
+            <div>請選擇txt檔:</div>
+            <input type="file" class="form-control mb-2 files" id="files" name="files">
+            <div>顯示json檔:</div>
+            <button type="button" class="btn btn-danger jsonShow-btn" id="jsonShow">顯示json</button>
+            <br>
+            <button type="button" class="btn btn-light mb-2 fs-6 clear-btn" id="clear-btn">
+              資料清除
+            </button>
+          </li>
+          <!-- 選擇檔案結束 -->
+
+          <!-- 選擇輸出方式 -->
+          <li class="output-btn">
+            <div>請選擇輸出方式:</div>
+            <button type="button" class="btn btn-light mb-2" id="json-btn">
+              <a id="json-link" class="fs-6 text-dark">json</a>
+            </button><br>
+            <button type="button" class="btn btn-light fs-6" id="py-btn">python</button>
+
+          </li>
+
+        </ul>
+      </li>
+      <!-- 選擇輸出方式結束 -->
+
+    </ul>
+  </aside>
+  <!-- End left Sidebar-->
+
+  <main id="main" class="main">
+    <div class="pagetitle">
+      <h1 class="d-flex">格式化輸出系統</h1>
+      <button type="button" class="btn btn-info d-flex" data-bs-toggle="modal" data-bs-target="#exampleModal">
+        Open Sentence / Structure
+      </button>
+      <nav>
+        <ol class="breadcrumb">
+
+          <li class="breadcrumb-item active"><span>/</span>格式化輸出系統</li>
+        </ol>
+      </nav>
+
+      <!-- ----------------------按鈕modal區塊----------------- -->
+      <div class="modal fade modal_0" tabindex="-1" id="exampleModal">
+        <div class="modal-dialog modal-dialog-centered  modal-xl">
+          <div class=" modal-content modal-content_0">
+            <div class="modal-header modal-header_0">
+              <h5 class="modal-title">Sentence / Structure</h5>
+              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body m-body">
+              <!-- Sentence -->
+              <div class="card col-6 sentence-modal-block">
+                <div class="card-body">
+                  <h5 class="card-title">Sentence
+                    <hr>
+                  </h5>
+                  <div class="sentence-sidebar fs-5">
+                    <!-- Sentence顯示區塊 -->
+                  </div>
+                </div>
+              </div>
+              <!-- End Sentence -->
+              <!-- Structure -->
+              <div class="card col-6 structure-modal-block">
+                <div class="card-body ">
+                  <h5 class="card-title">Structure
+                    <hr>
+                  </h5>
+                  <div class="structure-sidebar fs-5">
+                    <!-- Structure顯示區塊 -->
+                  </div>
+                </div>
+              </div>
+              <!-- End Structure -->
+
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- ------------------按鈕modal區塊結束----------------- -->
+
+    <div class="row">
+
+      <!------------- modal columns --------------->
+      <div class="col-lg-8">
+        <div class="row">
+          <!-- Reports -->
+          <div class="col-12">
+            <div class="card">
+              <div class="card-body">
+                <h5 class="card-title">Reports
+                  <hr>
+                </h5>
+                <div class="message-show fs-5">
+                  <!-- 原始資料處理過後顯示區塊 -->
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- End Reports -->
+        </div>
+      </div>
+      <!-------------- End modal columns ---------------->
+
+
+      <!------------- Right sidebar columns --------------->
+      <div class="right-side-columns col-lg-4">
+
+        <!-- Sentence -->
+        <div class="card">
+          <div class="card-body">
+            <h5 class="card-title">Sentence
+              <hr>
+            </h5>
+            <div class="sentence-show fs-5">
+              <!-- Sentence顯示區塊 -->
+            </div>
+          </div>
+        </div>
+        <!-- End Sentence -->
+
+        <!-- Structure -->
+        <div class="card">
+          <div class="card-body">
+            <h5 class="card-title">Structure
+              <hr>
+            </h5>
+            <div class="structure-show fs-5">
+              <!-- Structure顯示區塊 -->
+            </div>
+          </div>
+        </div>
+        <!-- End Structure -->
+        <!------------- End Right sidebar columns --------------->
+
+      </div>
+
+
+
+  </main>
+  <!-- End $main -->
+
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js'></script>
+
+  <!-- Vendor JS Files -->
+  <script src="./public-ver1/bootstrap/bootstrap.bundle.min.js"></script>
+
+
+  <!-- Template Main JS File -->
+  <script src="./js/main.js"></script>
+  <!-- 資料處理js -->
+  <script src="./js/data.js"></script>
+</body>
+
+</html>
