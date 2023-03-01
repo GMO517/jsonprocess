@@ -54,7 +54,9 @@ clearFile_btn.addEventListener("click", clearContent);
 // ------------------- python接口 --------------------- //
 jsonShow.addEventListener('click', function () {
   $.ajax({
+    // 這邊要改輸出出來的路徑
     url: "./data/output.json",/*檔案路徑*/
+
     method: 'GET',
     success: function (jsonData) {
       // console.log(jsonData);
