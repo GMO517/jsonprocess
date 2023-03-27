@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>格式化輸出系統</title>
+  <title>格式化輸出系統pyScript版本</title>
 
   <link href="./public-ver1/bootstrap/bootstrap.min.css" rel="stylesheet">
   <link href="./public-ver1/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
@@ -15,6 +15,21 @@
 
   <link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" />
   <script defer src="https://pyscript.net/alpha/pyscript.js"></script>
+  <py-env>
+    - os
+    - numpy
+    - torch
+    - pandas
+    - time
+    - json
+    - tranformers
+  </py-env>
+
+  <!-- or
+  <py-config>
+    packages = ["os", "torch", "pandas", "numpy", "time", "json","transformers"]
+  </py-config> -->
+
 </head>
 
 <body>
