@@ -5,45 +5,55 @@ const jsonShow = document.getElementById('jsonShow')
 const sidebarBtn = document.getElementById('sidebar-btn');
 // const json_file = document.querySelector('#json-btn');
 let json_file = document.getElementById('json-link');
-let originData = ""; //用於儲存抓進來的資料
-const splitKeyWord = "\r\n";
-//切割用keyword 需要調整從這邊弄 
-const reg = /^\w[a-zA-z]+\:|.*AJCC.*|.*ajcc.*/mg;
-// 正則表達式 選取對象 
-// 於開頭的 "任意文字:" (含大小寫) or 任何含AJCC的行
-let section = originData.split(reg);
-// 先切段落
 let keyword = ""; //用於儲存段落關鍵字
-let contentArray = ""; //用於儲存段落內容
-let jsonObject = { "data": [] }; //最後要輸出出去的json物件
-let updateArray = [];
-let processedData = "";
-let contentShowSave = [];
 //json檔案宣告
 let outputData = "";
 let sentenceSave = [];
 let structureSave = [];
+let processedData = "";
+let contentShowSave = [];
+
 files.onchange = function () {
-  let file = files.files[0];
-  let reader = new FileReader();
-  reader.readAsText(file);
-  reader.onload = function () {
-    document.querySelector('body').classList.toggle('toggle-sidebar')//控制開合
-    originData = reader.result;
-    //originData = 原始資料 抓進來的資料 
-    dataProcess(); //呼叫資料處理的函式
-    keywordShow();
-    // contentShow();
-    let str_obj = JSON.stringify(jsonObject);
-    let json = new Blob([str_obj], {
-      type: "application/json;charset = utf-8",
-    });
-    json_file.href = URL.createObjectURL(json);
-    json_file.download = 'abc';
-    clearOldData(); //每次下載完都要呼叫清理舊資料的函式
+  let filesArray = Array.from(files.files);
+  //獲取fileList,將其轉為陣列
+  filesArray.forEach((blob) => {
+    let reader = new FileReader();
+    reader.readAsText(blob);
 
+    return reader.onload = () => {
+      document.querySelector('body').classList.toggle('toggle-sidebar')//控制開合
+      const originData = reader.result;
+      let fileName = blob.name;
+      let jsonObj = dataProcess(originData);
+      let str_obj = JSON.stringify(jsonObj);
+      let json = new Blob([str_obj], {
+        type: "application/json;charset = utf-8",
+      });
+      // keywordShow();
+      // console.log(jsonObj)
+      postData(json, fileName);//發送json檔案到後端
+      // clearOldData(); //每次下載完都要呼叫清理舊資料的函式
+    }
 
+  })
 
+  //非同步發送(POST)資料到後端
+  async function postData(json, fileName) {
+    //接收到json(blob物件)、fileName(檔案名稱)
+
+    let formData = new FormData();
+    //創建表單物件，透過append(key,value,檔案名稱)形式將檔案放入表單
+    formData.append('file', json, fileName);
+
+    try {
+      const response = await fetch('http://localhost/index.php', {
+        method: 'POST',
+        body: formData
+      })
+      // console.log(formData.get('file'))
+    } catch (error) {
+      console.log(error);
+    }
   }
 }
 
@@ -51,8 +61,14 @@ clearFile_btn.addEventListener("click", clearContent);
 //清除資料
 
 
+//JSON按鈕動態增加(尚未撰寫,暫放)
+// json_file.href = URL.createObjectURL(json);
+// json_file.download = 'abc';
+
+
 // ------------------- python接口 --------------------- //
 jsonShow.addEventListener('click', function () {
+
   $.ajax({
     // 這邊要改輸出出來的路徑
     url: "./data/output.json",/*檔案路徑*/
@@ -87,6 +103,7 @@ function keywordShow() {
 
 //output資料顯示
 function showJson(jsonData) {
+
   for (let i = 0; i < jsonData.data.length; i++) {
     // console.log(jsonData.data[i].Sentence);
     // console.log(jsonData.data[i].Structure);
@@ -122,8 +139,22 @@ function showJson(jsonData) {
     //sidebar end//
   }
 }
+
 // //資料處理函式
-function dataProcess() {
+function dataProcess(originData) {
+  const splitKeyWord = "\r\n";
+  //切割用keyword 需要調整從這邊弄 
+  const reg = /^\w[a-zA-z]+\:|.*AJCC.*|.*ajcc.*/mg;
+  // 正則表達式 選取對象 
+  // 於開頭的 "任意文字:" (含大小寫) or 任何含AJCC的行
+  let section = originData.split(reg);
+  // 先切段落
+  let contentArray = ""; //用於儲存段落內容
+  let jsonObject = { "data": [] }; //最後要輸出出去的json物件
+  let updateArray = [];
+
+
+
   keyword = originData.match(reg); //先抓出段落關鍵字
   section = originData.split(reg); //再把各段落切出來
   section = section.filter(v => v); //去除空值
@@ -145,7 +176,9 @@ function dataProcess() {
     jsonObject.data = updateArray; //再把整個陣列丟進object裡
   }
   // console.log(JSON.stringify(jsonObject));
+
   return jsonObject;
+
 }
 
 function clearOldData() {
@@ -159,6 +192,7 @@ function clearOldData() {
 }
 
 function clearContent() {
+
   let parent_node = document.querySelector(".message-show")
   let child_node = parent_node.lastElementChild;
   files.value = '';

@@ -7,10 +7,10 @@
 
   <title>格式化輸出系統</title>
 
-  <link href="./public-ver1/bootstrap/bootstrap.min.css" rel="stylesheet">
-  <link href="./public-ver1/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
-  <link rel="stylesheet" href="./public-ver1/style.css">
-  <link rel="stylesheet" href="./public-ver1/output-style.css">
+  <link href="/jsonprocess/public-ver1/bootstrap/bootstrap.min.css" rel="stylesheet">
+  <link href="/jsonprocess/public-ver1/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link rel="stylesheet" href="/jsonprocess/public-ver1/style.css">
+  <link rel="stylesheet" href="/jsonprocess/public-ver1/output-style.css">
 </head>
 
 <body>
@@ -37,7 +37,9 @@
           <!-- 選擇檔案 -->
           <li class="input-btn">
             <div>請選擇txt檔:</div>
-            <input type="file" class="form-control mb-2 files" id="files" name="files">
+
+            <input type="file" class="form-control mb-2 files" id="files" name="my_file[]" multiple>
+
             <div>顯示json檔:</div>
             <button type="button" class="btn btn-danger jsonShow-btn" id="jsonShow">顯示json</button>
             <br>
@@ -186,13 +188,13 @@
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js'></script>
 
   <!-- Vendor JS Files -->
-  <script src="./public-ver1/bootstrap/bootstrap.bundle.min.js"></script>
+  <script src="/jsonprocess/public-ver1/bootstrap/bootstrap.bundle.min.js"></script>
 
 
   <!-- Template Main JS File -->
-  <script src="./js/main.js"></script>
+  <script src="js/main.js"></script>
   <!-- 資料處理js -->
-  <script src="./js/data.js"></script>
+  <script src="js/data.js"></script>
 </body>
 
 </html>
