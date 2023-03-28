@@ -49,7 +49,12 @@ files.onchange = function () {
       const response = await fetch('http://localhost/index.php', {
         method: 'POST',
         body: formData
+      }).then(res => res.text()
+      ).then(res => {
+        console.log(res)
       })
+
+
       // console.log(formData.get('file'))
     } catch (error) {
       console.log(error);
